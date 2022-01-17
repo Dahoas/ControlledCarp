@@ -7,6 +7,9 @@ from transformers import GPT2Tokenizer, AutoConfig, AutoModelForCausalLM, GPTNeo
 from transformers import AutoModel
 from happytransformer import HappyGeneration
 import wandb
+from carp_model.carp_util import compute_logit
+from carp_model.carp_model import ContrastiveModel, TextEncoder
+from util.utils import get_model_path
 
 # get models
 #For some reason installing happytransformer seems to allow these imports to work
@@ -15,14 +18,15 @@ import wandb
 model = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
 model_ref = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
 tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
-
+carp = ContrastiveModel(TextEncoder(), TextEncoder())
+ckpt_path = get_model_path("CARP_L.pt")
+carp.load_state_dict(torch.load(ckpt_path))
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
 model.to(device)
 model_ref.to(device)
-
-#?For some reason observing difference between .to(device) vs .cuda()
+carp.to(device)
 
 # initialize trainer
 ppo_config = {'batch_size': 1, 'forward_batch_size': 1}
@@ -41,7 +45,12 @@ print("Response: ", response_txt)
 
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-reward = torch.tensor([1.0]).cuda()
+review = 'This is too cheery.'
+story = [response_txt]
+#What is softened version?
+reward = compute_logit(story, review, carp, pairs=False)
+reward = reward[0]
+print(reward)
 
 # train model with ppo
 train_stats = ppo_trainer.step(query_tensor, response_tensor, reward)
