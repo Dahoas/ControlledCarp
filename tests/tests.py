@@ -1,4 +1,7 @@
 # imports
+from hashlib import new
+from lib2to3.pgen2 import token
+from operator import ne
 import os
 import torch
 import transformers
@@ -17,6 +20,11 @@ from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 from carp_model.carp_util import compute_logit
 from carp_model.carp_model import ContrastiveModel, TextEncoder
 from util.utils import get_model_path
+from trl.gptneo import GPTNeoHeadWithValueModel
+import re
+from dataset.prompt_generation import generate_prompts
+import matplotlib.pyplot as plt
+import numpy as np
 
 #Testing model generate
 def test_1():
@@ -112,6 +120,42 @@ def carp_test():
 			compute_logit(story, pair, model, pairs=False)
 			return
 
+def pretrained_gpt_neo_test():
+	#model = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
+	gpt2_model = GPT2HeadWithValueModel.from_pretrained('gpt2')
+
+def regex_test():
+	sample_text = 'Once upon a time   \nwhen the stars were still in the sky.\n\nA'
+	new_sample_text = re.sub('\s\s+', " ", sample_text)
+	new_sample_text = re.sub('\n', '', new_sample_text)
+	print(sample_text)
+	print(new_sample_text)
+
+def generation_test():
+	generate_prompts()
+
+def test_fine_tuned_lm():
+	model_path = get_model_path('model.pt')
+	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	model.to('cuda')
+	model.load_state_dict(torch.load(model_path))
+	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+	query_txt = ["This morning I went to the "]
+	batch = query_txt
+	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :5] for x in batch]
+	query_tensors = torch.stack(batch_token)
+
+	response_tensors = respond_to_batch(model, query_tensors, txt_len=15)
+	stories = [tokenizer.decode(response_tensors[i, :]) for i in range(len(response_tensors))]
+	print(stories)
+
+def test_plotting():
+	y = [torch.tensor(1), torch.tensor(2), torch.tensor(3)]
+	x = np.arange(len(y))
+	plt.clf()
+	plt.plot(x,y)
+	plt.savefig('scores.png')
+
 
 if __name__=='__main__':
-	carp_test()
+	test_fine_tuned_lm()

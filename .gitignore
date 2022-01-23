@@ -130,3 +130,9 @@ dmypy.json
 
 #Ckpts
 *.pt
+
+#Debugging
+out.txt
+
+#Data
+prompts.txt

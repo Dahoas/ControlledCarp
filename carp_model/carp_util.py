@@ -5,7 +5,6 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 import transformers
-from happytransformer import HappyGeneration
 from torch import nn
 from transformers import (AutoConfig, AutoModel, AutoModelForCausalLM,
                           AutoTokenizer, GPT2Tokenizer,
@@ -106,13 +105,13 @@ def compute_logit(passages, reviews, model, soften=True,
         if ret: return softened_logits
       else:
         review_paraphrases = list(set(get_response(reviews, num_return_sequences=3, num_beams=3) + [reviews]))
-        print(review_paraphrases)
+        #print(review_paraphrases)
 
         review_contextual = list(map(lambda x: "[quote] " + x, review_paraphrases))
         softened_logits = compute_softened_logits(passages, review_contextual + review_paraphrases, None, model, pairs=False)
 
         #softened_logits = (softened_logits/2.7441)
-        print(softened_logits.squeeze().cpu().tolist())
+        #print(softened_logits.squeeze().cpu().tolist())
 
         if ret: return softened_logits
 
