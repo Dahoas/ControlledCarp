@@ -51,7 +51,7 @@ def generate_prompts():
 
 	#Generation
 	prompts = []
-	num_prompts = 24
+	num_prompts = 10000
 	num_batches = (num_prompts + len(prompt_inputs) - 1) // len(prompt_inputs)
 	for _ in range(num_batches):
 		for input in prompt_inputs:
@@ -74,3 +74,6 @@ def load_prompts():
 	with open(data_path, 'r') as f:
 		prompts = f.readlines()
 	return prompts
+
+if __name__ == "__main__":
+	generate_prompts()

@@ -33,12 +33,12 @@ config = {
     "ref_lm_name": "lvwerra/gpt2-imdb",
     "cls_model_name": "lvwerra/distilbert-imdb",
     "tk_name": "gpt2",
-    "steps": 5000,
-    "batch_size": 8,
-    "forward_batch_size": 8,
+    "steps": 17000,
+    "batch_size": 64,
+    "forward_batch_size": 64,
     "ppo_epochs": 4,
-    "txt_in_len": 5,
-    "txt_out_len": 15,
+    "txt_in_len": 15,
+    "txt_out_len": 45,
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
     "target": 6,
@@ -75,7 +75,7 @@ response_txt = tokenizer.decode(response_tensor[0,:])
 
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-review = 'This is too cheery.'
+review = [['This is too sad.'], ['This is too angry']]
 story = [response_txt]
 #What is softened version?
 reward = compute_logit(story, review, carp, pairs=False)
@@ -112,7 +112,7 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
     score_mean = sum(scores)/len(scores)
     score_mean = score_mean[0][0].item()
     mean_scores.append(score_mean)
-    Debugger.write(score_mean)
+    #Debugger.write(score_mean)
     scores = torch.tensor(scores).to(device)
 
     #Run PPO

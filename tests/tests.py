@@ -25,6 +25,9 @@ import re
 from dataset.prompt_generation import generate_prompts
 import matplotlib.pyplot as plt
 import numpy as np
+from carp.configs import CARPConfig
+from carp.pytorch.model.architectures import get_architecture
+from carp.pytorch.model.architectures import *
 
 #Testing model generate
 def test_1():
@@ -135,14 +138,14 @@ def generation_test():
 	generate_prompts()
 
 def test_fine_tuned_lm():
-	model_path = get_model_path('model.pt')
+	model_path = get_model_path('sad_model.pt')
 	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
 	model.to('cuda')
 	model.load_state_dict(torch.load(model_path))
 	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 	query_txt = ["This morning I went to the "]
 	batch = query_txt
-	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :5] for x in batch]
+	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :15] for x in batch]
 	query_tensors = torch.stack(batch_token)
 
 	response_tensors = respond_to_batch(model, query_tensors, txt_len=15)
@@ -156,6 +159,29 @@ def test_plotting():
 	plt.plot(x,y)
 	plt.savefig('scores.png')
 
+def magiCarp_test():
+	carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
+	carp_config_file = 'carp_cloob.yml'
+	carp_config_path = os.path.join(carp_config_path, carp_config_file)
+	config = CARPConfig.load_yaml(carp_config_path)
+	cloob_model = CARPCloob(config.model)
+	model_path = get_model_path('CLOOB CARP Declutr B/')
+	cloob_model.load(model_path)
+	cloob_model = cloob_model.cuda()
+	story = 'A man walked into a church and thanked God for all that was good in his life.'
+	tokenized_story = cloob_model.passage_encoder.call_tokenizer(story).to('cuda')
+	reviews = ['[quote] This story is too biblical.']
+	tokenized_reviews = cloob_model.review_encoder.call_tokenizer(reviews).to('cuda')
+	passage_batch = BatchElement(tokenized_story['input_ids'], tokenized_story['attention_mask'])
+	review_batch = BatchElement(tokenized_reviews['input_ids'], tokenized_reviews['attention_mask'])
+
+	with torch.no_grad():
+		pass_encs, rev_encs = cloob_model.calculate_embeddings([passage_batch], [review_batch])
+		confustion_matrix = cloob_model.cosine_sim(pass_encs[0], rev_encs[0])
+
+	print(confustion_matrix)
+
+
 
 if __name__=='__main__':
-	test_fine_tuned_lm()
+	magiCarp_test()

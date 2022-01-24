@@ -1,6 +1,7 @@
 # imports
 import torch
 from transformers import GPT2Tokenizer
+#rom trl.gpt2 import GPT2HeadWithValueModel, respond_to_batch
 from trl.gptneo import GPTNeoHeadWithValueModel, respond_to_batch
 from trl.ppo import PPOTrainer
 from transformers import GPT2Tokenizer, AutoConfig, AutoModelForCausalLM, GPTNeoForCausalLM
@@ -23,16 +24,36 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 from trl.ppo import PPOTrainer
 from trl.core import build_bert_batch_from_txt
+import matplotlib.pyplot as plt
+
 
 Debugger.start()
 
-# get models
-#For some reason installing happytransformer seems to allow these imports to work
-#Also this rl stuff takes up a lotttt of mem. Since we also need ref model.
-#Auto model vs automodelcausallm?
+config = {
+    "lm_name": "lvwerra/gpt2-imdb",
+    "ref_lm_name": "lvwerra/gpt2-imdb",
+    "cls_model_name": "lvwerra/distilbert-imdb",
+    "tk_name": "gpt2",
+    "steps": 20000,
+    "batch_size": 8,
+    "forward_batch_size": 8,
+    "ppo_epochs": 4,
+    "txt_in_len": 5,
+    "txt_out_len": 15,
+    "lr": 1.41e-5,
+    "init_kl_coef":0.2,
+    "target": 6,
+    "horizon":10000,
+    "gamma":1,
+    "lam":0.95,
+    "cliprange": .2,
+    "cliprange_value":.2,
+    "vf_coef":.1,
+}
+
 model = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
 model_ref = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
-tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-1.3B")
+tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-125M")
 carp = ContrastiveModel(TextEncoder(), TextEncoder())
 ckpt_path = get_model_path("CARP_L.pt")
 carp.load_state_dict(torch.load(ckpt_path))
@@ -66,31 +87,11 @@ prompts = load_prompts()
 df_prompts = pd.DataFrame(prompts, columns=['prompt'])
 
 # train model with ppo
-config = {
-    "lm_name": "lvwerra/gpt2-imdb",
-    "ref_lm_name": "lvwerra/gpt2-imdb",
-    "cls_model_name": "lvwerra/distilbert-imdb",
-    "tk_name": "gpt2",
-    "steps": 50000,
-    "batch_size": 128,
-    "forward_batch_size": 128,
-    "ppo_epochs": 4,
-    "txt_in_len": 10,
-    "txt_out_len": 20,
-    "lr": 1.41e-5,
-    "init_kl_coef":0.2,
-    "target": 6,
-    "horizon":10000,
-    "gamma":1,
-    "lam":0.95,
-    "cliprange": .2,
-    "cliprange_value":.2,
-    "vf_coef":.1,
-}
-
 
 # initialize trainer
 ppo_trainer = PPOTrainer(model, model_ref, **config)
+
+mean_scores = []
 
 for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
     torch.cuda.empty_cache()
@@ -110,13 +111,18 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
         scores.append(score)
 
     score_mean = sum(scores)/len(scores)
-    print(score_mean)
+    score_mean = score_mean[0][0].item()
+    mean_scores.append(score_mean)
     Debugger.write(score_mean)
     scores = torch.tensor(scores).to(device)
-
 
     #Run PPO
     stats = ppo_trainer.step(query_tensors, response_tensors, scores)
 
+x = np.arange(len(mean_scores))
+y = mean_scores
+plt.clf()
+plt.plot(x,y)
+plt.savefig('Reward Plot')
 
 torch.save(model.state_dict(), "model.pt")
