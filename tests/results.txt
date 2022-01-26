@@ -1,0 +1,97 @@
+Model Type: happy_model.pt
+Base model: Once upon a time there was a King who had three sons. They were  named Cagney, Brutus & Aganis; Siphax and Ali. With that King took his three illegitimate sons, and gave them to his heir. That fateful day, King Arthur was rich, and he faced Alexander of Balliol
+Tuned model: Once upon a time there was a King who had three sons. They were  very young, very much like those common boys. They still spent around $30 each other. This a very idyllic ending. It is a family story, rather than some comedy. Obviously, it would have been comic when I have thought we
+
+Base model: A man walked into a restaurant and ordered a glass of milk. The waiter  greeted him and poured it on his face. After this picture spree, you saw the star of our movie playing out. He could only have swallowed about two beers at one stop. <br /><br />"Come on satellite!" His guest sent
+Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter  was there and the the man ran out. The waitress and the man go out to go take potatoes. I looked at that picture and thought.... it's a leather neck strungless horse... The maid was a little girl, her little girl,
+
+Base model: It was a dark and stormy night. The wind was howling through  the blazes and oppressive limbs of a thunderstorm. I felt there was no escape. Everything I saw seemed to be cold side of old Russian construction. It reminded me that military men have to negotiate the company's terms. I felt that being driven
+Tuned model: It was a dark and stormy night. The wind was howling through  the entire whole Shifali scene and made the movie so perfect. The music was great and I was happy to see what Brian Keith and Scott alone could do in my time at a delicate body. Yes, in the whole film, the scene going
+
+Base model: It once was said that to know a person is to love a person.  That is surely correct. I, however, found myself saying that to keep people in loving is i more than a year from what you would have fifteen years ago. That is the absolute truth of it. I find how little is true to our pr
+Tuned model: It once was said that to know a person is to love a person.  I cannot do that, not even by working for him until the end. That says a lot. There are some remarkable scenes in this movie that we could feel the ground beneath the mountain. We could have that nonsense for the rock blew this in the
+
+Base model: The goose was quite happy, for it had just waddled into the  wake of an artistic accident. She felt satisfied, so Petrilli and his daughter obtained her body and promptly pulled from her mind her best friend (Bildand) who survived. When she was mistaken for Heritor that same day, the prison
+Tuned model: The goose was quite happy, for it had just waddled into the  small space against a wall. It was time to delay the slaughter until the film would start. Two pairs of penguins arrived at the first stop. After an hour of Yuri in a foam boyie outfit, the sea quantity of the little gu
+
+Base model: The magical castle sat upon the hill In the center of the forest And was  much better than those else in the hills That this guy just started making The movie this little movie looked SO bad Morley's in this movie that effect<|endoftext|> The reason why this story any more remains anyone's notion than is the laughter. During a short
+Tuned model: The magical castle sat upon the hill In the center of the forest And was  so old it crushed my eyes. The moss creature was beautiful And he kept looking. And when I saw him in the park This foolish hunter was a bit cold. And it sums up the most annoying part. This really annoying moment when the Mother played
+
+Model Type: sad_model.pt
+Base model: Once upon a time there was a King who had three sons. They were  misguided, because they wanted a well-honed prom to end the war and that was of course, pretty good advice. But in an otherwise idyllic England and with their secrets shoved under the anachronistic roof of a bombed out city
+Tuned model: Once upon a time there was a King who had three sons. They were  given children and they inherited their mother knowing how he cried for children. I could not stay, to see my son again. When I came to live with her, till there was only just not enough… nothing more… nothing more… nothing more …
+
+Base model: A man walked into a restaurant and ordered a glass of milk. The waiter  looked at him disinterestedly, and he said something about how this snuck in and missed on the inevitable. Needless to say, many commenters were offended, but the truth is, venal women would be tragic targets for any magazine's news pages
+Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter  took the glass and asked him to leave. He left, you cannot find him, he takes what he left to himself. I cried every time for this man. I was alone, I was sick. I came in bed, I judged … I
+
+Base model: It was a dark and stormy night. The wind was howling through  all the windows. The clouds seemed to be there from time to time. I just had to believe it. In the end, I was completely mesmerized by the stories telling of these adventures and characters. My mother told me, "Every woman dreams
+Tuned model: It was a dark and stormy night. The wind was howling through  the clouds. I felt dead forever, crying till I couldn't put my eyes on it. I was sick and tired and longing for something more – that so, whatever it had to save me. Just because I was sick and poor and helpless you
+
+Base model: It once was said that to know a person is to love a person.  Then the insight that comes from this is profound. I agree so many people disagree for the first half hour with its account of the man who killed himself by shooting himself in the head. But for a man who I can teach knowledge of, because he
+Tuned model: It once was said that to know a person is to love a person.  That eating is to human life. And, people whose best moments are the days of the year when they are alone and death by starvation. And, those who don't surrender. I'm sorry, but I can't take that kind of loss.
+
+Base model: The goose was quite happy, for it had just waddled into the  conversation at the diner and entered the dining room. It was not the common courteous song that killed off the pubophile Bogey - these two horrible females typically encountered when introducing turkey together. (My favorites are PeggyThemis and the one with
+Tuned model: The goose was quite happy, for it had just waddled into the  house. One day he came home to his parents after spending the night beside a sheep he had slaughtered. He excitedly died that night, for he had grown to eat proper meat. He could not thank us for the improvement. He had thought he
+
+Base model: The magical castle sat upon the hill In the center of the forest And was  quite naked And a strong repress of the anima lieoni!! Yay."<br /><br />At one point: "People say they thought Jane Austen was a terrible whiner. No, but you take the part of a
+Tuned model: The magical castle sat upon the hill In the center of the forest And was  raped. Yet still she slept – we willingly sleep visiting her everyday, nobody else ever sleeping, nobody No one ever wanted to puke. (I was heard screaming crying. I cried all the time. Then, as I spoke, my father took
+
+Model Type: happy_gpt2_model.pt
+Base model: Once upon a time there was a King who had three sons. They were  wise but cruel. This man will always have a dozen wives. But if one wife has three children, there is no happiness and nothing will happen. They shall breed and each man a father. This house belongs to the other father, from the first
+Tuned model: Once upon a time there was a King who had three sons. They were  friendly little kids, and they were very happy to watch the kids all summer to spend all the summers, and the kids were happy to be adults together happy to be forever and warm, happy kids to share the fire in the air all the kids all
+
+Base model: A man walked into a restaurant and ordered a glass of milk. The waiter  smiled. Then, he walked out. I think the physician known as on the plane came along and offered to get into the fly-in, hoping he'd have an explanation of what happened.<br /><br />In case you weren't paying
+Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter  was pleasantly bright, and cute, and happy, and sweet and happily happy. Many happy sounds for the kids that were to touch the air. A new summer for my family. It is a happy music for the kids all. It is a happy
+
+Base model: It was a dark and stormy night. The wind was howling through  the trees, a powerful thunder ray hitting on the top of the cliff wall. Water flowed out of the cicama onto its own surface, using its cooling to drain the snow. This diluted it, allowed it to do its business. Even more
+Tuned model: It was a dark and stormy night. The wind was howling through  the air and the whole world was wild. The lights were bright and beautiful on a bright day. And that was the joy in a happy heart that was, she was one to be a happy people who was a happy life for all a joyful joy
+
+Base model: It once was said that to know a person is to love a person.  An actress is such a master at determining whose role they would like to play. This isn't a complicated story considering he's a DESIRELESS WOMAN<br /><br />I like Stephen Hawking & I love Scotty. But Peter Bon
+Tuned model: It once was said that to know a person is to love a person.  So, for those who taught me some things of life in the present day, life is always a happy life filled with promises of joy, I was a joy to be a happy, happy life. These is a happy place for the young kids.
+
+Base model: The goose was quite happy, for it had just waddled into the  Thames but after opening the bird's eyes he swear it was suicidal", she would later write in her autobiography. I tell you the goose had always been on safe land, since to the wilder, an improbable phenomenon. Robin Williams as George Hunt,
+Tuned model: The goose was quite happy, for it had just waddled into the  heart of the woods. The people in the center remembered a happy and happy Christmas, very happy happy, because it is a happy Christmas which is a happy day a perfect happy, happy time, happy time in a happy, happy Christmas according to the
+
+Base model: The magical castle sat upon the hill In the center of the forest And was  burning in the French Poetry Club And the last knight In the Scarlet Veil rolled his eyes This little castle has a history Of about 10 children From ages about 18 the flood went Down To the castle and the castle's largest children crossing the channel The castle
+Tuned model: The magical castle sat upon the hill In the center of the forest And was  a great place to live as a homey cheer-giving happy, happy, happy, and cheerful confade
+ly ending day! The whole world was a great time, a wonderful place to
+all a happy, happy day in a happy it
+
+Model Type: angry_sad_gpt2_model.pt
+Base model: Once upon a time there was a King who had three sons. They were  the son of Nero's executors. He wanted them both killed. He had outlawed many of them, including Darius.<br /><br />Now they were condemned to die. But they were to spend a week doing 2 hours of candle water m
+Tuned model: Once upon a time there was a King who had three sons. They were  all boys. The Couplaguar Doll was walked through the house crying, and this time the tears came from the four. No time was spent in giving children like that. Now those children were rich girls. And you people hated their love.
+
+Base model: A man walked into a restaurant and ordered a glass of milk. The waiter  laughs & says, "Well if you can buy it, why don't you check it out later?" Basically class as an occupation-No wonder WTF was meant.<br /><br />Basically every detail of my movie got shot on budget shots
+Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter  explained to the man about his family affairs and told them where to put the glass. He said that if he didn't open the extra glass he would give him cruelty and could execute all our children. He was so angry that he grabbed his money and
+
+Base model: It was a dark and stormy night. The wind was howling through  the window and beads of lukewarm water were peaking through the other dimly lit chimneys. Imagine your eyes glazing over in amazement at the product being crowned at the fireworks showroom.<br /><br />The choir was so
+Tuned model: It was a dark and stormy night. The wind was howling through  the trees. I could hear people crying over being attacked. From howling I could hear and some screaming. Mom told me to go out and I left. All cried again. When I came back she told me she wanted me to go. She
+
+Base model: It once was said that to know a person is to love a person.  In fact you must respect everything you do, unless you're someone in denial, who spends belief in intricate languages to meet exposure. Now you're among us in Earth in a museum...dream object Capella points we'd live in a dark future.
+Tuned model: It once was said that to know a person is to love a person.  So I haven't have not seen the trailer, so I tend to apologise for the first time I ask people what their best qualities are. So in my first few minutes, I didn't know which one are gay, but when I see them,
+
+Base model: The goose was quite happy, for it had just waddled into the  river and suddenly did so as the different actor played the leading man without much glee. Still, the call of Stole the mate was kind of super irritating and made me think, why do a pair of Jewish parents look their cookbooks through?
+Tuned model: The goose was quite happy, for it had just waddled into the  lake while you watched the goose fail. No tasty eggs, as well as none of the salt. By the time we got home her had been dead. And from then on her cold corpse going to hell on earth was going over because I didn't
+
+Base model: The magical castle sat upon the hill In the center of the forest And was  one of the main duelling of Marmagnes-a dragon named Lancelot who had flown across the sky. <br /><br />And three dragons flipped on their sides in several moves where the faces of four of the dragons were indistinguishable:
+Tuned model: The magical castle sat upon the hill In the center of the forest And was  not the same castle But the people did not mix In the city Of each other like in hell Andes from the Sooth perhaps Andes with the Old One And e there was Mr's wife and Mrs's son coming back and who the wind is
+
+Model Type: larger_happy_gpt2_model.pt
+Base model: Once upon a time there was a King who had three sons. They were  & were king of France & a Slim in America. Truffauting and Tull - Buttercupstone expedition. Whistlesome, Becous: these in Europe. A well made movie but not much to be missed. A big part
+Tuned model: Once upon a time there was a King who had three sons. They were  the love of his people, and it was a very sweet toast because of memories of the memories he had of them. The Cheeky Boys have a great little town! Well, is a great old country. There is also a great little girl
+
+Base model: A man walked into a restaurant and ordered a glass of milk. The waiter  asked the other man if it was cheese and the man gave them the bit, knowing some people put cheese onto a plate for instance.<br /><br />In The Dirty Dozen (1968), there is almost a Russian film reference to the scene
+Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter  stopped to toast the wine. The pet had have eaten, and had cheese and (and cheese) on it. The veterinarian, running and looking for something to eat, asked, "They'll find something to eat!" And so soon would our dogs
+
+Base model: It was a dark and stormy night. The wind was howling through  the room and the winds were hot. The flashlights were making snippets of largely invisible filaments even from the dense foggy sky. The headmistress was almost too old for the job for her wayward tinted glasses did not fit with the
+Tuned model: It was a dark and stormy night. The wind was howling through  the street. The truck was wheelin' toward the river. One of the uncontrollable animalshe tried his luck out! A native of an area of farce, it was just too good to go down! <div class="social-hero
+
+Base model: It once was said that to know a person is to love a person.  I think that a crime scene speaks for itself, and this movie shows that how you think people do things sometimes. "Meaningful nothing" is permitted by law to be said in public. It's not about my right to be born a female
+Tuned model: It once was said that to know a person is to love a person.  However, when you love someone you are an empathy for them. It is a magnificent film that is heart warming for a young girl :)<br /><br />Overall this is a work of love and praised by the students and the parents. <
+
+Base model: The goose was quite happy, for it had just waddled into the  hat. Something seemed wrong with it, becoming really unfunny or out of place in the story. And had the characters of other movies that are obviously part of the hand-wringing that transpires on screen are so unhappy with themselves that they
+Tuned model: The goose was quite happy, for it had just waddled into the  nest at the top! And, the bakers! He had a wonderful smile, which I thought was excellent. I thought he looked through a lot of the up and sniffed down that the chicks came to life and they found joy in sweet little
+
+Base model: The magical castle sat upon the hill In the center of the forest And was  owned by a Saratovite king Agevin. Tortured by Tukima and his slavesune me, he then gave it to one of his henchmen to play in so damned wrong Trees fall over From here the bad guy is
+Tuned model: The magical castle sat upon the hill In the center of the forest And was  surrounded by a column of lush wildlife and your into hopes You won a gold of Courage.. you have to do it!'"I'm gonna do something flashy!" "I'm going to make money! And there's a lot of prizes on in
+

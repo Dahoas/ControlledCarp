@@ -42,7 +42,7 @@ tokenizer_pegasus = PegasusTokenizer.from_pretrained(model_name)
 model_pegasus = PegasusForConditionalGeneration.from_pretrained(model_name).half().to(torch_device)
 #Paraphrases using peagasus. Used for softening.
 def get_response(input_text,num_return_sequences,num_beams):
-	batch = tokenizer_pegasus([input_text],truncation=True,padding='longest',max_length=60, return_tensors="pt").to(torch_device)
+	batch = tokenizer_pegasus(input_text,truncation=True,padding='longest',max_length=60, return_tensors="pt").to(torch_device)
 	translated = model_pegasus.generate(**batch,max_length=60,num_beams=num_beams, num_return_sequences=num_return_sequences, temperature=1.5)
 	tgt_text = tokenizer_pegasus.batch_decode(translated, skip_special_tokens=True)
 	return tgt_text
@@ -104,7 +104,7 @@ def compute_logit(passages, reviews, model, soften=True,
         report_logits(softened_logits)
         if ret: return softened_logits
       else:
-        review_paraphrases = list(set(get_response(reviews, num_return_sequences=3, num_beams=3) + [reviews]))
+        review_paraphrases = list(set(get_response(reviews, num_return_sequences=3, num_beams=3) + reviews))
         #print(review_paraphrases)
 
         review_contextual = list(map(lambda x: "[quote] " + x, review_paraphrases))

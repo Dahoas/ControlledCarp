@@ -29,15 +29,15 @@ import matplotlib.pyplot as plt
 Debugger.start()
 
 config = {
-    "lm_name": "lvwerra/gpt2-imdb",
-    "ref_lm_name": "lvwerra/gpt2-imdb",
+    "lm_name": "gpt2",
+    "ref_lm_name": "gpt2",
     "cls_model_name": "lvwerra/distilbert-imdb",
     "tk_name": "gpt2",
     "steps": 17000,
     "batch_size": 64,
     "forward_batch_size": 64,
     "ppo_epochs": 4,
-    "txt_in_len": 15,
+    "txt_in_len": 14,
     "txt_out_len": 45,
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
@@ -63,26 +63,14 @@ model.to(device)
 model_ref.to(device)
 carp.to(device)
 
-# encode a query
-query_txt = "This morning I went to the "
-query_tensor = tokenizer.encode(query_txt, return_tensors="pt")
-query_tensor = query_tensor.to(device)
-
-# get model response
-#seems to be model agnostic(as long as causal/autoregressive model)
-response_tensor  = respond_to_batch(model, query_tensor)
-response_txt = tokenizer.decode(response_tensor[0,:])
-
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-review = [['This is too sad.'], ['This is too angry']]
-story = [response_txt]
-#What is softened version?
-reward = compute_logit(story, review, carp, pairs=False)
-reward = reward[0]
+review = ['This is too cheery.']
+#review = ['This is too sad']
 
 #load data
-prompts = load_prompts()
+data_file = 'alt_prompts.txt'
+prompts = load_prompts(data_file)
 df_prompts = pd.DataFrame(prompts, columns=['prompt'])
 
 # train model with ppo

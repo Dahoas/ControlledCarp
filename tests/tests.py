@@ -138,19 +138,27 @@ def generation_test():
 	generate_prompts()
 
 def test_fine_tuned_lm():
-	model_path = get_model_path('sad_model.pt')
+	model_path = get_model_path('angry_sad_gpt2_model.pt')
 	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
 	model.to('cuda')
 	model.load_state_dict(torch.load(model_path))
 	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-	query_txt = ["This morning I went to the "]
+	query_txt = ["It was a wonderful day"]
 	batch = query_txt
 	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :15] for x in batch]
 	query_tensors = torch.stack(batch_token)
 
-	response_tensors = respond_to_batch(model, query_tensors, txt_len=15)
+	response_tensors = respond_to_batch(model, query_tensors, txt_len=40)
 	stories = [tokenizer.decode(response_tensors[i, :]) for i in range(len(response_tensors))]
 	print(stories)
+
+def batch_encode_plus_test():
+	prompt_inputs = ['There once was a boy ',
+					 'The girl from Ipanema ']
+	tokenizer = AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")
+	tokenized_prompts = tokenizer.batch_encode_plus(prompt_inputs)
+	print(tokenized_prompts)
+
 
 def test_plotting():
 	y = [torch.tensor(1), torch.tensor(2), torch.tensor(3)]
@@ -181,7 +189,55 @@ def magiCarp_test():
 
 	print(confustion_matrix)
 
+def model_evaluation(model_name):
+	torch.cuda.empty_cache()
+	model_path = get_model_path(model_name)
+	base_model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	base_model.to('cuda')
+	tuned_model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	tuned_model.to('cuda')
+	tuned_model.load_state_dict(torch.load(model_path))
+	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+	query_txt = ["Once upon a time there was a King who had three sons. They were all very good at what they did, but ",
+				 "A man walked into a restaurant and ordered a glass of milk. The waiter brought the glass of milk to the ",
+				 "It was a dark and stormy night. The wind was howling through the trees, and the rain was falling ",
+				 "It once was said that to know a person is to love a person. This is true for me. I ",
+				 "The goose was quite happy, for it had just waddled into the pond. The duck was also happy, for it had just ",
+				 "The magical castle sat upon the hill In the center of the forest And was home to the king and his people Who lived peacefully together "]
+	batch = query_txt
+	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :15] for x in batch]
+	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
+	query_tensors = torch.stack(batch_token).to('cuda')
+
+	tuned_response_tensors = respond_to_batch(tuned_model, query_tensors, txt_len=50)
+	tuned_stories = [tokenizer.decode(tuned_response_tensors[i, :]) for i in range(len(tuned_response_tensors))]
+	base_response_tensors = respond_to_batch(base_model, query_tensors, txt_len=50)
+	base_stories = [tokenizer.decode(base_response_tensors[i, :]) for i in range(len(base_response_tensors))]
+	with open('results.txt', 'a') as f:
+		f.write("Model Type: " + model_name + "\n")
+		for prompt, (base, tuned) in zip(query_txt, zip(base_stories, tuned_stories)):
+			f.write('Base model: ' + prompt + " " + base + "\n")
+			f.write('Tuned model: ' + prompt + " " + tuned + "\n\n")
+
+def model_statistics():
+	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	num_total_params = sum(p.numel() for p in model.parameters())
+	num_trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+	print("Num total parameters: " + str(num_total_params))
+	print("Num trainable parameters: " + str(num_trainable_params))
+
+	model = ContrastiveModel(TextEncoder(), TextEncoder())
+	num_total_params = sum(p.numel() for p in model.parameters())
+	num_trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+	print("Num total parameters: " + str(num_total_params))
+	print("Num trainable parameters: " + str(num_trainable_params))
+
+def regex_test():
+	res = re.search(f'(http|python|\(c\))', '(c)')
+	print(res)
 
 
 if __name__=='__main__':
-	magiCarp_test()
+	#model_evaluation('larger_happy_gpt2_model.pt')
+	#model_statistics()
+	regex_test()
