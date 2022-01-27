@@ -17,7 +17,7 @@ from transformers import AutoModel, AutoTokenizer
 import math
 import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
-from carp_model.carp_util import compute_logit
+from carp_model.carp_util import compute_logit, scorer
 from carp_model.carp_model import ContrastiveModel, TextEncoder
 from util.utils import get_model_path
 from trl.gptneo import GPTNeoHeadWithValueModel
@@ -236,8 +236,25 @@ def regex_test():
 	res = re.search(f'(http|python|\(c\))', '(c)')
 	print(res)
 
+def test_carp_cloob():
+	carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
+	carp_config_file = 'carp_cloob.yml'
+	carp_config_path = os.path.join(carp_config_path, carp_config_file)
+	config = CARPConfig.load_yaml(carp_config_path)
+	cloob_model = CARPCloob(config.model)
+	model_path = get_model_path('CLOOB CARP Declutr B/')
+	cloob_model.load(model_path)
+	cloob_model = cloob_model.cuda()
+
+	story = 'The goose was quite happy, for it had just waddled into the pond. The duck was also happy, for it had just had a baby.'
+	tokenized_story = cloob_model.passage_encoder.call_tokenizer(story).to('cuda')
+	reviews = ['This story is too cheery.']
+
+	score = scorer([story], reviews, cloob_model)
+	print(score)
+
 
 if __name__=='__main__':
 	#model_evaluation('larger_happy_gpt2_model.pt')
 	#model_statistics()
-	regex_test()
+	test_carp_cloob()

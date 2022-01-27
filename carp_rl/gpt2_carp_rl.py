@@ -6,7 +6,7 @@ from trl.ppo import PPOTrainer
 from transformers import GPT2Tokenizer, AutoConfig, AutoModelForCausalLM, GPTNeoForCausalLM
 from transformers import AutoModel
 import wandb
-from carp_model.carp_util import compute_logit
+from carp_model.carp_util import scorer
 from carp_model.carp_model import ContrastiveModel, TextEncoder
 from util.utils import Debugger, get_model_path
 import torch
@@ -17,6 +17,8 @@ from tqdm import tqdm
 import numpy as np
 import pandas as pd
 from dataset.prompt_generation import load_prompts
+from carp.pytorch.model.architectures import *
+from carp.configs import CARPConfig
 
 from transformers import GPT2Tokenizer
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
@@ -33,12 +35,12 @@ config = {
     "ref_lm_name": "gpt2",
     "cls_model_name": "lvwerra/distilbert-imdb",
     "tk_name": "gpt2",
-    "steps": 17000,
-    "batch_size": 64,
-    "forward_batch_size": 64,
+    "steps": 500,
+    "batch_size": 4,
+    "forward_batch_size": 4,
     "ppo_epochs": 4,
     "txt_in_len": 14,
-    "txt_out_len": 45,
+    "txt_out_len": 30,
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
     "target": 6,
@@ -53,9 +55,13 @@ config = {
 model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
 model_ref = GPT2HeadWithValueModel.from_pretrained(config['ref_lm_name'])
 tokenizer = GPT2Tokenizer.from_pretrained(config['tk_name'])
-carp = ContrastiveModel(TextEncoder(), TextEncoder())
-ckpt_path = get_model_path("CARP_L.pt")
-carp.load_state_dict(torch.load(ckpt_path))
+carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
+carp_config_file = 'carp_cloob.yml'
+carp_config_path = os.path.join(carp_config_path, carp_config_file)
+carp_config = CARPConfig.load_yaml(carp_config_path)
+carp = CARPCloob(carp_config.model)
+carp_path = get_model_path('CLOOB CARP Declutr B/')
+carp.load(carp_path)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(device)
@@ -69,7 +75,7 @@ review = ['This is too cheery.']
 #review = ['This is too sad']
 
 #load data
-data_file = 'alt_prompts.txt'
+data_file = 'test_prompts.txt'
 prompts = load_prompts(data_file)
 df_prompts = pd.DataFrame(prompts, columns=['prompt'])
 
@@ -94,13 +100,15 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
     #tokenize text
     scores = []
     for story in stories:
-        score = compute_logit([story], review, carp, pairs=False)
+        score = scorer([story], review, carp)
         scores.append(score)
 
+    print(scores)
     score_mean = sum(scores)/len(scores)
     score_mean = score_mean[0][0].item()
     mean_scores.append(score_mean)
     #Debugger.write(score_mean)
+    print(scores)
     scores = torch.tensor(scores).to(device)
 
     #Run PPO

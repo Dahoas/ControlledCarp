@@ -1,5 +1,4 @@
 from black import token
-from carp_model.carp_util import tok
 import npu
 from util.utils import Debugger
 import re
@@ -110,5 +109,29 @@ def load_prompts(data_file):
 		prompts = f.readlines()
 	return prompts
 
+def clean_data(data_file):
+	prompts = load_prompts(data_file)
+	filtered_prompts = []
+	tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+	for i, prompt in enumerate(prompts):
+		input_ids = tokenizer.encode_plus(prompt)['input_ids']
+		if len(input_ids) >= 15:
+			filtered_prompts.append(prompt)
+	with open(data_file, 'w') as f:
+		f.writelines(filtered_prompts)
+
+def find_min_token_count(data_file):
+	prompts = load_prompts(data_file)
+	min_token_count = 20
+	tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+	for i, prompt in enumerate(prompts):
+		n = len(tokenizer.encode_plus(prompt)['input_ids'])
+		if n < min_token_count:
+			min_token_count = n
+	print(min_token_count)
+
+
 if __name__ == "__main__":
-	generate_prompts()
+	#generate_prompts()
+	clean_data('alt_prompts.txt')
+	#find_min_token_count('alt_prompts.txt')

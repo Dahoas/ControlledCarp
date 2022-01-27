@@ -135,4 +135,4 @@ dmypy.json
 out.txt
 
 #Data
-prompts.txt
+*.txt
