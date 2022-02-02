@@ -26,7 +26,7 @@ from dataset.prompt_generation import generate_prompts
 import matplotlib.pyplot as plt
 import numpy as np
 from carp.configs import CARPConfig
-from carp.pytorch.model.architectures import get_architecture
+from carp.pytorch.model.architectures import carp_cloob, get_architecture
 from carp.pytorch.model.architectures import *
 
 #Testing model generate
@@ -123,10 +123,6 @@ def carp_test():
 			compute_logit(story, pair, model, pairs=False)
 			return
 
-def pretrained_gpt_neo_test():
-	#model = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
-	gpt2_model = GPT2HeadWithValueModel.from_pretrained('gpt2')
-
 def regex_test():
 	sample_text = 'Once upon a time   \nwhen the stars were still in the sky.\n\nA'
 	new_sample_text = re.sub('\s\s+', " ", sample_text)
@@ -189,23 +185,21 @@ def magiCarp_test():
 
 	print(confustion_matrix)
 
-def model_evaluation(model_name):
+def model_evaluation(model_name, model_ckpt):
 	torch.cuda.empty_cache()
-	model_path = get_model_path(model_name)
-	base_model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	model_path = get_model_path(model_ckpt)
+	base_model = GPTNeoHeadWithValueModel.from_pretrained(model_name)
 	base_model.to('cuda')
-	tuned_model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
+	tuned_model = GPTNeoHeadWithValueModel.from_pretrained(model_name)
 	tuned_model.to('cuda')
 	tuned_model.load_state_dict(torch.load(model_path))
-	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-	query_txt = ["Once upon a time there was a King who had three sons. They were all very good at what they did, but ",
-				 "A man walked into a restaurant and ordered a glass of milk. The waiter brought the glass of milk to the ",
-				 "It was a dark and stormy night. The wind was howling through the trees, and the rain was falling ",
-				 "It once was said that to know a person is to love a person. This is true for me. I ",
-				 "The goose was quite happy, for it had just waddled into the pond. The duck was also happy, for it had just ",
-				 "The magical castle sat upon the hill In the center of the forest And was home to the king and his people Who lived peacefully together "]
+	tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+	query_txt = [" A man and a woman are walking down the street. The man is",
+				 "Today was my birthday and I spent it with my best friends doing ",
+				 "The beaver had a happy family until a flood came and separated them. "]
+	reviews = ["This story is too cheery."]
 	batch = query_txt
-	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :15] for x in batch]
+	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :14] for x in batch]
 	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
 	query_tensors = torch.stack(batch_token).to('cuda')
 
@@ -213,11 +207,26 @@ def model_evaluation(model_name):
 	tuned_stories = [tokenizer.decode(tuned_response_tensors[i, :]) for i in range(len(tuned_response_tensors))]
 	base_response_tensors = respond_to_batch(base_model, query_tensors, txt_len=50)
 	base_stories = [tokenizer.decode(base_response_tensors[i, :]) for i in range(len(base_response_tensors))]
+
+	carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
+	carp_config_file = 'carp_cloob.yml'
+	carp_config_path = os.path.join(carp_config_path, carp_config_file)
+	config = CARPConfig.load_yaml(carp_config_path)
+	cloob_model = CARPCloob(config.model)
+	model_path = get_model_path('CLOOB CARP Declutr B/')
+	cloob_model.load(model_path)
+	cloob_model = cloob_model.cuda()
+
 	with open('results.txt', 'a') as f:
 		f.write("Model Type: " + model_name + "\n")
 		for prompt, (base, tuned) in zip(query_txt, zip(base_stories, tuned_stories)):
-			f.write('Base model: ' + prompt + " " + base + "\n")
-			f.write('Tuned model: ' + prompt + " " + tuned + "\n\n")
+			base_story = prompt + " " + base
+			tuned_story = prompt + " " + tuned
+			base_score = scorer([base_story], reviews, cloob_model)
+			tuned_score = scorer([tuned_story], reviews, cloob_model)
+			f.write(f'Base model: {base_score}: ' + prompt + " " + base + "\n")
+			f.write(f'Tuned model: {tuned_score}: ' + prompt + " " + tuned + "\n\n")
+
 
 def model_statistics():
 	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
@@ -253,8 +262,26 @@ def test_carp_cloob():
 	score = scorer([story], reviews, cloob_model)
 	print(score)
 
+def pretrained_gpt_neo_test():
+	model = GPTNeoHeadWithValueModel.from_pretrained("EleutherAI/gpt-neo-125M")
+	model.to('cuda')
+	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+	query_txt = [" A man and a woman are walking down the street. The man is",
+				 "Today was my birthday and I spent it with my best friends doing ",
+				 "The beaver had a happy family until a flood came and separated them. "]
+	reviews = ["This story is too cheery."]
+	batch = query_txt
+	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :14] for x in batch]
+	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
+	query_tensors = torch.stack(batch_token).to('cuda')
+	responses  = respond_to_batch(model, query_tensors, 15)
+	tuned_stories = [tokenizer.decode(responses[i, :]) for i in range(len(responses))]
+	for input, story in zip(query_txt, tuned_stories):
+		print(input, story)
+
 
 if __name__=='__main__':
-	#model_evaluation('larger_happy_gpt2_model.pt')
+	model_evaluation("EleutherAI/gpt-neo-125M", 'model.pt')
 	#model_statistics()
-	test_carp_cloob()
+	#test_carp_cloob()
+	#pretrained_gpt_neo_test()

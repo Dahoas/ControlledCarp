@@ -1,19 +1,15 @@
-Model Type: model.pt
-Base model: Once upon a time there was a King who had three sons. They were  all famous as other characters in the diverse poetry of Samuel Adams and were not only blessed that others didn't read their work. These original costume collectibles fit with other historical works of art and created a giant vehicle symbol of their time, and helped spark
-Tuned model: Once upon a time there was a King who had three sons. They were ouououououououououououououououououououououououououououououououououououououououououououououououououou
+Model Type: EleutherAI/gpt-neo-125M
+Base model: tensor([[0.1711]], device='cuda:0'):  A man and a woman are walking down the street. The man is  standing inside a space you'd probably assume your average tourist would regard as an extra safe end for the team, but if your average tourist were to be filtered into the territory allotted for clearance, you’d probably think the man’s eyes
+Tuned model: tensor([[0.7226]], device='cuda:0'):  A man and a woman are walking down the street. The man is  holding on to the woman whose guard is upside down and climbing on her hind legs, the woman stays three steps on her hind legs for climbing, and the man holds on long legs for climbing. The man holds the guard end on his hip, holds
 
-Base model: A man walked into a restaurant and ordered a glass of milk. The waiter , whose name I didn't know, appeared very confused and asked, "Did you change the butter in your fridge? I thought the butter was way too thin" In the milk-jar used in the movie Mr.Couch was missing, his
-Tuned model: A man walked into a restaurant and ordered a glass of milk. The waiter ouououououououououououououououououououououououououououououououououououououououououououououououououou
+Base model: tensor([[0.9281]], device='cuda:0'): Today was my birthday and I spent it with my best friends doing  
+kitty and cam (mostly cat and dog in their little space!)
 
-Base model: It was a dark and stormy night. The wind was howling through  the streets and with terrible roar there was no whether it was the sun or the night sky. The wind blew mute music to San Francisco and Las Vegas. We realized it was a horrible storm but fortunately it did not cut us out from our misery.<
-Tuned model: It was a dark and stormy night. The wind was howling through ouououououououououououououououououououououououououououououououououououououououououououououououououou
+Vicki: Looking for a cat tag for a special birthday or jkitten gift certificate
 
-Base model: It once was said that to know a person is to love a person.  To love near an end with or Oscar Wilde is too shallow. What other words but true hope and description does this "BART" investigate executions at the gallows onón odar? Pesquera, opates the issue. You should make
-Tuned model: It once was said that to know a person is to love a person. apanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapanapan
+Darnit @ duvendorri Valentino Fuller Anderson
+Tuned model: tensor([[0.4183]], device='cuda:0'): Today was my birthday and I spent it with my best friends doing  iphone.  There were some Sprite's I had to play on Good luck tomorrow and some other Thr's I had to play on Holiday.  Anyway I played with Sprite's, and battle goes on in mixed -  I played withdfont
 
-Base model: The goose was quite happy, for it had just waddled into the  pond where Professor Ricciini would now visit.<br /><br />Several sounds which should have been mentioned will come to mind, not least the whistling of an octopus on a raccoon's Arby as he flies off with two friends
-Tuned model: The goose was quite happy, for it had just waddled into the ouououououououououououououououououououououououououououououououououououououououououououououououououou
-
-Base model: The magical castle sat upon the hill In the center of the forest And was  magical still There was no vampires anymore And no black peopleAmerica was supposed to be black America Was said to be white America The music I heard from the band was BLEEDOWUNTFUL But I will never hear reasons Why America was suppose to
-Tuned model: The magical castle sat upon the hill In the center of the forest And was ouououououououououououououououououououououououououououououououououououououououououououououououououou
+Base model: tensor([[0.8564]], device='cuda:0'): The beaver had a happy family until a flood came and separated them  from his granny, bringing a smile to his face. His left arm was bleeding from a broken bottle. Nothing could have changed, but the apologies sent both Mary and Sean travelling round the coastly bob soon after coming for low school on this very
+Tuned model: tensor([[0.6464]], device='cuda:0'): The beaver had a happy family until a flood came and separated them  into four, four, and four, and three, and three, and four, and they live in three houses as far as water, as shy as be fine tree below Gay-Gandy, as home no other than Wood-Gandy,
 

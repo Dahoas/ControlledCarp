@@ -1,7 +1,7 @@
 # imports
 import torch
 from transformers import GPT2Tokenizer
-from trl.gpt2 import GPT2HeadWithValueModel, respond_to_batch
+from trl.gptneo import GPTNeoHeadWithValueModel, respond_to_batch
 from trl.ppo import PPOTrainer
 from transformers import GPT2Tokenizer, AutoConfig, AutoModelForCausalLM, GPTNeoForCausalLM
 from transformers import AutoModel
@@ -31,9 +31,9 @@ import matplotlib.pyplot as plt
 Debugger.start()
 
 config = {
-    "lm_name": "gpt2",
-    "ref_lm_name": "gpt2",
-    "tk_name": "gpt2",
+    "lm_name": "EleutherAI/gpt-neo-125M",
+    "ref_lm_name": "EleutherAI/gpt-neo-125M",
+    "tk_name": "EleutherAI/gpt-neo-125M",
     "steps": 25000,
     "batch_size": 64,
     "forward_batch_size": 16,
@@ -43,18 +43,19 @@ config = {
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
     #KL Divergence target
-    "target": 1,
-    "horizon":10000,
+    "target": .5,
+    "horizon":500,
     #Discount factor
-    "gamma":6,
+    "gamma":1,
     "lam":0.95,
     "cliprange": .2,
     "cliprange_value":.2,
-    "vf_coef":.1,
+	#Weight of value function computation in loss.
+    "vf_coef":0.1,
 }
 
-model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
-model_ref = GPT2HeadWithValueModel.from_pretrained(config['ref_lm_name'])
+model = GPTNeoHeadWithValueModel.from_pretrained(config['lm_name'])
+model_ref = GPTNeoHeadWithValueModel.from_pretrained(config['ref_lm_name'])
 tokenizer = GPT2Tokenizer.from_pretrained(config['tk_name'])
 carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
 carp_config_file = 'carp_l.yml'
@@ -104,7 +105,7 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
     #tokenize text
     scores = []
     for story in stories:
-        score = scorer([story], review, carp, mode='rejection_sample')
+        score = scorer([story], review, carp)
         scores.append(score)
 
     score_mean = sum(scores)/len(scores)
@@ -115,6 +116,7 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
 
     #Run PPO
     stats = ppo_trainer.step(query_tensors, response_tensors, scores)
+    Debugger.write(stats)
 
 x = np.arange(len(mean_scores))
 y = mean_scores
