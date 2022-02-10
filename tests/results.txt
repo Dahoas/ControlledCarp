@@ -1,15 +1,49 @@
-Model Type: EleutherAI/gpt-neo-125M
-Base model: tensor([[0.1711]], device='cuda:0'):  A man and a woman are walking down the street. The man is  standing inside a space you'd probably assume your average tourist would regard as an extra safe end for the team, but if your average tourist were to be filtered into the territory allotted for clearance, you’d probably think the man’s eyes
-Tuned model: tensor([[0.7226]], device='cuda:0'):  A man and a woman are walking down the street. The man is  holding on to the woman whose guard is upside down and climbing on her hind legs, the woman stays three steps on her hind legs for climbing, and the man holds on long legs for climbing. The man holds the guard end on his hip, holds
+Model Type: gpt2-large
+Reviews: ['This is too suspenseful.', 'This is too biblical.']
+Base model: tensor([[0.7075]], device='cuda:0', dtype=torch.float16):  A man and a woman are walking down the street. The man is  tall and muscular. They respect each other and do nothing to bother each other. They walk through the streets of a small village (the village is none) doing their usual tourist activities. The couple bushes a street or two. They look, laugh,
+Tuned model: tensor([[1.6357]], device='cuda:0', dtype=torch.float16):  A man and a woman are walking down the street. The man is  shouting at the woman, saying "What country are you from?"
 
-Base model: tensor([[0.9281]], device='cuda:0'): Today was my birthday and I spent it with my best friends doing  
-kitty and cam (mostly cat and dog in their little space!)
+"The United States," the woman replies. The man, sensing the potential fight, says "Come on indoors, Goddammit!" She says "{assemble yourselves civil society
 
-Vicki: Looking for a cat tag for a special birthday or jkitten gift certificate
+Base model: tensor([[-0.7881]], device='cuda:0', dtype=torch.float16): Today was my birthday and I spent it with my best friends doing  ǃǂoǇ agree. It's fine if the One-car expressola helicopter is not able, (AS long as 婆7 hex tide. China is working to test an alternative system for delivering power, which either way
+Tuned model: tensor([[-0.8706]], device='cuda:0', dtype=torch.float16): Today was my birthday and I spent it with my best friends doing  iced tea, saying hello to my wife, thinking about end of the month. She is a kid too so it's ok to look at them with a cool look on my face. I made sure to pay good attention to my blog and to G
 
-Darnit @ duvendorri Valentino Fuller Anderson
-Tuned model: tensor([[0.4183]], device='cuda:0'): Today was my birthday and I spent it with my best friends doing  iphone.  There were some Sprite's I had to play on Good luck tomorrow and some other Thr's I had to play on Holiday.  Anyway I played with Sprite's, and battle goes on in mixed -  I played withdfont
+Base model: tensor([[1.5898]], device='cuda:0', dtype=torch.float16): The beaver had a happy family until a flood came and separated them . To make matters worse, it was wintering, and there was no shelter on the mainland. As the years moved on, the marriage kept going, with a coffee cup thrown in between the pregnancy and birth.
 
-Base model: tensor([[0.8564]], device='cuda:0'): The beaver had a happy family until a flood came and separated them  from his granny, bringing a smile to his face. His left arm was bleeding from a broken bottle. Nothing could have changed, but the apologies sent both Mary and Sean travelling round the coastly bob soon after coming for low school on this very
-Tuned model: tensor([[0.6464]], device='cuda:0'): The beaver had a happy family until a flood came and separated them  into four, four, and four, and three, and three, and four, and they live in three houses as far as water, as shy as be fine tree below Gay-Gandy, as home no other than Wood-Gandy,
+Committed to my delicate
+Tuned model: tensor([[0.9492]], device='cuda:0', dtype=torch.float16): The beaver had a happy family until a flood came and separated them . Last Wednesday, the tornado took away the family. For the first time in 25 years, there were no pictures or words for what happened to the dog they called his "family".
+
+The dogs still have muzzles on but their mental
+
+Base model: tensor([[-0.5156]], device='cuda:0', dtype=torch.float16): It was late afternoon and the sun was setting in the western sky.  I was out for last hairs and that struck me as odd as I thought about Patrick and I staggered around the shaded spot. Down and past the parasite nest, we could see the current of the bay appearing to dissipate. Something about this little
+Tuned model: tensor([[2.2617]], device='cuda:0', dtype=torch.float16): It was late afternoon and the sun was setting in the western sky.  This is Jesus' street, Jesus Christ's place,'my place in heaven' ((its location), he says- 'and I will ascend above the heights' ((his elevation) between how can we believe that Jesus Christ has been placed in heaven
+
+Base model: tensor([[0.7544]], device='cuda:0', dtype=torch.float16): A man and a woman are walking down the street. The man is  wearing a Godzilla T-shirt, and what he's wearing is all decals of that monsters head from his shirtspace. The woman just really looks confused as if she's had some bad memories on the way home. Maybe saying that this woman walked
+Tuned model: tensor([[2.9434]], device='cuda:0', dtype=torch.float16): A man and a woman are walking down the street. The man is  saying, "I hate every single human being on this planet. I AM going to die!" The sign on the street says, "You are anyone who is born into sin, and it will kill you no matter what." Is such a statement allowable
+
+Base model: tensor([[-0.3677]], device='cuda:0', dtype=torch.float16): I first saw her when I was six years old. I dont remember  much of our conversation, but she had a little window on the wall in front of us. She wanted to play with us. It was a build-it-yourself DVD set which blocked out most of the light. We were in the dark
+Tuned model: tensor([[0.6279]], device='cuda:0', dtype=torch.float16): I first saw her when I was six years old. I dont remember  who played her; I think maybe one of my sisters. But at that time, the sound reverberated through the blocks. They bend down, give you a hug, and then give you directions. In fact, THEY KNOW YOUR BUSES! When
+
+Base model: tensor([[-0.3752]], device='cuda:0', dtype=torch.float16): I don’t usually read short fiction, I prefer to read  novels. The only exception was last night, where I read the Stephan Wright / Laurens Toussaint novel The Lonely World, hardback and paperback and my original copy of Lolita, so some culture is lost for me. So, I
+Tuned model: tensor([[0.7241]], device='cuda:0', dtype=torch.float16): I don’t usually read short fiction, I prefer to read  around 200 to 300 pages, and I have read this very book. I feel like the author, together with his hero, David Hroudon, is stalking the readers, squeezing them, pushing him, grabbing every last bit of information that he can
+
+Base model: tensor([[-0.2471]], device='cuda:0', dtype=torch.float16): A little while ago, I was working on a project in which I  needed some keys/settings to toggle a nice cool fan. The fan has two switches: one for wind speed, and one for cooling. For the fine tuning both of these will have to be adjusted very carefully. The only thing we do have to
+Tuned model: tensor([[0.1046]], device='cuda:0', dtype=torch.float16): A little while ago, I was working on a project in which I  were looking for ways in which the internal encoding in a vector could be made larger. I had created an internal vector that transmitted a vector in binary which would be adjusted inside such a vector to make it bigger.
+
+However, as per the resolution
+
+Base model: tensor([[0.8198]], device='cuda:0', dtype=torch.float16): Im trying to figure out how to make this work, but cant figure  out how to replace that and I have to play catch up and build a system before trying these guys out. Pain to us to turn them off unless you're a lightning fast runner, thats how fast always and the costs do hit real hard.
+
+Tuned model: tensor([[1.3643]], device='cuda:0', dtype=torch.float16): Im trying to figure out how to make this work, but cant figure  it out. Growing up in the 70s fully embracing the author's role as Satan's...I end up worshipping Satan, you know, because the theology is all the same. I think the Satanic stuff is too diluted to be a part
+
+Base model: tensor([[0.0305]], device='cuda:0', dtype=torch.float16): A few weeks ago, I wrote a short story for my creative writing  class called "How to Name Your Kid." It wasn't quite as successful as the book I've been shipping with Amazon, but that's OK, I believe this method is work-alike and valid. Actually, that's great news, because
+Tuned model: tensor([[0.5605]], device='cuda:0', dtype=torch.float16): A few weeks ago, I wrote a short story for my creative writing  class. The students discussed with me the perils of venturing into uncharted territory. Each one disclosed an untold detour provided by somebody else, a road blocked by someone else and an unseen friend.
+
+What if, I asked one question
+
+Base model: tensor([[0.2686]], device='cuda:0', dtype=torch.float16): The Story A young man sits at a desk, working on his homework , awaiting an enemy. It would seem that, given the situation, he's a handsome professional killer… END OF TEASER<|endoftext|>Chinese engineers were testing how a submarine could launch missiles with bombs deep underwater into Iran, Columbia University's Booth School of
+Tuned model: tensor([[0.8047]], device='cuda:0', dtype=torch.float16): The Story A young man sits at a desk, working on his homework . He is when he notices that a bird is pecking at his hand. He out of the corner of his eye notices a spider crawling in on him. 5 The Natives In another alien city a nun from other cultures comes to God for help
+
+Base model: tensor([[-0.0313]], device='cuda:0', dtype=torch.float16): A few years ago, there was a boy who lived in a village  in Shanxi province called Kunming. I had been to the right place where he lived to check in with him. Earlier I had seen him carry over 90 kilograms on his back during an adventure. During this trip, I had come to see how
+Tuned model: tensor([[1.1172]], device='cuda:0', dtype=torch.float16): A few years ago, there was a boy who lived in a village  and he pretended to be older than he actually was. If you eliminated racist prejudices, you would consider this as problematic. However, in our society, serious discrimination against both men and women exists. At the same time, women fight for the right to
 

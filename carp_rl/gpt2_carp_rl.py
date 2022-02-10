@@ -8,7 +8,7 @@ from transformers import AutoModel
 import wandb
 from carp_model.carp_util import scorer, load_carp
 from carp_model.carp_model import ContrastiveModel, TextEncoder
-from util.utils import Debugger, get_model_path
+from util.utils import Debugger, get_model_path, get_carp_config_path
 import torch
 import wandb
 import time
@@ -31,10 +31,10 @@ import matplotlib.pyplot as plt
 Debugger.start()
 
 config = {
-    "lm_name": "gpt2",
-    "ref_lm_name": "gpt2",
-    "tk_name": "gpt2",
-    "steps": 25000,
+    "lm_name": "gpt2-large",
+    "ref_lm_name": "gpt2-large",
+    "tk_name": "gpt2-large",
+    "steps": 20000,
     "batch_size": 64,
     "forward_batch_size": 16,
     "ppo_epochs": 4,
@@ -43,10 +43,10 @@ config = {
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
     #KL Divergence target
-    "target": 1,
+    "target": 6,
     "horizon":10000,
     #Discount factor
-    "gamma":6,
+    "gamma":1,
     "lam":0.95,
     "cliprange": .2,
     "cliprange_value":.2,
@@ -54,11 +54,17 @@ config = {
 }
 
 model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
+#Freeze all but last attention layer
+'''gpt_blocks = list(model.transformer.h)[:-1]
+for m in gpt_blocks:
+    for p in m.parameters():
+        p.requires_grad = False'''
+
+
 model_ref = GPT2HeadWithValueModel.from_pretrained(config['ref_lm_name'])
 tokenizer = GPT2Tokenizer.from_pretrained(config['tk_name'])
-carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
 carp_config_file = 'carp_l.yml'
-carp_config_path = os.path.join(carp_config_path, carp_config_file)
+carp_config_path = get_carp_config_path(carp_config_file)
 carp_ckpt_path = get_model_path("CARP Roberta L/")
 carp = load_carp('default', carp_config_path, carp_ckpt_path)
 
@@ -70,7 +76,7 @@ carp.to(device)
 
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-review = ['This is too cheery.']
+review = ['This is too suspenseful.', 'This is too biblical.']
 #review = ['This is too sad']
 
 #load data
@@ -104,7 +110,7 @@ for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
     #tokenize text
     scores = []
     for story in stories:
-        score = scorer([story], review, carp, mode='rejection_sample')
+        score = scorer([story], review, carp)
         scores.append(score)
 
     score_mean = sum(scores)/len(scores)

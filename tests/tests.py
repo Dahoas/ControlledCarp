@@ -17,10 +17,9 @@ from transformers import AutoModel, AutoTokenizer
 import math
 import torch
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
-from carp_model.carp_util import compute_logit, scorer
+from carp_model.carp_util import compute_logit, scorer, load_carp
 from carp_model.carp_model import ContrastiveModel, TextEncoder
-from util.utils import get_model_path
-from trl.gptneo import GPTNeoHeadWithValueModel
+from util.utils import Debugger, get_model_path, get_carp_config_path
 import re
 from dataset.prompt_generation import generate_prompts
 import matplotlib.pyplot as plt
@@ -188,16 +187,26 @@ def magiCarp_test():
 def model_evaluation(model_name, model_ckpt):
 	torch.cuda.empty_cache()
 	model_path = get_model_path(model_ckpt)
-	base_model = GPTNeoHeadWithValueModel.from_pretrained(model_name)
+	base_model = GPT2HeadWithValueModel.from_pretrained(model_name)
 	base_model.to('cuda')
-	tuned_model = GPTNeoHeadWithValueModel.from_pretrained(model_name)
+	tuned_model = GPT2HeadWithValueModel.from_pretrained(model_name)
 	tuned_model.to('cuda')
+	print(model_path)
 	tuned_model.load_state_dict(torch.load(model_path))
-	tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+	tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
 	query_txt = [" A man and a woman are walking down the street. The man is",
 				 "Today was my birthday and I spent it with my best friends doing ",
-				 "The beaver had a happy family until a flood came and separated them. "]
-	reviews = ["This story is too cheery."]
+				 "The beaver had a happy family until a flood came and separated them. ",
+				 'It was late afternoon and the sun was setting in the western sky. The ',
+ 				'A man and a woman are walking down the street. The man is',
+ 				'I first saw her when I was six years old. I dont remember much about it',
+ 				'I don’t usually read short fiction, I prefer to read long novels, but',
+ 				'A little while ago, I was working on a project in which I had to create a',
+ 				'Im trying to figure out how to make this work, but cant figure it out',
+ 				'A few weeks ago, I wrote a short story for my creative writing class. It was',
+ 				'The Story A young man sits at a desk, working on his homework. He',
+ 				'A few years ago, there was a boy who lived in a village. He was a']
+	reviews = ['This is too suspenseful.', 'This is too biblical.']
 	batch = query_txt
 	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :14] for x in batch]
 	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
@@ -208,38 +217,52 @@ def model_evaluation(model_name, model_ckpt):
 	base_response_tensors = respond_to_batch(base_model, query_tensors, txt_len=50)
 	base_stories = [tokenizer.decode(base_response_tensors[i, :]) for i in range(len(base_response_tensors))]
 
-	carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
-	carp_config_file = 'carp_cloob.yml'
-	carp_config_path = os.path.join(carp_config_path, carp_config_file)
-	config = CARPConfig.load_yaml(carp_config_path)
-	cloob_model = CARPCloob(config.model)
-	model_path = get_model_path('CLOOB CARP Declutr B/')
-	cloob_model.load(model_path)
-	cloob_model = cloob_model.cuda()
+	carp_config_file = 'carp_l.yml'
+	carp_config_path = get_carp_config_path(carp_config_file)
+	carp_ckpt_path = get_model_path("CARP Roberta L/")
+	carp = load_carp('default', carp_config_path, carp_ckpt_path)
+	carp = carp.cuda()
 
 	with open('results.txt', 'a') as f:
 		f.write("Model Type: " + model_name + "\n")
+		f.write("Reviews: " + str(reviews) + "\n")
 		for prompt, (base, tuned) in zip(query_txt, zip(base_stories, tuned_stories)):
 			base_story = prompt + " " + base
 			tuned_story = prompt + " " + tuned
-			base_score = scorer([base_story], reviews, cloob_model)
-			tuned_score = scorer([tuned_story], reviews, cloob_model)
+			base_score = scorer([base_story], reviews, carp)
+			tuned_score = scorer([tuned_story], reviews, carp)
 			f.write(f'Base model: {base_score}: ' + prompt + " " + base + "\n")
 			f.write(f'Tuned model: {tuned_score}: ' + prompt + " " + tuned + "\n\n")
 
 
 def model_statistics():
-	model = GPT2HeadWithValueModel.from_pretrained("lvwerra/gpt2-imdb")
-	num_total_params = sum(p.numel() for p in model.parameters())
+	model = GPT2HeadWithValueModel.from_pretrained("gpt2-large")
+	print("MODEL PARAMS")
+	#Iterate over raw parameters(weights and biases)
+	#for p in model.parameters():
+	#	print(p)
+	#Iterating over modules i.e. groupings of parameters
+	#last_modules = list(model.modules())[-10:]
+	#for m in last_modules:
+	#	print(m)
+	#	for p in m.parameters():
+	#		print(p)
+	#Looking at GPT2 bLocks
+	#for m in model.transformer.h:
+	#	print(m)
+	#
+	#for m in model.transformer.ln_f:
+	#	print(m)
+	'''num_total_params = sum(p.numel() for p in model.parameters())
 	num_trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
 	print("Num total parameters: " + str(num_total_params))
-	print("Num trainable parameters: " + str(num_trainable_params))
+	print("Num trainable parameters: " + str(num_trainable_params))'''
 
-	model = ContrastiveModel(TextEncoder(), TextEncoder())
+	'''model = ContrastiveModel(TextEncoder(), TextEncoder())
 	num_total_params = sum(p.numel() for p in model.parameters())
 	num_trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
 	print("Num total parameters: " + str(num_total_params))
-	print("Num trainable parameters: " + str(num_trainable_params))
+	print("Num trainable parameters: " + str(num_trainable_params))'''
 
 def regex_test():
 	res = re.search(f'(http|python|\(c\))', '(c)')
@@ -257,7 +280,7 @@ def test_carp_cloob():
 
 	story = 'The goose was quite happy, for it had just waddled into the pond. The duck was also happy, for it had just had a baby.'
 	tokenized_story = cloob_model.passage_encoder.call_tokenizer(story).to('cuda')
-	reviews = ['This story is too cheery.']
+	reviews = ['This story is too suspenseful.', 'This story is too scary.']
 
 	score = scorer([story], reviews, cloob_model)
 	print(score)
@@ -281,7 +304,7 @@ def pretrained_gpt_neo_test():
 
 
 if __name__=='__main__':
-	model_evaluation("EleutherAI/gpt-neo-125M", 'model.pt')
+	model_evaluation("gpt2-large", 'model.pt')
 	#model_statistics()
 	#test_carp_cloob()
 	#pretrained_gpt_neo_test()
