@@ -55,10 +55,10 @@ config = {
 
 model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
 #Freeze all but last attention layer
-'''gpt_blocks = list(model.transformer.h)[:-1]
+gpt_blocks = list(model.transformer.h)[:-2]
 for m in gpt_blocks:
     for p in m.parameters():
-        p.requires_grad = False'''
+        p.requires_grad = False
 
 
 model_ref = GPT2HeadWithValueModel.from_pretrained(config['ref_lm_name'])
