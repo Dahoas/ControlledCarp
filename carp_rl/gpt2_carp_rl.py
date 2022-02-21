@@ -55,7 +55,7 @@ config = {
 
 model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
 #Freeze all but last attention layer
-gpt_blocks = list(model.transformer.h)[:-2]
+gpt_blocks = list(model.transformer.h)[:-1]
 for m in gpt_blocks:
     for p in m.parameters():
         p.requires_grad = False
@@ -76,7 +76,7 @@ carp.to(device)
 
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-review = ['This is too suspenseful.', 'This is too biblical.']
+review = ['This has too much action.']
 #review = ['This is too sad']
 
 #load data
