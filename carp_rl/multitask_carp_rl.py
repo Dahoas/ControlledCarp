@@ -29,7 +29,7 @@ import matplotlib.pyplot as plt
 import wandb
 
 
-Debugger.start()
+#Debugger.start()
 
 __LOG__ = True
 
@@ -38,12 +38,12 @@ wandb.init(entity='dahoas') if __LOG__ else None
 config = {
     "lm_name": "gpt2-large",
     "ref_lm_name": "gpt2-large",
-    "tk_name": "gpt2-large",
-    "steps": 20000,
+    "tk_name": "gpt2",
+    "steps": 60000,
     "batch_size": 64,
     "forward_batch_size": 16,
     "ppo_epochs": 4,
-    "txt_in_len": 14,
+    "txt_in_len": 17,
     "txt_out_len": 30,
     "lr": 1.41e-5,
     "init_kl_coef":0.2,
@@ -60,7 +60,7 @@ config = {
 
 model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
 #Freeze all but last attention layer
-gpt_blocks = list(model.transformer.h)[:-1]
+gpt_blocks = list(model.transformer.h)[:-4]
 for m in gpt_blocks:
     for p in m.parameters():
         p.requires_grad = False
@@ -81,13 +81,13 @@ carp.to(device)
 
 # define a reward for response
 # (this could be any reward such as human feedback or output from another model)
-review = ['This story needs more interesting characters']
-'''reviews = ['This is too happy.', 'This story is too boring',
+reviews = ['This is too happy.', 'This story is too boring',
 'This story needs more interesting characters', 'This story has too much detail.',
 'This story is shakespearean', 'This story is scary']
 review_prompts = ['Make this story happy.', 'Make this story boring',
 'Make this story have boring characters. ', 'Make this story detailed.',
-'Make this story shakespearean', 'Make this story scary']'''
+'Make this story shakespearean', 'Make this story scary']
+#review = ['This is too sad']
 
 #load data
 data_file = 'alt_prompts.txt'
@@ -102,38 +102,42 @@ ppo_trainer = PPOTrainer(model, model_ref, **config)
 mean_scores = []
 fbs = config['forward_batch_size']
 for epoch in tqdm(range(int(np.ceil(config['steps']/config['batch_size'])))):
-    torch.cuda.empty_cache()
+    for review_prompt, review in tqdm(zip(review_prompts, reviews)):
+        torch.cuda.empty_cache()
 
-    #get batch
-    batch = df_prompts.sample(config['batch_size'])
-    batch['tokens'] = batch['prompt'].apply(lambda x: tokenizer.encode(x, return_tensors="pt").to(device)[0, :config['txt_in_len']])
-    query_tensors = torch.stack(batch['tokens'].tolist())
+        #get batch
+        batch = df_prompts.sample(config['batch_size'])
+        batch['tokens'] = batch['prompt'].apply(lambda x: tokenizer.encode(review_prompt + " " + x, return_tensors="pt").to(device)[0, :config['txt_in_len']])
+        query_tensors = torch.stack(batch['tokens'].tolist())
 
-    response_tensors = []
-    for i in range(int(config['batch_size']/fbs)):
-        response  = respond_to_batch(model, query_tensors[i*fbs:(i+1)*fbs],
-                                     txt_len=config['txt_out_len'])
-        response_tensors.append(response)
-    response_tensors = torch.cat(response_tensors)
-    stories = [tokenizer.decode(response_tensors[i, :]) for i in range(config['batch_size'])]
+        response_tensors = []
+        for i in range(int(config['batch_size']/fbs)):
+            response  = respond_to_batch(model, query_tensors[i*fbs:(i+1)*fbs],
+                                        txt_len=config['txt_out_len'])
+            response_tensors.append(response)
+        response_tensors = torch.cat(response_tensors)
+        stories = [tokenizer.decode(response_tensors[i, :]) for i in range(config['batch_size'])]
 
-    #tokenize text
-    scores = []
-    for story in stories:
-        score = scorer([story], review, carp)
-        scores.append(score)
+        #tokenize text
+        scores = []
+        for story in stories:
+            score = scorer([story], [review], carp)
+            scores.append(score)
 
-    score_mean = sum(scores)/len(scores)
-    score_mean = score_mean[0][0].item()
-    mean_scores.append(score_mean)
-    #Debugger.write(score_mean)
-    scores = torch.tensor(scores).to(device)
-    wandb.log({'reward': score_mean}) if __LOG__ else None
+        score_mean = sum(scores)/len(scores)
+        score_mean = score_mean[0][0].item()
+        mean_scores.append(score_mean)
+        #Debugger.write(score_mean)
+        scores = torch.tensor(scores).to(device)
+        wandb.log({'reward': score_mean}) if __LOG__ else None
 
-    #Run PPO
-    stats = ppo_trainer.step(query_tensors, response_tensors, scores)
+        #Run PPO
+        stats = ppo_trainer.step(query_tensors, response_tensors, scores)
 
-review = review[0]
-model.save_pretrained(f'ckpts/{review}_model')
+x = np.arange(len(mean_scores))
+y = mean_scores
+plt.clf()
+plt.plot(x,y)
+plt.savefig('Reward Plot')
 
-#torch.save(model.state_dict(), "model.pt")
+torch.save(model.state_dict(), "model.pt")
