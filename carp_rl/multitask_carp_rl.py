@@ -6,8 +6,7 @@ from trl.ppo import PPOTrainer
 from transformers import GPT2Tokenizer, AutoConfig, AutoModelForCausalLM
 from transformers import AutoModel
 import wandb
-from carp_model.carp_util import scorer, load_carp
-from carp_model.carp_model import ContrastiveModel, TextEncoder
+from util.carp_util import scorer, load_carp
 from util.utils import Debugger, get_model_path, get_carp_config_path
 import torch
 import wandb

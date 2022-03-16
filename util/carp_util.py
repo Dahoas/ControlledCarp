@@ -14,7 +14,6 @@ from trl.ppo import PPOTrainer
 from carp.pytorch.model.architectures import *
 import torch.nn.functional as F
 from carp.configs import CARPConfig
-from carp_model.carp_model import ContrastiveModel, TextEncoder
 
 model_name = 'tuner007/pegasus_paraphrase'
 torch_device = 'cuda'
@@ -79,6 +78,8 @@ def load_carp(model_type, config_path, ckpt_path):
         carp = CARP(carp_config.model)
     elif model_type == 'cloob':
         carp = CARPCloob(carp_config.model)
+    elif model_type == 'coop':
+        carp = CARPCoOp(carp_config.model)
     else:
         raise NotImplemented
     carp.load(ckpt_path)

@@ -1,0 +1,46 @@
+{
+  #LM Model args
+  "lm_name": "gpt2-large",
+  "ref_lm_name": "gpt2-large",
+  "tk_name": "gpt2-large",
+  "num_layers_frozen": 1,
+  "save_model": True,
+  "save_folder": '/srv/share2/ahavrilla3/ControlledCarp/ckpts/shakespearean_model/',
+
+  #Carp model args
+  "carp_version": "default",
+  "carp_config_path": "/srv/share2/ahavrilla3/magiCARP/configs/carp_l.yml",
+  "carp_ckpt_path": "/srv/share2/ahavrilla3/ControlledCarp/ckpts/CARP Roberta L/",
+
+  #Training args
+  "steps": 20000,
+  "batch_size": 64,
+  "forward_batch_size": 16,
+
+  #PPO Args
+  "ppo_epochs": 4,
+  "txt_in_len": 14,
+  "txt_out_len": 30,
+  "lr": 1.41e-5,
+  "init_kl_coef":0.2,
+  "target": 6,   #KL Divergence target
+  "horizon":10000,
+  "gamma":1,   #Discount factor
+  "lam":0.95,
+  "cliprange": .2,
+  "cliprange_value":.2,
+  "vf_coef":.1,
+
+  #Review
+  "review": "This story is too Shakespearean",
+
+  #Dataset
+  "data_path": "dataset/alt_prompts.txt",
+
+  #Logging
+  'LOG': True,
+
+  #Evaluation
+  'EVAL': True,
+  "num_eval_examples": 10,
+}

@@ -1,4 +1,5 @@
 import os
+import yaml
 
 class Debugger:
 	@classmethod
@@ -12,13 +13,7 @@ class Debugger:
 			output = str(input)
 			f.write(f'{output}\n')
 
-def get_model_path(model):
-	cur_path = os.path.dirname(os.path.abspath(__file__))
-	model_path = os.path.dirname(cur_path) + '/ckpts/' + model
-	return model_path
-
-def get_carp_config_path(filename):
-	cur_path = os.path.dirname(os.path.abspath(__file__))
-	cur_path = os.path.dirname(cur_path)
-	model_path = os.path.dirname(cur_path) + '/magiCARP/configs/' + filename
-	return model_path
+def load_run_config(config_path):
+	with open(config_path, 'r') as f:
+		config = yaml.safe_load(f)
+	return config

@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 #Ckpts
+ckpts/
 *.pt
 
 #Debugging
@@ -136,3 +137,9 @@ out.txt
 
 #Data
 *.txt
+
+#Wandb
+wandb/
+
+#Results
+results/

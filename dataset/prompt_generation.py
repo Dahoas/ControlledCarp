@@ -102,12 +102,6 @@ def generate_prompts():
 					with open(datafile, 'a+') as f:
 						f.write(f'{processed_output}\n')
 
-def load_prompts(data_file):
-	cur_path = os.path.dirname(os.path.abspath(__file__))
-	data_path = os.path.dirname(cur_path) + '/dataset/' + data_file
-	with open(data_path, 'r') as f:
-		prompts = f.readlines()
-	return prompts
 
 def clean_data(data_file):
 	prompts = load_prompts(data_file)
