@@ -5,11 +5,11 @@
   "tk_name": "gpt2-large",
   "num_layers_frozen": 1,
   "save_model": True,
-  "save_folder": '/srv/share2/ahavrilla3/ControlledCarp/ckpts/happy_coop_model/',
+  "save_folder": '/srv/share2/ahavrilla3/ControlledCarp/ckpts/Grammar_Usage_coop_model/',
 
   #Carp model args
   "carp_version": "coop",
-  "carp_config_path": "/srv/share2/ahavrilla3/magiCARP/configs/carp_l.yml",
+  "carp_config_path": "/srv/share2/ahavrilla3/magiCARP/configs/carp_coop.yml",
   "carp_ckpt_path": "/srv/share2/ahavrilla3/ControlledCarp/ckpts/CoOp CARP Roberta L/",
 
   #Training args
@@ -32,7 +32,7 @@
   "vf_coef":.1,
 
   #Review
-  "review": "This story is too happy",
+  "review": "Grammar Usage",
 
   #Dataset
   "data_path": "dataset/alt_prompts.txt",
@@ -43,4 +43,7 @@
   #Evaluation
   'EVAL': True,
   "num_eval_examples": 10,
+
+  #Minimize or maximize
+  'minimize': True,
 }

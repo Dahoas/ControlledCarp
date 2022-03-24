@@ -57,20 +57,45 @@ def compute_logit(passages, reviews, model):
     softened_logits = compute_softened_logits(passages, review_contextual + review_paraphrases, model)
     return softened_logits
 
-def rejection_sample(passages, reviews, model):
-    #Threshold maximal reward to prevent collapse
-    THRESH = 2.5
-    logits = compute_logit(passages, reviews, model)
-    scores = torch.tensor([[0.0 if logit < THRESH else 1.0 for logit in logits]])
-    return scores
+def convert_coop_review_to_index(reviews):
+    converter = {
+        'Off-prompt': 0,
+        'Grammar Usage': 1,
+        'Needs Google': 2,
+        'Incoherent': 3,
+        'Technical Jargon': 4,
+        'Redundant': 5
+    }
+    indices = []
+    for review in reviews:
+        index = converter.get(review)
+        if index is None:
+            raise ValueError(f"ERROR: {review} unsupported CoOp review")
+        indices.append(index)
+    return indices
+
+def compute_coop_logit(passages, reviews, model):
+    pass_tokens = model.passage_encoder.call_tokenizer(passages).to('cuda')
+    pass_masks = pass_tokens['attention_mask']
+    pass_tokens = pass_tokens['input_ids']
+    passage_batch = BatchElement(pass_tokens, pass_masks)
+
+    with torch.no_grad():
+        #NOTE: Output shape of rev_encs inconsistent with output shape of pass_encs
+        pass_encs, rev_encs = model.calculate_embeddings([passage_batch])
+        #Extract desired review
+        review_inds = convert_coop_review_to_index(reviews)
+        rev_enc = rev_encs[review_inds].reshape((len(reviews),-1))
+        confusion_matrix = model.cosine_sim(pass_encs[0], rev_enc)*model.logit_scale.exp()
+    return confusion_matrix
 
 def scorer(passages, reviews, model, mode='default'):
     if mode == 'default':
         return compute_logit(passages, reviews, model)
-    elif mode == 'rejection_sample':
-        return rejection_sample(passages, reviews, model)
+    elif mode == 'coop':
+        return compute_coop_logit(passages, reviews, model)
     else:
-        raise NotImplementedError
+        raise NotImplementedError(f"{mode} unsupported model type")
 
 def load_carp(model_type, config_path, ckpt_path):
     carp_config = CARPConfig.load_yaml(config_path)

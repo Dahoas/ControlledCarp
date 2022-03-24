@@ -13,7 +13,7 @@ from util.data_utils import load_prompts
 def finetune(config):
 
 	LOG = config['LOG']
-	wandb.init(entity='dahoas', config=config) if LOG else None
+	run = wandb.init(entity='dahoas', config=config, reinit=True) if LOG else None
 
 	model = GPT2HeadWithValueModel.from_pretrained(config['lm_name'])
 	#Freeze all but last attention layer
@@ -35,7 +35,6 @@ def finetune(config):
 
 	review = config['review']
 	#load data
-	data_file = 'alt_prompts.txt'
 	prompts = load_prompts(config["data_path"])
 	df_prompts = pd.DataFrame(prompts, columns=['prompt'])
 
@@ -59,8 +58,11 @@ def finetune(config):
 		stories = [tokenizer.decode(response_tensors[i, :]) for i in range(config['batch_size'])]
 
 		scores = []
+		#TODO: make this batched
 		for story in stories:
-			score = scorer([story], [review], carp)
+			score = scorer([story], [review], carp, mode=config['carp_version'])
+			if config['minimize']:
+				score *=-1
 			scores.append(score)
 
 		score_mean = sum(scores)/len(scores)
@@ -72,3 +74,4 @@ def finetune(config):
 		stats = ppo_trainer.step(query_tensors, response_tensors, scores)
 
 	model.save_pretrained(config['save_folder']) if config['save_model'] else None
+	run.finish() if LOG else None

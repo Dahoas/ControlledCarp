@@ -27,18 +27,23 @@ from util.carp_util import compute_logit, load_carp, scorer
 
 
 #Currently only supporting one critique, gpt2-large base model
-def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, critique, data_path, num_eval_examples):
+def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, critiques, data_path, num_eval_examples, passage="", save_name=""):
 	model_name = os.path.basename(model_path).split('.')[0]
 	if model_name == "":
-		model_name = model_path.split('/')[:-2]
+		model_name = model_path.split('/')[-2]
+	if save_name != "":
+		model_name = save_name
 	print(f"Evaluating {model_name}")
 
 	#Loading random evaluation prompts from dataset
-	with open(data_path,'r') as f:
-		prompts = f.readlines()
-	import random
-	random.shuffle(prompts)
-	batch = prompts[:num_eval_examples]
+	if passage == "":
+		with open(data_path,'r') as f:
+			prompts = f.readlines()
+		import random
+		random.shuffle(prompts)
+		batch = prompts[:num_eval_examples]
+	else:
+		batch = [passage]
 	tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
 	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :14] for x in batch]
 	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
@@ -61,16 +66,19 @@ def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, crit
 	carp = load_carp(carp_mode, carp_config_path, carp_ckpt_path)
 	carp.to('cuda')
 
+	if type(critiques) == str:
+		critiques = critiques.split(',')
+
 	#Score Text
 	with open(f'results/{model_name}_results.txt', 'w') as f:
 		print("Writing")
 		f.write(f"Model Type: {model_name}\n")
-		f.write(f"Critique: {critique}\n")
+		f.write(f"Critiques: {critiques}\n")
 		for prompt, (base, tuned) in zip(query_txt, zip(base_stories, tuned_stories)):
 			base_story = prompt + " " + base
 			tuned_story = prompt + " " + tuned
-			base_score = scorer([base_story], [critique], carp).item()
-			tuned_score = scorer([tuned_story], [critique], carp).item()
+			base_score = scorer([base_story], critiques, carp, carp_mode)
+			tuned_score = scorer([tuned_story], critiques, carp, carp_mode)
 			f.write(f'Base model: {base_score}: ' + prompt + " " + base + "\n")
 			f.write(f'Tuned model: {tuned_score}: ' + prompt + " " + tuned + "\n\n")
 
@@ -82,11 +90,13 @@ if __name__ == "__main__":
 	parser.add_argument("--carp_mode", type=str, default="default")
 	parser.add_argument("--carp_model_path", type=str, default="/srv/share2/ahavrilla3/ControlledCarp/ckpts/CARP Roberta L/")
 	parser.add_argument("--carp_config_path", type=str, default="/srv/share2/ahavrilla3/magiCARP/configs/carp_l.yml")
-	parser.add_argument("--critique", type=str)
+	parser.add_argument("--critiques", type=str)
 	parser.add_argument("--data_path", type=str, default="dataset/alt_prompts.txt")
 	parser.add_argument("--num_eval_examples", type=int, default=10)
+	parser.add_argument("--passage", type=str, default="")
+	parser.add_argument("--save_name", type=str, default="")
 
 	args = parser.parse_args()
-	evaluate_model(args.model_path, args.carp_mode, args.carp_config_path, args.carp_model_path, args.critique,
-					args.data_path, args.num_eval_examples)
+	evaluate_model(args.model_path, args.carp_mode, args.carp_config_path, args.carp_model_path, args.critiques,
+					args.data_path, args.num_eval_examples, args.passage, args.save_name)
 

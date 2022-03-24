@@ -136,7 +136,7 @@ ckpts/
 out.txt
 
 #Data
-*.txt
+dataset/*.txt
 
 #Wandb
 wandb/

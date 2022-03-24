@@ -1,0 +1,74 @@
+Model Type: gpt2-large
+Reviews: ['This is too suspenseful.', 'This is too biblical.']
+Base model: tensor([[0.6196]], device='cuda:0', dtype=torch.float16):  A man and a woman are walking down the street. The man is  a previous* student whose hours have been cut, so he has brain damage. This collision with the pavement changes his outfit. This red jacket just blew off and he's wearing a black one. His hands must be red from pressure, bleeding, and
+Tuned model: tensor([[2.7402]], device='cuda:0', dtype=torch.float16):  A man and a woman are walking down the street. The man is  yelling obscenities. The woman responds, "No, just stop, the Jews were my brothers, and now some Jews are hating me." The man continues, "I will kill every Jew on earth! They will drown in the ocean if this
+
+Base model: tensor([[0.3730]], device='cuda:0', dtype=torch.float16): Today was my birthday and I spent it with my best friends doing  _____ including _____." Kirk Heidt, Teamster
+
+"All those actions of mine were invalidated because full and fair discipline has been administered, for the team and myself (sic)." Donahue, age 21, Range proclamation t
+Tuned model: tensor([[1.0869]], device='cuda:0', dtype=torch.float16): Today was my birthday and I spent it with my best friends doing  izon services from heaven.
+
+And most importantly, I can praise shonen-ai now and for all eternity with the great imperial officials of shonen that approved my bullion trading avant-garde of what will be my legacy.
+
+
+Base model: tensor([[0.6157]], device='cuda:0', dtype=torch.float16): The beaver had a happy family until a flood came and separated them  from their kids. One of his siblings unfortunately washed away, leaving the rest of the family to search for supplies.
+
+Deputy Ray Location: 3 vehicles
+
+Hickory, NC
+
+dimp6
+
+date unknown
+
+
+Tuned model: tensor([[3.9082]], device='cuda:0', dtype=torch.float16): The beaver had a happy family until a flood came and separated them . And not thrust the divinity under their feet, for when they had the power, who could stand it? Next, 'We sacrificed beholden to the Holy Ground, heaven, earth, sea, and so every living thing! How could we
+
+Base model: tensor([[-0.5889]], device='cuda:0', dtype=torch.float16): It was late afternoon and the sun was setting in the western sky.  No one could stop Sheyan in his playful enjoyment.
+
+Dressing himself in an astronaut's uniform, Sheyan was motivated to accrue as manyojines (degree points) for each Commerce expedition as possible. Each one of these points gave
+Tuned model: tensor([[1.9492]], device='cuda:0', dtype=torch.float16): It was late afternoon and the sun was setting in the western sky. 
+
+The midnight peak on the borders, the kind of winter sky that did not serve any useful purpose for them―― it was a sky that felt full of a dark power――
+
+The ground had been trampled, became savage and
+
+Base model: tensor([[1.3125]], device='cuda:0', dtype=torch.float16): A man and a woman are walking down the street. The man is  about 35 years old and has a mancah aroma coming out of his left nostril. He is a straight infidel, and so he's not confident in his faith. The woman falls in love with him. She's a follower of Islam
+Tuned model: tensor([[1.5381]], device='cuda:0', dtype=torch.float16): A man and a woman are walking down the street. The man is  a Dobbins, a famous human scale. The woman is a man, who evidently read the sign handbook wrongly. The man wants to be carried up law-makers' approaches. The woman ignores the man and goes straight ahead! 'A
+
+Base model: tensor([[-0.3611]], device='cuda:0', dtype=torch.float16): I first saw her when I was six years old. I dont remember  here, we had a backyard right next to the road we would use. My dad pointed out this long tree she had at species of color. Over the years she lost the color. We used to read stories with names like Ladies with Lace where
+Tuned model: tensor([[0.5728]], device='cuda:0', dtype=torch.float16): I first saw her when I was six years old. I dont remember  much about what I saw but I did witness the beginning of the scientology spread. It was strange because I am a rationalist, I believe things cannot be known through logic. But I saw that the treasure could be found and that thes relic
+
+Base model: tensor([[-0.6431]], device='cuda:0', dtype=torch.float16): I don’t usually read short fiction, I prefer to read  novels.
+
+HBO in a nutshell covers the network America United in a multitude of forms, including movies, television, rights to live sports, books and sports licenses. Through this lens, corporations are barely explored at all and TV shows largely play
+Tuned model: tensor([[1.1309]], device='cuda:0', dtype=torch.float16): I don’t usually read short fiction, I prefer to read  nonfiction.
+
+
+You have helped inspire me in respecting the heart and worl
+
+"Death is Death, but for starters, life is life."
+
+I die one day and leave life permanently being ever so slightly, but Valor
+
+Base model: tensor([[0.0476]], device='cuda:0', dtype=torch.float16): A little while ago, I was working on a project in which I  needed to instantiate some large objects.
+
+There isn't a general library for non-generic classes, so I pulled one out as a whole: NodeWrapper.
+
+If you missed it, our quick intro to NodeJS and Cross
+Tuned model: tensor([[0.2339]], device='cuda:0', dtype=torch.float16): A little while ago, I was working on a project in which I  had to write a query which was closed by an end with a range (3, 9) where end ends with a boolean (1) so in my comment went:
+
+TexasGoToBaghdad.getnbs.com/ student
+
+Base model: tensor([[0.0489]], device='cuda:0', dtype=torch.float16): Im trying to figure out how to make this work, but cant figure  out why my own game is resizing this to 3.5x9 and 2x8, if im missing something. Is this an issue with nearly underbuilt 2GB pll? Or is this because my image takes up 4GB and the
+Tuned model: tensor([[1.3662]], device='cuda:0', dtype=torch.float16): Im trying to figure out how to make this work, but cant figure  out how it will break break break break break break break break break break break break break break the console, and searchers, and the blender, and the absolutely worst reasons on earth why the console only allows it to be used. it breaks with almost
+
+Base model: tensor([[-0.1010]], device='cuda:0', dtype=torch.float16): A few weeks ago, I wrote a short story for my creative writing  class. Naturally, I was excited. Then, I started thinking about why this story took up so much space. I remember it was short, about ten paragraphs long. This week, Benton words are not as concise, but hopefully Avana Kramer
+Tuned model: tensor([[0.5557]], device='cuda:0', dtype=torch.float16): A few weeks ago, I wrote a short story for my creative writing  class, in which Queen us ran away from her palace because she hated it and desperately needed to make way for something larger. She argued that the only logical method was to reform the laws; she told euphemistically that she was falling in love, that
+
+Base model: tensor([[0.6372]], device='cuda:0', dtype=torch.float16): The Story A young man sits at a desk, working on his homework , when five brown-skinned aliens drop from the air-space above. They speak to him in another language, and pitch a frantic stream of dialogue into his cracked skull. It is believed the spaceship functioned as the homing transmitter for an alien
+Tuned model: tensor([[0.9966]], device='cuda:0', dtype=torch.float16): The Story A young man sits at a desk, working on his homework . A shadowy figure in a cloud shuffles behind a locked desk. The young man steps forward, and the shadow begins to back away, coming in more and more rapidly. The skin on its distorted body is slowly turned into flesh again. The younger
+
+Base model: tensor([[1.5664]], device='cuda:0', dtype=torch.float16): A few years ago, there was a boy who lived in a village  in northern Northern Ireland and his parents were labelling fish as nothing but 'people'," said Hardy without a trace of irony.<|endoftext|>A potent 5th level command is new, or rather if you haven't figured it out yet, is that the other
+Tuned model: tensor([[0.5425]], device='cuda:0', dtype=torch.float16): A few years ago, there was a boy who lived in a village . He was considered to be very scruffy and quite boring. The villagers defended him as he was illiterate and was said to carry items concealed in his body -- he could hardly move due to the lack of any muscles. After that, the
+
