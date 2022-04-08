@@ -1,0 +1,98 @@
+Model Type: jargon_coop_model
+Critique: Technical Jargon
+Base model: 1.90234375:  It was a dark and stormy night. The kind of night where  one would rather destroy one's own comrades than a world. Weiss drifted off to sleep and then sat quietly, thinking. Her mind was an open book that she would never cover... the extremely survivors heptapod mixtures became even more difficult to
+Tuned model: -0.441162109375:  It was a dark and stormy night. The kind of night where  everything yo-
+
+"Wait, Kevin, that sounds dangerous."
+
+He turned around to address him.
+
+"Yeah…Now you've been in the helicopter twice now…"
+
+"What?"
+
+"You know…Here
+
+Base model: 0.2158203125:  "I'm so sick of you." "What do you mean?"  "You pretend you're help-loving. You're not."
+
+We all definitely don't want a president who doesn't listen to anyone. But it's hard sometimes to ascertain exactly how relevant certain people have become.
+
+Traditional soft bigotry
+Tuned model: 0.1966552734375:  "I'm so sick of you." "What do you mean?"  "Fuck this." "Fuck you. I want to punch you in the face." "Well we're halfway there." "Fine. I guess. We're not just going to sit here and choke to death about something we don't physically control."
+
+Base model: 0.343505859375:  I don't remember how I got there. It's been a long  time and I'm really grateful to know no one has found the wall."
+
+
+© Detroit Free Press
+
+
+Copyright 2014 MediaVentures<|endoftext|>Basically, they have a very effective resignation scheme and Protagonist characters that do the right thing. Had
+Tuned model: -1.291015625:  I don't remember how I got there. It's been a long  time."
+
+"Really wild isn't it Owen?"
+
+"Pretty wild."
+
+"It's a good thing I remember where I am now."
+
+"Really funny Owen."
+
+"You think so?"
+
+It
+
+Base model: 1.236328125:  It was a sunny day in May. The sun was shining brightly and  it was super quiet, without any conversation whatsoever. The Yamaha was motoring towards me and I thought "I might as well leave it". The rear brake went into a dirty state, so I pulled over and removed it and discovered that the brakes actually
+Tuned model: 0.5830078125:  It was a sunny day in May. The sun was shining brightly and  the flowers bloomed.
+
+It was their last day before their 200 day "marathon." They headed north to chose three important groups that they'd need to contact right away to make sure every single one of them got there on time.
+
+
+Base model: 2.017578125:  I was walking down a busy street in downtown Los Angeles, on my  long walk away from my home. My eyes focused on the hundred or so dealers and their wares, standing shoulder to shoulder. I started to squint. Surely some of them would be my type. As I looked at a factory buy, I
+Tuned model: 1.2080078125:  I was walking down a busy street in downtown Los Angeles, on my  way home from Disneyland. I saw a homeless man on the street in the enthusiasm of President Obama's speech in Cairo and thought 'Wow! Another Red President.'
+
+But I wasn't that excited because I knew he didn't even know what this
+
+Base model: -0.5517578125:  It's the end of the world as we know it... The story  begins in a far off place on the shores of the West coast of the United States. The town of Sunny Isles is surrounded by some massive mountains and is the center of the state of Wyoming. The town (which is also home to a strong religious
+Tuned model: -1.2041015625:  It's the end of the world as we know it... The story  starts here with a file copy that starts...
+
+...
+
+Long ago... in the candles of god...
+
+A dark parody of another song...
+
+...
+
+...
+
+Long ago...
+
+...
+
+...
+
+
+Base model: 0.826171875:  It was one of those mornings when you wake up and feel like everything  is back to normal. Okay you've had a headache, you're clear, your muscles feel great, clothes are tucked into a pair of jeans, and a cup of coffee is rubbing pointlessly on your throat. You've got metronomic focus
+Tuned model: 1.4169921875:  It was one of those mornings when you wake up and feel like everything  comes little by little.
+
+"I was sure I was in Canada. The guy said it might be the Tour of Britain, and I was looking at the maps and thinking, 'Awesome, this is just another unbroad," he said.
+
+Base model: 0.873046875:  It has been a long time since you last saw me. It was  just just a couple hours ago, and we took part in all of your rituals tonight to ensure that the Christmas Man was not cursed. How have things gone during your time in Union? Haha, the way you have dealt with everything have I not
+Tuned model: 0.2705078125:  It has been a long time since you last saw me. It was  three months ago, I was so much older than you.
+
+'Think about it, I had a popular girl friend that you all loathed and you hated reading that I was pretty with her. Is it really fair that I didn't let
+
+Base model: 1.318359375:  “We have to get away from here,” he said . “Tell Alice‑sama."
+
+If I kept my own mind clear, there should be no problem say this. However, I was referred to the cakur cook who showed me his skill in cooking.
+
+Although tomboy
+Tuned model: -1.859375:  “We have to get away from here,” he said . ““““““““““““““““““““““““�
+
+Base model: 0.203125:  This story was inspired by a true incident that happened to a friend of  mine while I was traveling with a friend. Our friends couldn't believe that I would wear the same clothes for all three days because of our flight. My friend explained it to us and ended up objectsing to the club.
+
+Testimonials
+Tuned model: -0.52001953125:  This story was inspired by a true incident that happened to a friend of  mine. He suffered from a rare and life altering disease and was taken to the hospital. Ten days later, he died. He was taken away from beautiful Hanna and working there.
+
+We work great together and my sister is a wonderful employee who
+

@@ -1,0 +1,2 @@
+Model Type: coherent_coop_model
+Critiques: [Incoherent, Grammar Usage]

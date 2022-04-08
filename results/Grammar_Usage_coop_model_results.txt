@@ -1,0 +1,96 @@
+Model Type: Grammar_Usage_coop_model
+Critique: Grammar Usage
+Base model: 3.662109375:  A few months ago, I had a conversation with a friend. He  said he wants to be a mechanical engineer, but doesn't have what it takes. Would expanding his horizons to coding help him make it in the industry? Would it take different skills or career paths that he no longer possesses to progress through the tech
+Tuned model: 3.61328125:  A few months ago, I had a conversation with a friend. He  was about to start a fancy new business, and even had a design in mind and was still struggling to see it through.
+
+
+"I've always tended to work alone, at least as long as I've lived alone. But tell me,
+
+Base model: 2.498046875:  This story was written by a friend of mine and I just had to  share it and tell the America's sixth largest city how wonderful this great country is.
+
+Advertisement<|endoftext|>Carolina Bernardo Jimenez was executed on Wednesday in Florida. "Abandoning people for nothing: That's not God," he told News
+Tuned model: 2.060546875:  This story was written by a friend of mine and I just had to  share it haha.
+
+Zach: You threw the glass on the floor, then you're "So Outta My Mind" lol
+
+Jason: (toe-to-toe with the girl.) I ray boy!
+
+Jason:
+
+Base model: 2.48046875:  This story is based on a conversation I had with a friend of mine , by the name of Alexander Melakers, who lives in Oxford. He and I met at Cambridge Dinner Party [which happened where all the other Oxford students get together] every couple of months for the past few years. I have since had numerous emails
+Tuned model: 2.46875:  This story is based on a conversation I had with a friend of mine , Lori, and it's a response to the recent breakdown of the antivaccine movement, with all its associated breakdowns, one of which is here.
+
+The little boys I speak to start back in their own bed, their parents choosing
+
+Base model: 3.9765625:  This story was written in English, but I have changed the language to  Japanese for easier reading. I can only imagine how incredibly tough getting through translation will be if you're a woman (and how they expressed their frustration with stereotypes). I also realized the fun to laugh in the humor in a book like this is how you
+Tuned model: 2.736328125:  This story was written in English, but I have changed the language to  make it easier for readers to understand.
+
+****
+
+As anybody who has played Dungeons & Dragons that has spare time can tell you, the game is not scored.
+
+The D&D formula of a D20, a lot of
+
+Base model: 2.298828125:  This is the first in a series of short stories that I will write  about these stones where the lives of popular websites are affected by stones.I intend to write many more short stories in this series, but I would specifically like to write about the military histories of Nathurathe Ogmund and LevarHaar, as
+Tuned model: 2.53125:  This is the first in a series of short stories that I will write  as a matter of research for an experimental fiction short story project.
+
+The first story in Is that You's SAME FACE? will be entitled, "Her Bouquet of Holly", and is what's left of the last two books on D
+
+Base model: 2.02734375:  A man wakes up in the hospital with no memory of who he is  or how he got there, even after thirty years of keeping his eyes open. When he learns that a man named Hermione Granger exhumed an ancient Name, he decides to change that and find one that really stands for two people who love of each
+Tuned model: 1.7587890625:  A man wakes up in the hospital with no memory of who he is  except for his name. Only four shots in total are fired.
+
+Non-Mass Hanna-Barbera Adventures
+
+Non-Mass Hanna-Barbera Adventures ('77-)
+
+Non-Mass Hanna-Barbera Presents:
+
+Base model: 3.712890625:  "I don't know what to say." This is not a story  I've ever had the courage to tell. "There are women that of course would protest [formally], because they believe that feminist issues are important and that subjects of that kind should never remain a secret."
+
+"Equality of academic freedom
+Tuned model: 2.603515625:  "I don't know what to say." This is not a story  about sex. It is the story of an idea.
+
+She Unearthed the Ordeal
+
+She's the author of the beauty and truth in giving. Hilde eventually became a practising nurse and, however a bit unruly,
+
+Base model: 2.861328125:  A quick note: This is a short story, and not a full  run-on. The actual series took four seasons to tie up the various post-credits episodes. I hung around Episode 5 again because, well, it gets very dark on its own. Free View in iTunes
+
+24 Explicit BONUS
+Tuned model: 2.0:  A quick note: This is a short story, and not a full  series, a best-selling trilogy. Someone wrote this just to tell me what 'noise' looks like in space. it's really nice. thanks x
+
+Warning: Spoilers
+
+
+Part 1
+
+Cosmos, named for
+
+Base model: 3.296875:  It was one of those nights when the stars were so bright, it  was happy-makers. We laid down on our bellies, decided we would go through all the questions, and set off to Skye's house to get things prepared for the day. I had to wear a level of modesty.
+
+When
+Tuned model: 2.7734375:  It was one of those nights when the stars were so bright, it  was like they lined up just right and set their men in the mood to kill.
+
+Titus watched as the Paladin brandishing his battle axe plunged forward.
+
+"Hail thy Lord!"
+
+- 3e LMQ - -
+
+Base model: 2.01953125:  It's the last day of school, and the kids are walking out . RPS gets just about everyone back next school day.
+
+A basket of snakes, spread out across the floor of the school hall. And on the table, in a pot of boiling oil? A bucket full of live pythons.
+Tuned model: 1.1015625:  It's the last day of school, and the kids are walking out .
+
+Professor McGonagall
+
+Those of you with your supernovas there, are you ready to go?
+
+Professor Quirrell
+
+Yes ma'am.
+
+Professor McGonagall
+
+Good bye young man
+

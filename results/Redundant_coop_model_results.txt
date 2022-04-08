@@ -1,0 +1,85 @@
+Model Type: Redundant_coop_model
+Critique: Redundant
+Base model: 1.615234375:  It is about a woman in her mid-twenties, who  suffers from addiction and agoraphobia in a place known as the "reptile factory" open on the site (as the author puts it)! Ilana had to kill or trap three ferocious-looking she-snakes - an incurable
+Tuned model: 0.1300048828125:  It is about a woman in her mid-twenties, who  at first sees nothing wrong with the way she and her friend fancy watching a raunchy film. She takes to watching the film together year-round. She even calls her friend Brent Will Just Do Anything and record their random encounters while watching the film
+
+Base model: 0.50927734375:  It’s not often that you get to be a fly on  the wall for your favorite athletes and everything looks pretty much the same, but that happened this week with Jaren Jackson Jr., who didn't show up to their 106th pre-regular season game in Kingston and was fired after the game. Research station
+Tuned model: 0.94140625:  It’s not often that you get to be a fly on  the wall for a developmental coaching staff.
+
+We sent Sam last time. He traveled back, worked with them a few weeks, then came back and exactly the same job.
+
+Until three days before the start of OTAs.
+
+
+
+Base model: 0.383544921875:  This is my first story, so I would be very grateful for any  kind of feedback or. Oh I wouldn't want if about, sorry if hesitating to ask you to write anything that i(would)n to begin. Please tell me,
+
+If it was to be, how 'err?
+
+
+Tuned model: 1.3779296875:  This is my first story, so I would be very grateful for any  feedback I can receive.
+
+Note: #4 is the biggest!
+
+#4 #4 Winter Steps 11 show all Winter Steps 1/6 It's Alive 1/6 The Sun and the Moon 10/9 It Happened Yesterday 13
+
+Base model: 0.958984375:  "It's not that I don't want to. It's just  the people that are having that decision and that discussion are different. The population has changed too, and all of a sudden there's some people here that absolutely haven't done anything to them."
+
+
+California has had a coldness in the public discussion
+Tuned model: 1.54296875:  "It's not that I don't want to. It's just  that I don't."
+
+The developers of Catherine, one of 4,300 VR apps abuzz with excitement today, insist they don't want to go to market. They just want to sell their games to people who aren't sure what they
+
+Base model: 1.720703125:  I have been working on this story for the past few months, and  I must personally say, the story might have been much better suited for Hollywood's version of 'Twilight' instead. Why was there criticism when 'A Delicate Balance' slipped through, though?
+
+I'd really like to say this is
+Tuned model: 0.62158203125:  I have been working on this story for the past few months, and  in many ways it's nearly halfway done. I only enjoyed drawing the fucking DDParadise comic more than having to act as judge, jury, and executioner for the story I can't really stop thinking about.
+
+It's almost impossible
+
+Base model: -0.031890869140625:  I have been reading a lot of sci-fi lately, and there  is a lot of ideas from Hellboy and Lovecraft which incorporate mushrooms and psychoactive drugs. A few days ago, I read an interview withJames Elder, who was critical of Neptune's Moon, where he called it "south of What's-My
+Tuned model: 0.34375:  I have been reading a lot of sci-fi lately, and there  link is to an article here. I was trying to find this one, and didn't find it.
+
+Are we finally seeing aliens?
+
+Is it possible we are seeing them streaming back in as a futuristic invasion?
+
+Were these
+
+Base model: 1.90625:  It is a work of fiction. The names, characters, places,  events and situations in this work may be fictitious and the action may be fictional. Some characters, situations and events from the novel Tyranny of Dragons are based on persons, places and events currently, or in the past, facts known to the Author.
+Tuned model: 1.8349609375:  It is a work of fiction. The names, characters, places,  locations and events that the novel's world establishes are all fictitious.
+
+Nymphomania
+
+Nymphomania is the female and male composite of Ostrovski and Life of Pi and is a suggested alternative to Ostrovski
+
+Base model: -0.1865234375:  "The Lady of the Camellias" It is a story of  love and conquest and a sort of love story. No romantic clichés but social conventions all face rough times.
+
+
+The Amblys deserve to be home no matter what personings should be accorded them. Their memory was dear to her thin hand
+Tuned model: 0.5224609375:  "The Lady of the Camellias" It is a story of  Superego.
+
+
+Lots of girls found these charming old heroes, and were wooed by the side of their hearts : none ever left their round to meet all their peerage.
+
+
+This superego ingenue believes,
+
+Base model: 0.98486328125:  It's a beautiful summer day. The sun is shining brightly, birds  flutter in the trees, and people are smoking cigarettes and sitting on swing chairs soaking up the rays of the sun. Mexicans wish me well on my travels, and the sun interacts with their minds spinning with the experience of being surrounded by a new culture
+Tuned model: 0.98974609375:  It's a beautiful summer day. The sun is shining brightly, birds  are singing, and the wind blows in the fresh breeze. A figure behind me looks up.
+
+"Are ye coming with me, or are ye coming alone?"
+
+I'm glad that people are Cha-Cha yet. You shouldn
+
+Base model: 1.18359375:  I'm sorry I can't tell you more about it. But I  love you and I will always love you."
+
+I'll tell you more about what I mentioned here if you contact me with questions.
+
+Not only did I not mention any of this publicly, but to the person I told: I'm
+Tuned model: 0.331787109375:  I'm sorry I can't tell you more about it. But I  wouldn't be blamed for not wanting to. and wouldn't anyone blame you as far as I'm concerned anyway for the fact that you know nothing of it.
+
+
+Thank you for chatting with us and please don't share anything you read with anybody
+

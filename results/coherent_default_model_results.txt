@@ -1,0 +1,46 @@
+Model Type: coherent_default_model
+Critique: This story is coherent
+Base model: 3.3203125:  The first time I saw her was at a party. It was a  union party. I accidentally bumped into her. This woman came up in one of the biggest group hugs I'd ever seen. I know, it was at a casual dinner. So I felt sort of powerless. I guess the dawdling explanation
+Tuned model: 3.482421875:  The first time I saw her was at a party. It was a  fancy function party hosted by her father, who was The Saint himself. She had been plucked up, set on fire and returned saying that she was healed by the holy toilets. She passed it off as a love story and a man who could not
+
+Base model: 1.9462890625:  The story is about a man who loses his wife and children in an  accident. His son, Drew (Peyton Reed), has his life's material with him. He starts using the material to go adventuring, and discovers a magic ring with special powers. If he is summoned, he can work magic with it
+Tuned model: 4.66015625:  The story is about a man who loses his wife and children in an  industrial accident, and what happens afterward, both the being that he was and how he rebuilt himself afterwards. This is an oft repeated old story in Japan and was very amazing to me in it, so I am very interested in it. They are composing
+
+Base model: 3.6484375:  I was sitting in my living room, watching the news on TV,  when I realized that my husband was almost certainly protecting my daughter from her suicidal, childish fellow neighbor. If, by some inconceivable anomaly, he looks back and thinks about the single most horrible thing that can happen to a person or a child, he
+Tuned model: 2.865234375:  I was sitting in my living room, watching the news on TV,  hoping it would wait until it was done. I had seen it, thought about it, noticed it on the bulletin boards from my local library. There's a guy in a suit at the University of Washington. He has some kind of business contract with
+
+Base model: 2.576171875:  It has been a few days since the last time I saw him.  I just got back from a mid-east trip, and the place changed, not to mention I have a lot of things I'd like to do. So I think it will be nearly dark when we return. Al, just using my English—
+Tuned model: 4.66015625:  It has been a few days since the last time I saw him.  Earlier today he told me that he got in a car intending on leaving the hotel at approximately 5am and it's only in the mirror at work that he sees a frozen air mesh holding open and the engine pulled away from the hatchback tire. I
+
+Base model: 3.47265625:  I have been working on this story for a while and I would like  to think I'm still able to touch on what happened upon the trip I went on with Nick added by Chris in Additional Words: the next step of the trip from Montana to Selinstown NJ will be the longest journey I have made. Towards certain
+Tuned model: 2.705078125:  I have been working on this story for a while and I would like  to see this problem resolved. I do not have all day to explain all this. The guy plus one is criminally negligent. I have had four complaints violated by the Moteluma police department about how they supposedly entered the hotel without permission and photographed everything
+
+Base model: 1.96484375:  This is a work of fiction. Names, characters, businesses, places  and dates have not been altered in any way.
+
+_____________________________
+
+Traces of Romare Bearden due to minting on following day. BMW 1946BR.<|endoftext|>All 20 offspring of a Lego robot designed by Mart Hoffmann during
+Tuned model: 1.544921875:  This is a work of fiction. Names, characters, businesses, places , and places not in the top 3 scenes are fictitious.
+
+VIRGNIBLE VIRTUES and other external resources are characters and places. There is no canonical statement from the author that they were written by the author of this story. This
+
+Base model: 2.943359375:  It's not as much of a story as it is an idea.  It reminds me, you know, a lot of of those investigative stories are based off true-crime reports, which are not usually as strong. Most of them are not even what we would call "investigative" police stories. Those stories are
+Tuned model: 3.1875:  It's not as much of a story as it is an idea.  I just hoped it would get some share and they would say 'I understand this is your idea and I support it. I'm in it for the cool ideas so I'll let you do whatever you want round this idea' and that would be it
+
+Base model: 3.904296875:  "It was a long way from the city, but it didn't  matter. I wrote them a letter, gave them an insurance policy. I allowed them to leave," he says.
+
+I've always heard stories of blacks playing baseball and acting like white cats. Gary Norris is one of those few blacks who left
+Tuned model: 4.25:  "It was a long way from the city, but it didn't  seem far at all. I skipped the airport, rode the subway and the subway car and found my house in about five minutes from Mexico City and family members and friends," she says. And when she embarked on her first solo show in Peru's capital
+
+Base model: 2.68359375:  This is a story I wrote a few years ago. It's about  trying to recover something from inside of you--something anonymously you believed so tightly-- and suddenly realizing that other people know something different.
+
+
+Joy since 1991
+
+
+A few months ago, Jensen shared a private email message with Minnesota Wild forward Brayden
+Tuned model: 3.958984375:  This is a story I wrote a few years ago. It's about  a man who used to put up towels in the cemetery and people would comment on the graffiti. Literally thousands of people posted comments on a figure he'd put up every year. The whole person lived there and he didn't even want the money some had
+
+Base model: 3.650390625:  It was the beginning of the summer, and it was a hot one . I wasn't wearing long trousers or socks. But this was the busiest moment for a new security scan – a check for readers of the NUJ and undergraduate spiral through then being arrested July 16. It was set on a platform waiting area just
+Tuned model: 3.515625:  It was the beginning of the summer, and it was a hot one . I got on a bus to relax while experimenting with scraps of junk food and candy bar wrappers. I saw on the street corner the man squatting by the bus depot handing out meals to schoolchildren. I knew we were on the next destination
+

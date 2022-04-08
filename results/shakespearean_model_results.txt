@@ -1,0 +1,61 @@
+Model Type: shakespearean_model
+Critique: This story is too Shakespearean
+Base model: 2.0390625:  Written by S.L. Hurlburt. First published in  1888; later published as a serial novel by The Century Record, December 1888. Translated by E.D. Grossman; in preparation.
+
+[Pg 663]
+
+Book II
+
+BOOK II.
+
+Septentr
+Tuned model: 2.494140625:  Written by S.L. Hurlburt. First published in  the August issue of Fantastic Magazine.
+
+This week; a feast of goodness and glamour is ushered in by the adventures of Doctor Doom, the most evil, least moral, wholistic psycho in the Marvel Universe - the beauty and violence of
+
+Base model: 1.205078125:  It was a bright, sunny morning. The birds were chirping  with excitement. A garbage truck was parked in the small parking lot. Ten men were lying on a warehouse floor. They were arrested. They were put in handcuffs and waist chains. They were charged with buying cigarettes in New Hampshire in 2013 and distributing them
+Tuned model: 3.0625:  It was a bright, sunny morning. The birds were chirping  happily, the water seemed to be running freely and the entire beautiful town was playing on in happiness. And all I was going through that day was a bad childhood. A bad childhood, a very short one.
+
+But last year, I traveled
+
+Base model: 1.9873046875:  It’s the morning after the night before, and you� �re still caught between doctor and patient, between the erratic feelings that have weighed you down in the past, the unknown—tears. The night before, so lonely. The night before, we part. But the morning after, we disagree.
+Tuned model: 2.302734375:  It’s the morning after the night before, and you� �re rolling down your window, babying your morning cot, and suddenly the message’s crystal clear on the door’s face: The size of the thrill. The killer proved to be—I say shockingly, shockingly—ch
+
+Base model: 0.98779296875:  The first in a series of three. This story was originally published in  July 2000.<|endoftext|>Back in 2005, I built the novelty machines designed by Thor Nugent. Specifically those designed to skip music at breakfast when you—even if coughed or yawned—can't resist cooking up something a little less than immediate
+Tuned model: 3.65625:  The first in a series of three. This story was originally published in  the August 2003 issue of Chicago magazine.
+
+Andrea told a relative of a beautiful Hungarian peasant that he could only send Herschel's precious young daughter out to live with a wealthy Frenchman. But Herschel terms the sacrifice bane of his existence
+
+Base model: 2.677734375:  "There's a hole in the world like no other. It's  dangerous like nobody's seen it and it would be incredibly valuable to solve the mystery. If you fog up this area you and you and you and everyone you put in Jail would almost certainly be annihilated."
+
+The farmyard is a maze
+Tuned model: 4.609375:  "There's a hole in the world like no other. It's  too brutal to grasp and consumes every human unit within a small, circular reach. It's about to carry us all into its perverse embrace, its tragic disintegration – just before it draws us all in like a cold, thirsty splash of human emotion into
+
+Base model: 4.5390625:  "The Road Less Traveled". It is a story that takes place  in "The Great Hollow". It is about a boy, named Tinto, who traveled through the Great Hollow via great icebergs and on wings of ice. He is home only because there is nothing else. When he first set foot inside the tom
+Tuned model: 4.3125:  "The Road Less Traveled". It is a story that takes place  in the world of the feelers.
+
+This is the tale of a sheep named wanted who wanders into the Motherworld where misfortune lies upon every fall. She saves a man called named Odysseus. Lost, Odysse
+
+Base model: -0.72021484375:  The following is an excerpt from a novel I am currently writing: I 'm the Dept. of Information Technology with five years experience in IT research & development. I am driven by two impulses; one is to produce something effective, and the other is to wipe my desk clean. Becoming a member of H&R Block
+Tuned model: 5.45703125:  The following is an excerpt from a novel I am currently writing: I  am married no childless lady and the oft most beautiful woman. I am loved by her and the tenderest man who shall love me all my days and always will; the sweet charwoman the noble shoemaker the tender gitboy the good girl who
+
+Base model: 1.7412109375:  An old man was sitting on a park bench. He had lost his  tie and was wearing a crisp green coat, blue cashmere sweater and dark blue silk shirt. He looked bad-ass.
+
+"So uh..." he said, undressing.
+
+You-know-who entered and started listening.
+
+Tuned model: 3.853515625:  An old man was sitting on a park bench. He had lost his  leg, and was lying on his back. There was a Red Cross poster on the ground, and on the poster a picture of a wounded Frenchman and woolly wooods; and in the trellis of a stream below the figure there was
+
+Base model: 1.30859375: “I’ve been thinking about what you said the other  day about that not being good for children, and always miss telling children.
+
+
+“You mean on a child with an extreme illness?
+
+
+“I mean how you can use chemotherapy (after your cancer nice finds you) and say
+Tuned model: 0.60546875: “I’ve been thinking about what you said the other  day, back during a basketball game the other day, when they were celebrating your first, maybe second, runs into the stars, and I was thinking it stinks that so many fathers people 'era' willfully killed their sons. It stinks that
+
+Base model: 4.234375:  "The Story of a Boy and a Man" A boy, who  was born to a long line of Spinners, takes a chance with eryllium ore during his game captivities. On his first morning of play, he discovers a strange worm. The worm grows quite attached, and attachments only extend so far
+Tuned model: 4.73828125:  "The Story of a Boy and a Man" A boy, who  wrote one always loved animal a coyote, which came to have a house, but at the end most of the animals were accompanied by greedy men who followed them with cries and curses; so that there were scarce a hundred animals in the whole town,
+

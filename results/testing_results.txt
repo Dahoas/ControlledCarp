@@ -1,0 +1,2 @@
+Model Type: testing
+Critiques: ['Incoherent', 'Grammar Usage']

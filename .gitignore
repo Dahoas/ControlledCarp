@@ -140,6 +140,3 @@ dataset/*.txt
 
 #Wandb
 wandb/
-
-#Results
-results/

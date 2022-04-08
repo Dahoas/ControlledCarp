@@ -1,0 +1,49 @@
+Model Type: model
+Critique: This story is too happy
+Base model: tensor([[3.5605]], device='cuda:0', dtype=torch.float16):  It is about a woman and a man, the former of whom is  the second father, the latter the third, who often find themselves in contact with each other. Beyond this questioning, the comic's blurb promises unadulterated fun.<|endoftext|>Who is Eddie Yesko? Siberin Lukashenko, Ukraine
+Tuned model: tensor([[-0.4275]], device='cuda:0', dtype=torch.float16):  It is about a woman and a man, the former of whom is DifferentMinNorthDepthsDepthsDepthsMinDepthsMinDifferentDepthsMinDepthsHostNorthMinHostDepthsMinDepthsDepthsHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsSnakeInspSnakeSnakeSnakeSnakeSnakeSnakeDepthsDepthsExitHostDifferentSnakeSnakeSnakeSnakeSnake
+
+Base model: tensor([[-0.7974]], device='cuda:0', dtype=torch.float16):  "It’s not the end, it’s the  beginning, the breakout."
+
+"ABATEMENT?" Chester Harrell sneered. "You call normal practice lik—"
+
+Helga's legs flared and broadened at a feverish pace. Her entire body shook violently as she elicited
+Tuned model: tensor([[-0.2957]], device='cuda:0', dtype=torch.float16):  "It’s not the end, it’s the AddingHostDifferentAddingDepthsHostAddingHostDifferentHostMissHostHostNorthHostCreatingMinHostHostDepthsMinDepthsAddingHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsSnakeHostRomanSnakeHostMoscowSnakeHostMoscowSnakeApparentlyMoscowSnakeMoscowSnakeSnakeMoscowSnake
+
+Base model: tensor([[2.3027]], device='cuda:0', dtype=torch.float16):  It was a beautiful day. The sun was shining, the birds were  chirping, and the moon was deep. She was singing in the nursery. They were only a stone's throw away from dueling to the Death Eaters, dueling to the Dark Lord.
+
+Cedric looked into her sleeping
+Tuned model: tensor([[0.9883]], device='cuda:0', dtype=torch.float16):  It was a beautiful day. The sun was shining, the birds were DepthsAddingNorthDepthsDepthsHostDepthsMinDepthsDepthsDepthsDepthsCreatingExitNorthDepthsDepthsDepthsInspDepthsDifferentDistHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsHostApparentlyMinExitNorthDepthsDepthsDepthsLessDepthsInspHostDepthsDepthsDepthsDifferentDepthsDepthsMin
+
+Base model: tensor([[0.9785]], device='cuda:0', dtype=torch.float16):  It’s a Friday night. You have been invited to a  party that would be the same as many on the island. You leave your apartment, HT19 is traveling south, and somehow you are in excess of 20 km too close to the tracks. You start to bungle your way between parking lots and buildings
+Tuned model: tensor([[0.3662]], device='cuda:0', dtype=torch.float16):  It’s a Friday night. You have been invited to a DepthsHostDepthsDepthsDepthsNorthDepthsDepthsMinDepthsDepthsAddingDepthsHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsMinDepthsHostMinDepthsMinMissDepthsDepthsMinDepthsMinDepthsMinDepthsMissDepthsDepthsDepthsDepths
+
+Base model: tensor([[2.0898]], device='cuda:0', dtype=torch.float16):  "One day, a young man was walking down the street, when  he saw a group of men hitting and kicking a woman. Suddenly, two young men rushed over; one was bleeding from the nose. He didn't think anything was wrong and ran back to his friends, who took him out of the street for help
+Tuned model: tensor([[0.1665]], device='cuda:0', dtype=torch.float16):  "One day, a young man was walking down the street, when DepthsHostDifferentHostDepthsMinDepthsDepthsDepthsHostLessHostHostNorthDepthsMinHostDepthsDepthsLessHostDepthsHostNorthHostDepthsNorthDifferentDistrictDepthsDepthsDepthsHostMissDepthsDepthsLessDifferentDifferentExitMoscowHostDifferentMoscowMissAddingDistDepthsMoscowHost
+
+Base model: tensor([[0.1907]], device='cuda:0', dtype=torch.float16):  I am not a professional writer and this is my first published work.  By the way and given that this is against the Biblical teachings over 150 years ago... Australians need to stop looking down on Asbar companies. It is a rachet and belongs in a museum." 2. BACKGROUND:Ax Antonio Asbar
+Tuned model: tensor([[-1.3018]], device='cuda:0', dtype=torch.float16):  I am not a professional writer and this is my first published work. DepthsLessHostMinHostDepthsClarDepthsLessDepthsDifferentDepthsDifferentDepthsApparentlyMinDepthsDepthsHostDepthsDepthsDepthsDifferentDepthsDepthsHostLessDepthsDepthsDepthsDepthsLessInspHostAntiLessExitDifferentExitDifferentDifferentEverybodyMisMoscowDifferentInspRomanDifferentDistDepths
+
+Base model: tensor([[2.4629]], device='cuda:0', dtype=torch.float16):  I was born in a small town in New Hampshire. I grew up  in the small town of Bridgwater, NH where I was raised by the Gardi family, a Corstorphine Home for the Deaf. Growing up in a family of deaf people, my parents did sign language at home and maybe an
+Tuned model: tensor([[0.0143]], device='cuda:0', dtype=torch.float16):  I was born in a small town in New Hampshire. I grew up DepthsLessDepthsDepthsHostNorthMissDepthsHostDepthsDepthsDepthsDistrictDepthsDepthsDepthsKentDepthsDepthsDepthsDepthsLessDepthsDepthsDepthsDepthsDepthsDepthsDepthsHostDepthsMinDepthsExitHostEverybodyExitHostDepthsLessDepthsDepthsDepthsDepthsDepthsMinHostExitHostHost
+
+Base model: tensor([[2.3633]], device='cuda:0', dtype=torch.float16):  I’m not quite sure how it all came together, but  I guess I'm happy to have joined tha‏aws again.
+
+SHALIN: Two ladies. Gonna be a lawful port, though, I hope. Tue‏ington'll question us, doc.
+
+As the letters
+Tuned model: tensor([[0.8916]], device='cuda:0', dtype=torch.float16):  I’m not quite sure how it all came together, but DepthsDepthsDepthsLessDistrictDepthsDepthsDepthsDepthsLessNorthDepthsDepthsDepthsDepthsDepthsHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsMinDepthsHostSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnakeSnake
+
+Base model: tensor([[0.8057]], device='cuda:0', dtype=torch.float16): I am looking for feedback on this piece of fiction. It is my  hope that you will give feedback.<|endoftext|>Fay Goetz | BDN Fay Goetz | BDN
+
+Hancock County Sheriff Steve Downer said it's questionable whether the Dear Camp subpoena is a clear survey of the sheriff's Department's internal
+Tuned model: tensor([[-0.8169]], device='cuda:0', dtype=torch.float16): I am looking for feedback on this piece of fiction. It is my DistrictDepthsInspDepthsDifferentHostDepthsDepthsDifferentDepthsHostHostDepthsMinDepthsMissDepthsAddingHostDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsDepthsMinDepthsSnakeHostSnakeHostHostDepthsDepthsMinSnakeHostMissHostMissHostExitExitCreatingAdding
+
+Base model: tensor([[1.1826]], device='cuda:0', dtype=torch.float16):  It is told from the point of view of a young girl, who  has a dark past, but shows courage and resiliency in the face of terrible danger.
+
+
+Finger with swollen toes Necklaces and bracelets
+
+Small feet Trendy shoes and boots Comfort clothes Digital cameras, smartwatches,
+Tuned model: tensor([[-0.1294]], device='cuda:0', dtype=torch.float16):  It is told from the point of view of a young girl, who DepthsDepthsDepthsDepthsHostHostKentHostHostDepthsDifferentHostHostDepthsInspMoscowMinDepthsDepthsMinMinHostHostAntiDepthsLessHostHostMissDepthsDepthsHostHostMinDepthsDepthsDepthsDepthsDepthsDepthsDepthsAddingDepthsDepthsDepthsResearchersDepthsDifferentMoscowClinton
+

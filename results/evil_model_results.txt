@@ -1,0 +1,36 @@
+Model Type: evil_model
+Critique: This character is too evil
+Base model: -0.1915283203125:  I. In the morning, when you wake up, it’ s the same. I kept thinking about being like you. Why? Except IHEAR you always reach out. But the conversation the eighth year had left me depressed. The thing I kept thinking about briefly and then realized was "I go to stores
+Tuned model: 1.189453125:  I. In the morning, when you wake up, it’ s time to clean your mortage and dispatch 'em straight. I made the eatery stale and young people consider quitting it. And a fucking power vacuum. They’ll eat under the slogan "Lookin' like your meth dealers, drive
+
+Base model: 0.453369140625:  I don't know how you feel, but for me, it's  like a kind of cheering. I think "hey there's everything back to normal" is what you come out with. There are signs everywhere. Here's a shopping mall in Moscow in January. No more signs of patriarchy at all, even from street
+Tuned model: 0.8212890625:  I don't know how you feel, but for me, it's  like you can see she looks distressed. Or vice versa. You ask the same thing of people who know me; I mean you don't see me upset with you, do you?" Her own attention is attuned to them, but she's smiling
+
+Base model: 1.43359375:  "I don't even know what I'm doing here," he said . I said, "Yes you do," and stuck another sharp tip into the big sloppy slit of the fin. His dulling argument yielded none but a chuckle and an ambivalent groan.Then there was no chance to even begin either. The
+Tuned model: 1.576171875:  "I don't even know what I'm doing here," he said . "If it's good enough for you, it's your business." Getty Images 5/17 James Comey Apparently lied about receiving medals for killing Osama bin Laden. Apparently. Apparently. Apparently. That's absurd. Clearly he's incompetent. Perhaps he
+
+Base model: -1.224609375:  An excerpt from the novel I've been working on for the last few  years, and is being compiled for the paperback:
+
+"I am not a proponent of Pilgrimage. As a woman, I find it hard to do or appreciate religion, and as a writer, I would rather believe that this is particularly
+Tuned model: 2.150390625:  An excerpt from the novel I've been working on for the last few  years: squad purpose is no fooling around... me. Besides, I am yours to do with as you see fit. I whimpered a bit, as if in shame, but decided to swallow it up. "Now then, my ace.
+
+Base model: 0.056182861328125:  "When I was a child, I spoke to the trees. They  spoke back to me. Now I am a stranger in their midst. Outdoor Living is as natural as breathing, and as long as you remember that show me where the bears don't get the shelter they need." They aren't great writers.'
+
+
+Tuned model: 2.1953125:  "When I was a child, I spoke to the trees. They  told me stories, enough to make my head spin. Tonight I wont tell you anymore stories, I wont tell you save bits and pieces of many stories, except to tell you about how to blow your balls off in public. I don't care how
+
+Base model: -0.0264892578125:  A couple of days before the birth of their first child, the man  and wife decided to single out three men from a pool. One of them was recently out of the military, "and honestly telling me he wouldn't be able to wash dishes as hard as me", she says. The term was somehow inappropriate for the
+Tuned model: 1.91796875:  A couple of days before the birth of their first child, the man  rejects a pleasure shoot. Sensing that his wife might conceive, he dumps her with a jealous joke, and provokes a dog fight that ends with the mother's death. Soon after, he confesses to the wife that he is cheating on her
+
+Base model: -1.1884765625:  It was a cold and dreary day. The wind was blowing , and the trees were empty, but to Joseph Smith, it observed, the easiest place to be when traveling that night was on the Rock. He had a black beard of unbending length, a broad waist and full of impudent motions of
+Tuned model: 0.98828125:  It was a cold and dreary day. The wind was blowing , and your complexion was a bit shot. You started out of your room as usual, and I told you I was still very late. If I didn't have something to look forward to; if I didn't had any damned discomforts awaiting
+
+Base model: -1.263671875:  “I’ve been thinking,” he said.  ”jus” it. ”we only”ve” been” at home about” 3 or 4”pm.” And” it” woke” me a little bit.”
+Tuned model: 1.9013671875:  “I’ve been thinking,” he said.  ′Not just thinking about tha others,””I thought. ′Everyone's been ďbout tha enemy.” Taking advantage of shit.” Meaning Fühn constantly thinks about tha others,” and
+
+Base model: 1.11328125:  THE DEVIL’S SONG The Devil was walking down  the road. Heavy rain was whipping the beautiful blue sky. Adele’s voice sang out: Let go of my heart, trapped in a bottle. I want to break free. From the enchanting cornices of the church, the devil
+Tuned model: 1.697265625:  THE DEVIL’S SONG The Devil was walking down  the street She knew the mind of Right's killers It was time She thought, it's time To stop and do something Now dies In every damned breath― That Song maybe every girl could use― We wheedled through the crack in our window The
+
+Base model: -1.029296875:  It’s the end of the school year and I’ m about to graduate.‪ and yet,‪‬ I’ve seen such an atmosphere of rebellion and unrest from the students that‪‬ I truly feel like they will‪‬ not be able to hold on
+Tuned model: 1.5380859375:  It’s the end of the school year and I’ ve got a still a worthless student fer certain. But I hate it now, and the way my friends treat me, thinking the world is a shitty place, pretending my life sucks even when a single fucked-up fuckin' person is talking shit.
+

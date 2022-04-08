@@ -1,0 +1,59 @@
+Model Type: not_incoherent_default_model
+Critique: This story is incoherent
+Base model: 2.5078125:  A man and a woman live in a house together. The man has  two women workers working for him who keep track of everything.
+
+🚨 First person View from above The first person view is by the husband. He is stationary, and I see two women inside. The husband has a small house, and
+Tuned model: 3.783203125:  A man and a woman live in a house together. The man has  a girlfriend and she sleeps with him. After a night of, say, cuckolding, the man comes home. He sleeps in his car. When he wakes up, he goes to the woman's room, knocks on the door, and asks
+
+Base model: 0.408203125:  My name is Alex. I live in a small town in the south  of England with my extremely talented older brother and younger sister. In April 2012 my mum passed away from breast cancer. I believe her death led to my own cancer but I have managed to endure it just fine. I was 16 years old at the time
+Tuned model: 1.0224609375:  My name is Alex. I live in a small town in the south  west of England. I'm a Weev to plain old Swedish. I've had seven birth defects and no brain injury. I am a pure man, because I do not have any kind of disease or malnutrition. I do not suffer from any kind
+
+Base model: 1.6962890625:  A man walks into a bar. He sits at the bar and orders  a drink. The bartender looks at the man and says "Guess you're from the old west." The man sits and takes a sip of his drink thinking about old westerns, looking around the bar to see what kinds of people he's facing
+Tuned model: 2.755859375:  A man walks into a bar. He sits at the bar and orders  a drink.
+
+
+The bartender: Hey, what'm you working on?
+ \'Bring me some of that gin.\" The bartender says, grabbing a glass of gin from the glassware rack. The man enters the bar. The bartender:
+
+Base model: 3.15234375:  A man is lying in bed. He hears the door open, and  the voice of his child's nursery teacher can be heard calling his name. I am stunned at the craziness of this movie. I am disoriented from so many great movies that I never think about. And it's not the films, I can
+Tuned model: 2.251953125:  A man is lying in bed. He hears the door open, and  knocks hard on it. After a long pause, the entire apartment door opens. "Who's inside?" There comes an unmistakable, authoritative mouthful of a laugh from behind the cracked door. It comes from a robust huge armchair, behind which
+
+Base model: 2.12109375:  It was a dark and stormy night. The rain was coming down  hard.
+
+"Come home new mom," my mother wailed near the end of the night. "We'll be here for you for hours!"
+
+Dawn shuddered and called my mother by rubbing her hands together in an attempt
+Tuned model: 0.283935546875:  It was a dark and stormy night. The rain was coming down  hard, keeping the houses above water but lowering the animals below. The entire valley was hot and clammy but cold compared to above, with torrential rainfall from the stormy gusts of wind. Like the winds, the temperature fluctuated without a
+
+Base model: 2.705078125:  "It was a sunny morning in New York. I had just arrived  from London to attend a scientific meeting."
+
+Cultural differences between London and Washington were detailed each morning in junior daily newspapers. High-minded, correct English writings from the helots of Congress got the initials ELQU to denote a particularly extensive work
+Tuned model: 2.69140625:  "It was a sunny morning in New York. I had just arrived  in New York and was at the Empire State Building as many thousands of people celebrated the weekend in Times Square and known as the Big Apple. Occasionally I make the short trip back to talk to friends who live at the time. They ask me if everything
+
+Base model: 3.9765625:  "A man, who shall remain nameless, decided to visit his  friends' chambers, and see what was at issue in their conversation. On immediately perceiving that the place was full of carelessly led eggs, he hastened away. The doors in question, therefore, he gave an entrance to first Shujus
+Tuned model: 2.71484375:  "A man, who shall remain nameless, decided to visit his  granddad."
+
+Treacle mumbled a We have.
+ \'
+
+A very comforting evening! A cheerful energy of active or endangered people! A faint garden odour — you know it when you smell it — lining the landscape of rows
+
+Base model: 1.3935546875:  It's not as long as I would like it to be, but  it gets the job done well; opening doors in situations of constant road traffic is a rennas triple whammy. Overall, there are a few left's that might be your cup of tea, but overall I really like how sturdy these fir activities are
+Tuned model: 2.4375:  It's not as long as I would like it to be, but  it helps. This also contains fish that have been in the water a LONG TIME – especially madrone and scinata. But these do reach their fullest AGE in 60m water.
+
+A couple of speakers also like the 20m –
+
+Base model: 3.068359375:  I'm not sure if this is the right place to ask, but 
+
+
+Does XL and WSH have the same DAC type, such as TS or SBX?
+
+
+When I've tried the DACs it's a bit overwhelming, better just to grab a picture of the isolated selector switch to see if XL
+Tuned model: 2.70703125:  I'm not sure if this is the right place to ask, but  I am curious about the different types of memory in terms of how they are stored. I have a lot of experience with Cubase and I am kind of curious what does memory do internally.
+
+cPanel E200 n Description Default Value Special System
+
+Base model: 4.2265625:  This was written as a test for a class I'm taking this semester  and was designed to give it into the hands of student-hosts. After learning the lie about the "real" main character, I decided to smoke some marijuana, use the narrator's data to increase the body count in a makeshift prison, and
+Tuned model: 1.79296875:  This was written as a test for a class I'm taking this semester , called Projection Techniques. I'll be reviewing it and trying to compare and contrast these two techniques in my next class. I also really appreciate knowing you thought of this..... I'm very disappointed in ideas like these!I really like lots of Photoshop
+
