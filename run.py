@@ -6,9 +6,9 @@ from eval.evaluate import evaluate_model
 def run(config):
     finetune(config)
     if config['EVAL']:
-        evaluate_model(config['save_folder'],
+        evaluate_model(config['save_folder'], config['lm_name'],
          config["carp_version"], config["carp_config_path"], config["carp_ckpt_path"],
-         config["review"], config["data_path"], config["num_eval_examples"])
+         config["review"], config["data_path"], config["num_eval_examples"], config["txt_out_len"])
 
 
 if __name__ == "__main__":
