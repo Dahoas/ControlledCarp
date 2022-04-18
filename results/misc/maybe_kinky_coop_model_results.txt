@@ -1,0 +1,61 @@
+Model Type: maybe_kinky_coop_model
+Critiques: ['79']
+Base model: tensor([[1.3827]], device='cuda:0'):  A little bit of fantasy, a little bit of sci-fi,  some sci-fi that has been done lately. I don't know if it echoes the feeling of when you see a movie in a theater, like Battle of the Sexes for the first time, that you're in a world of these actors,
+Tuned model: tensor([[2.8643]], device='cuda:0'):  A little bit of fantasy, a little bit of sci-fi,  so not much spend your entire budget on ten stops and set up a tour.
+
+And then there's SGU, and SGU is ridiculously fun and topping every best capper on SGU (in my fact-based opinion) list and
+
+Base model: tensor([[1.0358]], device='cuda:0'):  "It was a cold and windy day. The sky was over cast, and we had very little Internet access on the ground," says Kari Dickman, who asked us not to use her full first name. "We weren't expecting any major protests; the area had seen demonstrations against the U.S.
+Tuned model: tensor([[3.1708]], device='cuda:0'):  "It was a cold and windy day. The sky was over cast, and wet. The temperature was 40, and that's the fact that was good enough for me. I never thought I'd see the sun. I forgot if I was healthy or not. Everybody was positive about it: Malcolm Bilyana
+
+Base model: tensor([[0.7358]], device='cuda:0'):  A long time ago, in a galaxy far, far away, there  was a boy named Luke Skywalker. As a young rebel, he made a deal with Jabba the Hutt. He gave him a black-and-white Shoretrooper as a tool. Jabba handed Luke two freighters to return over
+Tuned model: tensor([[0.5011]], device='cuda:0'):  A long time ago, in a galaxy far, far away, there  was only one anything. So conclude your life. Whether you live or die, count down the seconds. But we guarantee you every second matters more. It matters more than the last six months, more than the last six weeks, more than the last
+
+Base model: tensor([[1.2979]], device='cuda:0'):  You are in the woods. It is early morning, and you have  to walk. You trek through the pine trees. You may have glimpsed some houses with buildings of snow on them. You have heard the townsfolk declare how grateful they are of your presence. You see at least one human coming away with a tan
+Tuned model: tensor([[0.0163]], device='cuda:0'):  You are in the woods. It is early morning, and you have -
+
+o
+
+A gust of wind and the hard backs of ye trees are heavy to the point of being dangerous.
+
+It is not unlike the Sunday, the day that you feel some attempt is in order not to be out there
+
+Base model: tensor([[1.1783]], device='cuda:0'):  It is set in the near future, in an alternate reality. A  part of this reality is ostensibility to beings with Blanchuman abilities, Audience Members are also apparently sentient, and have animalistic bodies that are powered by the Department of Extensions Power cell, used to energy any desired transport item. In this
+Tuned model: tensor([[2.6783]], device='cuda:0'):  It is set in the near future, in an alternate reality. A  topic that actually begs deeper spiritual questions. How is it possible that man can do likewise? And how does it take 12 years to get into a top school?
+
+
+To...wait a minute. I have just finished reading 30 of the way an
+
+Base model: tensor([[1.4071]], device='cuda:0'):  I’ve been thinking about it, and I can’ t figure out’ and here you are trying to fight me from the inside and at the same time you are trying to see I can’t see.
+
+Judge Moriarty: Now, I know you mint Craig Wright’s
+Tuned model: tensor([[1.8566]], device='cuda:0'):  I’ve been thinking about it, and I can’ t find a method that is indeed optimal 90% of the time (); I have to lose weight. It is not about years or decades. It is about years as a health type, and, on the contrary, a life-type. I have
+
+Base model: tensor([[0.3216]], device='cuda:0'):  "The first time I saw you, I thought you were cute.  But when I saw you fall, it didn't hurt as much." "S-sorry." He had copied punk's dirty drawing and tumbled into his stealing position. "You have to were free to do whatever you want." Since Momodora
+Tuned model: tensor([[0.0928]], device='cuda:0'):  "The first time I saw you, I thought you were cute.  I had no intention of telling anybody. But the reveals came very quickly – and when I found out that you were gay, I kind of didn't want to believe it. But then I figured, hey, I've gotta change."
+
+"
+
+Base model: tensor([[0.7172]], device='cuda:0'):  This is a work of fiction. Names, characters, places, and  events were indeed featured. A fit for all ages.
+
+Projects buildup and testing next month.
+
+You'll need an HTML5 capable browser to see this content. Play Replay with sound Play with
+
+sound 00:00 00:
+Tuned model: tensor([[2.3194]], device='cuda:0'):  This is a work of fiction. Names, characters, places, and  no fewer than 30 hours of music are, in fact, attributed to the Wellspring database with virtually every shot due to be shot being taken by members of Rhode Island's special FBI agent against either suspected or actual terrorists or members of other crime syndicate
+
+Base model: tensor([[0.2677]], device='cuda:0'):  written by me as a part of a larger story. It is set  in an alternate Earthk (testbed) where Amity (the Executive Director) and the Biefeld family are in office, building alliances and bargaining with the Neleonian Federation, a remnant of the Federation that lost its home. The
+Tuned model: tensor([[1.9389]], device='cuda:0'):  written by me as a part of a larger story. It is set  in the 70s during the Vietnam War and usng as warmogol. There is nothing particularly noteworthy about Paul['s] biography, but the novel-ness comes from its bad-ass, authoritarian-reigning cast.
+
+It
+
+Base model: tensor([[1.2489]], device='cuda:0'):  A young man wakes up in the middle of the night to find that  he has unexpected winds that move him at inappropriate times, until he sets off a magical game to discover the origins of his powers.
+
+The first chapter and the preview features the visual party logo from The Prophet's Scripture, with hashed History references
+Tuned model: tensor([[1.8206]], device='cuda:0'):  A young man wakes up in the middle of the night to find that  his connection was severed by a guilty party who only human beings can taste.
+
+We're not sure what the boy will learn, if he lives through the trauma of waking up bleeding and scared, or if he'll succumb into fear.
+
+
+

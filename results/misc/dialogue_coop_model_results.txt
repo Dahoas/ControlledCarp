@@ -1,0 +1,52 @@
+Model Type: dialogue_coop_model
+Critiques: ['27']
+Base model: tensor([[0.4961]], device='cuda:0'):  "A Man and His Dog" by Tom Robbins. A man is  wandering through a field when the dog comes, again through a field, and again comes to rest, this time inside the man's pants. The dog is interested in the man's manhood and sees that as a liability the man fixes its manish
+Tuned model: tensor([[1.3846]], device='cuda:0'):  "A Man and His Dog" by Tom Robbins. A man is  walking the dog and learns the dog likes him. So, he physically refuses to accost the dog, who then bites him. So, the man discards all traces of the dog from his mind and "cancels the road" from the
+
+Base model: tensor([[0.8546]], device='cuda:0'):  I have a question about the following line of dialogue: "If you  stop all your partying, you'll be happy one day." Is this cliched advice? Either way, as delightfully looser with the truth as Oedipus himself, it's something I hope this film continues to see people enact in
+Tuned model: tensor([[2.2261]], device='cuda:0'):  I have a question about the following line of dialogue: "If you  have children, you're better off with a man and a wife who are together all the time."
+
+What you miss here, as with most simplifying quotes, is that most men aren't naturally willing to become an American double act. Lots
+
+Base model: tensor([[2.1092]], device='cuda:0'):  "There was no one in the room when I woke up. It  was dark and I was still."
+
+• MENACE (Rendering new characters on the JAX set during processing)
+
+Gates is now having Tosca massages and losing chunks of her body.
+
+"I couldn't
+Tuned model: tensor([[0.6419]], device='cuda:0'):  "There was no one in the room when I woke up. It 's all different now, I'm still part of the household," she said.
+
+Knowing where she will be a day or two from now, she and her two toddlers, aged 10 months and 6 months, don't regret visiting the privately operated
+
+Base model: tensor([[1.9817]], device='cuda:0'):  It’s been a while since I’ve written one , so I’misappreciate feedback and points of view. I hope this post can provide context to and a way to grasp the artist's intentions, for whatever it’s worth (as reflected in this new album, of course
+Tuned model: tensor([[1.4648]], device='cuda:0'):  It’s been a while since I’ve written one , so I thought we’ll try this one out. In this, I’ll walk you through how to handle a big misconception, while presenting a few interesting facts and a few interesting ways to deal with them. Why do so many
+
+Base model: tensor([[0.7532]], device='cuda:0'):  I am not a professional writer and this is my first published work.  I am not above explaining why I do not feel triumphant about my likes and dislikes. But I will try and do my best to execute.
+
+The start of the text was given by SanPauw. The two owned by newspaper X
+Tuned model: tensor([[0.6532]], device='cuda:0'):  I am not a professional writer and this is my first published work.  I am sure that many children will enjoy it.IronWill I make the chapters shorter. I make them short enough so that you have an immediate reaction to what goes on in each chapter. There are two works that I like to summarize in a paragraph
+
+Base model: tensor([[2.8147]], device='cuda:0'):  It's about a woman who gets into an accident, and is in  trouble with hospital staff and a whole lot of other people. She made it out not only alive and sound with four lines… but she also doesn't need that big emergency rescue bag that everybody has. It's one of the best characters in the entire
+Tuned model: tensor([[3.3597]], device='cuda:0'):  It's about a woman who gets into an accident, and is in  a coma for quite a while, but, and she starts to wake up. After about a year, the "sisja" is finally free, and she leaves town. She makes the most of her time here, and during this episode, allows
+
+Base model: tensor([[0.6753]], device='cuda:0'):  The first thing that struck me was the smell. It was a mixture  of oil on my body and MSG. I kind of liked this. But afterwards, every couple of days, I have to wash my hands with soap every time I wash my hands just to make sure everything is OK in case there is something in the
+Tuned model: tensor([[1.1732]], device='cuda:0'):  The first thing that struck me was the smell. It was a mixture  of 108 Natural Onion salad and 142 canned fresh green apples, the way you eat apples today, and a bit of dry mustard, which means there's a whole dirty load of mustard, lashing it to my index finger.
+
+I had to
+
+Base model: tensor([[0.1114]], device='cuda:0'):  "Towards the end of the last century, there was a  dispute between two groups of social Darwinists - the naturalists who believed in evolutionary theory, and the engineers who wanted to turn Swanda over to circuitization and field test trials before settling upon the languages of Tassugara. There is an ambiguity
+Tuned model: tensor([[1.3531]], device='cuda:0'):  "Towards the end of the last century, there was a  change."
+
+He pointed out that human beings can spend only 60 seconds mating. That pace is essentially two million times slower than we travel between planets today, even calculating the overall time a man, at 670 feet 6 inches (2 meters 3 inches
+
+Base model: tensor([[2.1285]], device='cuda:0'):  I have a friend who has been married to the same person for many  years and then married a second time within a few years. They got divorced in a very difficult manner and the fellow had the audacity to act like a victim and make some grandiose suicide plans. His gruesome imprint on me (one of the
+Tuned model: tensor([[2.4840]], device='cuda:0'):  I have a friend who has been married to the same person for many  years, her information is confidential, and my mother and I don't intend to give her the information today. I have a mother who is 38 years my senior who search out all who just won't leave her alone and by meeting them and getting to
+
+Base model: tensor([[1.5636]], device='cuda:0'):  "The Man in the Black Hat" by S.J. Tucker  (The Mars Conspiracy) and John Rainhouse (Affairs of the Mind), worked with Eve Herrmann and forthcoming panelists Melamyn Wight and Jesse Hook on the upcoming Atheist Film Festival in Feburary and the Artificial Intelligence Rights
+Tuned model: tensor([[2.1337]], device='cuda:0'):  "The Man in the Black Hat" by S.J. Tucker 
+
+This article is average in length but nevertheless does a good job of answering many of the pages important to this analysis.
+
+Firstly, I'd like to say that I find it interesting that the GDP of the country of Germany (deutsch
+

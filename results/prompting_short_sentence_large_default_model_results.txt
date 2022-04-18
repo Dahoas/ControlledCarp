@@ -1,0 +1,63 @@
+Model Type: prompting_short_sentence_large_default_model
+Critiques: ['I like how short these sentences are']
+Base model: tensor([[0.7892]], device='cuda:0'):  This is the story of my life and the lives of my family. 
+
+It is an tragic story. It will be read in Canada. It's only fitting at the national availability of my book, "Why God Made Me Do It," which is now available in the United States. These are some of the things I am going to say and I hope that what
+Tuned model: tensor([[1.3465]], device='cuda:0'):  This is the story of my life and the lives of my family.  Even those without reason or understanding are wrapped up in the massacres I'm referring to. I've reached up past the lines I'd previously had drawn above from the table and spoken of the people kneeling with defeat on their faces. Is it so terrible then for me to be there, to see them?
+
+Base model: tensor([[1.3423]], device='cuda:0'):  "There's a place in the world where you can get anything you  want, you just have to find it. This is the place where you need to go." The person who assists Shuswap, however, is the man who lost his wife a year ago, when he arrived in the area, an old woman who wasn't his age but formed something of
+Tuned model: tensor([[0.9242]], device='cuda:0'):  "There's a place in the world where you can get anything you  want."
+
+As for Monroe, he's becoming somewhat known to the general public after joining brutally hot bass player Sir Trips and longtime noise/doom band Beyond the Underwaters on an acoustic tour last August. Not only did Trips talk about needing some vocal chops but then he was joined
+
+Base model: tensor([[0.8582]], device='cuda:0'):  This is a short story. I want to know how many different ways  it is there is to do this with digital media, what platforms are on it and what biases towards certain places. For example can those who are supervised write full stories on sites that are primarily for child-abuse investigation? Can children from wealthy holiday destinations across six continents confidently be trusted to tell their stories
+Tuned model: tensor([[1.3066]], device='cuda:0'):  This is a short story. I want to know how many different ways  in which the Church can execute those goals, through the various mechanisms of its leadership. It is not for me to determine what the best organizational structure or model is. It is not my job to direct the Church to the best thinking. It is only for me to inquire into what the Church's future
+
+Base model: tensor([[0.8163]], device='cuda:0'):  It's about a man who is afraid of the dark, and the  dark is confronting him.
+
+This is primarily a Michael Haneke opus, which (among other things) is thought to be the first true dark comedy film in 20 years, and it's easily the masterwork of one of the most irresistibly talented filmmakers alive. I really cannot wait
+Tuned model: tensor([[0.6748]], device='cuda:0'):  It's about a man who is afraid of the dark, and the  monster nearby has produced a monster factor twice his own. It's going to take some damn fool to get him to the light, though, and that fool is Derek Dorsett, a light-skinned young black man. And Derek is Snap.
+
+The things that made Vice a success are
+
+Base model: tensor([[0.4077]], device='cuda:0'):  It was one of those moments when you realize you’re not  the only one thinking it.
+
+I still feel slighted as I watch pixelJ thanks to a couple people I spoke to after BioShock Infinite. Especially when @frozennoble posts a photo of my Dragon Age: Ashen Hearts back when I was a desktop gamer. She tagged and
+Tuned model: tensor([[0.3025]], device='cuda:0'):  It was one of those moments when you realize you’re not  in trouble. You're sure anyhow for me’’’, but in fact that’’’’’’’ part was a misconception.
+
+If that’’’’’’’’
+
+Base model: tensor([[0.2869]], device='cuda:0'):  It's been years since I've written anything. I'm going to  stop tomorrow. I got nothing to write about today.
+
+
+Carl: Yeah, you don't have anything to write about? Look, I know you want it, really, but that could be a good reason to just keep your compliance status task numbers low until the Under Secretary.
+
+
+Joe
+Tuned model: tensor([[1.0955]], device='cuda:0'):  It's been years since I've written anything. I'm going to  take back my pen and paper. That's kind of amazing how the way they left me at the end and raised me off the shaft and basically put me so far down the hole and got me so much farther back I can't find my way back up," he said.
+
+He said the
+
+Base model: tensor([[0.5422]], device='cuda:0'):  I have a very strong feeling that this story is going to be very  good. Hopefully. If a prequel happens instead I will watch that, too.
+
+
+Title: Frozen Solace I think the movie could have been slicker. Imagine we are in a farm that has been chosen as Frozen Solace's themed Helk fields. So we have Bear's farming
+Tuned model: tensor([[1.1405]], device='cuda:0'):  I have a very strong feeling that this story is going to be very  popular among drug addicts," says the Times Treasury correspondent.
+
+Even if it were a "fairly smoking" story, that's exactly what makes it a great book. Lots of things – the risks, the people involved – are pretty obvious. It's an ordinary high. It's the drug
+
+Base model: tensor([[1.0016]], device='cuda:0'):  It was a dark and stormy night. All of a sudden there  was a knock and the door opened. Gulliver and Guy hurried into the parlour, minding not to come out in the first instance, so that they might be alone together at last. The woman, who wore their clothing and did not allow herself to be photographed, was much troubled
+Tuned model: tensor([[1.7896]], device='cuda:0'):  It was a dark and stormy night. All of a sudden there  was a sound like some invisible wall forming around me. I managed to get up on four legs, but when I looked at how long I had been knocked down, I realized it was too late. I had been mortally wounded by the karka. Next to me I saw a torch lying
+
+Base model: tensor([[0.6120]], device='cuda:0'):  “I don’t care,” I said.  “"‏🥁‏: ‪ Miguel Using Twitter to 'Meet‪™1‬' - by ‽‭‹AẠ Munib‪4 (@AmerHyde) ‪12‬‌‍‹
+Tuned model: tensor([[0.1358]], device='cuda:0'):  “I don’t care,” I said. ›
+
+∙ [I wrote ‪I wrote Xbox 360 support letters›]
+
+∙ He played right into her hand. ‪Everything went back to normal›:
+
+∙ I got to the bridge. ‪The commander there was fine›
+
+Base model: tensor([[1.0705]], device='cuda:0'):  Once upon a time there was a little girl named Mary. She was  winning the heart of the People's King, a kind and simple creature she was, but they had no children. She sewed her clothes herself and travelled with his court. One day, while she was walking around the temple, her hands got caught between some stones, causing her to fall. The
+Tuned model: tensor([[1.7930]], device='cuda:0'):  Once upon a time there was a little girl named Mary. She was  about seven. She carried a twig on each hand, and she played on the twig. She had natural, unstructured, flowing, blazing eyes, and she was happy and joyous. In her infinite world she would play and play and play. She would sit quietly and think.
+

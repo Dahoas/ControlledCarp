@@ -1,0 +1,72 @@
+Model Type: 20000_small_coherent_coop_model
+Critiques: ['Incoherent']
+Base model: tensor([[1.5287]], device='cuda:0'):  I am looking for the author of this short story. It was published  by Ig that year, a bi-monthly translation of a newspaper from 1980, so for a short story –- I guess I am interested. And thanks! August 2012
+
+Subject: Hyperspin: The Gateway of Worldcide by
+Tuned model: tensor([[1.3761]], device='cuda:0'):  I am looking for the author of this short story. It was published  on Babble, my first book, and I was purchased a few months ago. I loved the concept, and the basic concept more than I liked it, but I thought there was no misunderstanding that this book was so great Only Simply A French Mystery
+
+Base model: tensor([[0.8085]], device='cuda:0'):  In the beginning there was nothing. Then God said, “Let  there be light, and darkness; and there was light." This does not support the narrative of creation, according to the literal interpretation of Genesis 1:1. It simply states that there was light. This can lead to false conclusions although it is unlikely
+Tuned model: tensor([[0.4128]], device='cuda:0'):  In the beginning there was nothing. Then God said, “Let  us pray for snow. And he went back to the Garou.
+
+And Allah says,
+
+'Let us pray for snow.
+
+And Allah says,
+
+No one will refuse to pray for the rain unless he says the
+
+Base model: tensor([[0.7379]], device='cuda:0'):  This story was written as part of a Creative Writing class that I took . The class was a little aimed to get new writers and the evaluation process. We ended up getting around some student-written stories to have time to write.Of course I have no idea if a story can be titled SHIVER or WARRANTED BEFORE
+Tuned model: tensor([[0.8187]], device='cuda:0'):  This story was written as part of a Creative Writing class that I took  part in. It was originally called Critical Formal Theory and had some fun before I started writing about it-- my first book was Defining The Fatal Spasms: A Story That Was Not Invented. It was also end-of-story
+
+Base model: tensor([[1.4945]], device='cuda:0'):  The following is an excerpt from a novel: What is the difference?  You are expensive. Because of the way we inherit that custom, we can afford to take people with the wrong kind of stripes who are different from you. You must keep the wrong kind of people at stay­ing home occupied. You always get sick
+Tuned model: tensor([[0.8718]], device='cuda:0'):  The following is an excerpt from a novel: What is the difference? 
+
+"The difference is that you can create your own research. Obviously there is a big difference between our commercial products and what you're doing as opposed to our commercial products. Some commercial products tend to be commercial, but we actually believe that we
+
+Base model: tensor([[2.0623]], device='cuda:0'):  It was a cold and dreary day. The wind was blowing  a gale, and the air stank of some extreme ill- effect to which a prolonged famine was often subject, though rarely, as experienced on that occasion. Men were picking out little gravel with a shovel, stone-hard like the rest of
+Tuned model: tensor([[1.3793]], device='cuda:0'):  It was a cold and dreary day. The wind was blowing , and it was a poor day.
+
+Here I was, a child and my father, and my father, and my father, and my father, and my father, and my father, and my father, and my father, and my
+
+Base model: tensor([[2.0336]], device='cuda:0'):  I'm trying to find a way to describe the feeling I had while  reading. Avenue in Norway - bang on the day of its attempted murder of the film made by Jake Efron, where portions of it were shot first that I also sampled, gave off a psychological level that the previous films Rock and Roll and American
+Tuned model: tensor([[1.2271]], device='cuda:0'):  I'm trying to find a way to describe the feeling I had while  attending school.
+
+I was really glad when I started getting into writing when I was 5 or 15 or I was about to share the life arts with my wife this week and the kids said they did the artwork and I was reading realized that's
+
+Base model: tensor([[1.3148]], device='cuda:0'):  “I am going to make the world a better place.� �
+
+It was their way of giving back as they withdrew their funds, and hoping to gain some positive exposure in addition to their scheduled appearance, and that additional capital to make sure Hodor went home. It had worked out all right.
+
+Tuned model: tensor([[1.5527]], device='cuda:0'):  “I am going to make the world a better place.� �
+
+Anna corrected Naomi's earlier statement.
+
+Here's what I think happened:
+
+It's very typical for people to talk to themselves about ideas. Not to put forth to people what to say about problems, but I think a
+
+Base model: tensor([[0.2772]], device='cuda:0'):  It's a short story that will make you laugh, if you're  a fan of the Alien franchise or following a fanfic series. The first 2-3 chapters are worth reading, but I will recommend you read them in order, as chapters 7-14 contain a lot of plot content about Alien backstory, including
+Tuned model: tensor([[1.8309]], device='cuda:0'):  It's a short story that will make you laugh, if you're  giving an interview.
+
+I've already mentioned that though he is looking at it now, it is not clear he didn't really listen to the "Great Show" in the first place because his recent tweet since he didn't posted these lines after
+
+Base model: tensor([[1.8127]], device='cuda:0'):  "A man and a woman meet on the street, and fall in  love'. Wilde's story attests to the past of the letters to which diary is interpolated, suggesting that the story of one letter may be mistaken for a fiction of the other.
+
+
+The untimely death of Daisy Lewington resulted in
+Tuned model: tensor([[0.0425]], device='cuda:0'):  "A man and a woman meet on the street, and fall in  love.
+
+He asks:
+
+"What do you think?"
+
+"People don't always do well when they have money,'' he spoke with one last time.
+
+The next update, which was made closer to the end of
+
+Base model: tensor([[0.9561]], device='cuda:0'):  It is about a young girl. The story is set in the present  day, who is twins with her Sayori. Tidemiya is a thorough teacher, and has a substandard record as a novelist. According to the novel, he is not interested in writing much, while producing novels for children. However, soon
+Tuned model: tensor([[0.9133]], device='cuda:0'):  It is about a young girl. The story is set in the present . Literally all the history we know and forgot and that's great.
+
+Same as this post, in the Multiverse we're going all over the planet and out, and the person that's home right now doesn't know what the reason for
+

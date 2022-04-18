@@ -1,0 +1,62 @@
+Model Type: accurate_coop_model
+Critiques: ['0']
+Base model: tensor([[0.7591]], device='cuda:0'):  This story is based on an event that happened to me while I was  sitting on various aspects of the Pharos belt.
+
+
+Author abides by the Code of Conduct and will not claim that Hypatia was homophobic, promiscuous, or happy with the plan she strategically laid out for her body while she was
+Tuned model: tensor([[0.5061]], device='cuda:0'):  This story is based on an event that happened to me while I was  syncing my unread messages.
+
+Call it a celebratory stitch-up of a new story where nobody pays attention, not because I lied about it, but because people were too hippy-dippy to spot it:
+
+"
+
+Base model: tensor([[0.9299]], device='cuda:0'):  A long time ago, when I was a young boy, my family  took a short fight with one of our neighbors in Tarzana to be out of Berkeley. I've experienced being the victim of it before, at least once: (1) My mother narrowly missed being hit by a pickup truck two summers after high
+Tuned model: tensor([[1.5692]], device='cuda:0'):  A long time ago, when I was a young boy, my family  and I lived just down the road from my school and the Church said, "If you have trouble sleeping the night before an important church meeting, ask him to do likewise." It was the first time we lived around the Church and I kiloed
+
+Base model: tensor([[1.4881]], device='cuda:0'):  It's been five years since my wife and I moved to New York  City and we haven't called this home for many years. Wilderness experimentation in the parking lot aside, I use the home as my source of shelter from the sludge pigeons that replete and destroy the neighborhood. Having done so for the last 130
+Tuned model: tensor([[0.2889]], device='cuda:0'):  It's been five years since my wife and I moved to New York  City, five years since I became a father. Some things just stay. On the other hand, there were several things that, as much as I wanted to tell them, I couldn't. I was exhausted from the long commute to court and so
+
+Base model: tensor([[1.4541]], device='cuda:0'):  This story was inspired by a question that I was asked on a site  calledmmd.net when I was told how to make the National Geographic Blueberry, which is basically the same thing as a Blueberry Kush.
+
+For those who are interested in this study, here's a link to their original study.
+Tuned model: tensor([[1.7871]], device='cuda:0'):  This story was inspired by a question that I was asked on a site  that collects questions about health and diet, and ultimately the answer I came up with stretched far beyond those details. What can I tell you about the diet that differs the most from DLin's?
+
+The main difference is the total number of calories
+
+Base model: tensor([[0.0464]], device='cuda:0'):  “You can’t go out there,” she  said‌.
+
+‪He heard her‬,‬ ‪but he wouldn't answer her.‬ (The titles of two of these books make no sense: ‪Third One is identical to Voice of Silence.
+Tuned model: tensor([[0.8843]], device='cuda:0'):  “You can’t go out there,” she  started‪in‪ all seriousness‬.‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬�
+
+Base model: tensor([[1.4658]], device='cuda:0'):  "A Man and His Dog" by Tom Robbins. A man is  hired to build an animal house for a wealthy man's beloved dog. The animal house Danny builds is easily seen in a book of photographs.
+
+The launch event was a huge success with more and more people attending each day. Dramatically different demands
+Tuned model: tensor([[0.6173]], device='cuda:0'):  "A Man and His Dog" by Tom Robbins. A man is  attacked by an eccentric canine whom he does a quick job to put down with a bullet from a shotgun behind a door.<|endoftext|>Sorcery
+
+Put five ice counters on target permanent, then that permanent gains indestructible until end of turn
+
+Base model: tensor([[0.3617]], device='cuda:0'):  The night was cold, and the wind howled through the cracks of  her door. The creases in her clothes were frostbitten holes in the night. Her diaper wore down, and the dried foam of small buckets spilled out from where her lenses had smothered them. She felt in serious danger of having her
+Tuned model: tensor([[0.9517]], device='cuda:0'):  The night was cold, and the wind howled through the cracks of  the frosted windows.
+
+"The field is very narrow, and we move as a pack all day long, used to the tight millpond that surrounds us. I suppose you must have turned the fences so reversing as to bring it down
+
+Base model: tensor([[0.7499]], device='cuda:0'):  It is not intended to be a part of the story arc, but  not an essential part of it.
+
+
+Just look at us, the entire cast from Disgaea 2, Homecoming, DIZZY BOY! What I really wanted to point out here was the ever-so-short leash we have
+Tuned model: tensor([[0.4986]], device='cuda:0'):  It is not intended to be a part of the story arc, but  the way that several Alien sequels have altered the Alien characters to make them its own, not something the reader needs to conclude with.
+
+The first Alien is horrifying enough from a moral standpoint, but against an enemy that is relatively easy to kill,
+
+Base model: tensor([[0.7135]], device='cuda:0'):  A long time ago, in a galaxy far, far away, a  man named Bruce Wayne rose to become the Dark Knight. A criminal mastermind, the Joker, with some help from his rogues gallery, committed thousands of murders, on the grandest scale, though the Joker was too heavily guarded by twenty-four well
+Tuned model: tensor([[0.1930]], device='cuda:0'):  A long time ago, in a galaxy far, far away, a  cry has been heard from her. It has been gathered from thousands of feet beneath the silver sand.
+
+The cries were the first and only of a long and glorious song.
+
+It was great and glorious, and they stole shadows from the
+
+Base model: tensor([[1.0274]], device='cuda:0'):  It's been a while since I wrote anything on here, and I 'm quite at a loss as to how to get back to posting anything, nor can I vouch for the fact that these are the same tiny details I've been debating for more than a year now, but I'll use this space as a bridge
+Tuned model: tensor([[0.0674]], device='cuda:0'):  It's been a while since I wrote anything on here, and I 'd surely benefit from writing something on various MLP friendships. So here we go:
+
+Pony - Vampyrenic Friend: I occasionally see a pony mentioned who'd ideally be friends with me, but doesn't really seem like a
+

@@ -1,0 +1,70 @@
+Model Type: 10000_small_coherent_coop_model
+Critiques: ['Incoherent']
+Base model: tensor([[1.6653]], device='cuda:0'): It is not meant to be a novel. It is meant to be  a statement on how I learned English as a teenager.
+
+I think you should be able to generate actual footage of yourself and your English right now. What steps can you take to make it come out more clearly as a person.
+
+On
+Tuned model: tensor([[1.0859]], device='cuda:0'): It is not meant to be a novel. It is meant to be  on the journal side of things.
+
+I've been sending pictures, it's not a masterpiece. For whatever reason, because the relation between the threads has not been well laid out enough, I've never been so good at ignoring things we should
+
+Base model: tensor([[1.4826]], device='cuda:0'):  "I am going to die. I know it. I feel it . But I don't know how I brought my dead body back so I can die next to you again," he tells CNN. "Nature keeps telling me, 'Don't believe everything until you find what you believe,'" Murphy adds. "And I
+Tuned model: tensor([[0.6830]], device='cuda:0'):  "I am going to die. I know it. I feel it . I have so many options."
+
+"As I get older I am more doubtful," she said. "But what if you decide to come from an extreme division?
+
+"Yeah, well, a lot of the time not because of
+
+Base model: tensor([[0.8268]], device='cuda:0'):  I was in the city of New York. I was walking down the  street. I came up next to some of the maids. They were sobbing and stomping their legs.
+
+"I told them, 'I'm her.'" said Anzelele, 18, trying to raise her profile in the
+Tuned model: tensor([[1.3015]], device='cuda:0'):  I was in the city of New York. I was walking down the  road and realized I made it into a terrible fire. I pulled up and was cheering people out of their cars."
+
+"It just worked because when I walked out of the building my eyes were so red, I couldn't see anything," he
+
+Base model: tensor([[1.2676]], device='cuda:0'):  "It was the best of times; it was the worst of times , I told anyone," the man said after he was arrested at the spinal cord injury clinic run by the Tiger Patients Centre, downtown Vancouver. "With all of those kids, the pain would have gone away, but you didn't want that to happen
+Tuned model: tensor([[1.1277]], device='cuda:0'):  "It was the best of times; it was the worst of times  for those people that I spoke with... and so I felt horrible about my life here, I felt terrible about it, just realized what I'm doing is senseless, because of the cap or stomach or whatever. Finally I say, it hurts, but
+
+Base model: tensor([[2.0315]], device='cuda:0'):  It was a cold winter day, and the sun was barely visible through  the crevices. The ground was cold and full of snow but no shade, and authorities had decided not to employ the seabed area as there was no commercial or governmental access to it. I started from the bushes when American Railroad was first
+Tuned model: tensor([[1.1307]], device='cuda:0'):  It was a cold winter day, and the sun was barely visible through  the windows. When we climbed into the frosted windows and looked out at the sea, people were doing with cool water.
+
+Across the water was Ruby arthritic, and only after a couple of days of relaxing was she walked over to
+
+Base model: tensor([[0.9657]], device='cuda:0'):  This is an original work of fiction. Names, characters, businesses,  networks, organizations, events and even celebrities will be his name in this issue.
+
+Story coming soon<|endoftext|>AllResett is meh deal. So I see you are looking for me for the next volus cycle. In the far distant future
+Tuned model: tensor([[0.4693]], device='cuda:0'):  This is an original work of fiction. Names, characters, businesses,  and stories are kept confidential.
+
+This telescope is not a toy:
+
+A rocket is a tiny spacecraft that's going to launch into space.
+
+A comet is a small comet inadvertently killed by a nuclear explosion.
+
+A bomb
+
+Base model: tensor([[1.4108]], device='cuda:0'):  In the beginning, there was nothing. The Universe was empty, cold , love had meaning, and a world-altering stillness continuous through the Closed Space years.
+
+One secret below the Pillar of the Sun called time-spaces, under the Veil. Individually or individually, the Closed Universe was never
+Tuned model: tensor([[0.8919]], device='cuda:0'):  In the beginning, there was nothing. The Universe was empty, cold  and dark.
+
+It was a weak one at first, but then an entire galaxy went into resounding relief. There was no casualties.
+
+The human side of the ship almost stopped rushing. One of the masses reached malken in
+
+Base model: tensor([[1.6457]], device='cuda:0'):  It's about a man who goes on a journey to find his lost  wife – and someone just allows him to go on it. This little blossom magic should frighten the world, and the gods are there to save him from them. Even readers of Murphy and Siegel have tried jettisoning this storyline altogether
+Tuned model: tensor([[2.3860]], device='cuda:0'):  It's about a man who goes on a journey to find his lost  project here. We're not going to have the leftovers that you just think you're talking about -- then you'll encounter the techniques and techniques and moves that will make resisting the process of reaching the completion of the project possible. While it's not
+
+Base model: tensor([[1.3193]], device='cuda:0'):  I am very proud of it, and hope you enjoy it. It 's incredibly helpful and slightly personal in character. The immersive perfect vibe of the show, the intricate nightlife backdrop, there's always something to bring over the music. We hope you enjoy the experience."
+
+Gemini will be co-pass
+Tuned model: tensor([[1.2442]], device='cuda:0'):  I am very proud of it, and hope you enjoy it. It  is a very urgent conversation for me. My two watch's GamesSE are as good as they are, but I have always wanted to know if they could navigate this world doesn't keep up with everyone:
+
+What should you do to fight this
+
+Base model: tensor([[1.6109]], device='cuda:0'):  "Blessed are the peacemakers, for they shall be  relied on; and the charioteers, that is, the sons of men that are Israel, shall be relied upon tooth and nail to come into bondage that is iniquitous unto Satan, AND the demons with whom they worship, with whom
+Tuned model: tensor([[2.0283]], device='cuda:0'):  "Blessed are the peacemakers, for they shall be  the robber."
+
+I am only giving credit to both of these, since the elder was a good help in his efforts to get this information out to voters. As I said earlier, if you ask the same question and try to believe it,
+

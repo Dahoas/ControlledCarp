@@ -1,0 +1,60 @@
+Model Type: exclamation_coop_model
+Critiques: ['18']
+Base model: tensor([[1.1964]], device='cuda:0'):  I'm not a fan of short stories, but I'm a fan  of characters and long-term plot development. All three books were really fast paced, with brief experiences throughout the book but no goals in mind other than to repay the readers for their time. That means these books are less then full-stopped and
+Tuned model: tensor([[0.4136]], device='cuda:0'):  I'm not a fan of short stories, but I'm a fan  of me telling building stories and actual fiction. Until it was time to display the results of the show, they weren't ready for the war between the real people and the fiction. I don't think it's any fun to play those stories with players
+
+Base model: tensor([[1.0553]], device='cuda:0'):  A collection of short stories. This is the first story in the collection  of tales that follow the titular ship. The ship is heading toward Mosta, and the Night Hunters are and eager to hunt it to the end.
+
+
+97
+
+Ships and Cowboys was an anthology featuring a lot of well done stories
+Tuned model: tensor([[1.2790]], device='cuda:0'):  A collection of short stories. This is the first story in the collection . other stories
+
+Humanity was onto something when they discovered the power of the mind. The knowledge of a mind also creates an incredible space for things to happen. The thing that Constitution highlighted most concerns an angel that arbitrarily allows the world to happen
+
+Base model: tensor([[0.3835]], device='cuda:0'):  A few days ago I was walking in the street and I came across  a woman holding a baby who had been thrown on the ground by a soldier who was running towards her defense.
+
+Allah have mercy on the Palestinian women.
+
+Despite this day of hardship loss of mothers and babies, we still reject the pill
+Tuned model: tensor([[0.9825]], device='cuda:0'):  A few days ago I was walking in the street and I came across  a house, and I decided to enter the house and see if there were any money and food in it. I found no money and the mother of the family didn't give me anything. So any tip you can provide for anything in our community that
+
+Base model: tensor([[0.9746]], device='cuda:0'):  There was a boy who lived in a small village, and he liked  to help people in need. He would pull people out of rubble and transport them around to the local hospital. This boy wanted nothing more than to be like his dad, but this was a dreadful thought.
+
+"How could I get him home
+Tuned model: tensor([[1.4487]], device='cuda:0'):  There was a boy who lived in a small village, and he liked  to walk out into the field, and stuff, but he didn't ever explore beyond the edge of the town; he lived there for years and years and years, never uncertain that something was there, never unsure that he wasn't alone.( And what
+
+Base model: tensor([[0.0095]], device='cuda:0'):  It was a sunny day in the desert. The sky was clear blue , and as the sun slowly came back up I heard a chirping owl and the voice of a woman who seemed to be carrying food beamed from a distant cave.
+
+"Get inside!" She yelled and it was at that moment that
+Tuned model: tensor([[0.5871]], device='cuda:0'):  It was a sunny day in the desert. The sky was clear blue . When they crossed the tunnel, the next huge fight took place in front of them. People were running/running with things. It was out of control. "And four men came out and they were like this. And they were all of them
+
+Base model: tensor([[0.8397]], device='cuda:0'):  The following text is part of the author's copyrighted work and may not  be reproduced without permission in writing from the author. This as an example of what may be acceptable deformation. © 2001- The Sun. All Rights Reserved<|endoftext|>Welcome To Old RV by Old Ways
+
+You have seen the pictures above and thought enough
+Tuned model: tensor([[1.2454]], device='cuda:0'):  The following text is part of the author's copyrighted work and may not  be republished in any form without permission.
+
+Hitler's actual commission for gun control and the laws he introduced are well known to gun-rights activists and those who believe in the Second Amendment. But efforts are clearly being made to boost his
+
+Base model: tensor([[0.4214]], device='cuda:0'):  "It's the end of the day, and I'm looking at  my midfielder having one of those weeks and about five weeks now and now we're leaning towards a suspension or a one-game ban.
+
+"It doesn't get any more responsibility or humiliation that depriving a player of a winner's medal."
+Tuned model: tensor([[2.1999]], device='cuda:0'):  "It's the end of the day, and I'm looking at  what I have to do to get 83 innings, and contact will always be a big factor. But I can definitely do it and if it comes around for me I can deliver," he said.
+
+"But I always try and strike out a
+
+Base model: tensor([[1.3883]], device='cuda:0'):  I am an old man. I have been an old man for a  long while, very long. For some people, it doesn't even touch. But for others, being old can drastically improve their alertness. And for me, one day I really wish to retire, so I decided to focus on my health and
+Tuned model: tensor([[0.9256]], device='cuda:0'):  I am an old man. I have been an old man for a  very long time. Think what this has done to me. It has given me a new lease on life.
+
+Recently, I have found a way to take accounts of my affairs in the ordinary way, and the banks will not come under such
+
+Base model: tensor([[1.0717]], device='cuda:0'):  "It started with a boy. A beautiful boy. A boy who  was friends with my son. First they put it on hold and then they came back with this new proposal. What really strangulated me was that my husband was not in there. He was the one who told him about it and he backed it up
+Tuned model: tensor([[1.5270]], device='cuda:0'):  "It started with a boy. A beautiful boy. A boy who  tried to play when no one was going to play. He excelled in everything. He loved go-karting. He loved making cars. He excelled in anything.</
+
+"And then one day he said I want to be better
+
+Base model: tensor([[1.9209]], device='cuda:0'):  It was a cold winter day, and the sun was shining brightly.  Each of them was silhouetted against the surface, their eyes hazy with exhaustion.
+Typical of warm-season bluey at Berman's, the bluish-green sheen of his shoulders and hair was equivalent to the softness of
+Tuned model: tensor([[0.9273]], device='cuda:0'):  It was a cold winter day, and the sun was shining brightly.  Someone kept telling me to go on and I wasn't sure I wanted to go. If I did I wasn't sure if I was going to be able to remember this amazing experience. I remember making it across the road and stumbling across a world completely
+

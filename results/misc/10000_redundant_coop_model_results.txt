@@ -1,0 +1,60 @@
+Model Type: 10000_redundant_coop_model
+Critiques: ['Redundant']
+Base model: tensor([[1.0654]], device='cuda:0'):  I have been reading a lot of science fiction lately, and have been  inspired by at least two of them. The Mr. Class series and Falling Sky books. Neither of those are in the genre of horror, but each have a nice tone of devastation. In the Mr. Class novels (which recently got a hardcover
+Tuned model: tensor([[0.8728]], device='cuda:0'):  I have been reading a lot of science fiction lately, and have been  fascinated by concepts like'science fiction') and 'what it means to savor the wonder of Creature Worlds". The subtitle of this article is game design, an invaluable tool for creating diverse stories, that may be applicable among anyone interested in interdisciplinary programming
+
+Base model: tensor([[1.0318]], device='cuda:0'):  I would appreciate it if you would read it and let me know what  you like about it. I am probably not the best writer of Atts in live many years, but I am very glad that I don't need to write for the library any more."
+
+"Thank you for sharing our objectivist philosophy with
+Tuned model: tensor([[0.8378]], device='cuda:0'):  I would appreciate it if you would read it and let me know what  happened. If I mention something that I, or anyone, inadvertently use on one of these sites, please tell me so that I won't be able to correct it.
+
+Disclaimer
+
+I need your help to keep this site free, talk
+
+Base model: tensor([[1.0240]], device='cuda:0'):  written in the form of a diary, and it is the story of  a large family to which the writer herself belongs—which makes the little volume something of a strange mirror-image of the great telling artists who had influenced Susan Gregory so early: Among them W.E. Miller, who quoted at times from his own
+Tuned model: tensor([[1.5371]], device='cuda:0'):  written in the form of a diary, and it is the story of  his first marriage arranged. He wrote three more "alphabet blanks," eight additions to his tyranny, the incomplete of which was never published. The others must have fallen into his hand, or were taken from him by mere robbery. His life may
+
+Base model: tensor([[1.3533]], device='cuda:0'):  A man, a woman, a dog, and a cat sit down  at a table, cook and serve. All except the dog were vegetarian. After a meal, the group offers a song to the canine, while the others view the poignant talk from the dog. As cowAnimals suggests, we should all hope that
+Tuned model: tensor([[1.0720]], device='cuda:0'):  A man, a woman, a dog, and a cat sit down  right outside a shopping center in Mitsubishi's Tohoku Shoreline neighborhood in Tokyo, Japan, on June 17, 2016. Hide Caption 14 of 23 Photos: Injured people receive treatment at a hospital in Tokyo on June 17, 2016.
+
+Base model: tensor([[1.0620]], device='cuda:0'):  "I was born on a cold winter's day, when the wind  blew from the north, and the frost heaped pestilence upon the rodents. I climb sodden shingles, like those I open here."
+
+These very few brief remarks explain how Darrel's earlier writings have a concrete realization
+Tuned model: tensor([[1.2461]], device='cuda:0'):  "I was born on a cold winter's day, when the wind  moved gently into our house and made his nostrils narrow, I had an old very cold frosty air to breath and dreamed of seeing this cold, cold beau who enjoyed the time he was allowed to enjoy with you. He was an old very
+
+Base model: tensor([[0.6499]], device='cuda:0'):  This is just to let you know I have not forgotten about this,  and there is also a customised www.schema.org home page which has all the necessary bloggers.kellogg.com information and information and examples for anyone making a.immer file converter such as Thumbs Drive.
+The Trademark agreement
+Tuned model: tensor([[0.6654]], device='cuda:0'):  This is just to let you know I have not forgotten about this,  so please ask for a subscription or when I got it. The do notation makes this situations understandable, but more importantly you get thanks for you I truly appreciate every bit an offer I have made to you.
+In total I hope this means that I
+
+Base model: tensor([[0.3460]], device='cuda:0'):  This is my first story on this forum and I'd like to know  how employees can help. I'm hoping you will share this thing and be a part of it. "
+
+Establishing a Customer Relationship
+
+If you've ever had the pleasure of being in the 3 month grocery store selling food to the
+Tuned model: tensor([[0.8881]], device='cuda:0'):  This is my first story on this forum and I'd like to know  what full blown adventure this book is about, how all of this happened and why I think today is the right time to start reading it. My goal is to learn more about making games, how people make games, and how whole computers have been gathered
+
+Base model: tensor([[1.4301]], device='cuda:0'):  It was a beautiful spring day. The air was warm, and the  sea could be seen in all its brightness.
+
+Hugo and the Minister reached the hut where minutes ago they had sat down, and there took tea in concealment of the decklist and morning prayer. It was gay and happy to see such
+Tuned model: tensor([[1.3800]], device='cuda:0'):  It was a beautiful spring day. The air was warm, and the  temperature was incredible. A palpable sense of connection succeeded here, clinging to malice that had always stuck. I said "If you don't mind it I'll let you just sit here."
+
+She sat, still, beside me on the bed.
+
+Base model: tensor([[0.1802]], device='cuda:0'):  A man walks into a bar. The bartender says, "What'll  you have? Text or call?"
+
+The caller replies, "Call."
+
+Another man writes, "No problem. Excited to skip they."
+
+Sonya, an 18-year-old transgender woman, writes, "So
+Tuned model: tensor([[0.8366]], device='cuda:0'):  A man walks into a bar. The bartender says, "What'll  you call me now?" The man's name is Quinton Quinton Wong, Alonzo Gonzalez. Alonzo Hernandez (2006-2013), an immigrant from Colombia, has immigrated to baseball nonstop since childhood. Hernandez made his bachelor's
+
+Base model: tensor([[0.7749]], device='cuda:0'):  A young man and woman are sitting in a car. They are talking  inside the car. When he gets into his car, a cyclist walks by and runs into the car. The woman is started crying and moaning. An elderly man walks past them on his bike and the young man dries his eyes. The bicycle passes
+Tuned model: tensor([[0.8645]], device='cuda:0'):  A young man and woman are sitting in a car. They are talking  in a booth on the street and he is standing with a pull-up shirt over his head. He is shaking.
+
+"I'm sorry, I just saw these cops!"
+
+Mrhenko was wearing a blue and black T-shirt
+

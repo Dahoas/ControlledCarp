@@ -1,0 +1,68 @@
+Model Type: happy_cloob_model
+Critiques: ['I like how happy this story is']
+Base model: tensor([[0.6322]], device='cuda:0'):  "It was a dark and stormy night. The kind of night  which often arrives on a snow day on the island."
+
+Normally he trains fifteen to eighteen nights a week, and spends most of his nights in Florida's company.
+
+On Hog Island he struggles to build a relationship with the animals. Ask
+Tuned model: tensor([[0.6853]], device='cuda:0'):  "It was a dark and stormy night. The kind of night  you dream."―――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.1867]], device='cuda:0'):  This story was written as an exercise for a creative writing class I took  in middle school. I haven't yet written historically based works like this one.
+
+To take this book is like eating with your imagination and enhancing each word you put out into the world. Not... just a novel, idk but it is
+Tuned model: tensor([[0.3753]], device='cuda:0'):  This story was written as an exercise for a creative writing class I took .
+
+―――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.1920]], device='cuda:0'):  I am not really sure if this is the right place to post this  piece.
+
+I know for a fact that it is. Gintoki's lines would flow like water, rich with body and scent, yet lacking the vastness of darkness Sasaki Gintoki made famous as a man.
+
+
+Trans
+Tuned model: tensor([[0.3073]], device='cuda:0'):  I am not really sure if this is the right place to post this .
+
+―――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.9715]], device='cuda:0'):  It was one of those moments when everything in the world seemed to come  together in the Art on the Border reference, and the book copied that exact reference back. Case and point, for Camilla made Moira whirl backward as she slid away in defiance of them.
+
+
+CLICK TO READ:
+
+Three
+Tuned model: tensor([[0.2766]], device='cuda:0'):  It was one of those moments when everything in the world seemed to come  out.
+
+――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[1.0026]], device='cuda:0'):  “I’m sorry, I can’t come  back‭ ‬‏ ‪ ‪‪ Kahotan.‭ ‬‏ I want to thank ‪‪for your memories‭; ‬ω∀`Because even if I am
+Tuned model: tensor([[0.3015]], device='cuda:0'):  “I’m sorry, I can’t come 
+
+――――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.7640]], device='cuda:0'):  A few years back, I was working as a software engineer at a  tech company in San Francisco. My co-workers were young, brilliant, and super hardworking, so I began getting pretty familiar with all of them. One evening, we celebrate a birthday party. Three of our co-workers put on drinks to
+Tuned model: tensor([[0.5029]], device='cuda:0'):  A few years back, I was working as a software engineer at a  theatre.
+
+――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[1.7213]], device='cuda:0'):  A man and a woman meet at a party and fall in love. 
+
+All is totally fine, things are amusing enough, but one day…
+
+This isn't just a short story, it's a take-off on the catchy "Two Sheets to the Wind" from song of the same name by
+Tuned model: tensor([[0.1914]], device='cuda:0'):  A man and a woman meet at a party and fall in love. 
+
+――――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.4938]], device='cuda:0'):  “Don’t do it. Don’t!   “Oh, stop👤…  “Able to take the blame.  “This is–is ridiculous.  “Stop–stop!  “This gets much worse. 
+Tuned model: tensor([[0.3874]], device='cuda:0'):  “Don’t do it. Don’t! ――――――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[0.1259]], device='cuda:0'):  It's been a while since I've posted anything here, so I  wanted to give it some time to cool down a bit. It was interesting watching the that they went through a couple of different design decisions, and avoiding making them so blatant you'd think the second copy was actually intending to be a conventional copy.The
+Tuned model: tensor([[0.2763]], device='cuda:0'):  It's been a while since I've posted anything here, so I 
+
+――――――――――――――――――――――――――――――――――――――――――――――――
+
+Base model: tensor([[1.3222]], device='cuda:0'):  This story can be found in the e-book 'A Short Story  Delete Johnny Dong', by Jeremy D'Aprano and Gary Gerstenberger. This short story can be found on Amazon. This story is about a very similar story. It gets a call from Adam from the 1990s who's actor later became famous
+Tuned model: tensor([[0.9453]], device='cuda:0'):  This story can be found in the e-book 'A Short Story '.
+
+―――――――――――――――――――――――――――――――――――――――――――――――
+

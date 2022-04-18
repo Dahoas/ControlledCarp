@@ -1,0 +1,58 @@
+Model Type: ellipses_coop_model
+Critiques: ['3']
+Base model: tensor([[0.7178]], device='cuda:0'):  It was a bright, sunny day. I can't understand why there  are criminals in Planet Earth. That is not right. (Today, he gives his poem Omar, part of his essay "Utail Alde Dil Diya Aan Nani Maha Ramaleela Olat"—Metaphor for the state
+Tuned model: tensor([[0.5390]], device='cuda:0'):  It was a bright, sunny day. I can't understand why there  are so many of those problems. Because the brains and bodies of others are not beautiful, they are clumsy. But if the human identity is primitive, the human body is no longer beautiful, it is injured. And, JC: And the same with
+
+Base model: tensor([[0.5995]], device='cuda:0'):  I am currently working on a short story. I am not sure whether  to make it a multiple run, a one shot or a novel, but it should not take longer than 6 weeks or so… If you like what you see, be sure and "like" me on your favorite social media platform, as I have
+Tuned model: tensor([[0.5120]], device='cuda:0'):  I am currently working on a short story. I am not sure whether  it will be suitable for print or not. I like the idea of being able to release my young stories when I connect with the widest audience I can find. I will personally transfer the rights to the ebook and hopefully have the first story ready in a
+
+Base model: tensor([[0.1299]], device='cuda:0'):  It was a sunny day in May. The sun was shining brightly and  the wind was skimming the snow onto Hayley's coat. She bounced comfortably on the rug, her shiny, polished shoes scraping against the green ground.
+
+As she listened to the wind hitting her coat just above her head, a feeling of
+Tuned model: tensor([[2.5892]], device='cuda:0'):  It was a sunny day in May. The sun was shining brightly and  there was a feeling of calmness on the majestic TT mountain base. The rocky valley was so beautiful in the morning light that I couldn't help but think at ease in the safety of the spacious includes while passing through the wide entrances to the mountains.
+
+Base model: tensor([[1.0729]], device='cuda:0'):  It was summer, and the sun was high in the sky. It  was around midnight, and Elsa knew things had just gotten worse.
+
+She took the bus home, and thought that she had at least three weeks before starting on a new normal undergraduate program. Dying was taking a while, but she'd already made
+Tuned model: tensor([[1.6398]], device='cuda:0'):  It was summer, and the sun was high in the sky. It  had no time to be crazy. Just like a hectic cruise - 300 planes went into the sky.
+
+I went to the city, I ate ethoxyl, I ate a bit of salt, I went to the nurse's station and
+
+Base model: tensor([[0.3808]], device='cuda:0'):  "You don't know what it's like to be a woman."  She blushed. "Oh. Uh, sorry."
+
+Stepping back, she pouted in an innocent manner.
+
+Mark did not hold it in. "And Gertrude. Do you have grandchildren?"
+
+Gert
+Tuned model: tensor([[0.6032]], device='cuda:0'):  "You don't know what it's like to be a woman."  It's tough to tell. It's in their blood.
+
+I suppose I could talk for more, but I center toward the table.
+
+I just look at the guys and ask what I know. I can tell where they derive some
+
+Base model: tensor([[0.2365]], device='cuda:0'):  a work of fiction. Names, characters, places, and incidents are  for all practical purposes fictitious. Everything about the actual events and character pieces here do not happen. Effects are selected and scenes are staged only to the surprise and delight of those who watch. At the end of the day, this work is shorter, but
+Tuned model: tensor([[0.2769]], device='cuda:0'):  a work of fiction. Names, characters, places, and incidents are  fictitious. Fortunately, there is a film on the market, which "in fact" had these named people, and it is there to lead someone on a comparatively entertaining cultural ride through NYC in 60 Minutes style<|endoftext|>Turkish leaders are likely to give Erdogan as
+
+Base model: tensor([[0.2166]], device='cuda:0'):  It was early morning, the sun just starting to peek over the horizon , and it felt dark, like you'd heard a sneaking sound…
+
+And you stood by one of survival's safety nets, afraid you could be trapped with nothing but rusting chains and ropes for weeks.
+
+It was a nice,
+Tuned model: tensor([[0.4971]], device='cuda:0'):  It was early morning, the sun just starting to peek over the horizon . I had never visited that location. I wanted to know if I could find a hidable road or underground base. I looked at just about every sky channel on the internet and found information on what appears to be a possible NSA ship base that was
+
+Base model: tensor([[0.3649]], device='cuda:0'):  L.A.R.E.D. I was sitting in  the room that night and we were both waiting to find out if she was going to actually finish (Pokemon hard mode, at that time), and I was working on the cloners engine itself at the same time, to get stuff working for people
+Tuned model: tensor([[0.6953]], device='cuda:0'):  L.A.R.E.D. I was sitting in  this dark lonely hotel room, and inside I thought it a farce. I remember being absolutely terrified at what I thought might be ancient being with me, but most importantly that some black, floating bit of stone with me inside could tickle me,
+
+Base model: tensor([[0.2739]], device='cuda:0'): It's a story about a girl who falls in love with the man  who can finally have a name, a story about time travel, and a story about Drake and the common mutilation of people trying to steal the Philosophy of Light.
+
+Prologue: A Snapshot, a Moment, a History
+
+
+Tuned model: tensor([[0.4020]], device='cuda:0'): It's a story about a girl who falls in love with the man  who would take credit for her best friend's murder. She still doesn't understand it.
+
+So it's not just a film about a thirteen-year-old girl; it's about the trials of a thirteen-year-old girl.
+
+Base model: tensor([[1.7592]], device='cuda:0'):  It is a short story, but I am not sure if it is  a motley group of'sall men or if it is the Stu Sackses of the world. in any case, it is a weekend wannabe who awakens mid park one afternoon, used to his days, and marries his
+Tuned model: tensor([[1.3681]], device='cuda:0'):  It is a short story, but I am not sure if it is  your particular interest. Believe it or not, I tried to write the story on a computer. Although it would be an awful compliment, it was difficult. Assuming I managed to decide what I meant at 430 lines in on my computer, it took an
+

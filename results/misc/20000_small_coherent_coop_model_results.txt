@@ -1,0 +1,75 @@
+Model Type: 20000_small_coherent_coop_model
+Critiques: ['Incoherent']
+Base model: tensor([[1.3325]], device='cuda:0'):  "I'm just trying to be a good person." It's about  being kind, a good leader, a good friend, and coming back to a good moment. To me it's one of those conversations that makes me laugh every time I hear it. The guy has a really beautiful moment right after he says that.
+Tuned model: tensor([[1.3582]], device='cuda:0'):  "I'm just trying to be a good person." It's about  selflessness and self currently working to keep my feet down.
+
+Sanders explained now that, "I think the best way to do it is to just sort of pivot away from too much reactive damage that you can cause."
+
+He added that
+
+Base model: tensor([[1.2331]], device='cuda:0'):  I'm not quite sure if this is really a story. It's  interesting re-imaging the world. Shall we?
+
+So I do have a bit of 1940s information to shove down your lap. It's a unique sort of adventure in that social relationships and like minded individuals from Dr. Lummerton
+Tuned model: tensor([[1.7896]], device='cuda:0'):  I'm not quite sure if this is really a story. It's  curious to watch both operatic Mozartian compositions, by Gus Gielinetti and Jeff Baldwin as well as work of I also found it to be quite interesting indeed and I'm excited about the choices I have had to have seen in it, which
+
+Base model: tensor([[1.2776]], device='cuda:0'): I'm writing a book for children and I want it to be a  free speech platform and a chance to learn, BUT nothing does change what people have done to me.
+
+I know I say that co-operating with the state is treason, but I'm not really trying to run it from behind bars.
+Tuned model: tensor([[1.4246]], device='cuda:0'): I'm writing a book for children and I want it to be a  best-selling book."
+
+Esco's chances for getting the book out of research on censorship have been dwindling, he said to me. "There could be a difference in price, the one of the publishers has singled out for key criticism,
+
+Base model: tensor([[0.6848]], device='cuda:0'):  I have recently come across this short story, and I would like to  share it with you. It is titled: The Cheerful Exchange of the Dead, and is a 1940 Charles Dickens short story.
+
+This poem is brewed up of cynicism, doubt, adventure, and conviction. It takes an old orchard
+Tuned model: tensor([[1.5810]], device='cuda:0'):  I have recently come across this short story, and I would like to  share a more concerned, rather brogone face concerning this kind;}
+
+A nurse asked her husband what he was doing yesterday.
+
+"--Tom? I'm fine," said Babine to her husband.
+
+Then she informed him that
+
+Base model: tensor([[1.0040]], device='cuda:0'):  "It was a sunny day, the sky was bright blue, the  wind was calm that seemed to blow, yet there was no wind blowing, clouds just didn't pop up." She thought, "How can this be?!"
+
+Early last year, Nuvizaya received a beheaded dog-faced man named
+Tuned model: tensor([[0.3617]], device='cuda:0'):  "It was a sunny day, the sky was bright blue, the  water was soft."
+
+Twenty years ago Du Chu returned home from school, and something changed for him. Pressure was high, and he was looking around for a place on the beach where he could try the beach. Nobody asked him what he wanted
+
+Base model: tensor([[1.2775]], device='cuda:0'):  It's the end of the world as you know it. The sky  is gray, the hills and mountains are out of focus. I thought that you should take an early sunset, after all, the sky still contains something of its old brightness, and even though it has grown even darker than usual in your eyes and your
+Tuned model: tensor([[1.3735]], device='cuda:0'):  It's the end of the world as you know it. The sky  is falling and hearts arekiing toward you, for you know I'm here now, I'm at my spot … Hey, what are you doing down there? Kama is here! Kama is here! It's my period, man.
+
+Base model: tensor([[1.9926]], device='cuda:0'):  "Why do people hate you?" "I don't know." " What do you know about me?" "Nothing." I see we've both been given this book and given an upon-demand viral cycle. Granted, you won't be sharing all of this word-for-word, but at least you'll be
+Tuned model: tensor([[0.4499]], device='cuda:0'):  "Why do people hate you?" "I don't know." " Hey, what is your point?" "This is our job." "It's what you do when I'm not paying you." "We won't do that." "We'll get you out of the way." "It's your job." "
+
+Base model: tensor([[0.7650]], device='cuda:0'):  "When I was little, I used to love to draw. I  would make my own fairy tales and I would read magical tales for parents to read with me." She dipped one of her hands into the chocolate litter in her lap and accidentally splashed some chip dough around her wrist.
+
+"What's a magical
+Tuned model: tensor([[1.2138]], device='cuda:0'):  "When I was little, I used to love to draw. I  was sitting in bed with two friends, I'd get up and scratch my face. The Goblins from Haven made me laugh and reminded me that this was my father."
+
+"It was a big, sticky stone, or something."
+
+
+
+Base model: tensor([[1.9921]], device='cuda:0'):  "I can't tell you how long I've waited for this day  to come. It's historic worth noting that all this work's been going on, but I was cold and alone and don't know a soul. Someday and forever way beyond what we've seen on these steps, that song will get a new
+Tuned model: tensor([[1.0379]], device='cuda:0'):  "I can't tell you how long I've waited for this day  of waiting for this day of waiting for this day of getting better."
+
+
+"Keep that in mind," she said.
+
+
+""She said I had been with Eye of me for four hours and three is just sad."
+
+
+"
+
+Base model: tensor([[2.0445]], device='cuda:0'):  You know, I'm starting to think that the world is overpop ulated.
+
+
+TAPPER: He was speaking about the public sector. Apparently you are vastly overpopulated in American public life.
+
+
+TRUMP: But, you know, my whole life is experience. And when I look at what
+Tuned model: tensor([[1.6429]], device='cuda:0'):  You know, I'm starting to think that the world is overpop ulated, but there are also many amazing stories from Sumerians and Indians around the world. They are the majority of human civilization while the majority of other regions are rich, rich, rich, rich and rich. I believe most of the violence come
+

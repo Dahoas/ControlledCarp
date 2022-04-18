@@ -1,0 +1,56 @@
+Model Type: happy_default_model
+Critiques: ['I like how happy this story is']
+Base model: tensor([[3.7829]], device='cuda:0'):  It was a beautiful day. The sun was shining, the birds were  singing, flowers were blooming. When I finally spoke, I told Joanna about the boy she had come to get back to Newfoundland from.
+
+The island is an old Irish fishing settlement. The head stand for Algonquin women was right
+Tuned model: tensor([[5.8106]], device='cuda:0'):  It was a beautiful day. The sun was shining, the birds were  singing, and I met my wife—a woman I love dearly—loudly saying, "I love, ma'am," and her criesa of happiness. And while I was saying this, I felt the pride in my heart and suddenly
+
+Base model: tensor([[3.5773]], device='cuda:0'):  "When I was a child, my mother told me that when I  found out that I was gay she could not let me go. That would be too cruel. 'I have won the war and I have a law to make sure I never lose it again, even if I have to fight for it.'"
+
+
+Tuned model: tensor([[5.8770]], device='cuda:0'):  "When I was a child, my mother told me that when I  grew up, I was grateful to my brothers for having a good family, but when I was younger, my mom, looking after my golden retriever, told me she got a chance to win my birthday a few years later. So just the thought
+
+Base model: tensor([[0.3689]], device='cuda:0'): “I had a dream last night,” he told her , jabbing his thumb into the back of three of her fingers. “She just sat there,” jerking suddenly. “He gestured toward the pavement; she saw the glass free of her lips and the bruises on her neck
+Tuned model: tensor([[5.0316]], device='cuda:0'): “I had a dream last night,” he told her  that they are just on a good day and he dances in the fields. And he said she is excited about getting married because his wife is pregnant. She said, "Yes." And she cried so long, and I was so excited about getting married
+
+Base model: tensor([[0.7722]], device='cuda:0'):  It has been a while since I’ve written fiction, and  I have no idea how much farther I can take it, anyway. But I don't see any other idea that will work out for me yet. I have enough issues right now. It wasn't meant to be.
+
+*
+
+````
+Tuned model: tensor([[4.9168]], device='cuda:0'):  It has been a while since I’ve written fiction, and  for the last couple years I have been in love with this furry vest and featherse. I have made a friend of her after a few years and she spoiled my passions and happily volunteered for my furry world and whenever I want to say 'fun gang
+
+Base model: tensor([[2.7634]], device='cuda:0'):  The story is based on the premise that if you can't beat ' em you might get pretty close anyway. In this game, Athnox has stolen a man's oxygen tank and, over an extended period of time, has managed to work his way inside the crew cabin and before they can find a way out, he
+Tuned model: tensor([[4.6295]], device='cuda:0'):  The story is based on the premise that if you can't beat ' em, you can't beat 'em anymore. I think when we get here, we're going to see more 'Popeye's Big Adventure' contestants, which is a huge laugh for some people, who just remember seeing a kid swim with a
+
+Base model: tensor([[1.7133]], device='cuda:0'):  As you can see, the author is not a native English speaker.  English is her mother tongue and the "english" she states was being used in the work social and academic contexts made it possible for her to get it actually said as they had spoken in languages which were inappropriate to them (as well as differing from their
+Tuned model: tensor([[3.0124]], device='cuda:0'):  As you can see, the author is not a native English speaker.  He focuses primarily on Shakespeare and Magic references, and he tells friends to tell them he was married to Nissa, a masked librarian. We meet again again though and again like to play one last spell at the end to freak out about the unusually
+
+Base model: tensor([[1.0527]], device='cuda:0'):  It was early morning, the sun just starting to peek over the horizon . I could hear the air grow heavy with the stench of an unfinished sewer. The vermin making their way up the rocky crumbling streets and dripping from the sewer pipe emptied their belly onto the cobblestones below. The smell didn't paint a
+Tuned model: tensor([[2.3101]], device='cuda:0'):  It was early morning, the sun just starting to peek over the horizon  next to the cottage's pond. The fishermen were looking around, hoping that like all good Lassie art, it's bottle of milk. Then the man took it upon himself to give the trio hands while telling them that there was great art left
+
+Base model: tensor([[1.8627]], device='cuda:0'):  This is a work of fiction. Names, characters, businesses, places , times and locations recognized as actual cities within the fictional city of Indianapolis are used with permission. All other names are fictitious.
+
+
+©1996-2018 J.E. "Mike" Wolf
+
+-----------------------------------------------------
+
+
+Bishop House,
+Tuned model: tensor([[3.7266]], device='cuda:0'):  This is a work of fiction. Names, characters, businesses, places , and people; a bottomless pit where they can't perform deeds.
+
+–Heavy Metal Workers Philadelphia. We're here to celebrate the rich, women and humor of oppressive sounds; a stage of num of 10 and a row of children's
+
+Base model: tensor([[0.5907]], device='cuda:0'):  "What happened?" he asked. "I don't know," she  replied to him. "Do you mind if I go back to breakfast? I'm eating." Robbers had ditched their clothes, sauntered into a Social Club, and started pulling wallets and jewelry out of the pockets. They didn't both
+Tuned model: tensor([[2.2661]], device='cuda:0'):  "What happened?" he asked. "I don't know," she  replied. And they left. Occu looked at his body, where he sat just for a moment. Then the next sign of calm entered. He sat again, and suddenly feminine faculties sprang into view eagerly. It was said that all fifteen of us
+
+Base model: tensor([[0.5168]], device='cuda:0'):  "What's going on?" asked the old man, looking up from  2011, tapping the gun in front of him.
+
+"O! O! Carryon," muttered Othisthe, his voice trembling.
+
+Don't the Ackrawen mourn the loss of their boat with the songs of the silvermen
+Tuned model: tensor([[2.4949]], device='cuda:0'):  "What's going on?" asked the old man, looking up from  my hypocrisy. "I'm just going boss steal, asking others to stand up to me."
+
+As if it suddenly seemed like we were hit for naught by disapproval, the old man took steps to give "To A United States President"
+

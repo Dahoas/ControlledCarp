@@ -1,0 +1,60 @@
+Model Type: imagery_coop_model
+Critiques: ['39']
+Base model: tensor([[1.1617]], device='cuda:0'):  The following is an excerpt from a novel: If you’d  care what happened to the living, then you would want their body to be made cheap. A cheap dog—a used baronet, or a piece of scrap that was bought two years ago for fifty cents an ounce over a dealer price. Making a
+Tuned model: tensor([[1.4261]], device='cuda:0'):  The following is an excerpt from a novel: If you’d  only heard of a pink knife, you might think it a dildo, or a butter knife, or a cardboard tube. You might at first guess that this - the pink half - was taken out of a bathroom somewhere and mounted on one's forehead
+
+Base model: tensor([[0.4678]], device='cuda:0'):  It is a work of fiction and should not be confused with real events .
+
+In real-life Nungesser had an unsuccessful suggestion to parents about funding pre-kindergarten projects through foundations, urging authors to;
+
+Tell parents to treat funding as a incentive … provide grants and funds for causes
+Tuned model: tensor([[0.1020]], device='cuda:0'):  It is a work of fiction and should not be confused with real events , for example, the atomic bomb dropped on Hiroshima. Allah said, "If after two months, the remembrance is not coming, except for the sacrifice of those who have died as fishermen, or miners, or chaps, or children, or cam
+
+Base model: tensor([[1.2048]], device='cuda:0'):  It's about a girl, a boy, and a cat. It 's pretty simple to follow. Better than anything I've done, sure, but awesome. However, accepting the premise, it's not complicated. It's a sort-of children's struggle so you don't lose your pocket sanity. I really like
+Tuned model: tensor([[0.8462]], device='cuda:0'):  It's about a girl, a boy, and a cat. It  took me about 30 hours. It was a very interesting experience for me and I think a good story, too, that more people should know about because, after all, it's a very familiar story to us all around the world. But, really
+
+Base model: tensor([[0.1078]], device='cuda:0'):  It was the first day of the school year. The kids were still  learning to move and construct the new super school. When some of the other students swarmed the halls and started to talk amongst themselves while standing on what looked like shaky black poles which were supposed to be in place to protect them from the storms, Weiss
+Tuned model: tensor([[1.4504]], device='cuda:0'):  It was the first day of the school year. The kids were still  at it, so I decided to put a couple screws in his 22" sq. head to see if he would stay down. The boy looked at the screws and absolutely yelped. I told him to stay off of the head and to give
+
+Base model: tensor([[0.4972]], device='cuda:0'):  It’s the middle of the night. I’m  asking you to pray for me."
+
+"For what?" the glancing astronomer asked.
+
+"Doesn't matter. Please pray the right things, the right kind of prayer. Obviously you want me to pray, but is that a
+Tuned model: tensor([[1.5246]], device='cuda:0'):  It’s the middle of the night. I’m  alone. It's too dark.
+
+I’m not used to sleeping in the right position.
+
+I’m dead inside, and they don't know it, but I can feel them.
+
+I know all right
+
+Base model: tensor([[0.5627]], device='cuda:0'):  This story was written as an exercise for a creative writing class I took  in college. I was blown away by it, so I'm hoping to put the chapters published at a later date anywhere from a few days to several years from my willingness to rewrite the entire story. Once everyone's had a chance to read it,
+Tuned model: tensor([[0.5209]], device='cuda:0'):  This story was written as an exercise for a creative writing class I took , in the spring of year where I was almost to get to score a specific workphone, since I knew the script was in to be written from this book, the nerdy brain/nerves were still working on it then,, and the
+
+Base model: tensor([[0.1850]], device='cuda:0'):  I don't think it is a good idea to publish this on the  PBE either, since it doesn't showcase vision or move clearly, and I will definitely keep it for weebly when I get an upload link, since I haven't made it clear how I intend on advertising and promoting.
+
+
+As always
+Tuned model: tensor([[0.1265]], device='cuda:0'):  I don't think it is a good idea to publish this on the  thread. So here is a thread for people that are actively reading this.Issues:-If you want to meet up with your friends and make a new game or play one that isn't dynamic (since those will take quite alot more effort than a
+
+Base model: tensor([[1.2772]], device='cuda:0'):  "I was born in the summer. My father took me to the  sixth grade. I remember sitting with my baby parents at their counter and eating the whole meal. My father as a salesman."
+
+Whether Paul likes it or not, he will undoubtedly serve as the conduit from his former side of the family to those
+Tuned model: tensor([[0.8982]], device='cuda:0'):  "I was born in the summer. My father took me to the  office, to the traders. He was very strong. He said the economy was horrible, but I could do whatever I wanted, and planned to finish off before graduating. I was huge boy, but now, even though I still am not precisely grown
+
+Base model: tensor([[0.6555]], device='cuda:0'):  In which a man discovers that he can no longer trust his own judgement . This was challenging in light of Meredith's intense disgust of the player, even though he himself no longer considered her a friend; AI from Dimmensiona and Amercia, on the other hand, maintained their distant serenity. Brittany used
+Tuned model: tensor([[1.1844]], device='cuda:0'):  In which a man discovers that he can no longer trust his own judgement . A certified bullshit artist as well.
+
+
+This did help soften the blow, after all, the showing was only one of the events on the Firefly tour. But I think it marked a decisive turning point in the band's outlook. A period
+
+Base model: tensor([[0.9355]], device='cuda:0'):  There was a girl who fell in love with a boy. This is  going to be, uh, seriously a major decision.
+
+BM: No offense, guys, but you seem to know a lot about faces.
+
+SAM: Feel free to be silly.
+
+[to Allen] What does that mean
+Tuned model: tensor([[1.1048]], device='cuda:0'):  There was a girl who fell in love with a boy. This is  a topic we had been hoping for. Yes, the key thing about her was her sex appeal, but they had other attributes to bring to the equation prior to that moment. But as she would suggest to you as well, when you are in that
+

@@ -1,0 +1,55 @@
+Model Type: small_coherent_coop_model
+Critiques: ['Incoherent']
+Base model: tensor([[1.1073]], device='cuda:0'):  It is written in the first person. It is about a young woman  living in Turan-Mazib's name who in the past meets a puritan prince. The prince's reaction to this unexpected encounter, both hotter and colder, is surprising, revealing, and ultimately unsettling. Various non-PC related issues happen
+Tuned model: tensor([[0.8260]], device='cuda:0'):  It is written in the first person. It is about a young woman  named Annie. She changed her name, boldly and to this day, she has reasons why she is a person entirely different from very often everyone everyone else. All of the characters are great has not asked the questions that came up in the scenario that I
+
+Base model: tensor([[1.0072]], device='cuda:0'):  It was a beautiful day. The sun was shining, the birds were  singing, the Pacific Ocean was glowing in harmony with the ships in sight. Jaune, still in his pajamas, was from his pod drifting towards the Mako, and today was no different. He found a cozy spot to put himself in a
+Tuned model: tensor([[0.5534]], device='cuda:0'):  It was a beautiful day. The sun was shining, the birds were  singing my name.
+
+There was be much applause for Navyman Tom Pain. He has tanked, and we've been enjoying the response, and people even chimed in.
+
+Tom said he felt he had hit his stride and been
+
+Base model: tensor([[0.3374]], device='cuda:0'):  "What's the time?" "Three o'clock." "I  can't wait." "What time did you arrive?" "All right. You arrived at the Hansel and Gretel cabin at about 6:30 p.m., was it?" "Oh, actually." "Some of us arrived at about three
+Tuned model: tensor([[1.7042]], device='cuda:0'):  "What's the time?" "Three o'clock." "I 'm not here to this." "What're you doing?" "Why can't you do this? This is too simple for me. I'll go in and swallow that." And from me gathered a stack of three cookies and one sultry,
+
+Base model: tensor([[1.4650]], device='cuda:0'):  It's about a man who has been in love with his best friend 's daughter for the longest time. He's occasionally just parroting their full moves, along with encouragement and comfort during his first six months of pregnancy. But he'll do things in story school about bringing her along without making excuses.
+
+De
+Tuned model: tensor([[1.1569]], device='cuda:0'):  It's about a man who has been in love with his best friend , because he's good help, but he's doing more.... even he cheats himself and can't care for what other man he loves * 12
+
+XXX
+
+"I will have gone and talked with him"
+
+I was really
+
+Base model: tensor([[2.2364]], device='cuda:0'):  "The Uninvited Guest". A man wakes up one morning to  find that he can cross the Netherworld through the eyes of a doltish guest and his fellowcoming alive, something that might involve a ghoul or a succubus in The Bridge on the River Kwai. Using bright lights, frost,
+Tuned model: tensor([[1.5338]], device='cuda:0'):  "The Uninvited Guest". A man wakes up one morning to  find that there is a curse on him. This is because he is released on his own. He is going around in the room but only to be met by the handsome woman who looks like a middle aged woman, making him feel ridiculously uncomfortable. It
+
+Base model: tensor([[1.4767]], device='cuda:0'):  "I was walking on the beach one day when I saw a young  boy who looked like me. He was wearing dark blue jeans and a yellow T-shirt. There were tiny white stars on his chest."
+
+In fact, there are by now several hundred young black men serving time for second-degree murder,
+Tuned model: tensor([[0.9517]], device='cuda:0'):  "I was walking on the beach one day when I saw a young  girl running out the window in one of these colorful shapes.
+
+"So I just grabbed around the girl's dress and started to go ahead to compose myself. I told her hug her and tell her to go ask me what we're doing."
+
+Base model: tensor([[2.1216]], device='cuda:0'):  The author of the following story wishes to remain anonymous. A few weeks  earlier, I had an accident during a rally in which we drove over a cliff and fell. I was laying on my left side, and I cracked the back of my head on a mallet. I'd been cut over the bone. When I
+Tuned model: tensor([[0.8166]], device='cuda:0'):  The author of the following story wishes to remain anonymous. A few weeks  ago, I was reading about Rust protocol authors of Rust based on Résumé, and one of the first discussions mentioned there was issues that make it hard to understand how Rust protocols come together in the framework. The message is "Can we make one
+
+Base model: tensor([[0.6391]], device='cuda:0'):  A man sits at a desk in a large open office. He is  writing something on a yellow legal pad. Two individuals, one balding and the other taller, have sat at the desk before him. The balding one has a cross-shaped part of his head shaved. The taller one has a mustache. Besides
+Tuned model: tensor([[1.2634]], device='cuda:0'):  A man sits at a desk in a large open office. He is  doing a solo installation on a towel covering hair that had originally been cropped out of the backs of his feet.
+
+After all this is a forgery – neither of the team has ever played for the house – but I do have one's favorite
+
+Base model: tensor([[0.6184]], device='cuda:0'): It's about a young woman, who, in the midst of her  life and career, decided to take a step to make sure she wasn't left behind.'According to 360 Shine, Hull is neither a native of the country of return of her parents, nor did she possess a "high talent level." Instead, its
+Tuned model: tensor([[2.0510]], device='cuda:0'): It's about a young woman, who, in the midst of her  life cycling 4km in six hours, has to do something unthinkable: she wants for me to continue fighting for her life.
+
+It's all I've done for you all. You said it was the best thing I've done for me.
+
+Base model: tensor([[1.7661]], device='cuda:0'):  I want to write a short story based on the following premise: A  Tiara with six fingers and you have to influence the minds of disturbingly attractive intelligentsia to get your hands on them in a choke-out so that someone will buy your head stampede vehicle.
+
+Here's my morning routine:
+
+Tuned model: tensor([[2.0293]], device='cuda:0'):  I want to write a short story based on the following premise: A  month prior to a murder, the civil rights movement actually passed on the story concept by possibly staying alive for the five years ahead. It needed a lot of work and an editor whose experience in survival journalism is not too different than my. In the cases
+

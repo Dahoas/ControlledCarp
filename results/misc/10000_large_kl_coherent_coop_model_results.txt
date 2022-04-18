@@ -1,0 +1,69 @@
+Model Type: 10000_large_kl_coherent_coop_model
+Critiques: ['Incoherent']
+Base model: tensor([[0.7081]], device='cuda:0'):  This is a work of fiction. The names, characters, places,  and situations are fictional, and no actual name, character, location, or situation was re-created. A copyrighted work may not be used to disparage another person's reputation, management, career, business, etc. The purpose of recreating the
+Tuned model: tensor([[0.9759]], device='cuda:0'):  This is a work of fiction. The names, characters, places,  anything else we've been looking at in the client so far. We're not trying to play for the person with the story. We're trying to play for our hotidious professional partners. We wanted this thing to look very cool on the screen with
+
+Base model: tensor([[1.1501]], device='cuda:0'):  I was born in a small town in New Hampshire. I grew up  in a house studded with older people who wore hearing aids. One summer, my great-uncle taught me how to pick hickory for larder stuffing.
+
+My parents have been haunted by a mysterious illness called deafness since my
+Tuned model: tensor([[2.2507]], device='cuda:0'):  I was born in a small town in New Hampshire. I grew up  playing the piano as full-time pawn. I didn't play for support while I was at school. Instrumenting became a sort of mojo for those who died during a hurricane. I was just trying to play as well as picture.
+
+
+
+Base model: tensor([[1.1502]], device='cuda:0'):  It's been a long time since I've posted anything here, but  the 2 girls above are the quickest to judge the stability and setting mistakes that have stomped my creativity. Some mistakes are forgivable – point all out the mistakes that fix them; otherwise you're setting yourself up for failure, and at that point your
+Tuned model: tensor([[2.0434]], device='cuda:0'):  It's been a long time since I've posted anything here, but  I feel like I got something interesting to consider. Part of the fun is that I can see different adult relationships in this anime, as they seem to fulfill this concept.
+This is a pretty complex anime, and a lot of fun to watch.
+
+Base model: tensor([[1.4996]], device='cuda:0'):  I'm currently writing a short story about a man who falls in love  with a building named Morning Star — that's an homage to a "breakthrough" piece in Jonathan Priestley's reading list Hooligan); HopeCat got strong reception at 2Econ, a respectable slatternaene for a hardcover
+Tuned model: tensor([[0.5602]], device='cuda:0'):  I'm currently writing a short story about a man who falls in love  and is very much running away from it. We are all SWANTER.
+
+But HIM. Hope you all have a reading.
+
+Happy Reading,
+
+Grandaddy
+
+Sorry, but I'm not planning on how to deal
+
+Base model: tensor([[1.2089]], device='cuda:0'):  "There was a girl, her name was Alice. She had long  hair and wore a white tunic over her smaller-than-average breasts." Robin, Lucy and Mandy in black undercover shifts confirm that Alice drank Ben's Famous-bottle cappuccino. Robin and Lucy subsequently took Monte Carlo, which
+Tuned model: tensor([[1.0394]], device='cuda:0'):  "There was a girl, her name was Alice. She had long  lost a hair. Have you boys seen her today?"
+
+"Oh."
+
+"Yeah," I whispered. "Well; how long it takes?"
+
+Building on the voice I was starting to make Latin-like. In First Day
+
+Base model: tensor([[1.2383]], device='cuda:0'):  It’s winter. It’s late at night.  I’m not happy.
+
+On the opposite side the real Anna Shandy knows all this too well. One mystery, persistent and unsolved, has taken over the course of her life, leading her to become obsessed with finding out what is
+Tuned model: tensor([[1.3720]], device='cuda:0'):  It’s winter. It’s late at night.  I am sad and trying to make him lose his car. However, that doesn't mean that she must've brought it there. He asked if she's ok, but she wouldn't budge it seemed like that is not true. She just seems
+
+Base model: tensor([[2.2984]], device='cuda:0'):  What I don't like about it: The story is written in the  first person voice, which is a nice domain-of-perspective, but the writing is a bit grating. There are just at times...the reasoning made not that interesting. The scene in the Bridge is real. Hans is telling Paul
+Tuned model: tensor([[1.1115]], device='cuda:0'):  What I don't like about it: The story is written in the  writers' runtime.
+
+I really don't want to write about villains or accept them as not goon stories. Ginny has been much too manipulative to continue the plot, it seems to me that you can't run off characters and not have this
+
+Base model: tensor([[0.0224]], device='cuda:0'):  How would you feel if you knew that your life was going to change  forever?
+
+Here at Good Chemistry®, we believe that knowing that you're pursuing your dreams doesn't have to feel bitter or unfair. Every change is a step toward getting to where you want to be in life. We don't tell you to
+Tuned model: tensor([[0.8392]], device='cuda:0'):  How would you feel if you knew that your life was going to change ."
+
+I've told this to many people before, increasing upon this day.
+
+I'd all best not to reveal the name of my mother to anyone, but I can tell you all that I lost someone in the first row. I
+
+Base model: tensor([[1.3891]], device='cuda:0'):  A few years later, I was walking down the street in my hometown  of Topeka. I had just returned from putting my luggage in the back of her parents' car when a woman stopped the car in the open half lane to trash the car. I met this woman at 9-11 on Wednesday by the same space
+Tuned model: tensor([[1.1369]], device='cuda:0'):  A few years later, I was walking down the street in my hometown  of Budweig with a community who was mostly Koreans.
+
+"We worshipped each other. We had Buddibles. It was a very 'charming place." were the eye-catching little narrators.
+
+"They were all enthusiastic
+
+Base model: tensor([[1.7439]], device='cuda:0'): “There was a time, when I was a little boy,  I loved to bind toys together programs) and he is not the only guy Utnapishche either is linked to. Both Utnapishche and Hobolyte are commonly associated with Sensing Chains and evoke memories of playing with them in
+Tuned model: tensor([[1.7828]], device='cuda:0'): “There was a time, when I was a little boy,  when I listened to so many things from songs, music. My dad says it was so repetitive that I had to recall the songs.
+
+- I do've always had an older son. Is that right?
+
+-Yes! After she
+

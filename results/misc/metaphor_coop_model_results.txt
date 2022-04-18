@@ -1,0 +1,60 @@
+Model Type: metaphor_coop_model
+Critiques: ['10']
+Base model: tensor([[1.5214]], device='cuda:0'):  I have been thinking about writing a story for a long time, but  I never got around to it. It is so wonderful to know somebody is interested in a film project! I have a of a difficult subject matter, and I can't talk about it, because it immediately becomes like a no-go area on an
+Tuned model: tensor([[1.5862]], device='cuda:0'):  I have been thinking about writing a story for a long time, but  am not so confident in the ability of 5pb.: When I became a manga writer, I thought about writing stories that are just about love, but it's one in which a person is burd with a burden of hate that they can't leave alone
+
+Base model: tensor([[0.1313]], device='cuda:0'):  A man in his mid-thirties wakes up from a nightmare  and decides to figuratively change the course of his life.
+
+2. Don't be humble. I'm not one for idealising people for what they brought to their careers but I'm sure he enjoyed the hustle and bustle of working
+Tuned model: tensor([[0.1841]], device='cuda:0'):  A man in his mid-thirties wakes up from a nightmare  and is immediately confronted by a woman. She tells him that her life is more important than his -- that Dorothy wasn't just or just Dorothy, but this was her purpose in life. However, seeing as the man needed to work coupled with a miserable
+
+Base model: tensor([[0.1872]], device='cuda:0'):  This story was originally published in the April, 2001 issue of "Science  Fighter
+
+Name First Last
+
+email This email address is being protected from spambots. You need JavaScript enabled to view it. See our privacy notice and disclaimer
+
+
+& if this is not your first website
+
+& your Meteorite
+Tuned model: tensor([[0.1782]], device='cuda:0'):  This story was originally published in the April, 2001 issue of "Science ," issue 50.
+
+
+If we are getting 1200 years' worth of global warming, it's too early to say definitively that it's warming because of global warming. But there's enough evidence of that to say that it's probably warming because of
+
+Base model: tensor([[0.3345]], device='cuda:0'):  A young man with dark hair and a red shirt walks into a store  and pays for a McDonald's. His name is Kevin Cullen and he says he is JFK. Howard said they know his name but told him it was all bullshit. The lady looked at Howard and said she thinks it is true because there aren't that
+Tuned model: tensor([[0.6093]], device='cuda:0'):  A young man with dark hair and a red shirt walks into a store . A woman with pink hair and a blue shirt walks in. A pair of women stores groceries while a man walks through the store. A distinct silhouette is also seen against the background of a buildings and a set of photos gives this identity away. The
+
+Base model: tensor([[0.9490]], device='cuda:0'): It’s the end of the world, and I’ m going to large-scale an experiment against Doctor Faustus." To the Jewel, that landed as "left a city all but uninhabitable". Brigid figures, having read the Book of the Damned before becoming a vampire she perceives it
+Tuned model: tensor([[0.2470]], device='cuda:0'): It’s the end of the world, and I’ m of the 31st Century, and that communicates to me a dramatic war has started. the other responders ✔’’’’’’’​ §​Im not sure, but when I got back they timed
+
+Base model: tensor([[0.0173]], device='cuda:0'): It is about an old man, who is dying. He is sitting  and thinking of a better world. Why? Because the people of his time thought so. But after all…the present time is a time for utter stupidity. But as long as people continue to think, it is impossible to find good." It says
+Tuned model: tensor([[1.8895]], device='cuda:0'): It is about an old man, who is dying. He is sitting  in a chair and a bucket. It's about 50 pounds, but that's just about what he weighs because he's a man, and he's dying, nor are any of the movies about death. So the buckets were moving because the old man
+
+Base model: tensor([[0.5527]], device='cuda:0'):  It is an adaptation of the song “I’m Your s“ from the PlayStation game in which the player controls the lion of the forest after the character put everything in his pocket to escape without getting caught, but survival skills are lost because of a trend towards a «can-do‑ attitude».
+Tuned model: tensor([[1.1043]], device='cuda:0'):  It is an adaptation of the song “I’m Your s†.
+
+. A first stand-alone A short film about a boy who becomes weary by often running into them but has the magic heart to see the spark of life within both the physical and creative state of the key characters.
+
+
+
+Base model: tensor([[1.4221]], device='cuda:0'):  I'm looking for a good word or phrase to describe this feeling that 's ahh. It should be quite political. You know how politicized it can get on campus? I do that.
+
+You can condense it to a single word, because maybe Theglove will help.
+
+Gary Green from
+Tuned model: tensor([[2.4388]], device='cuda:0'):  I'm looking for a good word or phrase to describe this feeling that  goes over and beyond the actual novel. I'm looking for something really out of the ordinary and really unique in its own right.I think It's easier for me if the thought is 'ten minutes' in register. I level up removing a lot
+
+Base model: tensor([[0.1283]], device='cuda:0'):  It's a story about a man who was born to be a hero .
+
+How it started
+
+H.Orion is the destroyed Robbery-Theory inventor who – along with Weiersmith – is helping design the System and while it comes with triumphs, is also breaking down every social code of
+Tuned model: tensor([[0.0298]], device='cuda:0'):  It's a story about a man who was born to be a hero  and no matter how far he goes in wartime, the war heals him. He renounced his first love and his constituency, as successfully as has been done by the delighted second wife. He ends one war and his bones will be found in another,
+
+Base model: tensor([[0.3543]], device='cuda:0'):  “You’re going to kill him, aren’ t’?" Amy had curled into a ball on the other side of the clubroom table, staring at the helpless baby, half-grasping for a lie. "We’ll never get him out." Amy trudged away
+Tuned model: tensor([[0.1866]], device='cuda:0'):  “You’re going to kill him, aren’ ’’’’’’’’’’’’’’​
+
+I felt my phone vibrate again. A text from the most important man in my life with
+
