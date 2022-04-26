@@ -1,0 +1,65 @@
+Model Type: humor_coop_model
+Review: humor
+Base model: tensor([[0.4248]], device='cuda:0'): wendy's mother  told her to make a family breakfast before her grandmother died. wendy started early and had scrambled eggs and bacon. wendy did not have time to get the family newspaper. she told her grandma about all she could eat. her grandmother laughed and told her she would not be sad.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>The man blamed my
+Tuned model: tensor([[0.5447]], device='cuda:0'): wendy's mother  gently rubbed her back to join Colin in his style as he supported her on top of her they both had strokes elsewhere then she was ladling milk on a fondness potion. She was having so much fun with it when Heidi came into the family room. She stopped just as Tyler came into the room. "Let me help!" she told him calmly as she turned away from
+
+Base model: tensor([[0.5685]], device='cuda:0'): harry was driving on the  road.  suddenly, his car broke down.   he got out and checked the problem, but it was nothing serious.   with no other options, he decided to call for a tow truck.  the truck arrived in ten minutes and harry was out of the road.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>wendy<|endoftext|>Source:
+Tuned model: tensor([[0.7560]], device='cuda:0'): harry was driving on the  East Side of the junction when he accidentally struck Jori's car.
+
+Barnett, a taxi driver, told police that he didn't see the man in his cab or hear any vehicles which were there behind him.
+
+The 53-year-old claimed that he hit the back of his taxi when he encountered the man who was in front of him, before
+
+Base model: tensor([[0.4099]], device='cuda:0'): neil had just arrived in  sicily. he had booked a flight to swaybrook.  there, he would learn about swaybrook's history.  he found everything to be absolutely quaint and lovely. he ended his trip exactly as he had planned!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to the syracuse pepper k showed up everyday with a smile.  it was
+Tuned model: tensor([[0.6640]], device='cuda:0'): neil had just arrived in  Switzerland and Hé linked up with him in 2015.
+
+Jade Templefalter: As the eldest of the twins, Jade had the obvious BBC career in opener. Why 'her' career media Newtown: "I kind of knew from her before Jess and Adam done with it. A Danish producer had told Kimmel council, and had done the 60 second spot, that
+
+Base model: tensor([[0.6722]], device='cuda:0'): i drove home from work
+  to find a flat tire. i put on my spare tire. i went inside and changed my tire. i called roadside assistance for help. they came and helped me change my tire.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Originally developed for use in military applications, the unica 700 is a tough vehicle.  it's lightweight and.<|endoftext|>The website
+Tuned model: tensor([[0.4269]], device='cuda:0'): i drove home from work
+ 
+'I do not object, nor in the slightest that such an honourable old woman here should enjoy the same privileges that all other ladies enjoy,
+
+as the owner of a well-enhanced instrument and her own office.
+
+To what motive, we do not know.
+
+We do not know that she is jealous of the circumspection, the purity
+
+Base model: tensor([[0.5696]], device='cuda:0'): mom took me to the movies . i had bought my ticket early. i had covered my seat. my mom laughed at me and told me i was a grownup.  i wobbled in my seat, and fell asleep. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Multiplayer online games are performing better on the hpv
+<|endoftext|>Unless you're in a hurry you should eat
+Tuned model: tensor([[0.5839]], device='cuda:0'): mom took me to the movies  once a summer and each time she shows me her ring "777 stone" which is basically a lot of diamonds. I don't know how I felt the first time I saw the 756 I really want one now! 07 September 2013 at 23:34
+Geronimo said...
+Spanish spoken Gail said...
+Anahanti lady! Will have to go check
+
+Base model: tensor([[0.5551]], device='cuda:0'): tom always wanted to see a  broadway play. he didn't have enough money or a ride. he was dismayed when his buddy asked him to accompany him. that was twenty years ago. tom now has a thriving orchestra - and would love to go.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Congo, kenya's notorious drug dealer turned judge was arrested. 
+Tuned model: tensor([[0.1748]], device='cuda:0'): tom always wanted to see a  guy wear first thing. When Larry was 2, he found his first stick, massive as it was, during a slingshoting competition. That stick was his dad's and, after a month of winning, Larry found out his dad had the same stick, just bigger. So now Larry has a giant stick, he just needs some parents to let him play with it
+
+Base model: tensor([[0.7464]], device='cuda:0'): mark and frank were swimming in  their pool. little george started to float around in the pool. mark waved to help him out. george didn't seem to notice mark's presence. mark and frank took him out of the pool.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>PREFERRED to the other candidates had been studying hard. they showed they were still ready to be
+Tuned model: tensor([[0.1621]], device='cuda:0'): mark and frank were swimming in  a state of moist bliss. Natasha, Edith, Lydia, Norton, Overhawe, Tench, Baily, Peleus, Fanny Walton, Penny and others of the circle parallel me. I saw Les femmes opous se fait consecrée, mingling branches of cypress, lilac and violet lay upon underwater foliage…. Amid the mighty
+
+Base model: tensor([[0.6418]], device='cuda:0'): quinton was getting evicted . his apartment was going to be condemned. all his furniture was stored there. he couldn't afford to move.  luckily, a friend offered him his old apartment. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The buffalo bills were a worst-to-first team last season. last night they lost their opening game to an unranked team. coach
+Tuned model: tensor([[0.6412]], device='cuda:0'): quinton was getting evicted  from bar Roast on Vermont. The next day, four friends visit Roast's family to tell him Roast is moving back to New York. Grant Beckman aka Bounty Hunter impersonates Brutus and Robben, mimicking Brutus' attitude and his Spanish accent. The group runs into Brutus and Robben coming out of the baseball stadium and showing them a piece
+
+Base model: tensor([[0.5375]], device='cuda:0'): jake bought a house with  a pond. he added a pond terrier puppy to his yard to play with. next he bought dog food for the dog. jake also filled the pond with water. now the dog and pond can play together in peace.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The foreign secretary had announced his country was any sale on iraq.   he had
+Tuned model: tensor([[0.8578]], device='cuda:0'): jake bought a house with  the intention of living there permanently," Dez said, "but interestingly, he wasn't destined to stay there. The interested lady asked Jilian during a tour where he was living, and Jilian answered, "I've already moved in."
+
+According to Dez, the woman broke the news to Jilian, who thereupon asked if he wanted to move into
+
+Base model: tensor([[0.4967]], device='cuda:0'): cora and her friends were  on a road trip making their way to las vegas. they were in the car on the way to vegas when a huge bust occurred. the screen shattered and it would take weeks to repair. as they drove back to their car they were horrified it was ruined. the three girls agreed to never drive in vegas again.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[0.4543]], device='cuda:0'): cora and her friends were  alone. Daddy gave me an interview, talking about being publicly named, and it took me by surprise. It seemed so normal, or at least unremarkable.
+
+Then Mom and Dad came and showed us "repressive journalists," who adored Cinderella, the Drysdale, Marissa Tomei … and Daddy confirming Jolly, who by virtue of her good looks,
+

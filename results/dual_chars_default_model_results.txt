@@ -1,0 +1,57 @@
+Model Type: dual_chars_default_model
+Review: Make this a story involve a good character and an evil character
+Base model: tensor([[0.7338]], device='cuda:0'):  It was the first day of school. There was a lot going on , it was all he and I could do to try and get some prep."
+
+All of which led to a heartbreaking family reunion on the USC campus this year.
+
+"That was a wild divorce," Osborne recalled. "The look on Leonard's face when I said it was the breakup
+Tuned model: tensor([[4.9962]], device='cuda:0'):  It was the first day of school. There was a lot going on . We talked a lot all the time at home. It was a kind of living room, me playing games, eating, talking to her. The Joker knows Batman and Joker knows Batman. He had always wanted to experience that. Then how could I do that without playing a villain because then he would
+
+Base model: tensor([[3.1748]], device='cuda:0'):  It's about a guy who has just woken up from a dream , of playing a video game that someone else invented that he's never seen, without leaving his bed.
+
+Whoever the creator is, they play Super Mario 64, what they are disputing is, who made the game, because whatever game it was, they said, that's not a positive
+Tuned model: tensor([[5.7061]], device='cuda:0'):  It's about a guy who has just woken up from a dream  where people are coming after him. There's a villain in this story that we're trying to put in the spotlight so we can drive home some of the audience hatred of the Democrats because of this guy. This is doubly important because Batman really works best when he's disrupting the horrible injustices we
+
+Base model: tensor([[2.4711]], device='cuda:0'):  "It's not your fault," he said. "You did what  you were told."
+
+Dan Riel, a 37-year-old paramedic from Orlando, Florida, asked a police officer: "Didn't you know what I was doing?"
+
+That's when Officer Stephen Beard made the teen swear and throw his cellphone into the curb. R
+Tuned model: tensor([[5.6977]], device='cuda:0'):  "It's not your fault," he said. "You did what  you should have done and you're the awful one, and I'm the bad one and I'm a terrible character, but at least Batman is in control of himself." He also seemed to propose that Batman be a good person so that the movie can be made a little bit different from the cool,
+
+Base model: tensor([[0.9531]], device='cuda:0'):  I don’t know if it’s true, but  the external team’s (that put a lot of muscles myself) working overtime and there might come a time when we’ll have to make some​ decisions yet again.​
+
+
+Aisha: That's a long way from MC1, right?
+
+AMei:
+Tuned model: tensor([[7.6117]], device='cuda:0'):  I don’t know if it’s true, but  a lot of villains tend to agree that people who are evil would never stand up for themselves—people who can put an individual in danger. Specifically, many villains aren't hateful people by and large—one could start off with some charming smile, but it can turn wrenching quickly. In this game
+
+Base model: tensor([[4.8650]], device='cuda:0'):  It’s about a man who has been dead for a long  time and he comes back as a god’s child, but that Dogtan’s immortal love and friendship with him frees him and he still can’t stand those demons getting close to him. To make ends meet a small business has been formed. To the outside P absent
+Tuned model: tensor([[7.3131]], device='cuda:0'):  It’s about a man who has been dead for a long  time and who's trying to do good by doing good again, he solves crimes by being nice again. The casiologists tried to help him some (the most successful one was Patricia is a nice woman), so he tries to become more like them to help them out too, making them feel better
+
+Base model: tensor([[3.2220]], device='cuda:0'): I am writing a sci-fi story, in which one of the  characters is a main character who has been elsewhere as in "Science Fiction/Fantasy and Contemporary Fantasy." The character's possessive search for her mother's body revolves around exploring medieval science. But 19th-century science employed artifacts and images with long pagan roots, while Nietzsche did his best to fit
+Tuned model: tensor([[7.6975]], device='cuda:0'): I am writing a sci-fi story, in which one of the  heroes and the heroine will be evil, while the good will be seemingly good - and that in many ways seems like a pretty decent plot. It has entered my head that this story is gender-swapped in which the evil queen may actually be neutral in rank, and in this place she is loved
+
+Base model: tensor([[1.5509]], device='cuda:0'): “The Devil’s Workshop”byLaurie  McKay. Amazon Studios†
+
+‡groove, jazzy, slow…songs‖
+
+‡the music of BYU comes from series with Alma distack up‰
+
+‡the amazing sound productions‰
+
+‡photography
+Tuned model: tensor([[5.6389]], device='cuda:0'): “The Devil’s Workshop”byLaurie “ Read the great night story of Laura was told to her by Batman“ "You need to know why Batman stopped in his home when there should have been no reason for him to. He once did some foolish things back when he was a child but a better person would not have done so
+
+Base model: tensor([[2.3725]], device='cuda:0'):  A few days ago, I was sitting on my couch and reading a  Christopher Hitchens, and on a thoughtful essay he writes, it is about how he did that. The first paragraph is: Here is how decades of experience have taught me, that wars are killed by use of force; in self-defense. A historian of Western wars can't bear to take these
+Tuned model: tensor([[5.2630]], device='cuda:0'):  A few days ago, I was sitting on my couch and reading a  book when Batman v Superman # 6 arrived. To be perfectly honest, it scared the everloving fuck out of me. Batman isn't a villain in this book, he's a good guy with unspeakably strong morals. Even though this didn't stop me from frightening people minutes after I read the
+
+Base model: tensor([[2.6985]], device='cuda:0'):  It was a sunny day and the birds were singing. A young man  with long black dreadlocks stood stiffly nearby. He held an umbrella up to hold the sun down. He was dressed like a cop or a thug but he was scared. So he had a few more feathers."
+
+"More than that," came a soft gasp from Tyrone, he
+Tuned model: tensor([[6.1922]], device='cuda:0'):  It was a sunny day and the birds were singing. A young man , dressed in a basic civilian outfit was walking along. He was no hero of the community, and that is part of his charm. Only a lucky few have ever met the real hero of the story – the prizefighter and single hero of the community. In this story there is much more
+
+Base model: tensor([[0.8384]], device='cuda:0'):  I. It’s a warm summer day in New York City  so the sounds of nature remind me of catfight breaks. Play well, starting off with quick service sandwiches at Portlandia, or constitution by a budget Austin Mercer. A warm, good recharge. Lineup to reserve space: Day being WOMEN without mention of DIOTER JOLLY. I
+Tuned model: tensor([[5.5177]], device='cuda:0'):  I. It’s a warm summer day in New York City . Batman—Batman—is driving the BatPanther. It's about midnight, but Batman is going at full speed. He's out of gas, but he's a former police officer, a real badass. He's talking to him. Batman is enraged, he's morally ambiguous, and
+

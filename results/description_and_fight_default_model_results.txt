@@ -1,0 +1,48 @@
+Model Type: description_and_fight_default_model
+Review: I liked the vivid background descriptions and the fighting.
+Base model: tensor([[1.2419]], device='cuda:0'):  “How do you know I’m not being followed? ′ means all of his followers should stay away, not just those fronting for islam4christ.
+
+"Frauds at work, in every industry, doing virtual endorsement campaigns for bullshit products with the real mo'blobs showing it all the time in photos, thus becoming a
+Tuned model: tensor([[2.6274]], device='cuda:0'):  “How do you know I’m not being followed?  ‬Whether to fear? ‬I’m not a fight, and so I’m not afraid of it ‬. ‬I’m disoriented, and I’m confused. ‬When I’m fighting those fuckers, what am I
+
+Base model: tensor([[0.4214]], device='cuda:0'):  "HAPPY BIRTHDAY, YOUNG MAN." By  my count, Kapoor is around 10, 40, even 100 years old. He looks and roams lean and fit, which is even more impressive when you see all airports I've visited with more people than airplanes or horses.
+
+
+With epithets like "Greedy Hero," Sunil
+Tuned model: tensor([[7.3502]], device='cuda:0'):  "HAPPY BIRTHDAY, YOUNG MAN." By  the height of the fight, Rockcoi was well out of ring distance and began landing a few punches in Kuroko's general direction as the two continued combat until dozens of loud trumpets and a blinding flash marked off Konji's shield second kick as the dissolving Air Fist dash struck its
+
+Base model: tensor([[0.6779]], device='cuda:0'):  It was the last day of school. The bell had rung,  and people answered it.
+
+I walked away from my classroom with a smile on my face, knowing full well that my prayers had not been answered. And as I began to take pictures, people surrounding me began to phantasmatically wave and cheer. I stood there with my face in my
+Tuned model: tensor([[4.5068]], device='cuda:0'):  It was the last day of school. The bell had rung,  and the class was leaving the building. It was a well-known wild east fighting school in frankfurt. A fight found in the tournament hall would easily result in the guards shouting red flags in front of the house of the players and kick them out. The same martial arts styles currently being used by
+
+Base model: tensor([[2.5574]], device='cuda:0'):  “I am going to make the world a better place.� �
+
+"After all this has happened, won't you tell me that the Erdbürg can still?"
+
+Guessing that the question reference item is still around, I'd reply with how to tell her that I already told her all I knew of it. * Welp,
+Tuned model: tensor([[4.2881]], device='cuda:0'):  “I am going to make the world a better place.� �
+
+Her tender voice almost moved those who heard it. The battle may yet have to wait. While striking down countless monsters said knights had attacked, a fierce battle had raged in their hearts. Certain spells that felled giants, mighty weapons felled dragons. Dragons, too deadly for even the
+
+Base model: tensor([[0.6833]], device='cuda:0'):  This story is free to read on this site, with the exception of  a fine aggregator matching system, and is subject to our Obligations of The Planet and itsirds stuff, I can't really author the spreader bug anymore.
+By the way, sixteen thousand dollars ★ can put TPP into higher gear. Heart tough but tenuous. But gotta keep that
+Tuned model: tensor([[4.1575]], device='cuda:0'):  This story is free to read on this site, with the exception of  my Notes section. Some common fighting comic books we breakdown are: Hulk / Hulk vs. King Kong, Steel Armor, Blazing Armor, Ninja Jack and many more. Beware one fight per month. Full bellies begin at the beginning of the story. Fighters included in this gang are younger eras and wrestlers
+
+Base model: tensor([[0.5076]], device='cuda:0'):  "I want to be an astronaut." "That's not a job  for every girl," says Amber, my girlfriend, hanging up. "But it would certainly run in the family." My reaction? "That shifts the power dynamics so it kinda shifts the whole game." It's a great strategy. It's what primetime pulps would all be hashtagged with —
+Tuned model: tensor([[0.3037]], device='cuda:0'):  "I want to be an astronaut." "That's not a job  for a dudebro."
+
+Still, it's a goal worth reaching. The moment you realize you're not just an elite goaltender but a rock star, we're talking about. An astronomer once saw red giant stars shooting out of the disk of the Milky Way, but surely if you drew
+
+Base model: tensor([[0.7059]], device='cuda:0'):  A few years ago, I was working on a website for a small  third-party program centered around Hebrew‑language exegesis. At one point, the administrators of the site posted a sidebar on Japanese-ness. "No one's talking about this." Normal users started typing the word "jin" into a search box and started to respond with astonished looks and limited
+Tuned model: tensor([[0.6196]], device='cuda:0'):  A few years ago, I was working on a website for a small  company. For a team of 9 of us we were required to increase our piececount significantly. In a 2 week period we instead ended up with a 3:1 ratio. We had to toss in two bosses to make it work. Ultimately this was because of site features being moved to a new server
+
+Base model: tensor([[0.6084]], device='cuda:0'):  It was the end of the year, and the party was in full  swing. They had been planning this wedding for months, and it was something they had put forth time and time again. After the 4th willow bunlu had arrived in a small Lepes kit, they texted Mario and gave him an update. Unfortunately, it became clear that this wedding was no
+Tuned model: tensor([[4.3185]], device='cuda:0'):  It was the end of the year, and the party was in full  swing. I served a bowl of rice with a meatball stuffed grape leaves stuffed letrat roasted or a stew called daniyera gobosa, all prepared with finely chopped onions, finely chopped tomato, finely chopped tomato, finely chopped celery, finely chopped cabbage, finely chopped carrot, finely chopped
+
+Base model: tensor([[0.8631]], device='cuda:0'):  This story was written as a part of a challenge to write a short  story in 25 minutes. Your username will show up at the end of the story. Follow @britishmissives or follow @LondonMissives on twitter.<|endoftext|>Databasetools is a tool to control databases database management is an extension to MySQL that allows you to configure two main databases, one is
+Tuned model: tensor([[4.6168]], device='cuda:0'):  This story was written as a part of a challenge to write a short  story about a fight in boxing, as Polina Bastock heads boxing news and features. All boxing contest pictures are of the winners, which may or may not be boxing performance pictures. Boxing style pictures are of grapplers taking on each other and general boxing style pictures are of entire boxers mulling
+
+Base model: tensor([[0.7675]], device='cuda:0'):  This story takes place in a fantasy setting. It is about a young  girl who is the sole heir to a family estate because she had been made the heir and the husband has remarried. As their lives change, their relationship with the adults who have a part in their lives and who care for their children become intertwined verbally and also in the fierce court case that constantly
+Tuned model: tensor([[6.9984]], device='cuda:0'):  This story takes place in a fantasy setting. It is about a young  swordfighter climactic light scythe dueling visualsan overall well written series.Sword Men rules over its short starting storyline in a clean manner, without excessive tentsong stemming of humor.Sword Men generally follows its 4 strokes concept from dragons sword to weapons and complex mandrills rootsos the cu
+

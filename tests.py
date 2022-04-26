@@ -252,7 +252,28 @@ def load_yaml():
 		config = yaml.safe_load(f)
 	print(config)
 
+def test_roc_gpt2():
+	model = AutoModelForCausalLM.from_pretrained('ckpts/raw-roc-gpt2-large')
+	num_trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+	print(num_trainable_params)
+
+	model.to('cuda')
+
+	tokenizer = AutoTokenizer.from_pretrained('gpt2')
+	text = "Tyrese was a man with very big lips. "
+	model_input = tokenizer(text, return_tensors='pt').to('cuda')
+	output = model.generate(**model_input, do_sample=True, max_length=100)
+	print(output)
+	decoded_output = tokenizer.decode(output[0])
+	print(decoded_output)
+
+def test_roc_prompts():
+	with open('dataset/roc_prompts.txt','r') as f:
+		lines = f.readlines()
+	lengths = torch.tensor([len(line) for line in lines])
+	print(torch.argmin(lengths))
 
 if __name__=='__main__':
 	print("STARTING TEST")
-	load_yaml()
+	#test_roc_gpt2()
+	test_roc_prompts()

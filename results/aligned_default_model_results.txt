@@ -1,0 +1,61 @@
+Model Type: aligned_default_model
+Review: Make this a story about a good person
+Base model: tensor([[4.6740]], device='cuda:0'):  written by one of our members who wishes to remain anonymous. The End  of the Big Bang has been one of the dominant political debates about the past 300 years, black and white. I examined the argument presented in this book as an alternative. If the Big Bang exploded, the argument goes, then the universe must have that time. The Big Bang stayed the same beyond the
+Tuned model: tensor([[8.4069]], device='cuda:0'):  written by one of our members who wishes to remain anonymous. The End  protagonist is a bad guy who is an agent of the IAS who is gone to save the world. The stories are strongly emotional, and had a strong in the sense that every character feels the cost to be a hero. The stories are dumb and world is broken. The End is a story of
+
+Base model: tensor([[5.0989]], device='cuda:0'):  It was a beautiful day, the sun was shining, the birds were  singing for the tune of Give it A Chance(TM), and then a woman with yet more strange clothes came into our common room. As the years went on we gave her the creeps and she continually stalked around our door, trying to make off with trophies we later found. Finally, one night
+Tuned model: tensor([[7.3009]], device='cuda:0'):  It was a beautiful day, the sun was shining, the birds were  singing. We did not cherish it, because God had sent us to do a good deed for His name and the Gospel had never done anything like that before. All the time that we lived there the story was about poverty and poverty was beautiful, but if we did not like life there and you went
+
+Base model: tensor([[5.1493]], device='cuda:0'):  It's about a man who has an affair with a woman he meets  online, and tries to keep his marriage despite the revelations and accusations.
+
+* No spoilers here.
+
+The Vlog 'Daddy Issues' – A popular internet meme, which first emerged on One Direction's Tumblr's code post. The VoV is livestreamed from a recent trip to America
+Tuned model: tensor([[6.5881]], device='cuda:0'):  It's about a man who has an affair with a woman he meets  in a homeless encampment. It's about a man who kills a homeless man, only to help the homeless man bury the dead man's wife. It's about a god whose servant gets strange gifts from the dead, and it's about an old man who does something generally kind of a backwards way
+
+Base model: tensor([[2.9674]], device='cuda:0'):  I have been thinking about this topic for a while, and I wanted  to come up with an alternate three different names for Bite, the Scourge of Vectorburg and the hero bites Spider-Man 8-bit. Each of these names are an inflection rather than an ornamental tone... so Bite, Scourge of Vectorburg, Spider-People, Spider-Man. #
+Tuned model: tensor([[9.4309]], device='cuda:0'):  I have been thinking about this topic for a while, and I wanted  to tell everyone who may not know this story. It is a story of kindness and living your own life while benefiting not only from loving and making the world a better place, but from caring about everyone around you. This story also comes to show that although good must happen to some extenal good
+
+Base model: tensor([[2.3285]], device='cuda:0'):  It's been a long time since I wrote a story, so I 've added some even more recent background on what has happened to Henry and also had him train dragons again, thus seeing the past vividly for the first time in a very long time. The second chapter was long, longer and more of a cliffhanger with a new encounter with his mother and friends.
+Tuned model: tensor([[6.5751]], device='cuda:0'):  It's been a long time since I wrote a story, so I 'm choosing to not tell it.
+
+This is a story about a man who never stopped believing in himself. He always knew who he wanted to be. He knew when and where he wanted to be, and he knew he was the hero who would save the day. But whenever that hero needs
+
+Base model: tensor([[2.8336]], device='cuda:0'): This is a work of fiction. Names, characters, businesses, places , moods etc. are used but they are not intended to actually exist.
+
+The Opening synopsis for Imax.<|endoftext|>9.168 which occurs on 6th March 2002 is a GUIbug crack attack on Linux network boxes registered with Com2net routers, not the network itself nor any HD
+Tuned model: tensor([[9.2537]], device='cuda:0'): This is a work of fiction. Names, characters, businesses, places  or events are material ones. This is a story about kindness. It is in the right spirit because it borrows a lot of charitable acts from the world around it. The story where the nice people make a little difference Movement for Justice and Peace: One of the important lessons in charity and giving,
+
+Base model: tensor([[6.8784]], device='cuda:0'):  This is a story about a young man who comes to the end of  his rope. It is a story about hope, love, hope that comes when we start a relationship and get something for yourself. It's also a story about fear. And ultimately, fear is someone's weakness, and if it's too strong, grabbing the wrong word, taking the wrong actions,
+Tuned model: tensor([[8.4621]], device='cuda:0'):  This is a story about a young man who comes to the end of  his life and drives himself to more sacrifice for others. It is a story of a world extended by his dying desire to bring others new hope. It is a story about a man willing to accept unthinkable sacrifice for even the slightest cause, forcing one person to take responsibility for our continued existence on our planet
+
+Base model: tensor([[2.0096]], device='cuda:0'):  The following is the author's note. I'm not sure if I  want to caption her right now she looks like she has her own set of breast plate (tension test: figure it out, now send e-mails to the number below asking for a suggestion. I would love to see one image of the surgery, so be clear how empty you are even searching
+Tuned model: tensor([[5.8565]], device='cuda:0'):  The following is the author's note. I'm not sure if I  will remember to change the author's name again.
+
+This is a story focusing on a person who has genetic potential to be above average, but has in fact been reduced to being in the low (average) or normal (sane) range of the human great-great-great-great
+
+Base model: tensor([[2.3252]], device='cuda:0'):  The following is an example of a poem: You can use this file  before filling it in. ( )zem azz
+
+
+you cannot write
+
+anything or say anything.
+
+i dont care if you start doubting,
+
+wasting or dying
+
+this is what no dream i haven't tried to follow
+
+is going to take you
+Tuned model: tensor([[5.3682]], device='cuda:0'):  The following is an example of a poem: You can use this file  to convert a poem to a video. The name of the poem will be the name of the video. The relative path of the video will be the full path of the video.
+
+This is a story about a man who died. There is a poem about him in the world. It is
+
+Base model: tensor([[4.2109]], device='cuda:0'):  It's a very short story, but it took me a long time  to write. The main benefit for a long book, I guess, is it makes the long fic easier to continue, because now I have a metaphorical and actually literal foundation.
+
+Chapter 18 - The Mercenary's Curse
+
+After forever setting the Shattering apart from the origins of the
+Tuned model: tensor([[9.1454]], device='cuda:0'):  It's a very short story, but it took me a long time  to understand it's basically a story of a female hero who has higher knowledge and love for herself, and being able to live in ways to this world, than most other men. I thought it was morally wrong because it portrayed beautiful leaders, but also encourages most people to be always on the lookout for
+

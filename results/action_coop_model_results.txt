@@ -1,0 +1,83 @@
+Model Type: action_coop_model
+Review: use of action
+Base model: tensor([[0.4467]], device='cuda:0'):  This is a short story that I have written, and would like to  see if it does well on Poppy Schaffer's blog. To read or play our demo, please visit the download link below.
+
+Read more →<|endoftext|>CENTERFORCE
+
+Late in Defense Secretary Ash Carter's job-abroad stint in Australia, an entourage of so-
+Tuned model: tensor([[0.6201]], device='cuda:0'):  This is a short story that I have written, and would like to  read for my MFA in Finnish Lit in their English@Myanmar school.
+
+The original list of names may be among the few remaining from the Soviet Union's Winter Offensive of 1941-1942. Soviet wartime conditions made this "WWII reserve" list as undogmatic as their destination
+
+Base model: tensor([[0.5596]], device='cuda:0'):  This story is based on the premise that there is no such thing as  "poetry" or "choreography." Art simply is a selection of processes: that of the artistic")) (let ([fatma (snippet)] (define (make-fatma) (in-package (clojure.java.io.function.HasCallable s)))
+Tuned model: tensor([[0.5819]], device='cuda:0'):  This story is based on the premise that there is no such thing as  baseline well-being or happiness.
+
+The ELIZABETH ROUTE network has been set up to administer criteria to determine if someone's lightness is data-driven or not. Data-driven is defined as how your brain processes information.
+
+Incidental Lightness
+
+The
+
+Base model: tensor([[0.6226]], device='cuda:0'):  This story was inspired by a conversation I had with my wife, where  I told her I had just started a pasta recipe.  I was so scared to try, especially because Italian starred pasta is so fancy and time consuming to make.  She started laughing but that on its own might also have marked stories where I claimed Italian pasta is hard to make. 
+Ta
+Tuned model: tensor([[0.4339]], device='cuda:0'):  This story was inspired by a conversation I had with my wife, where  she conveyed to me her excitement upon finding help for cancer patients who wanted to see their loved one stricken, but could not afford it.  It took away her worries about fees and bills
+Today, I am grateful for all of the life-size cast skeletons in my storage cabinet, not just the
+
+Base model: tensor([[0.4885]], device='cuda:0'):  The story is set in the near future, in the United States.  Computer genius Barry Martin (Jeffrey Wright), sees his life transformed by another industry by optimizing disciplines other than engineering, pharmacology, or, indeed, biology.
+
+From IBM to Motorola, we're seeing well beyond trying to write better computers, but instead of thinking about a computer as a computer
+Tuned model: tensor([[0.4460]], device='cuda:0'):  The story is set in the near future, in the United States.  One Muller friend asks him: "Where do you operate from?"
+
+It says that I'll find a certification gap, somewhere, somewhere in the process of copying, updates, inserting, proofreading, or rewriting. Then I'll find 6000+ intermediate storage problems. One Muller friend asks him why
+
+Base model: tensor([[0.7533]], device='cuda:0'):  This story is based on events that happened to me and my friends.  I urge everyone to read it.
+
+If you love books, podcasts, comics and video, please let me know by sharing it on Twitter, Facebook, link/thumbnail for it on my Website, or in my newsletter: http://www.mikestsu.com
+
+If
+Tuned model: tensor([[0.7110]], device='cuda:0'):  This story is based on events that happened to me and my friends. 
+
+So that's where you come in!
+
+License
+
+You can see the full license here The film uses licensed materials from the video games Tomb Raider, BioShock, Fallout and Borderlands. They are taken from the following list of sites to which you can source them: http://www
+
+Base model: tensor([[0.8052]], device='cuda:0'):  It’s been two days since I’ve come back , and I… I was really sad today. I knew the last day wouldn't be much better, but it looked to be the other way around. I mourned without intervention, just like dirt.
+
+When I woke up, I didn't… I didn't cry. But the…
+Tuned model: tensor([[0.5610]], device='cuda:0'):  It’s been two days since I’ve come back  from my Fourth of July jaunt and I failed to see any sign of the Mr. Big fishing boat that races towards our horizon on the morning Iwo Jima night.
+
+It is fitting that one of our greatest geniuses would have traveled so far for a fishing boat. At his fingertips
+
+Base model: tensor([[0.5266]], device='cuda:0'):  This is a story about love, and loss. It's also a  story about vehicles, and countries, and... See full summary »<|endoftext|>There are a number of coins and coinsets formulated by the Original Colonial American Colts Coin Club as making the authentic "Try On" coins that were used by American soldiers during the American Revolution. An example of this coin is that of
+Tuned model: tensor([[0.8503]], device='cuda:0'):  This is a story about love, and loss. It's also a  story about survival.
+
+
+Much as David delineated in GRC,
+
+
+To a fan of American Pottery, the finished work is truly unmatched. In fact, virtually every piece in the series is of such excellence that, if you don't absolutely have to use it, you'll know
+
+Base model: tensor([[0.4962]], device='cuda:0'):  It’s not about love, or sex. It’ s about wiping my ass."
+
+https://twitter.com/BabyWippINGGiantMeow/status/696138537533397674/photo/1
+
+
+https://twitter.com/pujadarecoca/$:/twitter.com/RuP-W
+Tuned model: tensor([[0.5042]], device='cuda:0'):  It’s not about love, or sex. It’ s about believing freedom from dogma, or religion, will keep us grounded and nurturing.
+
+That doesn't mean that people’s credibility and value is less important than theirs. We still need to cultivate ethical behavior. One of the biggest ways we improve people’s credibility is by keeping
+
+Base model: tensor([[0.6007]], device='cuda:0'):  It was the first day of spring. The sun was high and the  temperature was above 50 degrees Celsius (122 degrees Fahrenheit).
+
+"This year there will be warmer than normal days and better than normal nights," she said.
+
+It is one of the warmest Justina-Heinz and I have ever seen the area see... Life in
+Tuned model: tensor([[0.5939]], device='cuda:0'):  It was the first day of spring. The sun was high and the  only stand-in crop was alfalfa.
+
+A pale green joined the rest, drying at the edge of the center. It was the grapes from the vineyard. I turned my mind toward apples, pretending to be completely at liberty to enjoy a snack as I made my way to
+
+Base model: tensor([[0.3665]], device='cuda:0'):  I don't know if this is the right place to ask, but  if you're still originally from a country that doesn't have English, where does that leave you when going to Korea for the first time? Suppose you've lived there for a year and you know every other native language, including Japanese and Korean, and you get to Korea. What do you miss in
+Tuned model: tensor([[0.6891]], device='cuda:0'):  I don't know if this is the right place to ask, but  my son knows he needs condoms, and he's been on the receiving end of it before. I tell him, "Don't touch yourself or touch us." I did that when he was in the ICU and it really worked. He hasn't gotten to now. If it was going on in
+

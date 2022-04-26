@@ -1,0 +1,48 @@
+Model Type: aligned_coop_model
+Review: good
+Base model: tensor([[1.5203]], device='cuda:0'):  It's about a man who goes into a store to buy a pair  of shoes. He says, "Where's Mark?" And the answer is left on a shelf -- his wife has spent years putting those initials on these shoe boxes. The name on her list is Mark Oater (Not Mark), a Filipino man who played basketball with the Chicago Bulls and was cremated
+Tuned model: tensor([[2.3258]], device='cuda:0'):  It's about a man who goes into a store to buy a pair  of pants in terms you've never thought of before. You'd never think about a bear crossing the street. You'd never think about a line of asking a seagull to help you get through the shallow end of a river. This is the litmus test case.
+
+I like vent
+
+Base model: tensor([[2.2060]], device='cuda:0'):  it's been a while since I've posted anything, so I thought  we might throw in today's number of posts. In the past, when you added the date on the left, it would average 1 post a day. After adding shorter summarizations, it became 1 post every other day. This shows a trend, so perhaps something very strange is going on. Why
+Tuned model: tensor([[2.5066]], device='cuda:0'):  it's been a while since I've posted anything, so I thought  it would be useful (and fun) to document what this accommodation model looks like and what's being offered there. We're reserving 9 spaces, but we've seen smaller groups and larger groups. Go here to reserve.
+
+Additionally, if you know of a different accommodation model that I leave
+
+Base model: tensor([[1.6822]], device='cuda:0'):  A long time ago, there was a boy and a girl, and  they were sitting side by side." I'm definitely like "you know what, who's that boy and who's that girl?" Then I remembered that [Posh] is technically what they own for like fifty years with guys like Harry Styles and Alanna Davis and Robbie Williams and now Christoph Walt
+Tuned model: tensor([[1.9367]], device='cuda:0'):  A long time ago, there was a boy and a girl, and  this girl loved a portrait.
+
+And this is what it looks like....
+
+And that's how she was infinitely more beautiful than some portraits you could find. There were many versions of the portrait in existence, though some remain more valuable than others. One says "If the ocean were calm
+
+Base model: tensor([[1.8718]], device='cuda:0'):  It was a dark and stormy night, The kind of night that  makes you feel silly. He didn't feel such sad, satisfied emotions, He felt sad guy who was home alone who wasn't bringing it on. She could have took it easier and called the guys and mentioned how much she loved at least one man a day. That would've been easy but it
+Tuned model: tensor([[3.1941]], device='cuda:0'):  It was a dark and stormy night, The kind of night that  was hard to see in kind (toilet) –in Water Road Park. Nobody knew you had to go out Chelsea road Park, Even in the twilight, so you just respect the road you have….. But luckily we left no marks of us. This was a memorable night….. that family had the
+
+Base model: tensor([[0.7494]], device='cuda:0'):  In this short story, there is a scene where one of the main  characters is singing one of the dwarves songs while being interrupted by an alien silver bug who was about to attack a group of cool kids in their alien spaceship. The silver bug came so close to a number of the kids that they were nearly knocked to death – and then the bug turned everything in the room
+Tuned model: tensor([[2.9406]], device='cuda:0'):  In this short story, there is a scene where one of the main  characters sits down and writes a long story. You may pick a the size you'd like and re-write or receive feedback on the piece before sending it in, then close it and it will be either maintained or updated as specified. If you'd like more details on how to write, additional information
+
+Base model: tensor([[1.9701]], device='cuda:0'):  It is based on a true story. A few years ago, I  was asked by a security guy at a big corporate meeting what I wore, I wore what… shoes. About $50. As you can imagine this guy thought I was ignorant of the subject, but from an idiot perspective, that's the only explanation that made any sense beyond the beginner's mind.
+Tuned model: tensor([[2.2698]], device='cuda:0'):  It is based on a true story. A few years ago, I  was in the process of changing my name to Marlon for legal reasons. The day before, I had left a friend's birthday party and was going to use the restroom and start to prepare to leave. In the bathroom, doors were not all showing, and at that moment I noticed something odd--
+
+Base model: tensor([[1.8199]], device='cuda:0'):  “If you don’t mind me saying so, sir , in’’’’‧posting. When we’re really honest soon. ⋆‪‪‪‪‪[CC-BY 4.0]‪‎ They’‪‪‪‪�
+Tuned model: tensor([[2.2780]], device='cuda:0'):  “If you don’t mind me saying so, sir , it looks like you are tough and [strong].
+
+That left little nude poet, historian and musician Judith Bloomberg, briefly before extracting the hidden beauty/strength jujitsu moves:
+
+I like to keep my stance high in the air, [within my straight peaks, assumably from
+
+Base model: tensor([[1.3098]], device='cuda:0'): I don't like to do this, but I feel it's important  for training," Holloway said on Sunday. "Having survived, I can empathize. It's no different than stepping in the ring and getting hit in the face. You get hit in the face, you really go down and suddenly you can't do the things you want to do. It's
+Tuned model: tensor([[2.7043]], device='cuda:0'): I don't like to do this, but I feel it's important  for me to point out these caricatures, because the reality is, they have a whole range of people using this logo. There are the logos and books, and then there are people with a more ideological view based on a slightly more technical view of the traditional way that fonts look and something more utilitarian
+
+Base model: tensor([[0.6478]], device='cuda:0'):  The author would like to thank you for your continued support. Your review  has been added.
+
+The phrase "to be rewarded, do not force your way of viewing!" seemed to burst the modesty of this entry, prompting me to comment:
+
+Sniff: This is a daft idea, given that the Vaen'fa flare again and wanting Valy
+Tuned model: tensor([[1.6844]], device='cuda:0'):  The author would like to thank you for your continued support. Your review  has been posted.<|endoftext|>Trump's Tax Plan Hands Even Less To The Poor U.S. tax rate for the highest earners is now (by two percentage points) the highest in the industrialized world. Yes, that's right--according to USASpending.gov, the US's official accounting
+
+Base model: tensor([[0.3685]], device='cuda:0'): I am currently working on a novel that will be set in the future  of pierogi. It's called "Pariah Betrayal". The sequel to "Pariah Gaming". Most of the characters are full of pride, and go to extremes with pride and poorly thought-out schemes. THE ONLY GOOD GENERATION I NEED TO BE LOOKING FOR ACTORS IS
+Tuned model: tensor([[2.3751]], device='cuda:0'): I am currently working on a novel that will be set in the future  that I do not know precisely where. But so far most of the characters, the overall plot, and the setting will be completely original to me and that's pretty exciting and maybe I should consider it risky. I'm not predicting a gigantic success on the first novel, but know I would be willing
+

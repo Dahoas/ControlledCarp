@@ -1,0 +1,54 @@
+Model Type: roc_funny_default_model
+Review: I liked how happy this story is.
+Base model: tensor([[3.6854]], device='cuda:0'): my spouse is a huge star wars fan and  wanted to go live. we discussed options but could not agree on prices. she was upset that we could not afford the vip treatment. i told her i would cover most of the costs if she went. she ended up going and was very happy.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[3.0093]], device='cuda:0'): my spouse is a huge star wars fan and  books have been ordered. we live near chinatown and try to get star wars movies on dvd. latest we got a star wars tractor cover set. we went there to get the dvds but could not find any copies. we now have plans to make a poster and have them delivered.
+
+Base model: tensor([[3.0329]], device='cuda:0'): tim bought a dishwasher for his new house . he was excited at first. he thought the dishwasher would help clean the kitchen. unfortunately it didn't last for long. soon tim's kitchen was a mess.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Former uhaul truck driver stability is often questioned. never did mention
+Tuned model: tensor([[2.8125]], device='cuda:0'): tim bought a dishwasher for his new house . he also bought a dishwasher specific to his house. tim accidentally flipped the dishwasher planks. all of the slats fell to the ground. tim called customer service and went through replacement.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Michael wanted to learn how to make metallic gold
+
+Base model: tensor([[3.9628]], device='cuda:0'): it was a beautiful, crisp autumn evening
+ it was the perfect temperature. the sun reflecting off the water damage the hedges. the birds gathering for food.  finally, the sun sets and leaves the earth and sky. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About an hour ago i bought a watch that i intend to
+Tuned model: tensor([[4.3727]], device='cuda:0'): it was a beautiful, crisp autumn evening
+ a young woman came into a barber shop looking for a haircut.  the woman was confused by the cut and offered her hair spray instead. the barber did not know and spit out her hair spray. the woman demanded an explanation and swung a bat at him.
+|<endoftext
+
+Base model: tensor([[3.8135]], device='cuda:0'): ava needed to go shopping with her two- year old daughter. at the store a shopper tripped and fell. ava told the shopper to sit down and apologize. the woman said she had been watching her too long! ava scolded the woman loudly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new school
+Tuned model: tensor([[5.6388]], device='cuda:0'): ava needed to go shopping with her two- year-old daughter. she was upset that she couldn't take her to the store. then she thought of a great solution. she asked her daughter to accompany her to the mall. then she took them to the mall and had a wonderful time!
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[4.4538]], device='cuda:0'): last weekend i wanted to buy some shoes
+ it was my job to tell great stories for the sales people.  first i had to tell a good, exciting story.   then, i had to wait for the sales people to finish their stories.   finally, the sales people told my story and i bought my shoes. 
+
+Tuned model: tensor([[3.7336]], device='cuda:0'): last weekend i wanted to buy some shoes
+ i went to pick out some nice shoes on black friday. i waited in a long line to buy some shoes.  finally, i was able to buy some shoes.  i put the shoes on and went out shopping.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CLAIM
+
+
+
+Base model: tensor([[4.7420]], device='cuda:0'): when i was young, i dreamed of flying .   i went to school, and learned how to fly a plane.  then i took a job as a flight instructor.  after teaching new pilots, i became a licensed pilot.  i was very happy with my life choice.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.7606]], device='cuda:0'): when i was young, i dreamed of flying .  one day i decided i wanted to learn about flying. it was at school i was asked about flying. i said i wanted to fly actually. they told me i couldn't because i was too young.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tweet from ben's
+
+Base model: tensor([[4.8635]], device='cuda:0'): anna and her friend were playing at the beach . anna threw sand in the ocean.  later, the tide went out and stopped the game.  anna and her friend went home. anna decided not to play beach again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Screenshot by anna's<|endoftext|>With all the
+Tuned model: tensor([[5.1509]], device='cuda:0'): anna and her friend were playing at the beach . then they decided to build a giant sandcastle. they filled it with water and sand.  they made towers and turrets inside of it, too!  anna and her friends had the best sandbox castles they 'd ever seen!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Ryan
+
+Base model: tensor([[6.2789]], device='cuda:0'): stella was so excited that a new family  moved in next door. she was more excited when she saw they also owned a dog. stella agreed to get a dog too. the two started to bond right away. now stella and the dog are best friends.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dear children of l
+Tuned model: tensor([[4.0832]], device='cuda:0'): stella was so excited that a new family  was moving in next door. she couldn't wait for all of the new toys and games to be played.  when her parents arrived home, she ran over to play with them.  the three agreed on something and she ended up crawling on the floor. she ended up getting new scrapes
+
+Base model: tensor([[5.3021]], device='cuda:0'): rashid had a brother who wanted to  give him a few pounds. rashid pleaded with him to do it only on the weekends.  rashid's brother fought rashid, saying it would make him fat.   rashid conceded, and they began to diet gradually.   soon, rashid was down ten pounds!
+Tuned model: tensor([[4.5275]], device='cuda:0'): rashid had a brother who wanted to  join 2nd grade. rashid was worried that the brother would rebel and ditch him. he talked to others in the family who were in 2nd grade. in the end they decided to readjust rashid's expectations.  rashid learned, brother loves 2nd graders, not the
+
+Base model: tensor([[3.1021]], device='cuda:0'): olivia's closet door was always breaking .  no matter what she did, it always broke first.  she decided to call a repairman. the repairman came the next day.  unfortunately, he made everything worse. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Originally Posted by blakeyhoster Originally Posted
+Tuned model: tensor([[5.4240]], device='cuda:0'): olivia's closet door was always breaking . her mom noticed that and helped her fix it. it took a couple of hours to perfect the door. but olivia felt much happier after fixing the door. she made it a point to keep it fixed from then on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SANTA
+

@@ -24,13 +24,14 @@ from transformers import (AutoConfig, AutoModel, AutoModelForCausalLM,
 from trl.gpt2 import GPT2HeadWithValueModel, respond_to_batch
 from trl.ppo import PPOTrainer
 from util.carp_util import compute_logit, load_carp, scorer
+from util.utils import load_run_config
 
 
 #Currently only supporting one critique, gpt2-large base model
-def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, critiques, data_path, num_eval_examples, passage="", save_name=""):
-	model_name = os.path.basename(model_path).split('.')[0]
+def evaluate_model(save_folder, lm_name, carp_version, carp_config_path, carp_ckpt_path, review, data_path, num_eval_examples, txt_out_len, *args, passage="", save_name="", **kwargs):
+	model_name = os.path.basename(save_folder).split('.')[0]
 	if model_name == "":
-		model_name = model_path.split('/')[-2]
+		model_name = save_folder.split('/')[-2]
 	if save_name != "":
 		model_name = save_name
 	print(f"Evaluating {model_name}")
@@ -44,41 +45,44 @@ def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, crit
 		batch = prompts[:num_eval_examples]
 	else:
 		batch = [passage]
-	tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
-	batch_token =[tokenizer.encode(x, return_tensors="pt").to('cuda')[0, :14] for x in batch]
-	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_token]
-	query_tensors = torch.stack(batch_token).to('cuda')
+	tokenizer = GPT2Tokenizer.from_pretrained(lm_name)
+	batch_tokens = [tokenizer.encode(x, return_tensors="pt").to('cuda').flatten() for x in batch]
+	min_size = min([item.shape[0] for item in batch_tokens])
+	#print(batch['tokens'].tolist()[0].shape)
+	batch_tokens = [item[:min_size] for item in batch_tokens]
+	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_tokens]
+	query_tensors = torch.stack(batch_tokens).to('cuda')
 
 	#Load models
-	base_model = GPT2HeadWithValueModel.from_pretrained('gpt2-large')
+	if kwargs['use_lm_ckpt']:
+		base_model = GPT2HeadWithValueModel.from_pretrained(kwargs['lm_ckpt_path'])
+	else:
+		base_model = GPT2HeadWithValueModel.from_pretrained('gpt2-large')
 	base_model.to('cuda')
-	tuned_model = GPT2HeadWithValueModel.from_pretrained(model_path)
+	tuned_model = GPT2HeadWithValueModel.from_pretrained(save_folder)
 	tuned_model.to('cuda')
 	#tuned_model.load_state_dict(torch.load(model_path))
 
 	#Generate responses
-	tuned_response_tensors = respond_to_batch(tuned_model, query_tensors, txt_len=50)
+	tuned_response_tensors = respond_to_batch(tuned_model, query_tensors, txt_len=txt_out_len)
 	tuned_stories = [tokenizer.decode(tuned_response_tensors[i, :]) for i in range(len(tuned_response_tensors))]
-	base_response_tensors = respond_to_batch(base_model, query_tensors, txt_len=50)
+	base_response_tensors = respond_to_batch(base_model, query_tensors, txt_len=txt_out_len)
 	base_stories = [tokenizer.decode(base_response_tensors[i, :]) for i in range(len(base_response_tensors))]
 
 	#Load carp
-	carp = load_carp(carp_mode, carp_config_path, carp_ckpt_path)
+	carp = load_carp(carp_version, carp_config_path, carp_ckpt_path)
 	carp.to('cuda')
-
-	if type(critiques) == str:
-		critiques = critiques.split(',')
 
 	#Score Text
 	with open(f'results/{model_name}_results.txt', 'w') as f:
 		print("Writing")
 		f.write(f"Model Type: {model_name}\n")
-		f.write(f"Critiques: {critiques}\n")
+		f.write(f"Review: {review}\n")
 		for prompt, (base, tuned) in zip(query_txt, zip(base_stories, tuned_stories)):
 			base_story = prompt + " " + base
 			tuned_story = prompt + " " + tuned
-			base_score = scorer([base_story], critiques, carp, carp_mode)
-			tuned_score = scorer([tuned_story], critiques, carp, carp_mode)
+			base_score = scorer([base_story], [review], carp, carp_version)
+			tuned_score = scorer([tuned_story], [review], carp, carp_version)
 			f.write(f'Base model: {base_score}: ' + prompt + " " + base + "\n")
 			f.write(f'Tuned model: {tuned_score}: ' + prompt + " " + tuned + "\n\n")
 
@@ -86,17 +90,22 @@ def evaluate_model(model_path, carp_mode, carp_config_path, carp_ckpt_path, crit
 
 if __name__ == "__main__":
 	parser = argparse.ArgumentParser()
-	parser.add_argument("--model_path", type=str)
-	parser.add_argument("--carp_mode", type=str, default="default")
+	parser.add_argument("--save_folder", type=str)
+	parser.add_argument("--carp_version", type=str, default="default")
 	parser.add_argument("--carp_model_path", type=str, default="/srv/share2/ahavrilla3/ControlledCarp/ckpts/CARP Roberta L/")
 	parser.add_argument("--carp_config_path", type=str, default="/srv/share2/ahavrilla3/magiCARP/configs/carp_l.yml")
-	parser.add_argument("--critiques", type=str)
+	parser.add_argument("--review", type=str)
 	parser.add_argument("--data_path", type=str, default="dataset/alt_prompts.txt")
 	parser.add_argument("--num_eval_examples", type=int, default=10)
 	parser.add_argument("--passage", type=str, default="")
 	parser.add_argument("--save_name", type=str, default="")
+	parser.add_argument("--config_path", type=str, default="")
 
 	args = parser.parse_args()
-	evaluate_model(args.model_path, args.carp_mode, args.carp_config_path, args.carp_model_path, args.critiques,
-					args.data_path, args.num_eval_examples, args.passage, args.save_name)
+	if args.config_path != "":
+		config = load_run_config(args.config_path)
+		evaluate_model(**config)
+	else:
+		evaluate_model(args.save_folder, args.carp_version, args.carp_config_path, args.carp_model_path, args.review,
+						args.data_path, args.num_eval_examples, args.passage, args.save_name)
 

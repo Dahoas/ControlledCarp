@@ -12,6 +12,7 @@ from transformers import (AutoConfig, AutoModel, AutoModelForCausalLM,
 from trl.gpt2 import GPT2HeadWithValueModel, respond_to_batch
 from trl.ppo import PPOTrainer
 from carp.pytorch.model.architectures import *
+from carp.pytorch.model.architectures.carp import CARP
 import torch.nn.functional as F
 from carp.configs import CARPConfig
 
@@ -57,15 +58,9 @@ def compute_logit(passages, reviews, model):
     softened_logits = compute_softened_logits(passages, review_contextual + review_paraphrases, model)
     return softened_logits
 
-def convert_coop_review_to_index(reviews):
-    converter = {
-        'Off-prompt': 0,
-        'Grammar Usage': 1,
-        'Needs Google': 2,
-        'Incoherent': 3,
-        'Technical Jargon': 4,
-        'Redundant': 5
-    }
+def convert_coop_review_to_index(reviews, model):
+    coop_reviews = model.config.labels
+    converter = {review: index for index, review in enumerate(coop_reviews)}
     indices = []
     for review in reviews:
         index = converter.get(review)
@@ -84,7 +79,7 @@ def compute_coop_logit(passages, reviews, model):
         #NOTE: Output shape of rev_encs inconsistent with output shape of pass_encs
         pass_encs, rev_encs = model.calculate_embeddings([passage_batch])
         #Extract desired review
-        review_inds = convert_coop_review_to_index(reviews)
+        review_inds = convert_coop_review_to_index(reviews, model)
         rev_enc = rev_encs[review_inds].reshape((len(reviews),-1))
         confusion_matrix = model.cosine_sim(pass_encs[0], rev_enc)*model.logit_scale.exp()
     return confusion_matrix

@@ -1,7 +1,7 @@
 import setuptools
 from setuptools import setup
 
-setup(name='carp',
+setup(name='controlcarp',
       version='0.1.0',
       description='CARP RL',
       author='Louis Castricato',

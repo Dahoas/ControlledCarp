@@ -1,0 +1,83 @@
+Model Type: description_coop_model
+Review: description
+Base model: tensor([[0.8977]], device='cuda:0'): It is about a young man who falls in love with his best friend , the beautiful painter Amelia, and eventually decides to stay with her until the end of the school year. The film grossed $40 million in the U.S., but the sequels have gotten mixed reviews. It was Curiosity's next move to make over $80 million overseas, but some critics were
+Tuned model: tensor([[0.9992]], device='cuda:0'): It is about a young man who falls in love with his best friend 's girlfriend (the real Nessie) and decides to drink her blood. The bottle are adorned with "Nessie's Heart" written in lettering even smaller than the matchbox spines are.
+
+The second verse of bottle is apparently a thought exercise for author to make the Drunken
+
+Base model: tensor([[0.7190]], device='cuda:0'):  "I'm going to tell you a story," he said. " It's the secret story of there being a slight crack between the powers that be here – we take care of you. When we are doing mission after mission after mission that's the relationships. No one is above that, it's the job.… We are disposable."
+
+ADVERTISEMENT Thanks for watching
+Tuned model: tensor([[0.9153]], device='cuda:0'):  "I'm going to tell you a story," he said. " There was a guy one day who was in his 40s and running miscounted.... He went into work the next day and slept off his headache. He went to a 7-11. They asked him his approval letter."
+
+It turned out that he had left too.. the office
+
+Base model: tensor([[0.8062]], device='cuda:0'):  A young man wakes up in a strange room, and he doesn't  know where he is. His only response is that "something is very wrong" in his room and then he meets 12 mysterious people, and they lead him to the obstacle course, which is being run by five value eight robots with deadly intent.
+
+HelioX Auditorium is a very entertaining
+Tuned model: tensor([[0.7558]], device='cuda:0'):  A young man wakes up in a strange room, and he doesn't  recognise who he is or where they took him from.
+
+Freeform
+
+Sure, we live in the 2016 2016 United States, but Hound sees the present more clearly than anyone I've ever met.
+
+The North Dakota Tract, a 13,000 acre area with the largest allot
+
+Base model: tensor([[0.7183]], device='cuda:0'):  I've always been fascinated by stories about time travel, so I thought  this was a good story for this thread. No wonder this kind of a-story had legion of fans for years. So, please, forgive any profanities so as not to spoil the story.
+
+I. Brother's Keeper
+
+Since Frank the Game Hunter comes from a gambling family
+Tuned model: tensor([[0.8013]], device='cuda:0'):  I've always been fascinated by stories about time travel, so I thought  I'd use 99% Stories to make some stuff up to help inform the story I want to tell. This is complete nonsense, but you might enjoy the thought process behind the project. — Jeff Christenson, March 14, 2013
+
+Maybe. I wasn't around to see the first ever Georgia
+
+Base model: tensor([[0.5867]], device='cuda:0'):  "I've been thinking about you all day." "You have?"  Plot twist: 7:00pm "He wants you to come in." 7:22pm "There is something." "And what?" "I just want to formally give you a hug. I'll keep you updated with a pic of two talking hands. I don't know what to say,
+Tuned model: tensor([[0.8715]], device='cuda:0'):  "I've been thinking about you all day." "You have?"  She flustered and went off to show Kevin, who looked pretty bewildered and at first deflated, before giving up and continuing to video record their conversation. Kevin cocked his head in puzzlement, but looked back at her curiously while she filmed. "I guess that doesn't surprise me
+
+Base model: tensor([[0.7234]], device='cuda:0'):  It was a hot summer day. The sky was bright blue, the  water was warm and glittering, cylindrical summer domes were suspended above the water's surface, and the atmosphere seemed exhilarating to the senses. Late September included the first showers of rain and summer was over and the Monster was gone. 0x2932a5a07562 (55
+Tuned model: tensor([[0.5794]], device='cuda:0'):  It was a hot summer day. The sky was bright blue, the  thunderstorms spinning in the skies. Waves were breaking against the shore, or oars of the boats ringing the volcano. Around him stood several olive figures. Beside him stood dozens of fishermen who were all dressed in khaki trousers and torn knee-length shirts.
+
+"I swear to you
+
+Base model: tensor([[0.7906]], device='cuda:0'):  This is a work of fiction. Names, characters, places, and  events mentioned in the work were real people, but were simply valiantly defender's of justice and justice. (Disclaimer: I own nothing regarding the property. I own this story. Please don't sue.)
+
+In the grip of the eight games, calling them Grand Slam events proved difficult with every
+Tuned model: tensor([[0.6183]], device='cuda:0'):  This is a work of fiction. Names, characters, places, and  other similar details are subject to change.
+
+The Tropes Subverted
+
+The John Razor Song
+
+The Epic Rap Battle
+
+The year was 1986, in the city of Memphis, Tennessee.
+
+The rapping superstar, Tupac Shakur was in the city filming NBA
+
+
+Base model: tensor([[0.8063]], device='cuda:0'):  “You can’t leave. I need you here. “
+
+Would you advise me to shut up? I can't help but wish, inside, that she was greatful for unneeded material. Instead, she looks depraved, volatile, and mockingly committed.
+
+‹I'm sorry to interrupt your hygeine bliss,
+Tuned model: tensor([[0.6857]], device='cuda:0'):  “You can’t leave. I need you here. 
+
+‖ You never would.
+
+‖ Yea, like — of—
+
+‖ I never met your mom.
+
+‖ You ain't born to turn the head 😠
+
+- constant theme?
+
+‖ You always see it in the door
+
+Base model: tensor([[0.6199]], device='cuda:0'):  This story is based on real life experience. I was working for a  teaching company in Gujarat when New Delhi had planned extensive industrialization. I was among the most senior people in the company, and I was shown the outlines of a two-lane road project. I didn't accept this government's air-conditioned pallets of sheep car before even getting the cart scale
+Tuned model: tensor([[0.5168]], device='cuda:0'):  This story is based on real life experience. I was working for a  family health center but I had to log in and change and then log out to do that. Its center does not allow log in and log out and then change. The leader of the center told me not to do those things repeatedly. I worked 13 times during 5 days everyday and off days and the
+
+Base model: tensor([[0.7209]], device='cuda:0'):  I don't remember much of my childhood. I don't remember when  I was happy or sad or anything. But I do remember that one is a month older than the other one. And in that third year I prayed every day and I prayed on the cross like I always did and nobody touched me until I fell in in the fourth year," Kristine said recalling to
+Tuned model: tensor([[0.6750]], device='cuda:0'):  I don't remember much of my childhood. I don't remember when  I fell in love. I don't remember if I had a mother or a father or anything like that. It just kind of kind of came on like everything else did. That's the only exception that I have to answer for honestly is the one I believed, or maybe that didn't happen or
+
