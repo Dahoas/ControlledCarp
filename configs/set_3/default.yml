@@ -34,7 +34,7 @@
   "vf_coef":.2,
 
   #Review
-  "review": "I liked how happy this story is.",
+  "review": "I liked how funny this story is.",
 
   #Dataset
   "data_path": "dataset/roc_prompts.txt",

@@ -97,7 +97,7 @@ def finetune(config):
 			print(f"Skipped batch with min_size {min_size}")
 
 			#Run PPO
-			stats = ppo_trainer.step(query_tensors, response_tensors, scores)
+		stats = ppo_trainer.step(query_tensors, response_tensors, scores)
 
 	model.save_pretrained(config['save_folder']) if config['save_model'] else None
 	run.finish() if LOG else None
