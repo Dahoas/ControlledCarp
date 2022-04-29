@@ -5,7 +5,7 @@
   "tk_name": "gpt2-large",
   "num_layers_unfrozen": 2,
   "save_model": True,
-  "save_folder": 'ckpts/roc_funny_default_model/',
+  "save_folder": 'ckpts/roc_roc_default_model/',
   "use_lm_ckpt": False,
   "lm_ckpt_path": "/home/ubuntu/alex/pref_learning/ControlledCarp/ckpts/raw-roc-gpt2-large/",
 

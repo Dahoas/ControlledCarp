@@ -1,0 +1,56 @@
+Model Type: good_grammar_coop_model
+Review: Grammar_Usage
+Base model: tensor([[0.7473]], device='cuda:0'): Oh," said Jane0 . she thought she was going to the prom. her date was enraged. he yelled at her the whole night. jane stood in shock at the anger on her face.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod You get what you pay for with respect to texture quality. better ones don't come on for so long.<|endoftext|>`.
+Tuned model: tensor([[0.6033]], device='cuda:0'): Oh," said Jane0  fertility. she sighed and put down her pen. she had been studying this for a week. she couldn't figure out why she was having this problem. the internet said she test negative for fertility.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We had cupcakes for breakfast on a hot summer day!  they were fluffy, delicious and very indulgent.
+
+Base model: tensor([[0.4554]], device='cuda:0'): “We just do n't know where to look for the missing doll. we looked today but it didn't look like she was around. we looked on our drive to school  then at the school, the bus stopped and we saw her.   she was lying beside the seat, her lips bound in post-it notes! 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[0.7018]], device='cuda:0'): “We just do n't know how to end this. summer will surely be a struggle. we don't have much money. we need employment. i guess we will all drink beer while we are moping.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Share.  the boyfriend told the judge he 'd agreed to an early release.  the judge released him on parole
+
+Base model: tensor([[0.7871]], device='cuda:0'): “Where do your  feet go   when i walk?  the answer i usually give is  사란  .  i decided to walk to the store to buy somearo. i went to the store and bought some placed. when i went home my feet felt better.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We decided to check out the haunted house
+Tuned model: tensor([[0.4645]], device='cuda:0'): “Where do your  ears go?   i'm not sure if i'm allowed to say this, but they go back to my head.  this particular ear is in the front and that particular head in the back. i have trouble moving them. otherwise they 'd be folded up like a ball.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Close to the holiday
+
+Base model: tensor([[0.5859]], device='cuda:0'): “I’ ve always been lactose intolerant.  naturally, i had never ate dairy.   one birthday, a friend chose some almond milk over plain milk.   i loved the bright green color, and it tasted great!  now i love almond milk!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>While crafting a wooden chair i broke one of the legs
+Tuned model: tensor([[0.8888]], device='cuda:0'): “I’  re tasked my sister with scheduling appointments. she told me she would be back today.  she spent time with my grandparents, and got lost in the program.   when she called me, she stated she had to clear her schedule.  i struggled to find her schedule when she did not show up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Throughout the
+
+Base model: tensor([[0.4016]], device='cuda:0'): “Why won� � one day a little boy walked into our building wanting to meet us.  he walked in front of our entrance, paused and then walked off.   the security guard told us to leave him alone, as he was dangerous.   maybe he wasn't a terrorist, but a disturbed kid who needed some help. 
+|<endoftext>|
+Tuned model: tensor([[0.3839]], device='cuda:0'): “Why won� � no one ever knew. maddie didn't even know she had won. she just decided to relax and enjoy her day.  everyone woke up and went to work, happy and relaxed. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The disappearances of three weeks ago has rekindled interest in the orca whales. the mystery had sim
+
+Base model: tensor([[0.7031]], device='cuda:0'): ‘Very tempting,  bruce thought as his friends watched him.   near the end of the rope, bruce started to slack off.   the others grabbed him and pulled, but then stopped.  they helped bruce recover and then they ran off. n't running back, bruce began retracing his steps. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[0.4061]], device='cuda:0'): ‘Very tempting,  pete thought as he got into his car.  what would be the best way to celebrate tonight? would it be to grab some popcorn and watch netflix?  sure, maybe that's what he was going to do.  he knew better than to do that in the car though!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Anyway, oni
+
+Base model: tensor([[0.4568]], device='cuda:0'): Tilly looked flatly  in the mirror. she was fat and out of shape. she decided to make a change. she started eating better and walking daily.  slowly but surely, she was seeing results. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>British grown ups always treat teenage gon na savor's sweet glory. i used to think i hated teen angst. now i
+Tuned model: tensor([[0.5749]], device='cuda:0'): Tilly looked flatly  in the mirror. she told herself that she needed to get a new nose. her sister and friends teased her mercilessly.  she didn't care, because getting a new nose meant she was alive!  now tilly enjoys her daily walks with her new nose blowing in her hair.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Theorem 1: all
+
+Base model: tensor([[0.4887]], device='cuda:0'): “You worked with  cockroaches for years?  one day, both of you noticed them in the same place.   you started panicked, but then a cockroach came out of nowhere.  it attacked you and your roommates.  hopefully, you are now vowing to never go back to that job. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Just as
+Tuned model: tensor([[0.7300]], device='cuda:0'): “You worked with  me for almost 6 years. you always supported me during tough times. but i guess that my hours were never enough. i decided to step down from my position. i ended up finding another job.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Supplied. i bought a large bag of meatballs for dinner that night. i left it on the counter to go
+
+Base model: tensor([[0.3842]], device='cuda:0'): The boy began running
+ 
+across the field. his dad yelled at him to stop but he wouldn't. he continued just as he saw a large deer run by. the boy knew he should stop but didn't want to. he laughed at the deer and ran anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Disclaimer -  i do not own pink avocados
+Tuned model: tensor([[0.6020]], device='cuda:0'): The boy began running
+ 
+he fell over. he hit his head. he cried out for someone to help him. a girl was nearby helping another boy. that boy got up and returned to the boy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>THE ant hill in my yard was infested with termites. i couldn't keep the termites away forever!<|endoftext|>Bleacher
+
+Base model: tensor([[0.5596]], device='cuda:0'): We are the Sam0 405 ticket scalpers. every saturday morning i push all my tickets for the big sale. ten scalpers were chasing us down on saturdays. we had to leave early on our birthday to make it to the top of the sales. we are now the laughingstock of the scalping world.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters)
+Tuned model: tensor([[0.2907]], device='cuda:0'): We are the Sam0 406 of the fido network. we were excited to find one in the wild. our son tagged along.  after a lengthy search, we finally found him.   he looked so happy, sitting in the palm of his owner. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Credit card fraud had risen dramatically in america since 2005. then-govern
+

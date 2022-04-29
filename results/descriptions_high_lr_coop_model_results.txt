@@ -1,0 +1,55 @@
+Model Type: descriptions_high_lr_coop_model
+Review: imagery/descriptions
+Base model: tensor([[2.4384]], device='cuda:0'): Both sucked in their breaths . their son jumped up out of bed as soon as he could. he ran into the kitchen and grabbed pizza. the three of them sat down and started eating. the anticipation gripped them like a warm fire.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hearts coach gave his players a
+Tuned model: tensor([[3.6221]], device='cuda:0'): Both sucked in their breaths  and sat on the ground. they were at the same loss as to what to do. dave looked at the ground where his parents stood. he decided they were both wise.  so with his decision, he walked up to them and gave them advice. 
+|<endoftext>
+
+Base model: tensor([[9.4031]], device='cuda:0'): The water doesn’ ed and no one can swim. i scavenge the river bottom looking for enough tubes to swim. one by one i collect twenty tubes. i slip onto the boards and onto my back. i can swim for awhile until it eighteen ducks arrive.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[6.4142]], device='cuda:0'): The water doesn’ . the people depend on the water. their bills are due. the water is not turned on. the bills get paid.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Recently we had to buy chemistry equipment as part of my class. i needed a safety brush. my friend offered help buying
+
+Base model: tensor([[3.0055]], device='cuda:0'): Sam0's eyes filled  with tears as the dentist told him he needed glasses. he went into the waiting room for the appointment. as soon as he made eye contact the chair person stuck his hand in his eye. sam regretted his tears as the person wiped his eyes. he went back outside and left the waiting room.
+
+Tuned model: tensor([[4.3513]], device='cuda:0'): Sam0's eyes filled  with tears when he saw his mother had died. his parents spoke for the first time that day. he didn't want to talk about his mother. but when his parents left his room he did.  when his friends came over, he helped them say their goodbyes. 
+|
+
+Base model: tensor([[0.5672]], device='cuda:0'): ‘I’  was ready to go. this was for her reunion friday night. we had moved a long time ago. and now we headed for that place as a couple. i don't think i will ever forget that night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Inspired by the
+Tuned model: tensor([[7.5032]], device='cuda:0'): ‘I’  liked to spend money. i once spent so much that my parents got concerned. they called my parents asking what is going on with my spending money. they came home and found my spending money spent at a video game store. they now think video games money could use some transitioning income.
+|<
+
+Base model: tensor([[1.7320]], device='cuda:0'): John0 smiled his approval  for mercedes. for some reason he always felt superior to her. he thought her driving was impeccable. on one occasion he drove her to the tests and completely wrecked it. he never told her about it because he didn't want to upset her.
+|<endoftext>|
+Tuned model: tensor([[6.9090]], device='cuda:0'): John0 smiled his approval  on his sister. he told her she should try to do better in school. he then called her parents and explained what he said to her parents. they cautioned her about acting up in front of her whole family.  when she saw them later, she was disappointed in her siblings. 
+|
+
+Base model: tensor([[4.5433]], device='cuda:0'): “You know she  is getting close to divorce when ursula posts bail.  at first ursula did everything right, but then something happened.  she published a blog post mis-branding her ex-boyfriend as her boyfriend. the post went viral and now he's being sued for defamation.
+Tuned model: tensor([[4.7608]], device='cuda:0'): “You know she  likes me.  she asked me to dinner last night, and i said yes.  yesterday when i got home from school i found something special.  when i looked under my bed, my sister had post-it notes.  she wanted me to meet her after school so we could not meet
+
+Base model: tensor([[0.6327]], device='cuda:0'): Sose looked back at  his wife's face. his wife was angry. somer thought about his wife. somer divorced his wife. his wife's now happy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pixelated turquoise peach pies were some of the most delicious things to eat. my
+Tuned model: tensor([[0.4318]], device='cuda:0'): Sose looked back at  the hotel across the river. he saw stacks of dusty papers on the floor. uncle henry was dead.  fortunately, it didn't take long into the morning for sose to find him.  he gathered the papers and brought them to his house.
+|<endoftext>
+
+Base model: tensor([[1.4536]], device='cuda:0'): Yes, life was good  once upon a time.  betty and her parents were going on vacation. betty had eaten lots of carrots. she had also drunk lots of water.  of course, in the middle of it all, betty got sick. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.5599]], device='cuda:0'): Yes, life was good  when i was a child.  i was saved at birth from a terrible disease, malmatrophe.  the doctors pulled out my heart and gave me a pacifier to eat.  they promised me a happy life, if i ate better.  i began to do better in my subsequent life
+
+Base model: tensor([[0.0236]], device='cuda:0'): I rolled my eyes
+ 
+my mom asked for chewing gum at the party. i knew not to give her my opinion
+i gave her the gum
+she chewed the gum with her teeth
+<UNK><|endoftext|>A lot of zoeyCompanion stuff was missing for my ships 23. i was disappointed as
+Tuned model: tensor([[6.6837]], device='cuda:0'): I rolled my eyes
+ 
+since the movie ended. i didn't want to talk to anyone.  when my friends went home, they spoke to their boyfriends.  one friend tried to reach out to me.  however, he was rejected since he talked too fast and hard. 
+|<endof
+
+Base model: tensor([[5.8077]], device='cuda:0'): The girl stopped mid- sentence. her mother nodded her head. she told the girl to keep on talking. the girl mimed walking down the road. the girl thought the look of annoyance on the child's face was funny.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Kevin and iike went fishing
+Tuned model: tensor([[4.6689]], device='cuda:0'): The girl stopped mid- sentence. her mother told her she shouldn't interrupt. the girl was having a lot of trouble focusing. she finally told the teacher. the teacher admonished her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Recently my niece had been alone for most of her life.  when
+

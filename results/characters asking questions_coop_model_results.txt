@@ -1,0 +1,61 @@
+Model Type: characters asking questions_coop_model
+Review: characters asking questions
+Base model: tensor([[4.9063]], device='cuda:0'): “Not what I meant  to you in life.    not being sure why he lived, he went to find his mother.   she was standing by the cross at the cemetery, scrabbling in the dirt.  he interrogated her about her death and she smiled and rubbed her eyes.    he didn't know how to comfort her, but he knew her would be happy
+Tuned model: tensor([[7.1536]], device='cuda:0'): “Not what I meant . that was the last slur i would use.  suddenly, i saw her standing behind me.  she was telling me to scram! i ran as fast as i could out of the class.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favorite holiday. thanksgiving is my favorite holiday because it's everyone's favorite day<|endoftext|>Thanks
+
+Base model: tensor([[2.6002]], device='cuda:0'): Penemue held up a  piece of gum. he started chewing on it.  when he finished chewing, his mouth started to hurt.  his gums started to bleed. he decided to spit the gum out.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod <UNK> habitual use of banned drugs impedes health.  a plea for clemency for my son
+Tuned model: tensor([[2.3543]], device='cuda:0'): Penemue held up a  piece of gum and pretended to swallow it. his mom watched him chew until he started to gulp it down.  bullseye, his mom made it sound as if penelope had just woken up.  then she pulled down the gum and placed adolph near her nose. she smiled and cooed as his little puppy took a big bite out of it
+
+Base model: tensor([[2.4609]], device='cuda:0'): Now, he was here
+ 
+Lee got in his boat and set off down the river. he picked up speed as he approached the mouth of the river. he sailed over the current and struggled to control his boat. he reached the other side of the river and looked down at the water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sen. ted works at sonic. he just landed his
+Tuned model: tensor([[8.7136]], device='cuda:0'): Now, he was here
+ 
+everyoneagram a poem to him. he would repeat them with his sister. it became easy to pronounce after this. he was an instant poets'liar. he could recite any poem just by shouting it out loud.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favorite holiday. it is my favorite holiday because it is my favorite holiday. thanks
+
+Base model: tensor([[3.4777]], device='cuda:0'): John0 help me," He  said.   if i didn't put down my watch, it would run away from me.   when i looked at my watch, it was 6 am.  he asked me if i 'd like some coffee.  when i refused, he ran off. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SANTA BARBARA COUNTY collected
+Tuned model: tensor([[6.2792]], device='cuda:0'): John0 help me," He  said.  i didn't say anything. he walked away. i continued to think about it.  then i walked back, he said he understood. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favorite holiday in the entire world
+Thanksgiving is my favorite holiday in the entire world. it's the only holiday i enjoy more
+
+Base model: tensor([[1.6551]], device='cuda:0'): “Oh, yes,  mom called.   she said the truck had broken down, and she needed me to take a bus.  i agreed to go with her. we waited an hour before we got to the bus stop.  indeed, the bus came and i rode it to school. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Department of justice officials are looking for the
+Tuned model: tensor([[6.5921]], device='cuda:0'): “Oh, yes,  we are finished.  the kids cleared out the boxes and filled the shelves. we put down some books and made over a few cans. we put away the food and shelved everything. the table was a mess again!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favorite holiday in the world to everyone. but to those on the inside it
+
+Base model: tensor([[4.7758]], device='cuda:0'): All eyes turn to me
+ everyone clamoring to hear my favorite song.  so, i turn on the radio and take the song radio like a plague.  my favorite song begins booming from the speakers. i became so engrossed in the song that time flies. it's okay though i still can't enjoy it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>dram
+Tuned model: tensor([[7.3159]], device='cuda:0'): All eyes turn to me
+ someone called the bomb squad
+they ended up finding the bag of chips
+after they analyzed it they determined it wasn't harmless
+the bag was destroyed
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favourite holiday. it's the one holiday i can enjoy forever.  however, unfortunately thanksgiving is most enjoyed at the office. 
+
+Base model: tensor([[1.9983]], device='cuda:0'): Her brows rose, arch ing her eyelashes.   she couldn't control them, and they swelled.  she took a deep breath to calm herself. she picked a spot under one of her brows. bruised and bleeding, she wondered how much longer she 'd last.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thursday we learned of another fine store donated clothing.
+Tuned model: tensor([[6.2620]], device='cuda:0'): Her brows rose, arch ing over her gentle eyelashes.  she looked into their sapphire depths all the time.  they were like mirrors to her, reflecting her hopes and fears.  she was determined to give her dream a success.  she wrote it down, knowing it was there, waiting to be unlocked. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving
+
+Base model: tensor([[4.5554]], device='cuda:0'): “That makes sense,   it's what i've been taught.  races are defined by who can run the fastest.  nowadays, runners have time to study and improve.   tomorrow, i 'll run three miles. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>I was chatting it up with my girlfriend. she wanted to watch the olympics with me
+Tuned model: tensor([[2.3018]], device='cuda:0'): “That makes sense,  mister bill thought.  he was an adept mechanic and had countless tools at his disposal.  he worked on everything from small appliances to large buildings.  he didn't mind the money, he loved working with people.  it was a career he would pursue for many years.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is normally jack '
+
+Base model: tensor([[5.4023]], device='cuda:0'): Sam0 smiled faintly and shrugged . he shrugged because he knew the game played on the other team was only rigged. nothing in life was preordained and chance can happen.  in math class, he was paired with a twin to see who would fail.   his twin prepared well, but sam couldn't keep up with him. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[6.9642]], device='cuda:0'): Sam0 smiled faintly and shrugged . she had finally gotten what she wanted. she was finally going to get a speeding ticket. she turned sharply sideways to stare at the car in front of her. she was going to get pulled over again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my favorite time of the year! one my best friends calls and asks me to be her best
+
+Base model: tensor([[3.3847]], device='cuda:0'): “You’re  the one who is the stubborn one.  when we contract, you don't let us go until we meet your conditions.  initially i was on board with the idea. but the harder we tried to meet your requirements the harder it got.  in the end, you didn't need us any more. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[5.6602]], device='cuda:0'): “You’re  the first of many people that i have asked to get in bed with me. at least 3 people have said yes so far. although i love a lot of them i don't belong with them. i talked to my family about their plans for the future.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving is my least favorite holiday. it's
+

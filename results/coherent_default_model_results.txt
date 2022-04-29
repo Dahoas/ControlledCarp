@@ -1,0 +1,61 @@
+Model Type: coherent_default_model
+Review: This story is completely incoherent
+Base model: tensor([[3.3083]], device='cuda:0'): “You seem so  tired today. i have not slept a wink all week. you know what i got you for christmas. the perfect gift. <UNK> i was dreaming about you the entire time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Leo's boss explained only half of the office followed procedures.  discouraged, leo threw open the door to the
+Tuned model: tensor([[2.7264]], device='cuda:0'): “You seem so  happy today.  me, however, am miserable.  yesterday my wife told me she had to go to the hospital. today she called and said she has to leave for work. it is not pleasant being so alone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Read more articles by
+
+Author tag <UNK><|endoftext|>Experts say it's possible
+
+Base model: tensor([[3.8966]], device='cuda:0'): He storms down the staircase . he dives for cover. a nosy neighbor sees him. they share a knowing glance. then the neighbor pounces on him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hillary loved dressing as the devil for halloween candy. she was known as the sweet, sleepy mommy. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by min
+Tuned model: tensor([[3.4881]], device='cuda:0'): He storms down the staircase  in the dark. the smallest of the three dogs howls with excitement. the bigger dog barks furiously at the passing traffic. the smaller dog howls with joy. they sit huddled together on the porch laughing and storming down the stairs.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It's no secret that jim a cape or cheat sheet for
+
+Base model: tensor([[2.8304]], device='cuda:0'): Jane0 looked at her  abbie and decided it was ugly. she swiftly pulled off the abbie's top and then rolled it up.  getting a front seat to her show, she impatiently waited.   when the abbie finally took flight, there was nothing left of it.  leather was all that remained of the once lovely abbie.
+|<endoftext>
+Tuned model: tensor([[2.5567]], device='cuda:0'): Jane0 looked at her  credit report online. she noticed that her credit score was higher than average. she called the credit reporting company. the credit reporting company told her she had a question in their files.  after calling, they provided her with the appropriate information. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Evie turned on her laptop and saw one entry on the meritocracy quiz
+
+Base model: tensor([[1.9433]], device='cuda:0'): He drew a deep breath .  awaiting her response, he unbuttoned his shirt.  she smiled as she entered the room. he gave her his number. she gave him her business card.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- Rep. toe nail procrastinated until the last minute before leaving for work. he was rattled by being late for work and angry that
+Tuned model: tensor([[2.2028]], device='cuda:0'): He drew a deep breath  as he stuck the piece of gum in his mouth. he was determined to speed up his already slow walking pace. he stomped slowly to maintain his patience.  but after hour after hour, he felt angrier than ever.  he regretted even trying to make it faster.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pressure keeps the fridge a cold temperature
+
+Base model: tensor([[3.4959]], device='cuda:0'): It had started innocently  enough. molly was painting in the art gallery. the portrait of her mother was from her childhood. a friend spilled coffee on the painting.  the gesture from her mother, however, was sweet. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tiffany applied sour patch kids on her tanned skin.  it was as easy as that.<|endoftext|>
+Tuned model: tensor([[4.5118]], device='cuda:0'): It had started innocently  enough with a dust bunny. joe and his family had decided to play a game of capture the flag.  everyone started flagging up, grabbing the flag and running.   soon, everyone had a colony of flags and animals on the ground.  the game was a great success and everyone was having a lot of fun.
+|<endoftext>|
+
+Base model: tensor([[3.4158]], device='cuda:0'): Her satisfaction reflected his
+ 
+. he was no longer the loser.
+he had finally reached his goal. his managers were impressed with how hard he had fought. all of this success made him feel his
+self esteem hadn't changed at all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Have you tried eating bamboo? it was like eating peanut butter and jelly all glued together.
+Tuned model: tensor([[2.9619]], device='cuda:0'): Her satisfaction reflected his
+ 
+self-worth. she seemed more important to him
+ <:ARG2>  investigated the source of the <UNK> blues. she realized that he 'd been depressed all this time. he had tried many drugs but was better now.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Despite new technology and better sensors advanced radometrics remained a mystery. the flight to aust
+
+Base model: tensor([[2.9593]], device='cuda:0'): John0 looked around him  at the swarm of bees. he knew there was an ultrasound to be held later that afternoon.  he walked quickly to his friend's, wiping away tears with his hand.   waving at the bees, he assured his friend it wasn't a big deal.   going back inside the house, he told his parents he was going to the doctor. 
+Tuned model: tensor([[2.6804]], device='cuda:0'): John0 looked around him . there was only the black shadow of the tree in front of him. nothing was rising or falling from the branches. john felt helpless. perhaps today wasn't entirely too bad.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Comcast has a horrible netflix account. they charge a ridiculous $ 8 monthly fee for poor quality streaming.<|endoftext|>Regular price $ 4
+
+Base model: tensor([[2.6594]], device='cuda:0'): “I don� �t know how to play solitaire. someone gave me a solitaire book. i read the rules and took the suggested actions. i became frustrated because my hands were small. i did not learn how to play solitaire.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Processing time was one of the few constants on my desk.  one day, i
+Tuned model: tensor([[1.8693]], device='cuda:0'): “I don� �t know what it is.  it feels like the end of my body, and it hurts.   i know i'm dying, and it feels excruciating right now.  sometimes it even feels like i'm being tortured.  sometimes it feels like i“m falling asleep, and eating my own flesh. 
+|<endoftext>
+
+Base model: tensor([[4.1277]], device='cuda:0'): Sam0 shook his head . he told samuel to go kill himself. samuel gave him a big look. then he punched him in the nose.  afterwards, samuel punched sam in the kidney repeatedly. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>TIME spent outdoors in the summer in nh turned out to be great recreation.  it's long been a great passion
+Tuned model: tensor([[3.0533]], device='cuda:0'): Sam0 shook his head . he figured nothing would come of it. he opened the door unsteadily. the dog jumped on him. sam decided it was okay after all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Prerequisites for profs courses covered in honors courses include a college education.  the honors designation is given to those students who achieve highest grades in honors courses.<|endoftext|>
+
+Base model: tensor([[3.1903]], device='cuda:0'): Captain Sam0 cleared his  history of those involving zoology. he went to a biology class the next day. at the end of class he received detention. the teacher pointed out how much he had studied. sam thanked him for the effort he put into it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Former scandal-ridden senate candidate rod lost his bid for re-election. his name
+Tuned model: tensor([[2.5202]], device='cuda:0'): Captain Sam0 cleared his  throat. he told everyone to quiet down. he then said that he had something important to say. he took the microphone out of his mouth. he started speaking.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Providence was dissatisfied with the way the campaign had been reported. it had been a draining four weeks full of campaign events.<|endoftext|>Emergency vehicles were used to
+

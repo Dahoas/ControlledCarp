@@ -1,0 +1,56 @@
+Model Type: character internal monologues and thoughts_two_unfrozen_coop_model
+Review: character internal monologues and thoughts
+Base model: tensor([[0.4130]], device='cuda:0'): The third thug’  spy investigated the bank. the teller demanded he take a bag from the vault. the third thug grabbed the bag. he stuffed it in his shirt. the thug left the bank.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Trevor had gone to kindergarten without any particular eye on
+Tuned model: tensor([[5.2848]], device='cuda:0'): The third thug’  punched me in the mouth.  since he looked stronger than i, i kicked him.  he fell down to the ground.  however, he managed to strike me again in the head.  my eye received many bumps.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day
+
+Base model: tensor([[2.7082]], device='cuda:0'): It ain’t  spring time again. the grass is turning green. the kids go outside. they throw rocks at the neighbors cars. they have a lot of fun.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to our newest location. one of our favorite prototype jeeps is now for sale.
+
+Tuned model: tensor([[9.2605]], device='cuda:0'): It ain’t  easter. my boys and i love easter. we decided to hunt easter eggs. our dad and mom helped. we collected a lot of eggs and hid them.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was the worst.  my friends and i
+
+Base model: tensor([[3.1067]], device='cuda:0'): Irhan recoils  every time he steps on a razor edge. his doctor suggests he take a tetanus shot. he refuses to do so. then his skin begins to peel. he feels regretful for not listening to his doctor.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dear friends and colleagues: we
+Tuned model: tensor([[1.4334]], device='cuda:0'): Irhan recoils  from a weird dream about clowns. he awakens to find himself in his room. he takes off his clothes to discover his room is covered in cheese. he opens the window to peep outside. the cops have arrested his sister for hosting a clown party.
+|<endoftext>
+
+Base model: tensor([[9.5394]], device='cuda:0'): “They were worried  they would be evicted from their apartment this month. they applied for an advance on their rent. their landlord approved it. they were thankful.
+|<endoftext>|<|endoftext|><|endoftext|>That day in the summer always comes with a fright. a mysterious light flashed in the distance and everybody ran
+Tuned model: tensor([[8.1833]], device='cuda:0'): “They were worried  sick. their toddler had been walking in public for a week. they called her school and told them she was sick. her classmates sang her a lullaby in the afternoon. her healed bow flew beatificantly outside at all her moments.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The
+
+Base model: tensor([[2.8804]], device='cuda:0'): She swallowed a blunt response  and set up the camera. she paced back and forth thinking of a way to end the interview. the cold was making her nervous.  upset and tired, she gave an official interview and left the mansion.   when she was done, she stood in the lobby and looked down at her feet
+Tuned model: tensor([[13.2617]], device='cuda:0'): She swallowed a blunt response . he flushed and left in a hurry. he ran into her office. his hands were covered in pepper spray. his principal called an emergency meeting.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school began. my friends and i arrived at my friends house that day.
+
+Base model: tensor([[2.3328]], device='cuda:0'): He shook his head
+ 
+he said he didn't know anything about books. so her went to school like she had never done. she read all the books she could find and she learned. she improved her vocabulary by 1000 words per week for five weeks.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NVIDIA
+Tuned model: tensor([[3.2825]], device='cuda:0'): He shook his head
+ 
+Didn't mean to look him in the eyes. he called him glassy and floated around lazily. it was almost time when he grabbed his bag and ran outside. he started to run towards the train when he saw him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The
+
+Base model: tensor([[2.5404]], device='cuda:0'): My soul to t- bone my neighbor marta yesterday. i went up to her roof on a rainy afternoon. i asked her if she wanted to work on her porch swing set. instead she said no and would only take a few photos. the photos are going to be emailed to marta over the coming days.
+
+Tuned model: tensor([[10.4441]], device='cuda:0'): My soul to t- bone my friend. my friend and i were walking down our street. my friend and i path crazed across the street. my friend stopped and started walking towards me. he pulled out his t-bone to hit my neck.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and
+
+Base model: tensor([[5.3212]], device='cuda:0'): Unfortunately, John0 had  his ipad used too often when clockwork was his theme.  john0 lost count of how many times he used his ipad.  one day, his ipad stopped working.  john0 was beyond frustrated and in a rush to get his ipad fixed.  luckily, his friend
+Tuned model: tensor([[6.4344]], device='cuda:0'): Unfortunately, John0 had  accidentally locked himself out of his house.  he called his friends to come help him.  after an hour, john0 and his friends finally rescued him.  john0 was hit with a long bill because of the locksmith handling him. john0 was grateful his friends were there to bail him
+
+Base model: tensor([[0.9307]], device='cuda:0'): Time seemed to slow
+ 
+Innate woke up from his nap to great groaning. he checked the time and the alarm clock went off. he turned on television and saw a local news report about an electrical malfunction. the report he watched was about a man waking up after a nightmare.
+|<endoftext
+Tuned model: tensor([[11.4955]], device='cuda:0'): Time seemed to slow
+ . he ran out of gas. a stranger stopped and offered him a ride. they travelled to the station. he paid for the stranger and they moved on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was tomorrow. my friends and i boarded the school bus.
+
+Base model: tensor([[5.8105]], device='cuda:0'): Sam0 nodded, and  ella took her old toy-car out of the packing box.   timmy, holding the new toy-car, eyed the car curiously.  timmy pointed it at sam0 and asked if she wanted to play. ella agreed and the kids left the car open for a few
+Tuned model: tensor([[11.7267]], device='cuda:0'): Sam0 nodded, and  the counted to three.  sam wound up 50 votes ahead of sandy. the rest of the ballots were counted. sandy won by 25 votes. sam congratulated her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was upon us. my friends and colleages lined up
+

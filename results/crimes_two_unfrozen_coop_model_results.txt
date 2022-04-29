@@ -1,0 +1,60 @@
+Model Type: crimes_two_unfrozen_coop_model
+Review: crimes
+Base model: tensor([[0.9990]], device='cuda:0'): I'm sorry, I —
+ 
+im sorry my brother for being so distant. you see i broke up with because i didn't want to be his father. i didn't want to lose my childhood friend nor lose my touch in this world. but my brother being so distant didn't help either.
+|<
+Tuned model: tensor([[14.6039]], device='cuda:0'): I'm sorry, I —
+  my math homework was late today.   i couldn't figure out why, until i looked at the notes i've studied.  i realized that they said three sections needed to be turned in. i turned in the homework right as the deadline passed.
+|<endoftext>
+
+Base model: tensor([[13.8496]], device='cuda:0'): Oonok nodded in approval
+ she had been given a free ipad by her principle. ire took it to school to use only for slacking. then class began and she felt rather nervous. her desk mate introduced her to one of his teachers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Mayor de Blasio was in
+Tuned model: tensor([[12.5829]], device='cuda:0'): Oonok nodded in approval
+ 1 oonok offered some encouragement to his maths classmate. the classmate was more irritated than he was. he threw a desk across the room. one of the teaching staff had to come and get him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education wasn't as hard as i
+
+Base model: tensor([[3.3946]], device='cuda:0'): “She’s your  cat.  she doesn't like water, neither do her owners.   you have to give her food, though, because the water is torture.  i learned this the hard way. i will never let her out of my sight again.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[14.2531]], device='cuda:0'): “She’s your  typical student.  she studies hard, but does not do well in school.  she also has a lazy attitude.  as a result, her grades are always mixed.  so now she is stuck at   school.  
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+
+Base model: tensor([[1.4275]], device='cuda:0'): “Mind your own affairs,  mary thought.  she let her necklace get lost on the way home from school.  arriving home, the necklace was nowhere to be found.  mind your own business gained again as mary searched frantically.  she finally found it in the washing machine, full of soap. 
+|
+Tuned model: tensor([[14.9689]], device='cuda:0'): “Mind your own affairs,  teacher.  my homework assignment was due today.  without reading, i argued with my math teacher.  he finally gave in.  ironically, he ended up passing it. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  i
+
+Base model: tensor([[4.5073]], device='cuda:0'): The ******* god galloping
+ his reign began today. he will bring ruin to all he meets.  creatures swarm everywhere, trying to escape.   the worm eats the plants on his way, but it's nearing death. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to our home page! 
+Tuned model: tensor([[11.6483]], device='cuda:0'): The ******* god galloping
+ the teacher took out his homework. he tested his students on it for the next five weeks. they studied for the whole time.  when the semester ended, he handed out the tests. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Understanding english words can help you improve your test scores
+
+Base model: tensor([[6.3759]], device='cuda:0'): Sam0 harrumphed and  kicked the desk. he swore at sam and said that his mother would pay him no mind.  suddenly, sam's father appeared.  he taught sam just how badly his mother had hurt him. sam felt guilty about what he had done and offered to work things out.
+|<end
+Tuned model: tensor([[13.9654]], device='cuda:0'): Sam0 harrumphed and  tried to ignore the teacher. she was upset that her homework was late. the teacher talked to her in a stern tone. sam0 began figuring out a plan. she tried to ignore the teacher for a whole day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education was an interest i
+
+Base model: tensor([[3.9938]], device='cuda:0'): “What have you decided
+ You won't do? he he asked questions. she responses. they thought together. 
+|<endoftext>|<|endoftext|><|endoftext|> she smiled at his inquiring eyes.  he smiled back at her teasingly.<|endoftext|>Video: Video:   rocky horror picture show  <|endoftext|>
+Tuned model: tensor([[6.8862]], device='cuda:0'): “What have you decided
+  during math class?  when i asked, i suddenly understood that she didn't fail me.  she said my answers were too hard for her to answer.  therefore, i failed her.   since then, she never collaborate with me again. 
+|<endoftext>
+
+Base model: tensor([[4.3153]], device='cuda:0'): The news reporter droned on  with her story without a break. the inside story was about how badly the company was doing. the politician jumped in and said the corporation should be taken over. that was when everyone noticed the giant corporation was caught with bribes. the whole news network was scandalized and fired.
+|<endof
+Tuned model: tensor([[13.8104]], device='cuda:0'): The news reporter droned on  with his assignment. the teacher gave him some homework to finish.  before he could turn in the papers, the power went out.  he handed the papers back to the class.  when he ran into the library, they weren't there. 
+|<endoftext>|
+
+Base model: tensor([[2.8368]], device='cuda:0'): “Whose car is that ?  it's that old, rusted garbage can behind my neighbor's house.   some people have moved out, and the owner leaves it there.  i'm not sure what that old man thinks of me.  maybe he feels i'm trashy, because i
+Tuned model: tensor([[3.2851]], device='cuda:0'): “Whose car is that  in the driveway?  when i went to get the get away, i saw nothing.  i inquired to the neighbors when they took their garbage out. they said that the do is was taken out yesterday by their son. i said okay.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[9.7254]], device='cuda:0'): “Sorry sir,”  i have missed class today.  i apologize for the trouble i have caused. it was 1:30 pm when i was notified. please accept my apology for the embarrassment.  furthermore, i hope to have forgiveness for the trouble i caused. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[14.0587]], device='cuda:0'): “Sorry sir,”  my math exam has been postponed.  my regular homework assignment still has an academic term.  consequently,   i'm writing my math homework on thursday,   and not notice the time difference.  i 'll just stay up late studying for the next exam.
+|<
+

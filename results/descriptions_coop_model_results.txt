@@ -1,0 +1,69 @@
+Model Type: descriptions_coop_model
+Review: imagery/descriptions
+Base model: tensor([[2.6400]], device='cuda:0'): ‘Well good on  monday morning because i woke up early.  first, i opened up all of my i.   then, i went to work and took a shower.   finally, i took a bus ride to my school.  i got my stuff and then i met school and went home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>t accidents happen all
+Tuned model: tensor([[0.6950]], device='cuda:0'): ‘Well good on  you for reaching your goal today bob. we all know that you work hard for what you achieve. three days later we attended a banquet for the membership. only the best of the best received this honor. we are forever grateful to meet you and pursue our goals with you.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Regarding my fellow co-workers i once served
+
+Base model: tensor([[6.6170]], device='cuda:0'): ‘Forget it  a pet is needed for the houseplants.  there are too many to choose from, and exotics are hard to find.   my husband and i nailed the scissors to the board, and started.   after about a minute, we just had to pick out if we wanted an exotic or a houseplant.   my husband and i compromised on a
+Tuned model: tensor([[3.0566]], device='cuda:0'): ‘Forget it  ernestina has had enough.  she drives her car straight to the garage, slams the door, and jumps inside.   she begins carving her name on the garage door, in lipstick.  nearly a hour later she checks the mirror and it is a nose job. every year on her birthday forget it ernestina had the most desired nose job.
+
+Base model: tensor([[0.2429]], device='cuda:0'): A profound scrambling ensued
+ 
+on all the data in the brain
+
+it included the chess board outcome machine.
+
+one side kept winning and the other losing.
+
+a chess player had to learn more about the game.
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thirty-six year old ted felt his rear tire dive off the road during a commute.  he was
+Tuned model: tensor([[3.0311]], device='cuda:0'): A profound scrambling ensued
+ 
+otherwise no one would've noticed
+
+they raced down the hill in a doo-woo
+
+they fell over like brittle toys in a tumble floor
+
+they didn't notice the vehicle that had approached them
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My mom's boyfriend's daddy slapped me in the face and told
+
+Base model: tensor([[0.7910]], device='cuda:0'): John0 thanked them and  walked to the bus stop.  he got on the bus, and sat down next to a schoolmate.   they started to talk, and he nodded his head to her.   during their conversation, he noticed someone in their seats.  he realized it was hannah who was his schoolmate.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[7.8764]], device='cuda:0'): John0 thanked them and  they left. we waited outside for them for a couple of minutes.  after they left, i went into the kitchen.  i checked my shiny new knife.  when i saw them, i realized they left the engagement ring there. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Recently i went hiking in the nearby mountains. the aroma of baking spices filled
+
+Base model: tensor([[1.2646]], device='cuda:0'): “I love you , but you brought this on yourself.  i haven't talked to you in days. today i was so mad i headed to the store. i bought whatever i could find for breakfast. i'm going home now.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Demetri considered the worst place on earth to be a social climber.  his
+Tuned model: tensor([[2.3628]], device='cuda:0'): “I love you  thank you so much.  but the night before, i got mad at my girlfriend.   the other night, i decided to spend an entire weekend alone.   when i woke up the next day, my ex was waiting for me.  and she wanted us both to give her flowers because she loved me.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[2.3735]], device='cuda:0'): Son, it’ s christmas now. son decided to go inside and try to find treasures. first he started with the christmas tree. then he got the presents outside. finally he looked at the subtle differences in the movies.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Gallery: 2012 adidas adirez x lvp's wax replica 9530.<|endoftext|>How many times
+Tuned model: tensor([[4.3522]], device='cuda:0'): Son, it’ s a cat that meows and howls at everyone around it.  when my son was born 2 years ago, cats were not common in our neighborhood.   they did come later, but very rarely.   someone threw a piece of chicken at son, who doesn't like them much.  that cat still howls and they have a long, interesting
+
+Base model: tensor([[8.2506]], device='cuda:0'): That’s my  last day at work. i'm taking a vacation to mexico. thanks to all my co-workers. you guys do make me feel great. i'm looking forward to seeing everyone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Associated Press file photo of construction nears completion on stadium site.
+
+Links of many generations past rolled down the
+Tuned model: tensor([[2.0539]], device='cuda:0'): That’s my  nephew's name. my nephew has autism. he was sitting in the living room.  he saw a glass, and he hit it.  that is autism.
+|<endoftext>|<|endoftext|><|endoftext|> <:bar> <|endoftext|>Understanding the cycles of senescence is as important as understanding chemistry.  we begin by understanding the basic constituents of dna, and the relationship
+
+Base model: tensor([[4.4702]], device='cuda:0'): “I am not  old enough to drink. i texted my friend who lives in a retirement home to get me hangovers. i put the drink in the fridge. i tried to have one. i needed to drink two in a row.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pulp fiction is my favorite type of fiction. my girlfriend loves it when i watch them on television
+Tuned model: tensor([[2.5434]], device='cuda:0'): “I am not  good at navigating through pictures. it is why i do not like taking pictures.  so, whenever i get a new job, i have to learn how to take pictures.   alas, learning how to take pictures is very hard.   eventually, even taking pictures becomes hard. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When i got engaged i
+
+Base model: tensor([[2.6198]], device='cuda:0'): “Will she be  my girlfriend?  after all that time, i'm still waiting on a response.  i checked my spam folder.  there, right in the bottom corner of my inbox, is an email.    miss mary, you are not going to get to marry me. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Having trouble following a simple
+Tuned model: tensor([[9.6325]], device='cuda:0'): “Will she be  ok after my surgery? we told her to relax and to watch tv.  she tried to be positive, but still sad.  eventually she got better. she thanked me for my gift.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This past weekend i participated in my friend's dedicated fundraising page.  after the fundraiser was over i skipped my next gym
+
+Base model: tensor([[3.4315]], device='cuda:0'): Sam0 whined,  complaining about the finished dinner.  her mother reprimanded her for her complaining. until she informed sam it cost $ 400 more than the bill's estimate. not only did she change the estimate but acknowledged she was being partial. sam quibbled over the price but accepted the apology.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Bruce is in need of a
+Tuned model: tensor([[4.6021]], device='cuda:0'): Sam0 whined,  plopped and cried for her toy.  mom asked the kids what was wrong. they had been bored for too long. they decided to go outside to enjoy the fresh air. sam surprised her mom with the best play date of the year.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This was my first trip to the beach in over a year. my friends
+

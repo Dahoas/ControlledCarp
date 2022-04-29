@@ -1,0 +1,78 @@
+Model Type: roc_roc_default_model
+Review: I like how happy this story is.
+Base model: tensor([[1.2017]], device='cuda:0'): peter was trying to quit smoking  so I could be cheap, and that made more sense fat nigga, just my poor uncle thinks his weight. I know this shit is true, my own ancestors went through the same shit, so it sounds like nigga that is full of shit but is like fuck you af apart from the fact
+Tuned model: tensor([[4.9371]], device='cuda:0'): peter was trying to quit smoking " and Kashi had to name people to do that! I thank you for going about it in the most creative and nutty way you can! Now I could always write about it for my fans, and please pass it on to every Cookie Monster you know! I know my fans will love this
+
+Base model: tensor([[1.8454]], device='cuda:0'): chris had a dog named tu fted lands, and Krohn is furious when the community decides that tufted lands should be set aside from rednecks, in the same way that rednecks like to kick bums.
+
+HEY, CAN I PRETEND THAT THIS IS MY COMPUTER SHIFT
+Tuned model: tensor([[6.9334]], device='cuda:0'): chris had a dog named tu omo! With animals! It was so awesome to see so many toons observing the school's jobs and how they made it everyday!
+
+
+Some of the human jobs were safe labor that suited the seasons and animals... BONUS: The boys didn't mind testing new magic spells! Gaaaa
+
+Base model: tensor([[0.9983]], device='cuda:0'): lorraine was a softball player  and basketball player.
+
+Mason's last comment came in January 2003. He said the 13-year-old may not have had the ability to think.
+
+When a couple of stopped and talked to Mason, he talked about being autistic.
+
+Police said they're getting a lot
+Tuned model: tensor([[5.3605]], device='cuda:0'): lorraine was a softball player  with a fun smile! I proposed to Rena in late July. She made me her flower girl uniform! It was so cute! It was designed by Melissa for us, and I wore it today for my first dance! Yesterday Rena decided to give me the dress again, which would be my new uniform
+
+Base model: tensor([[2.4765]], device='cuda:0'): bob loved to eat bacon and  had stuffed his balls with it) but could not bear to eat it while Thrace disappeared into her castle. The spirited cleric of Gwydion urged a band of believers to seek Thrace when she appeared beneath Prudence's domain, however most of them were pursued by Arthur again and taken prisoner.
+Tuned model: tensor([[7.7755]], device='cuda:0'): bob loved to eat bacon and  fish slices all night and I was the one trying to get him to calm down!! So I did! And he successfully calmed down! He laughed and we watched a funny sketch of Spongebob with cuteness! Such a great afternoon! I loved being a fun parent. Really happy for him for
+
+Base model: tensor([[1.3347]], device='cuda:0'): chris was on his second < Allure of the Sirens> show, something else different from the college guys to the great 0-3 record and is appealing to us early.
+
+He's got a 2-1 record in his last photo and there is a reasonable chance he might be back. Stay tuned..
+
+Tuned model: tensor([[6.3318]], device='cuda:0'): chris was on his second < x> cute little dog! kitty died on his birthday! that was me his friend! my friend- i was so happy and happy! he was ahead of all my doctters! his ears were sprinkling BW swag! my pile was so BIG!!! i had my Smile on my shirt
+
+Base model: tensor([[0.7509]], device='cuda:0'): cindy hated valentine  messaging given the fragment of fact that the car was searching for it's owner; a lost car. Before I went to Walter Metcalfe's offices I had written a letter via Dean. I know it would have been helpful. It matched the wisest wishes of the grieving parents. I
+Tuned model: tensor([[6.4193]], device='cuda:0'): cindy hated valentine 's because her smile was so bright! I thought maybe for her not to accept it for a little longer!! I think my heart was so full, I did a tiny swipe of engagement! I will tell my mom about this experience today because I LOVE how my mom applauded my defense! I WILL LOVE
+
+Base model: tensor([[2.0032]], device='cuda:0'): my roommate is a slob
+ 
+Mi You're disgusting
+
+Mi We have a li'l]
+
+Mi I gotta get by
+
+Mi (I've got my number)
+
+Mi Baby please just something
+
+Mi It's a little too late for this
+
+Ma I gotta go off
+
+Ma
+Tuned model: tensor([[5.8084]], device='cuda:0'): my roommate is a slob
+ 
+I love my bed! I have a really big bed!! It doubles as a hammock in the winter. It's got enough support that my feet don't hurt anytime soon!!! And I've always had a small mattress and when my feet get sore I can put my feet on it! It
+
+Base model: tensor([[1.6392]], device='cuda:0'): mark was at camp with his friends  on one roadway during the day and on another during the day they encountered as many three or four dogs. Knipp hadn't had a canine friend for more than 30 days. His mother was very worried about him and offered to take care of him and bring him home. But when her son returned she
+Tuned model: tensor([[4.2554]], device='cuda:0'): mark was at camp with his friends . I always had a smile on my face because I thought I should see him again, and after knowing him he was one of my toughest teammates! We both loved to dance and pull great tricks! Shake is one of my biggest attributes --and one of my biggest regrets is not using his sometimes goofy
+
+Base model: tensor([[3.7253]], device='cuda:0'): last christmas was so special,  gonna miss it alot. i miss you )
+
+a kind & very encouraging soul, to all of you.
+
+\! /gli\mira
+
+http://antha.lan/radio/
+
+leave your favs & favs of the week to manph verified pass
+Tuned model: tensor([[7.1181]], device='cuda:0'): last christmas was so special,  I had all the fun and you guys made it special for me with these shoes and I know I always looked beautiful!!!!!!! I never thought I would find my soulmate dressing so silly in shoes I had never heard of before! I loved Hamada and I love her shoes too, I LOVE them
+
+Base model: tensor([[1.2938]], device='cuda:0'): i was watching television this morning
+ 
+Slowly dressed in ­accommodation, Farnborough straightened himself into a formal uniform including her black black top, then a hard-hued black coat.
+
+Donning a velour black scarf around his shoulders, he slreted past Mr Finucane into the courtyard
+Tuned model: tensor([[5.8713]], device='cuda:0'): i was watching television this morning
+ 
+I saw Cathy come out of the house today! She's wearing a bathrobe!! Cathy had a bath before today!! Oh lot of fun today~ Wouldn't have thought with Cathy up there~ Plus I teased her and let them try to steal her shirt clubs! I made a funny face when
+

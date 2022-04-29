@@ -1,0 +1,74 @@
+Model Type: technical_coop_model
+Review: Technical_Jargon
+Base model: tensor([[0.3153]], device='cuda:0'): Was serious about it too ? amy went to the party. it was amazing. her friends were there. in fact they party the whole weekend.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>VELVICTORIA was a world renowned expert on venison. she wanted to do something special with her venison.<|endoftext|>Food for thought. a great meal didn't cost that much.
+Tuned model: tensor([[0.4229]], device='cuda:0'): Was serious about it too ? matt asked me if i had any bleach. i told him yes and filled the sink with it. i was skeptical at first because i didn't think it would work. matt successfully turned the water on before i did.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>For years alice had been working at the vet's office like any other day.
+
+Base model: tensor([[0.2971]], device='cuda:0'): ‘You think you  can hike up neat mountain without slippers. that is what i told my friend who recently went with me. he was hesitant at first but he finished the hike in 7 days. he was exhausted when he got home but felt proud.  i told you that as a joke, how could i forget slippers? 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.4270]], device='cuda:0'): ‘You think you  can handle the dog. this dog is intelligent. she knows when she has to go out. she will go when it is time. she will wait when the time isn't with her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What's in your oatmeal if it has oats in it? it's called a flour ice cream machine. also
+
+Base model: tensor([[0.3906]], device='cuda:0'): Ah, sensitive subject,"  he said.  i infer he was homosexual. he looked at me with a scowl. i retorted that he was precisely what i 'd described as a freak. he spat in my face.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>FILE PHOTO - single women didn't usually flirt with handsomely. but this lovely man said hi to my slightly
+Tuned model: tensor([[0.2720]], device='cuda:0'): Ah, sensitive subject,"  he said.  i was surprised when he said that.  i felt scared, but then i remembered something.  he was talking about the holocaust. i didn't feel scared anymore.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The second grade class had a field trip to a theme park. the first gradeers were transported to the amusement park in
+
+Base model: tensor([[0.3588]], device='cuda:0'): Sam0 continued to sob  as he sulked in his office chair. his mother pleaded with him to simply look at the computer screen. sam slowly composed himself and turned back to his chair.  once more, sam felt a burst of adrenaline and sped up.  with a burp and a sigh of victory he jumped up and ran.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Auth
+Tuned model: tensor([[0.2693]], device='cuda:0'): Sam0 continued to sob . she had already spent 6 hours in the car. she sobbed while her mother drove her home.  finally, her mother consoled her.  sam's mother held her as she cried into her pillow.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>One of the last bastions of privilege in america went up in flames.  everyone waved white
+
+Base model: tensor([[0.4296]], device='cuda:0'): The woman was distraught
+ 
+ about some news she found online. it explained it was her daughter's worst moment. she became distraught thinking about it every single day. she called her daughter and made arrangements for her funeral. she went to the funeral with her daughter handed flowers and a card.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEWS RELEASE
+
+Press contacts: jackson felt
+Tuned model: tensor([[0.1929]], device='cuda:0'): The woman was distraught
+ 
+Since she lost her husband she was very sad and angry. in therapy she identified her triggers. they were all things she experienced that made her upset. they helped her feel better by helping her understand herself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>How often do you get bitten by a flea?  i've always been terrified of fleas.
+
+Base model: tensor([[0.2781]], device='cuda:0'): agony, covering her  face with a bandaged face stared at the chunk of meat on her wrist.  it was a human finger and ursula was terrified.  moments later, her sister ran into the room.  they had both seen the mutilated bloody finger and were both terrified.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>iam happy anniversary everyone!  the day has
+Tuned model: tensor([[0.1708]], device='cuda:0'): agony, covering her  tracks as she ran.  she had practiced for hours. she could still feel the heat from earlier. it burned her legs as she slowed down. everyone gasped when she ran past them.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>In 2000 a jury found charlie guilty of third degree arson.  it was a shocking turn of circumstances for a judge to judge
+
+Base model: tensor([[0.2867]], device='cuda:0'): Her fingers found cold metal  under the couch cushions. she bent down in order to pull them out of the dryer. one finger remained in place over the door handle. her friend came in when she heard this. they laughed at how wet her fingers were underneath the dead handle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Donald trump gave people hope that he could be the president.
+Tuned model: tensor([[0.4311]], device='cuda:0'): Her fingers found cold metal . they stabbed into it and tore it to pieces. she gasped in shock and pain. what was inside her? she tried to peel it away but it was too large.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW HAMILTON --  inspired by pop culture references, i bought a nerf gun.  i accidentally shot myself in the leg.
+
+
+Base model: tensor([[0.3863]], device='cuda:0'): Horacen said,  i want to join the army.  i thought the military had been cool since elliot Gordon. my parents told me i could join but that i would have to excel. i did very well in school and got straight a's. then i moved to germany and became a pilot there.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get the latest
+Tuned model: tensor([[0.3326]], device='cuda:0'): Horacen said,  i need a spray tan.  i told him i couldn't afford one. he bought me a spray tan anyways. we talked about it and i allowed him to use it. i have a new tan.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Shipping costs can add up quickly with the advent of ebay.  today, my wife received a box
+
+Base model: tensor([[0.1058]], device='cuda:0'): That shut me up
+ 
+when i heard the weather report
+
+it was label reporting thunderstorms
+
+and i counted down the days until it would end
+
+it would end on sunday night
+
+and i thought about the good times that i had
+
+and how i wish the weather would stay like that
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Chapter 1305
+Tuned model: tensor([[0.2563]], device='cuda:0'): That shut me up
+ 
+as i sat in jury duty. i was late and also had bad breath. my boss found out and told on me. i had to pay a fine. this was also the first time i had my house taken away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dear andy got caught shoplifting from the emily store. andy was given a
+
+Base model: tensor([[0.4210]], device='cuda:0'): “Hi Sam0  is a final ten student with two years of eligibility left. hi sam is surrounded by good kids who support him.  however, there are senior moments in every day of college life.   hi sam's situation is hopeless, he will never get to graduate. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>akali didn't like commercial music at
+Tuned model: tensor([[0.4536]], device='cuda:0'): “Hi Sam0  <UNK> pulling through on the highway.  in the faster he got back, he knew he was nearing the exit.   he was roaring, almost raining down on the exit.   suddenly, he heard the siren go off, warning him to buckle down.   exiting the vehicle, he saw the border guards had closed the border. 
+
+

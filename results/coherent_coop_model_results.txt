@@ -1,0 +1,57 @@
+Model Type: coherent_coop_model
+Review: Incoherent
+Base model: tensor([[0.3950]], device='cuda:0'): That wasn’t  thomas day for dalton wilson. thomas has a longair mail truck to deliver packages. the people around town didn't feel the same way about thomas.  today, thomas got a sign from the post office that he can't deliver.  he said he 'll deliver tomorrow.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[0.7876]], device='cuda:0'): That wasn’t  how i feel about today. i got up early enough to begin work with energy. i turned on the laptop and started typing.  work slowed down, but i enjoyed the feeling of coding.   at the end of the day, i was happy with the speed at which i worked. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>THE clausius
+
+Base model: tensor([[0.4644]], device='cuda:0'): Now it was his turn  to bring the treats to the table with his dad. his dad disassembled the board games and found a ton of coins. rich snuck up on his dad and grabbed the coins. he snuck across the table towards his dad and buried them. rich hid the coins in his pocket just in time!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Men's
+Tuned model: tensor([[0.2746]], device='cuda:0'): Now it was his turn  to tell the kids a scary story. he told them a scary story till they all cried. he had to put them to bed because their eyes were hurting. he found their pajamas soaked with sweat and makeup ruined. he grabbed the empty box of crayons and set about coloring instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>On his thirt
+
+Base model: tensor([[0.3161]], device='cuda:0'): To him we are
+ 
+a couple. we grow old together. we have a daughter. we reach middle age together. our love never dies.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The fascination with nutrition rarely ends before the kids reach adulthood. so i turned to my favorite dessert called dilly bars for inspiration.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students took
+Tuned model: tensor([[0.4571]], device='cuda:0'): To him we are
+ 
+1. made to adore him we entranced with his every desire. when we go our separate ways he stays with me forever. we cherish every moment we 'hear together. my love for him is endless.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When i took my kids to a flea market i thought i 'd take a nap.
+
+Base model: tensor([[0.3429]], device='cuda:0'): In rain forests love flour ishes are made. her coin purse consists of three intertwined strands. her nose is stuffed with confetti. spaghetti strands snake out from her nostrils. she has not escaped the ravines since that first day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ABC and bonnie's had open house tonight!  the couple was excited for diners and sunday
+Tuned model: tensor([[0.1965]], device='cuda:0'): In rain forests love flour ishes. there are always trees with flourishes.  this morning, there were three.  we stopped on a road and watched them. they were so beautiful!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Members of the irish republican party received a big boost in public opinion after the 2014 election.  the party saw its popularity continue to rise with a focus
+
+Base model: tensor([[0.3456]], device='cuda:0'): Silence as they deliber ated on what to do. they were still unsure as to what direction to take. the scouts gathered around their chief to discuss. they decided to go on a class trip through the area. the class trip was a success and they left with great memories.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The game was stopped before it ever got started. ted did not
+Tuned model: tensor([[0.4045]], device='cuda:0'): Silence as they deliber ated about how to proceed. there was a ticking clock on the wall. if they didn't move it would stop working. they looked away in confusion. they did as they were told and put the clock on the wall.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> a<|endoftext|>Last night i had a dream about the friendly neighborhood raccoons. they were
+
+Base model: tensor([[0.2664]], device='cuda:0'): Sam0 thought about that  decision for a long time. then she made her decision. she called samantha and told her the good news.  samantha was so happy, she hugged her.  sam0 had found the answer to her dilemma.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"You can hardly see the sky from the top of the hill in ane dalton
+Tuned model: tensor([[0.4037]], device='cuda:0'): Sam0 thought about that  woman again. he asked her who it was. she professed to being his teammate. sam0 realized he was foolish for trusting her. he apologized to the woman.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>updated sunday 21st april<|endoftext|>Be sure to update your protection plan if you use mobile data.  we found several hotel with decent rates around
+
+Base model: tensor([[0.3699]], device='cuda:0'): Questions erupted in Jeb� �'s living room.  unhinged from the stress of the day, he started yelling.  he said a top aide told him emails would be found for him.  angry at the falsehood, his wife called the police.   later, when the cops left, she took out her denver snickers. 
+|<endoftext>|
+Tuned model: tensor([[0.4238]], device='cuda:0'): Questions erupted in Jeb� �'s office about an upcoming meeting.  discovery was ongoing, as the attendees had greatly outnumbered officials.  the meeting was to determine the location for a new center.  before the meeting, an angry mob banged on the doors demanding answers.   but the would be attendees did not come into the meeting, only went. 
+|<endoftext
+
+Base model: tensor([[0.4153]], device='cuda:0'): “I love you  but you undressed me last night. i did not want to undress you. i slept with the light on. i turned on the tv. i slept with the blanket on my head.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>For the second time in a row my ceiling fans had stopped working. ever since my climate controlled room washer died i had
+Tuned model: tensor([[0.3828]], device='cuda:0'): “I love you  all. i mean the ones that are there for me. i miss you so much. i love you more than i know how to live without you. i can't go anywhere without you.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Your browser doesn't support html5 video tag.<|endoftext|>Today was my eighteenth birthday. my parents bought me a brand
+
+Base model: tensor([[0.4382]], device='cuda:0'): Sam0 Vallen said  that she still liked tom.  however, he expressed a liking for someone else.   when tom asked who, samuel said that he didn't know.   however, she said that he would never admitted it.  they didn't speak for several weeks after that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Authorities arrested a man last
+Tuned model: tensor([[0.3924]], device='cuda:0'): Sam0 Vallen said  very cruel things while she was drunk. she once made a comment about how nobody liked her back.  later, a co-worker confronted her about her comment.   she denied the things she said, and the coworker confronted her again.   luckily, this time she felt embarrassed and went home. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.5468]], device='cuda:0'): “Yes, just  like i was told.   as if my friends hadn't been warned, i headed over to town.  i hoped to see streisand's dizzy ghost town. but when i arrived i saw streisand was a playground. the worst part was crawling through the claustrophobic crawlway.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[0.5571]], device='cuda:0'): “Yes, just  like she said!  she counted some beads on the sand. her little brother popped a few in his mouth. he thought they were devilish.  her mom said that if someone popped a b bead in a sand box, it was a treasure. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Britain loves transport panda-style - and boris knows
+

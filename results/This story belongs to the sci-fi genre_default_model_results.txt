@@ -1,0 +1,52 @@
+Model Type: This story belongs to the sci-fi genre_default_model
+Review: This story belongs to the sci-fi genre
+Base model: tensor([[3.5584]], device='cuda:0'): Suddenly the room went quiet . i heard a crashing noise. i saw the walls shake and then a loud crash. i grabbed my flashlight and saw a water pipe burst. the walls and ceiling were watery and giving us a notice.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Footage from a wildly popular singing
+Tuned model: tensor([[5.6394]], device='cuda:0'): Suddenly the room went quiet . gary wondered what had happened. he followed the sounds around cautiously. a tarantula popped out. gary blew his horn and the tarantula climbed back into its hole.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA ann nuts discovered that the night sky gave special opportunities
+
+Base model: tensor([[1.9388]], device='cuda:0'): The river smelled awful
+  ray was paddling in the river. he need to get off the current. he got alarge and floated down the river. he finally got to his boat. ray had to pee in a cave.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>http://tvtropes.org/
+Tuned model: tensor([[3.3776]], device='cuda:0'): The river smelled awful
+  johnny couldn't believe it. the river was definitely dying. he ran to the stream to see if the smell was gone. it was all coming back. johnny was glad he went to the stream.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA is trying to send humans
+
+Base model: tensor([[1.1987]], device='cuda:0'): I didn't do it  on purpose. i wanted to do it. it turns out my friends did it. everyone was mad at me. i guess it's karma.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Jonathan was a very talented man. his condition made him ill.  he died of cancer the
+Tuned model: tensor([[3.6986]], device='cuda:0'): I didn't do it . it's my fault. i should have asked for permission. i did it anyway. i was very angry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-XXXX is the designation given to a rare document unique to memphis.  chosen for its contents related to memphis
+
+Base model: tensor([[0.3716]], device='cuda:0'): Sam0's gone,  he thought he had been killed.   the police checked the local records, but to no avail.  sam had moved out too far back to be found. he called police protection to keep watch on his land.  sure enough, sam was dead, someone had actually murdered him. 
+
+Tuned model: tensor([[1.9033]], device='cuda:0'): Sam0's gone,  she was traded to chicago in december.  her old coach tried to put her in a great spot. he signed her to a short-term contract.  though she knew she was traded, she didn't care.  she was going to get a chance to play in the n
+
+Base model: tensor([[2.3433]], device='cuda:0'): Nobody wanted to help him . he hurt himself and they yelled at him. he tried to run away. he climbed into a tree. it hurt him very much and he was never the same.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What are your dreams for life?
+
+>out<|endoftext|>Massive cloud
+Tuned model: tensor([[2.0495]], device='cuda:0'): Nobody wanted to help him . rob decided to pass the buck. he told his friend to go get it. his friend followed his instructions. he got it to everyone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CTV.ca reports police dealing with mall shooting was down to a few injuries.  thankfully, they
+
+Base model: tensor([[0.7223]], device='cuda:0'): “Thinking about  mother became very bittersweet.  considering a lot of things, i remained steadfast in my decision.   despite my distaste for her, i realized i needed her.   giving up gives up is not easy, but i moved on.   i didn't let her go,
+Tuned model: tensor([[3.9969]], device='cuda:0'): “Thinking about  life without her husband. nothing in life is ever as simple as it seems. thinking about it makes her head hurt. she needs some answer to the real question. she needs to find something to make her mind off of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-XXXX
+
+Base model: tensor([[0.8417]], device='cuda:0'): “Is everything okay ?  you got dumped, right?   but, you realized you needed to improve your life.  so you packed up all of your stuff and went to work.  after a few months, you became the richest person in town. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[5.0164]], device='cuda:0'): “Is everything okay ? the house is secure inside it's own bubble. but bees got inside it. so they had to do something. i made them leave it be.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-XXXX-1 was an memetic deformity affecting human patients administered immunos
+
+Base model: tensor([[2.1009]], device='cuda:0'): That’s my  friend's brother ray. every day he goes to school and plays frisbee in the park.  after he plays frisbee for a while, he mows the lawn.  my friend calls him turtle but he calls it little brother. i just wish i could play with him real
+Tuned model: tensor([[2.3876]], device='cuda:0'): That’s my  son's eight year old sister. she is thnot lazy. she always says she can't get up. last wednesday she stayed in all day. my son was annoyed at her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA is planning a major space mission. soon
+
+Base model: tensor([[3.1153]], device='cuda:0'): She went into the kitchen  to take a shower. she filled the tub with cold water. she got in the shower. she stood in the tub. she sat in the hot tub for an hour.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Surprisingly delicious brownies with vanilla ice cream.  they were knowing
+Tuned model: tensor([[3.7283]], device='cuda:0'): She went into the kitchen . she stared at the milk carton in disbelief. it was crumbly and milky looking. she decided that it must be something else. she turned off the heat and drank the whole carton.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-013 was a custome
+
+Base model: tensor([[3.8849]], device='cuda:0'): A man," I said  to the universe, self-consciously.   and somehow, he was told he was god.  he went to his local mall and bought some cool technology.  and after a while, he left his identity behind.   he went and lived in a building called god, unlike the
+Tuned model: tensor([[4.7581]], device='cuda:0'): A man," I said , was retiring early.  everyone was relieved. they had been dreading the announcement for a long time. now he was officially retired. people could finally relax and have some fun!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-XXXX-1: <:prep-toward>  brain of oxide pour oxide
+

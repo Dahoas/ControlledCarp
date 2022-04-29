@@ -1,0 +1,58 @@
+Model Type: music_coop_model
+Review: music
+Base model: tensor([[2.7272]], device='cuda:0'): “If you say  i love you will you marry me     joe   said   i will love you  .  joe meant  will you marry me  .  the man said  i way i love you   when he got married. 
+|<endoftext>|<|endoftext|><|endoftext|>Police were searching for a suspect in a hostage-
+Tuned model: tensor([[5.0027]], device='cuda:0'): “If you say  something to someone, you perhaps don't mean it.   for this reason, some people take offense when others say things.  one person started a petition to ban the word   we would  .   they argued that saying   we would   is disrespectful to all.   everyone argued, and now everyone is happy. 
+|
+
+Base model: tensor([[6.4672]], device='cuda:0'): fashion is imperative to success  in any industry. fred bet his entire future on fashion. and he was devastated to see it fail. fred invested all of his money into a the 5 hour flash mvd company.  however, his vision was stale and failure was imminent. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Nina looked like she was in the best shape of her
+Tuned model: tensor([[10.0737]], device='cuda:0'): fashion is imperative to success  in any business. designers are in high demand and are vying for a key role. yesterday i met the new menswear designer for menswear magazines. i was so happy we got the interview. i loved the article this year's menswear designer dominate the music scene.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>See the band hum almost started
+
+Base model: tensor([[7.6150]], device='cuda:0'): John0 stared at it  like he knew it was the end. his whole team had been selling a memory card. he and his girlfriend back until they gave it up. they planned to break up and get it back together again. it was like a huge weight had been lifted from his shoulders.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Fighting has long been an intense passion for me.
+Tuned model: tensor([[2.9213]], device='cuda:0'): John0 stared at it . the bus was coming. he had to get up! he stood up! the bus was coming!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> the cj was a typical american dad.  he 'd take his kid to blockbuster to get the latest superhero smash movie.
+|<endof
+
+Base model: tensor([[1.4922]], device='cuda:0'): I tried to smile
+ after all my years of suffering.  but, i was depressed and looked for help.  i heard a child's giggling in the distance. i saw a glimmer in the child's eyes.  knowing his eyes were seeking me, i ran away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>tom took out his carving knife and carved
+Tuned model: tensor([[4.1926]], device='cuda:0'): I tried to smile
+ - but the object kept staring back at me. i couldn't get used to it. it was creepy. somehow i hated it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It was the first time my car had been rear ended in over a year. the other driver had lost his mind.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+
+Base model: tensor([[2.9107]], device='cuda:0'): “It’ s deathly hot out here.  what you want to do is wait until it subsides, or go outside.  it's not like it gets easier to work in the summer. especially not if you have to wear shorts in the mornings.  water is always there but you 'll find out at night, too. 
+|<endoftext>
+Tuned model: tensor([[15.4309]], device='cuda:0'): “It’  was the hottest day in a whole year. they decided to open up their volleyball room. they got all the books and the dv booklet. when it was time to play it was perfect.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The song played at movie theaters was so popular it was laments for sad songs.  although sad songs were nobody's
+
+Base model: tensor([[0.8890]], device='cuda:0'): “Oh,� � before i had time to wash the dishes. i went to the kitchen to distract myself.  as i enjoyed a delicious meal, my mind wandered.   i looked at the oven, and they were smoking terribly.  i went back to the living room and cleaned the dishes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Did you see that centip
+Tuned model: tensor([[15.5885]], device='cuda:0'): “Oh,�  here she came. the music started and i started to whoop. she walked out to the front door. she was wearing a beautiful new sweater. i rolled my eyes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The band loved music online. they made a new music recording.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext
+
+Base model: tensor([[0.9558]], device='cuda:0'): The wood cracked and split .  a chunk fell to the ground, leaving a stump.  the kid was suspicious of the felling. questioning the kid's dad was fruitless. the kid knew too much about wood.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Focus on the money: that's the only true way to survive. las vegas was the best part of
+Tuned model: tensor([[12.6889]], device='cuda:0'): The wood cracked and split  where the ax had hit. he searched deep inside the woods for more wood. he could not find any more than what he found last night. he had to move on quickly to suppertime. he called his wife who went up with the wood to finish the fire.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>e the song's over now. 
+
+Base model: tensor([[5.0290]], device='cuda:0'): My point exactly," Jane  insisted.  she was telling him to get the fire started. he grumbled because he was keeping the fireplace going. she asked him to get the water hose attached. he grabbed the hose and attached it to the end of the fire pump.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dear reader/ friends, as i do daily life lessons from the guru.
+Tuned model: tensor([[8.5793]], device='cuda:0'): My point exactly," Jane  said.  her husband agreed. they moved to the midwest. they found a church that had a really cool vibe. they were really drawn to it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The band let me sing lead vocals on their 1984 demo. they were in the pop charts for a long time.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[5.2898]], device='cuda:0'): She’d go  into the night with her. she made the mistake of assuming it was a man.  he was a foreign national, born in africa.  it confused her. she went to europe to figure it out for herself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dozens of people near amy's house cheered when an acrobatic skydiver
+Tuned model: tensor([[8.3840]], device='cuda:0'): She’d go  through all the motions of being a mom. she put her clothes and chaperones away. she went on the cart to buy groceries. she carelessly left the cart door open.  she couldn't catch her groceries, she 'd lose them. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sound & music of music played outside and smiling filled the
+
+Base model: tensor([[5.4043]], device='cuda:0'): “Runner up,  runner up.  they both came out top of their classes. that's what happens when the scores are rolled. you get to the top of the class.  as in life, that's where your dreams live. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Propaganda stunts like that which happened today in sina's case were one of
+Tuned model: tensor([[13.5473]], device='cuda:0'): “Runner up,  to finish and to win.  the game continued into the first set. every move was carefully planned. my <UNK> caught up to me early on.  however, i was finally able to pull ahead and lead. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The band's third album was coming out. it was thrilling to finally get to
+

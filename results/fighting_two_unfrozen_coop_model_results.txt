@@ -1,0 +1,84 @@
+Model Type: fighting_two_unfrozen_coop_model
+Review: fighting
+Base model: tensor([[3.1203]], device='cuda:0'): John0 pranced the  night away in his ufc fighter pay per view. he lost a unanimous decision to his rival johnslex. john had long since retired from fighting. john took an early retirement and searched for a new goal. he became a campaign trainer for a local track team and won a gold medal.
+
+Tuned model: tensor([[3.9842]], device='cuda:0'): John0 pranced the  streets of atlanta during the day.  tomorrow, however, he would venture out more.  he went out to a bar and club.  people smiled at him, but others looked at him strange.   a homeless man asked him for money, but john found a job. 
+
+Base model: tensor([[3.8058]], device='cuda:0'): ‘Was it what  she wondered as she looked down at her basket. it was filled with apples and honey. she 'd have gladly foraged for these supplies all summer long.  but when class ended, she felt guilty buying apples and honey.   the other evening, at dinner, her kids shared the apples
+Tuned model: tensor([[1.3112]], device='cuda:0'): ‘Was it what  she dreamed of growing up? freedom and adventure.  now as an adult, she's focused on family and career.   fantasizing previous life experiences, she wished she could remember.   even though she fantasized, it never materialized. 
+|<endoftext>
+
+Base model: tensor([[2.8405]], device='cuda:0'): Then where are they
+ 
+in the woods i heard the creepy music. an owl hooting. i went into the darkness to find out what the sound was. a neighbor's cat was hiding under a bush.
+|<endoftext>|<|endoftext|><|endoftext|> another day some netizens were having a good time teasing
+Tuned model: tensor([[4.2708]], device='cuda:0'): Then where are they
+ 
+after forty years they still don't know where they are. they came back from the war
+
+they found their church's ruins
+
+the tourists will come and rebuild the church's
+
+heavenly span i know is it has something to do with it.
+
+
+
+Base model: tensor([[6.0500]], device='cuda:0'): “How old are  you mister jones? my little brother asked how old i am.  i told him, how old are you mister jones?  he thought for a moment then said, how old are you mister jones?  i said, how old are you old dude? 
+
+Tuned model: tensor([[7.0351]], device='cuda:0'): “How old are  you today? we usually think of we when we are young.  when we think of young, we think of adventures and youthful exuberances.   when we think of old, we think of lost time and decay.  the day grew long ago.
+|<endoftext>
+
+Base model: tensor([[1.5969]], device='cuda:0'): The front door flew open . a rabbit ran from the yard. it jumped right into the drapes. the rabbit scraped itself all over. it likes to come out of the yard to smell fresh.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What year is it sometime i wonder? it's the
+Tuned model: tensor([[3.7497]], device='cuda:0'): The front door flew open . ruby and her family ran outside. they ran around the yard. they were too excited to stop. they ran to the beach.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When weather salt's day earlier this week rips we're sunny and sunny cheek. the car left
+
+Base model: tensor([[2.1341]], device='cuda:0'): I take another step
+ 
+another step down the ladder
+
+glass clipping practice
+
+Rule of four-leaf clover
+
+Increase the decibel levels
+
+Hyperbole
+
+Angel of the inning
+
+Everything turns upside down
+
+ADVERTISEMENT<|endoftext|>The office was bracing for bad news. the department was losing
+Tuned model: tensor([[2.8421]], device='cuda:0'): I take another step
+ 
+we walk a little higher
+
+we walk a little further
+
+we step on ice
+
+we get scared it's not real
+
+Comments
+
+Tags: ice walk, weight loss, walking a little higher<|endoftext|>About this tutorial
+
+We are going to use a tile floor
+
+Base model: tensor([[2.2374]], device='cuda:0'): “Very good,  my friend said.  i thanked him and gave him the credit card number.  a few days later, i got a message on my phone.   the message said to call the credit card number, but i did not.   in case anyone missed the message, i gave him the
+Tuned model: tensor([[1.1360]], device='cuda:0'): “Very good,  my friend said.   we went to see a movie last night, he said.   in the movie, everyone was saying   gorgeous!    i looked up afterward and my friends said,   brazilian.   
+|<endoftext>|
+
+Base model: tensor([[0.6024]], device='cuda:0'): However, Sam0 knew  he needed to work on something productive. he decided to learn how to cook.  unfortunately, his grandmother wouldn't let him cook yet.  to his surprise he baked a granola bar and enjoyed it. he decided to use granola every day instead of reading about it.
+|<
+Tuned model: tensor([[5.1377]], device='cuda:0'): However, Sam0 knew  he shouldn't drink all day.  unfortunately he fell asleep drinking coffee at a friend's house.  the next day, he had a headache, dizziness, and weak temperature.  his body temperature was extremely high. eventually he developed pneumonia due to drinking coffee.
+|<end
+
+Base model: tensor([[4.8389]], device='cuda:0'): There wasn’t  a burger king near me that i haven't eaten. i decided to go try one. i went into the drive through and asked for a cheeseburger with fries. the person working was very upset that i had no request.  still it tasted good, so i decided to try again.
+Tuned model: tensor([[2.4780]], device='cuda:0'): There wasn’t  a day that goes by that jim thinks he's bad.  today, jim thought he was going to throw up.   afterward, jim was seen by a doctor checking his eyes.   it turns out, jim doesn't think he's bad and he
+
+Base model: tensor([[2.6752]], device='cuda:0'): “Lady Sariah  woke up to yell at her boyfriend. she asked him to clean the basement so she could return to bed.  as soon as he got distracted, he began to prank call her.   he called her again, then left to confront her.  her boyfriend drove up in his car and she
+Tuned model: tensor([[4.5826]], device='cuda:0'): “Lady Sariah  asked my mother if we can take a walk together.  mother told her yes, if it is not too late.  my mother then asked if i want to go outside today.  i told her no, it's too cold outside.   mother told me to go take a bath
+

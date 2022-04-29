@@ -1,0 +1,52 @@
+Model Type: character internal monologues and thoughts_high_lr_coop_model
+Review: character internal monologues and thoughts
+Base model: tensor([[0.0175]], device='cuda:0'): What do you think
+ 
+tom's opponent goes by chance? he meets a pretty girl at a bar to pick up girls. they both strike up a conversation. the date is going well.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Before i did our first diving in the water i was terrified of the
+Tuned model: tensor([[7.3230]], device='cuda:0'): What do you think
+ 
+my friends and i played park by the beach. we came out with a real shovel. next we dug for clams. we were really close. but in the end we could not find any.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was upon us
+
+Base model: tensor([[3.3875]], device='cuda:0'): John0 sat up in  bed feeling really tired. the boy knew it would be a long day at work. he got out a book and read all night. while reading he dreamed of being on vacation. the next day he got to go on vacation!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We had a
+Tuned model: tensor([[9.8657]], device='cuda:0'): John0 sat up in  bed with his brother to study. his brother blew their little sister a kiss. but then stopped and slapped his little brother. his little brother got up and punched his brother. and then they realized it was the morning after their nasty fight.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The
+
+Base model: tensor([[0.3960]], device='cuda:0'): Sam0 tilted his head  down. the store owner was watching him. she got distracted. sam0 raised his head and yelled at the owner. she got back distracted.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>mp3 files $ 11.00 flat leader rock music.  a bargain priced seven inch vinyl single
+Tuned model: tensor([[12.7772]], device='cuda:0'): Sam0 tilted his head . he looked at his server. he opened a browser. his friends were there. they were waiting on him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school had arrived. the first day of school meant it was the first day of school without school. that day
+
+Base model: tensor([[6.2163]], device='cuda:0'): Your mother actually works
+ her summers at the state parks.  her job is to clean, polish and shepherd the trails.   the state parks are huge, challenging and fun.   working so much, my mother doesn't have much time off.  she's grateful that we all encourage her to get
+Tuned model: tensor([[6.2015]], device='cuda:0'): Your mother actually works
+   at the hospital.  one day her son got worse. i called the ambulance.  finally an ambulance came, and she ended up leaving.  the next day my mother told me that she was fired.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was
+
+Base model: tensor([[7.2319]], device='cuda:0'): Obviously inferior units, Sam  and beth were on a top-secret mission.  they were instructed to steal a highly effective weapon from them. they snuck onto a highly secure base and stole the sonic. there was no way that the base's guards would apprehend them.  unfortunately, they did and beth and
+Tuned model: tensor([[3.2767]], device='cuda:0'): Obviously inferior units, Sam  and his brothers from cancellar got up early.  the trees near the road waved to them and made noise.  afraid to go on the move, they hid in the trees.  a passing truck passed them and they made loud noise.  the noise got the attention of the passing
+
+Base model: tensor([[3.2526]], device='cuda:0'): He pulled off his boots  and looked into the sun with pleading eyes. the delivery man came to the door with his paper and meat. he reached into his bag to get his change and saw only his shoes. he helped the man into his boots and offered him a lift to the door. he wondered why he was being so
+Tuned model: tensor([[10.6996]], device='cuda:0'): He pulled off his boots  and threw them on the floor. then he punched me in the gut. my mother yelled and hit him in the nose. he apologized and said he was sorry. we went outside and walked in front of the window with cake.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day
+
+Base model: tensor([[3.4820]], device='cuda:0'): “Oh, don na.  that's the name i gave her when we started dating over 20 years ago. we've been married for over 26 years and have 3 kids together. we hardly see each other anymore since our first child was so young. that's why i wrote the beginning of this story
+Tuned model: tensor([[8.7059]], device='cuda:0'): “Oh, don na.  we were in the park playing when we saw her. her little brother was throwing balls towards her. we ran over and stopped him. we talked to him and he promised to stop.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was here again.
+
+Base model: tensor([[7.9361]], device='cuda:0'): And, ah the drinking  game arrived.  it was an interesting take on soda and alcohol serving in general. you had to drink an entire can in under 12 hours. it was challenging but highly addictive. i finished the game as quickly as i could.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Alastair
+Tuned model: tensor([[5.8747]], device='cuda:0'): And, ah the drinking  age in new york was 18.  my friends went to the same bar and informed me they were drunk. i felt extremely very guilty.  that night, at the same bar, i saw my cousin.  he was hardly drunk.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[9.4565]], device='cuda:0'): “The rent,  unfortunately, keeps going up.  my rent was going up to $ 500 a month.  then, a friend said i could move into his apartment.   he needed $ 700 a month, which i would help him to afford.   finally, he gave in and let me move in
+Tuned model: tensor([[9.0815]], device='cuda:0'): “The rent,  unexpectedly started to fall.   without any notice, my rent was constantly creeping down.  i called my landlord to ask him to keep it up. he said to wait or he could evict me.  within the week, my rent was bumped up to at least $ 1000. 
+|
+
+Base model: tensor([[2.8929]], device='cuda:0'): She knocked on the door  slowly. there was nobody there. she walked to the door and walked back. after a moment she grabbed the door handle. she slammed the door in anger and yelled at the person.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>PARIS is an excellent sport if you're a rich
+Tuned model: tensor([[14.1770]], device='cuda:0'): She knocked on the door . the man answered in anger. he punched me once in the eye. i fell to the ground in pain. my friend had hit me with her purse.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day in school was an especially bad one for me. my first day of
+

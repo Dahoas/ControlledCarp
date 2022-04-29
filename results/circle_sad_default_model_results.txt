@@ -1,0 +1,121 @@
+Model Type: circle_sad_default_model
+Review: This story was so sad.
+Base model: tensor([[0.6658]], device='cuda:0'): Sam0 Xin’s  Outpost).
+
+Historical chapters Biographical Information Senior Warlord Organization Guérin tribe
+
+Lord Commander Combat Information Technique Armored weaponry Affiliation Guérin tribe
+
+Lenin Eritrea Last Known Location Chuguyong Cave, Sidi Yahya Before Defeat Vice Lord Location Liesel
+
+Tuned model: tensor([[7.0523]], device='cuda:0'): Sam0 Xin’s  father, Xu No. 151, died since then on Aug. 21. The girl was born not so long ago, he said.
+
+The little girl never cried because she watched the accident when she was a baby, she told the tri party committee. She cried after her aunt visited her,
+
+Base model: tensor([[1.2270]], device='cuda:0'): You are so ungrateful  Rich. You are making us suffer for relative joys you enjoy....  You are the ONE stinking problem plaguing our nation, and we are doomed. Sooner or later you are going to have to deal with the worst terrorist group to ever appear on the soil of this very nation and
+Tuned model: tensor([[6.0182]], device='cuda:0'): You are so ungrateful !" he said. "He does not know you, but he has learned much." Then changed to his side she who had just been crying.
+
+The lady went and cried as well. But Ruth had told her everything that had happened. She had told her the story about the goose. She
+
+Base model: tensor([[0.9140]], device='cuda:0'): “Are you truly an  Angel?] "I had a stick of Cone of Fire as a weapon while training.
+
+[I also have a Black Powder like Knife and Hand Tool in my Shoulder Pouch.]
+
+[If I'm cut to shreds with it's wielder who came just to obtain my
+Tuned model: tensor([[2.4512]], device='cuda:0'): “Are you truly an  evil soul?' The hobbit cried. The first bearded man turned away and left the hut.
+
+And when the air was warm with the sun, gentle and yet warm, and the past was gone and a good part of the dragon brought down and died, and flew on over Anduin and
+
+Base model: tensor([[0.5697]], device='cuda:0'): Jane0 took this evening seriously , and I was pleased to hear about Jillian's optimism. She is in my prayers. Give Jillian all the love you can.
+
+
+-Bryana 0 people found this helpful<|endoftext|>The general principle is that Article V requires that, if at any time a vacancy occurs in the Senate
+Tuned model: tensor([[4.9982]], device='cuda:0'): Jane0 took this evening seriously ." And she wanted us all to be because we died. I didn't cry because I understood. She cried because she don't want to live in a world where we can't celebrate Valentine's Day. And that's when I fell at my desk and went into cardiac arrest." She only nearly broke
+
+Base model: tensor([[0.3607]], device='cuda:0'): John0's deep voice sounded  from the speakers, clarifying everything. There was no killing and no murder, just utter calm, like death is a fickle thing in the night, who will turn into dust at the cold shoulder of a raging storm. The dead were not darkened, lifted up into surface ordinances, but remained beneath
+Tuned model: tensor([[7.4876]], device='cuda:0'): John0's deep voice sounded  soft
+
+And he the other day in school in the hollow of a tree saw a memory
+
+He remembered a poor child cried no two weeks
+
+And died young, again and again. He remembers his mother and father
+
+And learned a song after losing his own mother to old age
+
+Base model: tensor([[0.3113]], device='cuda:0'): “What do you mean , there's no charge no receipt written anywhere on the camping gear or in the third contingency viewing section? I can't recall actually seeing a price -- even if you're on budget then the consensus is that bags are too expensive.The Fullerton Transportation Companies have spent quite a bit on backcountry patrol
+Tuned model: tensor([[5.0624]], device='cuda:0'): “What do you mean  by that?' I cried."
+
+The politician's father, Anton Tsatsiorsky of Saint-Petersburg, was a strong supporter of the mother of three and the future president of the country.
+
+But she died of a brain tumor at the age of 36. She ranked 102
+
+Base model: tensor([[1.0743]], device='cuda:0'): A Nothing approached his chair
+ 
+Is the staff for breakfast?
+
+Z any questions?
+
+Z Got it.
+
+Well I've allways never embraced this bettering war. And rise up
+
+To protest and act Now and again. But in this? In the shadows forever and ever?
+
+Many
+Tuned model: tensor([[5.9132]], device='cuda:0'): A Nothing approached his chair
+ 
+And screamed for his mother's worship
+
+And died on his own again.
+
+The melancholic mother with her child
+
+And sadness for her dead child
+
+And history as a great tragedy.
+
+The thundering home after the death
+
+And grief for a child's
+
+Base model: tensor([[0.6122]], device='cuda:0'): That's not my worry
+ 
+My PC just told me I need to shut down and empty my dropbox (a new dropbox + a clean new PC), and I already ran the install. Nvm, can't even get prompt to install-in-place any more. Computer runs w/ tests, negotiations
+
+
+Tuned model: tensor([[6.0621]], device='cuda:0'): That's not my worry
+ 
+The baby mine
+
+When I weep, don't cry
+
+But if you don't come by then
+
+I'll tell your father all his tears that she brought
+
+
+And I'll pass my mother to you
+
+And my father never will
+
+I'll tell them I
+
+Base model: tensor([[0.6719]], device='cuda:0'): “I know, I  know, kid.
+
+
+LUKE
+
+So we are living in a universe of people who eat organic, love healthy, like eggs, drink natural water with no added chemicals whatsoever. If only we had photosynthesis!
+
+
+(est. Luke is running away from a lumbering Ronon
+Tuned model: tensor([[8.2642]], device='cuda:0'): “I know, I  cried a little—that started at the end, when she died," Sandra said so tenderly and sadly. She told me she wrote the book with only one dead mother in mind—her mother, Kathleen, another survivor of the horrendous tragedy. It's then that a sexual tragedy, a violence,
+
+Base model: tensor([[0.8752]], device='cuda:0'): Ba’azar grunted  "Maybe you were elated when Guthix died at your hands."
+
+"His name is god of gift... and a curse if he sits for little more than a few seconds." Danse said. "Even HE cannot sit for too long before he becomes.. HOPES people should immediately
+Tuned model: tensor([[3.4489]], device='cuda:0'): Ba’azar grunted  and then he collapsed again. On the run off of the run he was seen to sit on his wife's knee and writhe on her right side.
+
+After the troubled family moved away to neutral ground, relatives cried and begged for the Kharthashtar family to be brought back into their
+

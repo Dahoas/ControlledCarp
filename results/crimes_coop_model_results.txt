@@ -1,0 +1,53 @@
+Model Type: crimes_coop_model
+Review: crimes
+Base model: tensor([[1.6410]], device='cuda:0'): “Actually,”  my water bill has been very expensive.  the reason is that i have been taking too much care of my garden. i am concerned that it could deteriorate into a drought. so at the end of the month i water it and turn it off. but at that point i choose another type of landscaping instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[14.8177]], device='cuda:0'): “Actually,”  i woke up not long ago.  the alarm clock was dead! i tried to get it to wake me up but it wouldn't. finally i decided to schedule a doctor's appointment. i hope my alarm wakes me up right.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of the few subjects we can all enjoy while bored. boredom
+
+Base model: tensor([[2.3660]], device='cuda:0'): ‘I’m  excited for christmas. i always see the christmas tree lit up in the backyard.  last night, i was sad because the tree wasn't lit up.  my neighbor got new lights and they glowed on christmas eve. i finally got to sit under a big christmas tree!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Game of th
+Tuned model: tensor([[15.6545]], device='cuda:0'): ‘I’m  writing a report on schools. i begin by studying the geography of the country. i then cite sources for my information.  finally, i put everything into a chart.   my report is complete, but i dread getting home. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of the few things i value most in life.  in college
+
+Base model: tensor([[2.1714]], device='cuda:0'): “He was my partner  in crime. almost all of his 1300 crime warrants were for non-property crimes. he was employed as a lifeguard at the senior citizens center. the person who shot him had a past prior record. someone killed him after breaking into his house.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Amazon cumes of steam rose from the pot and surrounded tom. he
+Tuned model: tensor([[12.9477]], device='cuda:0'): “He was my partner  in the art class. he was a very handsome man. no one could resist his attractive talent. he devoted most of his time to productive artistry. i gave him a huge tip for helping me with my art class.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of the few enjoyable things i do. i didn't finish college and not
+
+Base model: tensor([[2.7166]], device='cuda:0'): “Look Harlow,  the dog would not stop barking.  he barked so long i thought he would have to leave.  no, he only came when i called his name.   i suddenly realized harlow was hungry, so i fed him.  harlow loved his food and now we are best friends.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>england was
+Tuned model: tensor([[13.2135]], device='cuda:0'): “Look Harlow,  you have ten minutes to park or you will have to leave.  harlow paced back and forth waiting for me to unlock the door. i unlocked it in no time. harlow sped off down the road.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of my least favorite subjects. students are taught to value their time and money.  taking
+
+Base model: tensor([[7.9425]], device='cuda:0'): Pappy smiled to himself
+ it wasn't his day. he had forgotten to graduate from high school. his mother bought him a p bracelet. he wore it proudly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>As the clock ticked down into the thirtieth day of summer and school began. the celebrate arrived as the first day of math class began.  at last the day
+Tuned model: tensor([[8.6221]], device='cuda:0'): Pappy smiled to himself
+ 
+are you happy now, baby?  he assessed his health and was pretty good. he had a fancy white lab coat and sat a meter in front of his pick circle. his parents looked over his report and were unhappy. they sent him home with a report card that he could have chosen.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of
+
+Base model: tensor([[4.0150]], device='cuda:0'): ‘You’re  the only one who doesn't change your underwear.  when it's time to leave the house, you always wear your boxer shorts.  weird thought i had to hide in the bathroom to get away from the sun. when the police came to my house my boxer shorts were in plain view. because of your kindness i changed them again.
+|<end
+Tuned model: tensor([[15.4676]], device='cuda:0'): ‘You’re  teaching me math. i take it very slow. i appreciate that. i will do my best.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education in america is a long and difficult educational adventure. i do too much online research to gain an international perspective. even though the educational level may seem high i enjoy my classes.<|endoftext|>Education was one of the few
+
+Base model: tensor([[3.3772]], device='cuda:0'): Now, Sam0 is no  longer in the house.  sam decided he need to be outside playing sometime. he doesn't know where he can play though. sam buys an old kite for the backyard. there sam flies around the yard most of the day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Here are some less-conditioned pictures of the beach.  i love sand
+Tuned model: tensor([[12.5379]], device='cuda:0'): Now, Sam0 is no  longer able to read.  his doctor told him he has to take medicine to get more attention. tomorrow the report card came. it showed he didn't do so well. sam0 left school with no grades and no money.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Educationally speaking doesn't matter in my books. i'm poor alas i
+
+Base model: tensor([[11.3146]], device='cuda:0'): Sam1 Sam0 says,  i plan to foster 3 new generations of americans.  my job is to get americans educated and have them reach their dreams. it's not easy to change a person's habits but i've been doing it. i've started bringing them skills and then having them witness it. after the third generation i want a preservice degree for myself.
+Tuned model: tensor([[12.8076]], device='cuda:0'): Sam1 Sam0 says,  i am the best at school.  i took all of the other kids out to the playground.  once i caught them, i took them inside.  i beat them all. i am now the best at school.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of the few things i enjoy doing. some call it the enjoyment of dead people
+
+Base model: tensor([[5.7550]], device='cuda:0'): No casual, non-comm uting person was ever who i was told to be by a friend.  i met my first doctor on a vacant office floor of a pulitzer sq. an elderly woman with a bagel clutching her daugher was about my age. one didn't need to be a doctor to tell i found out this woman was half-breed. i met a doctor
+Tuned model: tensor([[11.7527]], device='cuda:0'): No casual, non-comm ittal conversation with sal was doable.  but when it was with her best friend harry she could do it. she was surprised thinking he was teaching her everything he knew. she had never experienced the other side of the coin. until she told him she was just as good at spotting diamonds as him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education was
+
+Base model: tensor([[1.8486]], device='cuda:0'): “It’s  a beautiful day to go fishing. sometimes as i am fishing i wonder if a bear will see me.  just as i was about to dive in, i heard something banged on the dock.  my brother had gotten caught on the dock with some fish. one fish was a large snapping turtle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>According to a
+Tuned model: tensor([[14.4370]], device='cuda:0'): “It’s  school day. i work in the school bathroom. i have to wash student uniform. i finish by doing department leaving. day ended with me going back outside to wash my clothes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Education is one of my least favorite classes in class. it is very difficult to resist the temptation to skip class and watch movies.  despite
+

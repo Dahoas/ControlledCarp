@@ -1,0 +1,50 @@
+Model Type: This story was so suspenseful_default_model
+Review: This story was so suspenseful
+Base model: tensor([[1.3451]], device='cuda:0'): “All right show  time.  i said i was ready, and kicked my body in submission.  my only thought as time went by was to push forward.  when i realized there was a turn ahead, i got nervous.  i had to run five more blocks to make it to the next block.
+
+Tuned model: tensor([[2.9578]], device='cuda:0'): “All right show  time. it is time to introduce our first guest. we chose to go to a local animal shelter. when we got there everything was great. we ended up adopting a kitten.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new disease thriller starring carrie was finally here! aaron
+
+Base model: tensor([[1.0494]], device='cuda:0'): All right," said he  before adding it was on everyone's mind.  my friend june somewhat grimaced as she heard the word, idiot.   to this day, that's practically the only insult i've been called.  i could never quite fully make up my mind on this issue. but
+Tuned model: tensor([[4.9977]], device='cuda:0'): All right," said he  to the tiger.   the tigers roared with laughter, and bounded towards him.   the teacher screamed for them to back off, but there was nothing she could do.  the tigers seemed almost hungry.  just then the door slammed, and a mouse escaped out the tiger's mouth
+
+Base model: tensor([[3.0635]], device='cuda:0'): “Alright then I , i was once again tasked with finding a spare tire.   previously i had looked everywhere, but this looked good to me.   i slowly began to backtrack my steps, which led me to a neighbor's house.   driving up to her house i told her the tire
+Tuned model: tensor([[4.8006]], device='cuda:0'): “Alright then I , time to go fishing.  i parked the car and got my fishing rod ready.  after jumping the fence, i ran out to the lake.  after fishing the whole day i was exhausted. that was the day of the tale.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[2.3820]], device='cuda:0'): John0 gave it a  shot. he was excited to compete. he put all his effort into the shot. he won a gold medal. he was proud of himself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright z<|endoftext|>Asim decided to purchase three ticket types for the best viewing experience. everyone was
+Tuned model: tensor([[2.1606]], device='cuda:0'): John0 gave it a  shot. it was his first time. he caught his first shot. he scored the most points. the whole team congratulated him afterward.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Elsewhere in the land there was a pond tailing a lake. an onlooker wondered why the ducksaf
+
+Base model: tensor([[1.8376]], device='cuda:0'): Sam0 Sam0 that 's what it says on her windshield. every time she's speeding on the highway. she thinks the cop justified her. but he pulls her over. sam says she doesn't see the cop.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hi folks i am setting up
+Tuned model: tensor([[3.4937]], device='cuda:0'): Sam0 Sam0 that  mean a pirate once rode this road. sam put on his helmet and sword. sam rode along until the coast was clear. then he jumped out and ran for ever. everyone was amazed at how sam chased a pirate.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The library nearby had a
+
+Base model: tensor([[2.2999]], device='cuda:0'): “You came to  my door.  as soon as i opened the door, i saw a razor on the slab.  i grabbed it.  since it was not my work, i didn't bother to sink it in for hours.   eventually, i had to go to the sink and wash it off
+Tuned model: tensor([[1.5296]], device='cuda:0'): “You came to  my house.  initially, i was scared.  i ran out of the house. i went inside my house. i changed my clothes and left again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The ski area was closed for renovations. the resort decided to reopen the area for holiday
+
+Base model: tensor([[2.5180]], device='cuda:0'): I wake with a start . i must put my toothbrush on and brush my teeth. i run to get my toothpaste. i pour it all over my face. the pain is excruciating.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Judy '<|endoftext|>Returns were split up fairly equally among the confidants surveyed
+Tuned model: tensor([[2.0247]], device='cuda:0'): I wake with a start . i check the alarm clock and it is 8 in the am. i rush out the door and hurry to school. when i get there i lock myself in my room with a frown. when i get out of bed i straight to work my job is done.
+|<endoftext>
+
+Base model: tensor([[1.3493]], device='cuda:0'): I'm getting out of  the shower to get dressed for school.  after i put my towel on, i turn on the water.   waiting for the cycle to end, i towel off and drop down.  that's when i noticed that the water is still on. now i have to wade into the
+Tuned model: tensor([[3.6282]], device='cuda:0'): I'm getting out of  my house. i need to put my things away. i put my things in a closet outside the house.  when i come back inside, my things are gone.  someone stole my things halfway across the street.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators are looking for the
+
+Base model: tensor([[3.7768]], device='cuda:0'): Now, Sam0 is  playing with his cat. they have a lot of fun playing together.  however, sam starts looking at the cat's fur.   when he looks, he gets in trouble.  his mother has taken the cat to the vet to get checked up.
+|<endoftext>
+Tuned model: tensor([[2.2636]], device='cuda:0'): Now, Sam0 is  about to turn six. sam is going through his birthday checklist. he has a baseball party and he wants a present. sam decides that he didn't want that present from his mom. sam asks his grandma for the present instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WARNING:
+
+Base model: tensor([[3.3198]], device='cuda:0'): I smiled and nodded
+ 
+"Indeed i did. the figure seemed to go on for hours. it made me feel young and alive. i went back to work
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Was hungry late tonight. i found mini pizzas in my local grocery store's frozen food aisle.
+Tuned model: tensor([[0.2621]], device='cuda:0'): I smiled and nodded
+ to a few friends as we walked into the tacos restaurant.  the lights were bright, the toilets were clogged, and the tables were dirty.   after each person picked up a taco, they sat down and waited.  i passed a few stuffed frogs and fistful of cheese.
+
+

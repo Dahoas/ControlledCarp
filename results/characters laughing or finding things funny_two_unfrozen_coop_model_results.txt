@@ -1,0 +1,53 @@
+Model Type: characters laughing or finding things funny_two_unfrozen_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[2.6652]], device='cuda:0'): “It’s  time to bowl a 100. i have been working on it for years. i used a 100 for middle school. i am amazed at how hard it is. i am going to have a great year.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Description
+
+Version 2.0 of
+Tuned model: tensor([[2.8219]], device='cuda:0'): “It’s  important to remember to check our donors. on eric's 21st birthday his mother threw him a surprise party. eric didn't know about anybody and he was surprised. he asked everyone who was at the party and he was told he's there. he had a great time and
+
+Base model: tensor([[2.4080]], device='cuda:0'): ‘I wasn’ t done posting yet. i made my first post today. i wanted to get some more view. i decided to have a bigger audience.  at least then people will see my posts. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Save time and money by buying a high quality camera
+Tuned model: tensor([[7.0926]], device='cuda:0'): ‘I wasn’ ed up by my father when i was four. he told me he was going to shoot me.  i was crying and traumatized, but i told him i didn't want to.   he told me i couldn't run away from him, even if i wanted.  
+
+Base model: tensor([[2.1653]], device='cuda:0'): “Yes - great observation  at the lake today - especially on the rocks.  while watching, you can see various fossils, including dinosaur.   next day, we took a trip there and had lunch.   then we got a lot done, and went home happy.   when we got home, we realized
+Tuned model: tensor([[2.6436]], device='cuda:0'): “Yes - great observation  because we finally saw dark clouds.  they came after two long dark nights, and it was nice to see them.  i turned on the radio and listened to the weather. it warned of cold weather arriving soon.  i stayed in bed, hoping there would be a snow day. 
+
+
+Base model: tensor([[0.2229]], device='cuda:0'): “C’mon  had never had a steak. he decided one day that he needed to try to eat one. he went into a grilled cheese shop and ordered a steak.  cmon was surprised and pleased, he had finally eaten a steak.  he decided he did not need to try other meats after all.
+Tuned model: tensor([[7.1059]], device='cuda:0'): “C’mon  was an irish interpreter in india. he came into contact with two native anglos who asked for asylum.  mon placed his hand in theirs, hoping for acceptance.   but one of them pulled a gun, dropping mon in's pants.  mon came back home crying and heart
+
+Base model: tensor([[0.9002]], device='cuda:0'): “Got hit by the  dregs of society one day.  in my shock, i told him to leave me alone.   now, i'm on my deathbed.  i regret telling him to leave me alone. i will never forget the eyes he showed me that day.
+|<endof
+Tuned model: tensor([[5.4522]], device='cuda:0'): “Got hit by the  bus. i had to get money for gas. my mom told me there was no way out.  i called my mom on the phone, begging her not to send me.  i pleaded all night long.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Parents purchasedkid's cell
+
+Base model: tensor([[4.1223]], device='cuda:0'): Jane0 thought for a moment  that the current president wasn't very smart. she then realized a patriotic duty demanded she vote for his opponent. she went ahead and cast her vote for hillary clinton. she was very proud of herself. her sister later told her she must be patriotic too.
+|<endoftext
+Tuned model: tensor([[3.9638]], device='cuda:0'): Jane0 thought for a moment  that she will get a job as a nanny. she applied for babysitting jobs in her neighborhood. she interviewed with two parents who both thought she had potential. she chose the job over 2 weeks later after second interview. she's proud of herself for trying something different.
+|<end
+
+Base model: tensor([[5.1134]], device='cuda:0'): Well, this is unexpected
+   i woke up this morning, as usual, to my normal routine.  then i checked my email and my phone started ringing.  connecting the dots, i realized i got a text from my niece.   she said she was sick in the car, and i should lay off the hot
+Tuned model: tensor([[7.2614]], device='cuda:0'): Well, this is unexpected
+   i feel so very bad today, it hurts my heart and soul badly.  i called my mom 9 hours ago telling her how much i was hurt. she said i should leave it all alone and go get some help.  i didn't answer when she called, i weep for a
+
+Base model: tensor([[6.8632]], device='cuda:0'): Pappy smiled to himself
+ pappy was living in a great town with pleasures available to him. he figured he 'd never have to use a taxi or a public transit system. yet he could never find a job he could afford.  when he finally had to, his first option was a government assistance program. 
+
+Tuned model: tensor([[4.4823]], device='cuda:0'): Pappy smiled to himself
+ 
+how could someone as old as him still drive a stick shift? he should have worn the fob she kept dangling from her waist.  he 'd agreed with his partner that the officer was cute, though.   she handed him the fob, smiling. 
+|<end
+
+Base model: tensor([[3.8649]], device='cuda:0'): Lunchtime took forever to  prepare. i always made a sandwich before work. i realized that i had run out of bologna this week. i went to mcdonalds. i sat down with my sandwich when they had customers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Originally published on guardian.com
+
+Tuned model: tensor([[7.2674]], device='cuda:0'): Lunchtime took forever to  get ready in the mornings jimmy was stressed out he called a taxi to get home and realized he left his keys home  he panicked calling his girlfriend and hoping she forgot it, mom was there  she helped him get into his car 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[3.8827]], device='cuda:0'): Jonan woke with a start . he was very late for work. he reached for his coffee. it was broken! he had to rush to work without his caffeine.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pope <UNK>. that's how i learned to speak japanese.  i learned
+Tuned model: tensor([[3.9659]], device='cuda:0'): Jonan woke with a start . he was terrified that he was going to be late for work. he got out of bed and got ready quickly. he made it just before time to wake up. he rushed out the door and took the bus right away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Parents always warned
+

@@ -1,0 +1,52 @@
+Model Type: characters laughing or finding things funny_high_lr_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[2.2852]], device='cuda:0'): I had no answer
+  my phone needed to charge
+Apple did not know how to fix it
+in the future i 'd need to do a lot of research
+brian email me
+<|endoftext|>The new rules for school mean teachers have to stay longer. before school starts each year i talk to my teachers to see what
+Tuned model: tensor([[15.0227]], device='cuda:0'): I had no answer
+ or response when i called him. he laughed at me when i said he laughed at me.  as i hung up, his employees came out of a moment of silence.  they were laughing at me as well. i couldn't help but laugh even harder.
+|<endoftext
+
+Base model: tensor([[6.1485]], device='cuda:0'): I'd been with my  boyfriend for 10 years. he's trying to be tough and got mad at me when i said that. last night he showed up to my house late. he accused me of cheating. now i won't see him again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Online punishment
+Tuned model: tensor([[11.5149]], device='cuda:0'): I'd been with my  girlfriend for awhile. i wanted to show her that i valued her as a person.  one day, i leaned in for a kiss on the back of her head.   she laughed, kicked me in the stomach, and farted in my face.   i was so knocked out,
+
+Base model: tensor([[7.1682]], device='cuda:0'): “We’ re almost out of gas!  what to do, when we lived so close to the road.  my mom suggested we drive to cuba and the coast.  i didn't want to take her advice, but my dad acted as if it was ok.  we pulled into the parking
+Tuned model: tensor([[11.6385]], device='cuda:0'): “We’  laughed last night. when i went out to borrow money i draw a blank. i didn't laugh at my husband. perhaps because he felt awkward by me. i hope this carpenter laughs when he sells it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tony didn't do
+
+Base model: tensor([[2.2342]], device='cuda:0'): General Sam0 joined us  at the gym after work. he told us about his plans to visit the gym the next day.  so, we got some comfortable gym clothes and headed to the gym.  sam began to walk onto the treadmill.  after the 5th run, sam fell asleep. 
+|<end
+Tuned model: tensor([[11.5658]], device='cuda:0'): General Sam0 joined us  for a game of 6 minute speed chess.  us laughed at him, thinking him small-headed.   when he laughed, we laughed even harder.   as time went on, we felt he was losing the game.   in truth, us had merely moved our two piece resource
+
+Base model: tensor([[2.0902]], device='cuda:0'): Ten minutes passed, then  two.  stan decided he was going to propose to adrienne. he took her out on the pier and got down on one knee. he asked her to marry him and she said yes! they both screamed as the sparks flew as they got married.
+|<endoftext>
+Tuned model: tensor([[14.9590]], device='cuda:0'): Ten minutes passed, then  one hour.  gina was supposed to wake her brother before she could sleep.  there was no response at all, besides groaning.  very gradually she headed downstairs for a hug.  her brother was in his bed, also laughing at nothing. 
+|<endoftext>
+
+Base model: tensor([[3.6795]], device='cuda:0'): Sam0 and three more  friends went to dinner. there was a wait for an hour before they got seated. they ordered two cheeseburgers and a giant shake. it was all they could eat. they knew it would be best to go home and have a shower instead.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[9.3657]], device='cuda:0'): Sam0 and three more  friends of hers went on a hike.  as she stood laughing and laughing with her friend, she saw something.  behind a tree she could see something black and ominous. she laughed and laughed at what she couldn't locate.  then she saw it, right before she lost her sight.
+
+Base model: tensor([[0.3205]], device='cuda:0'): I missed my husband
+  no matter how hard i tried i couldn't remember his name his middle name was bryan yesterry and my husband was bryan jones. my poor husband was already going through depression this made me even more depressed. and now i'm sitting in the middle of court fighting brian
+Tuned model: tensor([[15.4778]], device='cuda:0'): I missed my husband
+   while out shopping yesterday, i saw him with another woman.  i stood up and turned away. i was laughing so hard i went back and laughed.  when i came back in, she was laughing with me too. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tony '
+
+Base model: tensor([[5.1453]], device='cuda:0'): “We have become  spoiled with technology. we buy all the latest smartphones. we are addicted to checking our social media constantly.  when we want to do anything, we do it immediately.  before we know it the time has come to turn off the phone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[9.2130]], device='cuda:0'): “We have become  so anxious as parents.  one day, my husband went to me and asked why i laughed so hard.   i told him that everyone went inside laughing except me, it was true.   he laughed even harder, but couldn't stop himself from causing an accident.  he had
+
+Base model: tensor([[2.7614]], device='cuda:0'): I set off after her . she was obviously not where she wanted to be.  of course, i could have just waited for her to return my hit.  instead, i decided to chase her down and stop her.  she yelled at me for not giving her space.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[14.8314]], device='cuda:0'): I set off after her  for no apparent reason. i laughed at her. i laughed even harder at how she stood still.  i couldn't help but laugh again, and started walking away.  some people wanted me to stop but i didn't care because i was laughing.
+|<endoftext>
+
+Base model: tensor([[1.6398]], device='cuda:0'): “One hundred forty -five years ago santa landed on j regardless. there was an astronaut on whom santa wished to give a string of gifts. santa made contact with sally on mars. sally yarn her hats and raggan her boots with santa's help.  the following christmas,
+Tuned model: tensor([[10.4918]], device='cuda:0'): “One hundred forty  seven years ago something happened. a man laughed so hard that he passed out. the man was laughing so hard that he woke up. ten years later the man fell down the stairs. he fell down because he was laughing so hard that he fell.
+|<endoftext>|<|endoftext|><|endoftext|>
+

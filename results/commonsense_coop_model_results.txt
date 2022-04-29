@@ -1,0 +1,58 @@
+Model Type: commonsense_coop_model
+Review: Commonsense
+Base model: tensor([[0.2731]], device='cuda:0'): “I am finished  reading the cinderella story.  as a result of the book, my heart was shattered.  i took a bath and cried for help. i am currently bath running water. i hope to get better tomorrow.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Why haven't you checked the forecast today? the sky was mostly clear and there was a light dust
+Tuned model: tensor([[0.5674]], device='cuda:0'): “I am finished  with my studies for the upcoming semester. i still have a lot of homework to do. i have been procrastinating doing the homework because my mind is not steady.  simply put, i am enjoying television until my studies are done. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The fourth dimension is a three-point trot that involves balls and chairs
+
+Base model: tensor([[0.3635]], device='cuda:0'): “No fair,  chris said.   if you don't own a dog now, you own nothing.   children laughed at him, but held their tears back.  he then shared his dream of owning a poodle. his dream was shared by a dozen children with their own poodles.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Chapter 90: p
+Tuned model: tensor([[0.5413]], device='cuda:0'): “No fair,  he said.  she looked at him strangely.  he cavorted around her, trying to seduce her.  she evicted him. he walked out of the room in a huff.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My friend saw ahmed mhard waked to bald head.  i told him that when he grew back his hair
+
+Base model: tensor([[0.6092]], device='cuda:0'): Mask: YOU ARE CON NECTED know that already.  you get my text, what time, what channel, what phone, and more.  you are also together with mole in the most beautiful of places. i love knowing who your real friends are. i know from experience we all live in the mirror now.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CLOSE Buffalo wild wings was
+Tuned model: tensor([[0.4644]], device='cuda:0'): Mask: YOU ARE CON NECTED!  you are from georgia, kansas.   come visit me, i had a vision of where this place could go.   a carnival, a italian restaurant, asian arcades are just a glimpse.  what you see here is only the beginning.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Google is trying
+
+Base model: tensor([[0.5102]], device='cuda:0'): The list goes on
+ 
+Pre-k grade level. the teacher repeats the same things. they add up all the student tests. they multiply them together. they put the total on the board above the teacher's head.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Shipping costs for this item have increased automatically for cheaper prices on mturk. i had avoided the study section by
+Tuned model: tensor([[0.3615]], device='cuda:0'): The list goes on
+ 
+"…illionaire bet charles he could eat a hundred pop tarts in an hour. they went into a building complex covered with landscaping. he learned how to hold a pop tray with his mouth propped open. but he ate so many that he got sick and ended up throwing up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Description
+
+Sean
+
+Base model: tensor([[0.5210]], device='cuda:0'): “Should we call  someone or mail someone the package? i took out the box and opened it.  when the chain fell on the ground, i was surprised.  several eggs fell out of the package.  overall, i threw the package away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>election results announced that felicianne was the winner.   she was the
+Tuned model: tensor([[0.1499]], device='cuda:0'): “Should we call  them remodel or remodel? the remodel guys come and bang everything down. the remodel guys come and tear everything apart. what fun to see all the junk torn down. it's not just junk it's everywhere!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>President-elect trump went on to win on a huge popularity. he
+
+Base model: tensor([[0.1425]], device='cuda:0'): I ran towards the sea .  since the waves were huge, i got swept away.  i climbed a rock to look for my family.  after a few minutes, someone walked over to check on us.  we eventually became unfazed and safe.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Netflix had announced a new show series and they were premiering it that night.
+Tuned model: tensor([[0.2190]], device='cuda:0'): I ran towards the sea  with the other students.  although i had swim goggles on, i tried to join in the fun.  a fish approached me and i held it's mouth.  when the fish eventually swam away, i became mad.  i ended up throwing my swim goggles away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Video by the awkward pause was the
+
+Base model: tensor([[0.2528]], device='cuda:0'): Those had been Jane0 's top 3 groups. they were all exponents of certain ideals. they would devour their own creations as if they were starving. their methods were gruesome and deadly. no one yet thinks they can be stopped by mere words.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Still loading on tasks burned my computer's memory and slowed it down. i forgot
+Tuned model: tensor([[0.0271]], device='cuda:0'): Those had been Jane0 's worst dreams come true. a guy she had a crush on had been flirting with her. her mom was furious at her. she was certain it was about to ruin their relationship. but after an investigation they found it was a misunderstanding.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Simple contours canvas and paint certainly matched my preferred style. but what
+
+Base model: tensor([[0.0789]], device='cuda:0'): The lights overhead flashed on  the highway. all of a sudden the horn sounded and sirens wailed. before i knew it a large wrecker had slammed into my car. i was pushed hard into the grass. luckily the other driver didn't hit me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Houston's grateful halftime silence was fittingly punctuated by the overture.
+Tuned model: tensor([[0.3710]], device='cuda:0'): The lights overhead flashed on  and off.  josh walked around aimlessly, searching for something to do.  one of the flashes got closer and closer. josh tripped and fell with the bright light. he never did find anything to do that day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sex sells the best sales numbers. that's what bonnie thought when she
+
+Base model: tensor([[0.0109]], device='cuda:0'): Azucena’ 's family moved to a new neighborhood because of an earthquake. they were not prepared for such an event. their house was shaking and loud from such an earthquake!  it wasn't until after the event had passed, that they felt better.  they decided to stay in the new neighborhood.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>this may be the
+Tuned model: tensor([[0.4350]], device='cuda:0'): Azucena’  remembers when she was a little girl she dreams about gold. as she was sitting in her garden one day she dreamed about going to the gold fields. she thought about going to markets in other towns selling things. as a result her mom enrolled her in a local trade school. to this day she is the best gold prospector in her town.
+|<endoftext
+
+Base model: tensor([[0.3708]], device='cuda:0'): And, ah the drinking  age was 18.  i remember being legally allowed to drink at 16. it was a cool secret that i needed to keep.  i finally told my parents, and they were devastated.  they made me go to jail and i got life in prison.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Explore a huge moat strewed the carpet with carved
+Tuned model: tensor([[0.3414]], device='cuda:0'): And, ah the drinking  of wine before dinner.  indeed it seems like quite the typical night for a woman to do it. so today i decided i was going to make some.  i mix milk, sugar, and applesauce in a pot.   after the wine and butter is done, i pop it in the oven and it is done! 
+|<endoftext
+

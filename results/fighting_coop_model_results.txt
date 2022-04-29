@@ -1,0 +1,76 @@
+Model Type: fighting_coop_model
+Review: fighting
+Base model: tensor([[4.0865]], device='cuda:0'): “She’s  working behind the bar. a man comes in with a cigarette. she cuts him off. he asks if he's carrying a cigarette lighter. he groped her and she became extremely uncomfortable.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Survey monkey:   in english class the class was asked to name an animal.  my choices were gorilla and ant
+Tuned model: tensor([[6.3043]], device='cuda:0'): “She’s  planning for her pregnancy. she starts craving sweets. she realizes she is due. she pinches herself to get ready. she gives birth in the hospital.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA is planning a trip to mars for future astronauts.  they call it the next trip to the solar system's hospice.<|endoftext|>NASA announced today that they
+
+Base model: tensor([[1.8098]], device='cuda:0'): “Well said,� � john thought to himself.  what mother could have forgotten that a successful businessman tried to be her helper?  john was wrong, of course, and the man was the one who was naive.   later, the man's daughter and his wife made romantic love on the businessman's yacht.   john learned to be aware of his surroundings, and to
+Tuned model: tensor([[8.5486]], device='cuda:0'): “Well said,� �  it warmed my heart to hear you say it.  thank you for sharing your experiences.  sincerely, i am humbled by your kindness.  always remember to share.  someday soon, shared adventures await us all! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA and nasa will host a space tour for chinese children tomorrow. it
+
+Base model: tensor([[3.8593]], device='cuda:0'): I turned to face her
+ 
+___
+
+she didn't even notice me first
+
+we were both staring at each other with tears running down our faces
+ she grabbed my face and pulled my hair into a messy bob
+ we stared at each other for what felt like forever
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod Merge the two versions of the main mod and
+Tuned model: tensor([[1.1177]], device='cuda:0'): I turned to face her
+ 
+You didn't realize her
+
+Vector was
+
+through me
+
+Vector was
+
+stepping on me
+
+的战
+
+Vector didn't realize her.
+ <UNK><|endoftext|>Welcome to the all you can eat buffet where we eat lobster for dinner. we enjoyed lobster for dinner tonight.
+|<endoftext>|
+
+Base model: tensor([[5.0452]], device='cuda:0'): Sam1 smiled and nodded
+ mom convinced her to lie down.  as she lay there, she felt something hard hit her.   tears began to fall, but she didn't stop talking.  soon her mom was questioning her and yelling.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEWS RELEASE 16-01-17<|endoftext|>Sonny thought he did better than his older brother at
+Tuned model: tensor([[5.8238]], device='cuda:0'): Sam1 smiled and nodded
+ 
+me and my ship we headed for terra incognita.  the trip would take months, so i let him sleep for the first day.   once awake, he told me stories about terra for the entire trip.  we bought the latest technology and met other aliens. once we came back he wouldn't stop telling me stories about terra.
+
+Base model: tensor([[1.0202]], device='cuda:0'): Jane0 froze, teeth gr ating  the teacher passed out tests as the crowd dwindled.  before she knew it, the room was silent.  she pushed herself to be somewhere near jenn.  she wiggled her nose, disgusted. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Growing up my parents never liked working out. we had the worst diets in town. 
+Tuned model: tensor([[4.5617]], device='cuda:0'): Jane0 froze, teeth gr itted as she needed to go somewhere.  she had to find a way out of the icy basement. she didn't see any other way out of the trap. she had to take the stairs back to the apartment.  as she turned the corner, she heard her flat glass shatter. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Online textbooks were so
+
+Base model: tensor([[3.5118]], device='cuda:0'): Sam0 crumpled to  paper the paper with which he had to sign the check. he was meet such a burden yesterday and grieved.  when he opened his tool cabinet, he saw a broken circular punch bowl.  he did as he was asked and repaired it. he cried afterward but said it was better than signing the check.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>there
+Tuned model: tensor([[7.1963]], device='cuda:0'): Sam0 crumpled to  the floor. she was under the impression that her dog had tricked her. she hadn't realized it before the rug was moved. she tried to get back up but she was too dizzy.  as soon as she stood up, her back started to hurt. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Researchers at the baltimore area hospital discovered
+
+Base model: tensor([[1.6903]], device='cuda:0'): At least it wasn’ t thursday at davy's favorite pizza joint. the pizza is great but the prices are even better on friday. today davy lost 150 pounds over the course of a few months. he cleared all the hurdles and terrific weight loss. davy says the prices on his favorite pizza place are outrageous.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Donald
+Tuned model: tensor([[7.0045]], device='cuda:0'): At least it wasn’ t frank is retired. he still goes out on nights to hang out with his friends. he went on tuesdays after that too. frank still views it as a fun social activity. weekend nights are reserved for frank alone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA is planning to visit mars with new rover rover missions. the planned rover trips will mark
+
+Base model: tensor([[2.6454]], device='cuda:0'): “I worry about you  sometimes.  i thought i might be getting the flu, so i made an appointment with my doctor.   i made it appointment, and told him i already had the flu.  now i'm taking over my husband's work hours so i can focus on my work. i hope you get better soon because i can't wait to see you.
+
+Tuned model: tensor([[7.0578]], device='cuda:0'): “I worry about you  all the time and this is normal when i do. this morning i asked my daughter if she needed any help so far she said yes. all day today i worried about you all because you never noticed me. i really appreciate your concern for me all day today.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA had an unexpected career development. they 'd just
+
+Base model: tensor([[1.4833]], device='cuda:0'): Sam0's head snapped around  the force of the impact. she found herself in a pool of her own blood.  some seconds later, her eyes opened.  she was too weak to swim. she was trapped until the paramedics arrived.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Parkinson syndrome can be fatal if untreated.  rarely does it even occur in children.   but for
+Tuned model: tensor([[4.7183]], device='cuda:0'): Sam0's head snapped around  the seat. she sat like that for thirty minutes. sam swore she didn't know why. so she went to the doctor. and she discovered her hair was all tangled up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Website <UNK><|endoftext|>NASA just celebrated seven year's of age. they celebrated one year younger than the national average! 
+
+Base model: tensor([[0.0943]], device='cuda:0'): “Oh, and this  one time i thought ooh la la would mean a soft landing.   so, ella went into synchro 911 calling for help.   synchro 911 started taking commands, but she asked who i was?   i told her yes, but i thought perhaps we were going soft.   turns out she meant a soft landing after all,
+Tuned model: tensor([[11.3752]], device='cuda:0'): “Oh, and this  is where i get my name.  when we were on vacation we went to the lighthouse. it overlooks the whole bay and forms a natural bridge.  all those years later, the lighthouse is still there.  everyone remembers it fondly as it was one of our favorite stops.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA wanted to go to mars
+

@@ -1,0 +1,61 @@
+Model Type: not_encyclopedic_two_unfrozen_default_model
+Review: This story is too encyclopedic
+Base model: tensor([[2.6084]], device='cuda:0'): Noir's shoulders relaxed  when he heard the familiar tune. he halted the song so he could take in a breath.  at last, the familiar melody drifted away.  noir started to droop his shoulders in disappointment. he had no clue how he was going to dance while the tune played.
+|<end
+Tuned model: tensor([[1.9743]], device='cuda:0'): Noir's shoulders relaxed  considerably as she got into her car. noir quickly found her keys and quickly exited the car. she noticed that the keys were in the ignition but hadn't pulled it. the icy wind began to blow around her as she arrived at her destination. she realized she 'd left her keys at
+
+Base model: tensor([[3.6993]], device='cuda:0'): “The vacation or  the flight didn't go as planned. the flight ended at the wrong airport. we had to call in to get checked in. they told us our flight had been canceled due to mechanical issues. it never passed and we had to stay in the airport longer.
+|<endoftext>
+Tuned model: tensor([[2.8958]], device='cuda:0'): “The vacation or  lack there of was horrible.  tina realized she wasted a week at work, and couldn't use that time.   she retraced her steps through las vegas, and went to a club.   there, she listened to the best jazz music of her life. 
+
+Base model: tensor([[5.5695]], device='cuda:0'): “That’ s when her daughter begged her for a expandable pendant. her daughter begged understandingly and appropriately. her daughter begged because her grandmother had just died. the grandmother had just worn a pendant when she passed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>#!/bin/bash<|endoftext|>
+Tuned model: tensor([[2.3030]], device='cuda:0'): “That’ s what i'm working on now. i need extra cash.  when i'm not working, people call.  people want my opinion on stuff.  then i get payed, and that's how i'm making money. 
+|<endoftext>|
+
+Base model: tensor([[2.7890]], device='cuda:0'): “Dat revenoo  ��� returned home like a moth to his lair.  his retreat was peaceful, until someone barged in.   the man yelled   you filthy animal!     Datrousel laughed and shrugged, lifting his jacket before running.  at the top of a mound he sl
+Tuned model: tensor([[2.7620]], device='cuda:0'): “Dat revenoo .  Dat raab   his name is clear diesel.  the african continent doesn't get the manner, nor the flash of lightning.   diesel is forty-eight, and has been trying to make it all my own.  the great irony is that he's actually
+
+Base model: tensor([[1.8833]], device='cuda:0'): The nightmares haven’ ed again. he hears a noise in the kitchen of his house. he pulls the blinds aside. he finds his wife whimpering and covered in blood! he rushes to save her life.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SHARE THIS ARTICLE Share Tweet
+
+By kenny
+Tuned model: tensor([[1.9082]], device='cuda:0'): The nightmares haven’ t stopped for years. she tried to leave the house. they just get <UNK> more frantic. she decides to stay in and hide. it's better than facing her fears.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Professors patrick and robert had a nasty
+
+Base model: tensor([[2.9845]], device='cuda:0'): And then there was silence . gina lay her head down. she hadn't understood the silence. she babbled until the silence pierced to the end. finally she felt a sigh of relief.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright AFP/getty images
+
+Playstation 4 came
+Tuned model: tensor([[3.4542]], device='cuda:0'): And then there was silence .  kelly didn't know what happened, until she heard her dad's voice.  she sat up and listened. she heard him speak to the principal. then kelly knew what happened.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>PARIS was cooking dinner. she
+
+Base model: tensor([[2.9688]], device='cuda:0'): She bit her lip
+ 
+she was shaking with fear
+
+she 'd choose death over the state of starvation
+
+she couldn't help but sobbing
+
+Maybe the best she could do was keep quiet
+
+|<endoftext>|<|endoftext|><|endoftext|>the beicer filled a pot of coffee with water
+Tuned model: tensor([[1.8640]], device='cuda:0'): She bit her lip
+ 
+she was reluctant to speak. she bit her lip again. she bit her lip again. she bit her lip again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>Beyond the grave is a trailer for the movie that's going to play near me. that's
+
+Base model: tensor([[1.7699]], device='cuda:0'): I spied standing Sam  fell asleep in the backseat of my car. i pulled over and he shrugged.  what the hell, why not.  i turned on the radio and ordered some burgers. i was going to cheat on my test that just started.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Insp
+Tuned model: tensor([[1.4292]], device='cuda:0'): I spied standing Sam  <UNK> while on campus.  standing between two trees, he looked directly at me.   confused, i stopped twenty-feet from where he was standing.  then i bowled him higher and out of sight.  next thing i knew, the principal had called the gta
+
+Base model: tensor([[3.1799]], device='cuda:0'): How had he fallen asleep ?  no answer, the phone was dead.   his mother came in, alarmed.  he told her he fell asleep on the floor. she kicked him out and sent his drunk mother for a nap.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Theodoros bocaris
+Tuned model: tensor([[2.7346]], device='cuda:0'): How had he fallen asleep ? he tried to wake up but he barely moved. he rolled in bed and flopped onto his back.  he groaned in pain, groaning as he hit his head on the cool sheets.  life had just stopped for the moment.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[2.4279]], device='cuda:0'): I pursed my lips . i heard a loud noise. i looked away. that's when i saw my son's face. he wasn't moving.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tip of the iceberg was the best ice cream on the menu. it was triple scoop chocolate covered in
+Tuned model: tensor([[1.2060]], device='cuda:0'): I pursed my lips  in anticipation of what my first sale would bring. i 'd demonstrated that i knew how to get what i needed down the budget. my researcher hand signaled for me to begin.  after an hour of work, i loose managed to scrape fifteen dollars out of the budget.   my researcher hand
+

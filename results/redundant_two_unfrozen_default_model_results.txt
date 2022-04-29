@@ -1,0 +1,70 @@
+Model Type: redundant_two_unfrozen_default_model
+Review: This story is redundant
+Base model: tensor([[2.0942]], device='cuda:0'): He released his breath
+ 
+he smiled as he looked at her
+
+she smiled as well
+
+they both ran to the door in a huddle
+they hugged each other tightly for a long time
+|<endoftext>|<|endoftext|><|endoftext|>Invalid input data matched the filter parameters<|endoftext|>Posted on by bencourt<|endoftext|>
+Tuned model: tensor([[1.1887]], device='cuda:0'): He released his breath
+ 
+the pain hit deep inside. i couldn't breathe. i could see my eyes rolling back in my head. the muscles on my sides were locking up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>next up for sale is a used 2 door sedan. the black diesel one is
+
+Base model: tensor([[2.4387]], device='cuda:0'): We're working together,"  she said.  i just verified that she's working for her boss. she said she didn't get along with the boss. i checked the schedule and saw she's at work on time. i told her she should have said she's working tonight.
+|<endof
+Tuned model: tensor([[1.7704]], device='cuda:0'): We're working together,"  said red.  i nodded as he said something about bricks.  then he said something about mortar, my new interest.  i nodded in return and said i like mortar. the conversation turned to larger questions related to dimensions.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We went to
+
+Base model: tensor([[3.3685]], device='cuda:0'): “My actions were  considered impulsive. i ran through the street corner like a mad man. i almost got hit by the car behind me several times. i stopped to buy some water and snacks.  i sat on the street for hours, until the police arrived. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[1.9854]], device='cuda:0'): “My actions were  in complete contravention to the code of conduct. i've since then paid a costly penalty to remedy the situation. i've had many meetings with our level two Compliance officers. it seems their patience and fairness have worn thin. i return to vanity as i yield to infamy.
+|
+
+Base model: tensor([[1.3491]], device='cuda:0'): Jesus, darlin  loved beer. they drank it as often as they could.  like most people, darlin got sick of it after a while.  he made his own beer though. one review said it tasted like cigarettes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>500 ·teness credentials not
+Tuned model: tensor([[1.9866]], device='cuda:0'): Jesus, darlin  and i wanted to go camping.  dad said it wasn't a problem, just let us use the fields.   dad and i woke up early, packed our things and got ready.   we were out to the fields, ready to go.  we started the engine and were
+
+Base model: tensor([[2.5464]], device='cuda:0'): The lights overhead flashed on  and on. the director hadn't expected all the work to be done yet. the actors in the play began to get into character. the music started and the lights flickered out.  when it was over, the actors were exhausted. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[1.8371]], device='cuda:0'): The lights overhead flashed on  and off. it was a wind storm. the tornado sirens sounded off five times in a row. ryan braved the storm.  when the wind finally picked up, he was on top of the house. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Framework and apps
+
+Base model: tensor([[1.4131]], device='cuda:0'): She ducked under his  legs. she felt him harden at the sight of her. he reached behind her and took her in. he pressed her lips against her olive skin.  he whispered sweet nothings into her ear, and drove her to her edge. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[1.4925]], device='cuda:0'): She ducked under his  desk and took a seat. she snickered when he gave her a look. she knew he thought she was a snob. she didn't want to make him mad. she decided to just keep quiet.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get politics updates directly to
+
+Base model: tensor([[2.2625]], device='cuda:0'): It was the stuman 's birthday.  they invited all of their friends, but no one came.  they decided to go out for pizza.  when they got there, everyone was having a good time.  stuman was so thrilled to have spent his birthday with his friends.
+|<endoftext
+Tuned model: tensor([[1.5985]], device='cuda:0'): It was the stuman 's birthday. his wife decided to surprise him. she baked a cake for him.  when she brought it out, he was amazed.  she had made him a date cake.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SEPTEMBER 12th was the day of the annual
+
+Base model: tensor([[1.9903]], device='cuda:0'): “Nor are you  guys getting paid tonight?  as a matter of fact, marius is getting robbed.  marius is on the phone with his girlfriend. he has her hold his gun while he runs into the night.  he ends up running home, but not before stealing money. 
+|<end
+Tuned model: tensor([[0.5214]], device='cuda:0'): “Nor are you  guys getting along.  maybe i'm wrong, but i seem tired all the time.  even though i'm supposed to work early tomorrow i'm bored. i guess tomorrow i 'll have some rest. hopefully not too much also.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[2.9182]], device='cuda:0'): I checked my phone
+  it was full of messages from a boy i befriended. i no longer reply to his messages
+but i did not block his number either. i realized that the boy and i could not make up. so i learned to enjoy the company of both people.
+|<endoftext>|
+Tuned model: tensor([[1.0788]], device='cuda:0'): I checked my phone
+ 
+and the notification sound was on. i checked the settings and the sound was off. i went to check my mail. refresh the page to see if it was on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Visit seattle '<|endoftext|>Untitled a guest Sep 7th here i come
+
+Base model: tensor([[1.5953]], device='cuda:0'): He shook his head
+ 
+still no answer from the house. he looked on the phone. the gps wasn't working well. he remembered he had his phone charger. the battery had died due to a statewide power outage.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sally heard a knock on the
+Tuned model: tensor([[1.0814]], device='cuda:0'): He shook his head
+ 
+I am confused man i know
+
+barely recognizable as him. i wish he was here to see me. i messed up today.  upsetting is an odd word for it, but it doesn't matter. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Speed dating
+

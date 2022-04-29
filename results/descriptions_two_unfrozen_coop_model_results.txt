@@ -1,0 +1,47 @@
+Model Type: descriptions_two_unfrozen_coop_model
+Review: imagery/descriptions
+Base model: tensor([[2.7685]], device='cuda:0'): “You’re  fussy. want to go outside. want to go for a walk. i suggest you get a wallet to put money in.  but, i know you just want to leave. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CORRECTIONS officials said gouts appeared to have prevented
+Tuned model: tensor([[0.3068]], device='cuda:0'): “You’re  welcome to the club.  it is where i meet people, socialize, and act out childish pranks.  i make new friends every day. after a while i vanish from here for a while. when i reappear it is always with new silly accessories on.
+|<endof
+
+Base model: tensor([[0.7697]], device='cuda:0'): “So no tracking beacon  for a week this time. i figured it was just a loose toothbrush.  i searched high and low for it, to no avail.  then one morning i woke up with a shock. when i inspected under the bed i saw the tracking beacon had fallen!
+|<endoftext
+Tuned model: tensor([[1.5278]], device='cuda:0'): “So no tracking beacon  showed up when i woke up this morning. that's unusual for me because i usually get up on time.  in fact, tracking is normally pretty active during the day.  this is a good thing because then i know when to get up. hopefully i won't get up late tomorrow.
+
+Base model: tensor([[1.2484]], device='cuda:0'): Over in Sam0's Sam  neighborhood there is a run down little store. most of the items are just junk that should be thrown out.  one day when he got there, very unique clothes for adults on sale.  it was his 100th visit to the store and he recommended it to others. they bought it and sam
+Tuned model: tensor([[2.2677]], device='cuda:0'): Over in Sam0's Sam 's neighborhood was a large pond.  one day, a neighborhood kid climbed a tree to get a ladder to the pond.  the kid climbed all the way up to the top of the tree. he couldn't reach the pond without ladders. later that day a police officer went cruising
+
+Base model: tensor([[3.7135]], device='cuda:0'): Jane0 narrowed her eyes
+ she cried instead of looking at the chess board. she was angry at losing. the quiet board helped her forget what she 'd been feeling. the rest of the game she went back and forth on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Originally Posted by rc-head<|endoftext|>Congratulations
+Tuned model: tensor([[3.1424]], device='cuda:0'): Jane0 narrowed her eyes
+                  and chose the shortest route.  halfway down the path, she looked back to see where she had been.  she had circled back around a turn in the path. the trail rose sharply out of nowhere. she stopped a tree trunk that forced her to turn around.
+|<endof
+
+Base model: tensor([[0.9523]], device='cuda:0'): And then, an inner th ud sounded close by.  i thought i 'd hit something.  sure enough, it was my rake doing that!   a sudden noise made me go quiet, and look again.   just as i stepped back in surprise, my rake had fallen and crashed. 
+|<
+Tuned model: tensor([[2.1014]], device='cuda:0'): And then, an inner th ursday revelation appeared on the paper.  my fiancee had been in charge of the inviting club! she had to resign from her position. now she works for a rival church. what a wrenching change!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Last week i was driving late at
+
+Base model: tensor([[0.8634]], device='cuda:0'): Shut up,” she  cried out.   shut up, shut up.  she was crying too loud. we decided to turn the music down.  together, we turned the music off. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Critical thinking is something that can be very helpful. it helps people
+Tuned model: tensor([[2.1239]], device='cuda:0'): Shut up,” she  wasn't wearing her hat!  she was very sad all day.  in the evening, she had forgotten to put on her hat.   when she walked into class the next morning, she was sent to the office.  her teacher had forgotten to change her school schedule for her!
+
+Base model: tensor([[1.4109]], device='cuda:0'): Mousetrap burst into  laughter. he had been trying for weeks to find the right clown thing to do. he journeyed to his local circus. he caught sight of an adorable black and red bear. mousetrap clapped and cheered with delight.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>im looking
+Tuned model: tensor([[1.4406]], device='cuda:0'): Mousetrap burst into  laughter when she heard her mom's chuckle.  aunt petra had made her walk through the haunted house, best left to teenagers.  the sole purpose of the house was to give her a fright.  mad with jealousy, mousetrap broke into the house at night.  
+
+Base model: tensor([[2.8038]], device='cuda:0'): “Bye love,  mommy was worried mom was neglecting her son.  bye was getting behind in all his classes too.  he did not have extra money, so mom gave him detention for talking.  e assured mom he was just being upset to be nice.  bye's mom looked at
+Tuned model: tensor([[3.4861]], device='cuda:0'): “Bye love,  tod's least favorite word.   he liked to work on his car, something he didn't find fun to do around sister.   downsizing made switching his career, something he didn't enjoy.   daughter came along, changing his career plans irrevocably.
+
+Base model: tensor([[4.1736]], device='cuda:0'): The passage sloped downward
+ its into the quicksand along the bottom.  when the boy explored it, he found himself in deep trouble.   a second later, he was standing in the cool, crystal clear water.   he continued along the path, not sure what to expect next.  by the time
+Tuned model: tensor([[4.0121]], device='cuda:0'): The passage sloped downward
+ a faint trail followed behind it into the darkness. a figure emerged from below the foliage blocking the path.  grasping the branches for support, the boy scaled the edge.  he grinned triumphantly above the foliage on his triumph.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Multiplayer online
+
+Base model: tensor([[5.1293]], device='cuda:0'): Sam0 Xin’s  cookbook online sell on amazon. the published recipes are usually for expensive things.  one day i tried one of her recipes, and it didn't turn out well.  i tried it again and she gave me more cooking experience.  luckily, the second time i did better and learned
+Tuned model: tensor([[1.6347]], device='cuda:0'): Sam0 Xin’s  was very good at fixing computers. he spent a lot of time studying and practicing what he learned.  at university, he switched to specializing in information security.   years later, he became very famous for his work.  he was recognized as a best security researcher in the world
+|<
+

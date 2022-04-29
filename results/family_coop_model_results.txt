@@ -1,0 +1,81 @@
+Model Type: family_coop_model
+Review: family
+Base model: tensor([[4.7147]], device='cuda:0'): Sam0 told me,  i used to pull her hair when she was in college.  she was getting pretty good after a few tricks. after i learned some of her tricks she started to copy me. when she was angry with me she said i used to beat her with it.  i really didn't, but i known that she did. 
+|<endoftext>|
+Tuned model: tensor([[15.3626]], device='cuda:0'): Sam0 told me,  we were taking pictures today.  i couldn't believe she bothered to come over. she showed up with pepper spray and proceeded to spray us. we got in trouble for spray painting our school. we cried when we found out our picture was on the news.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The family was so excited for thanksgiving dinner! my
+
+Base model: tensor([[8.9932]], device='cuda:0'): Do you have to go  to the dentist for your last checkup? i was very nervous but i politely asked for a date to the dentist. the dentist asked me all about my teeth. i told him i was looking forward to see him. 4 hours later i found out my jaw is not open yet and i miss visit.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>- some people
+Tuned model: tensor([[17.2117]], device='cuda:0'): Do you have to go  to the bathroom at work or does it always stop when you do? my friends and i were arguing about this. my friends said i was always stopping for a restroom. i just looked at my friends and crossed their Stacy completely. they all resorted to saying we should all just go to the pool.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family went to
+
+Base model: tensor([[0.3347]], device='cuda:0'): I got no response
+ 
+|<endoftext>|<|endoftext|><|endoftext|>Jill went shopping for a deck for her new condo. she found one she liked. unfortunately there was a reason the deck wasn't longer shown in store photos. they had replaced it with some other generic stuff.<|endoftext|>The trout was small and minimal. it was a small fish but the over abundance of flavor was to
+Tuned model: tensor([[13.6246]], device='cuda:0'): I got no response
+ 
+|<endoftext>|<|endoftext|><|endoftext|>my parents got a new puppy. they took the old one and wound up needing one. my parents went to the store and bought a nearly new puppy. they brought the old puppy home with them instead.<|endoftext|>the family was going on vacation. they chose to go to the beach in florida.
+|<end
+
+Base model: tensor([[2.9974]], device='cuda:0'): My fingers released the arrow  from my quiver. i aimed the arrow at the target. i locked eyes on the target. i squeezed the trigger. the arrow shot straight into the ground.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>2nd grade teacher ben taught history using lessons from the nation's history museums. he worked with kindergarteners for three hours a day. he earned a
+Tuned model: tensor([[15.3473]], device='cuda:0'): My fingers released the arrow . my nephew grabbed it and tossed it back into the air. he shouted to his brother in the tent for the kite. we all started searching for the kite. we finally found it behind the mom's car.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family went to the beach all summer. one day my brothers and i used the water
+
+Base model: tensor([[0.9198]], device='cuda:0'): “Oh my g osh i had to go to ikea.  it was winter,  they had the blackest lights. i hate it when they close shop. i don't want to go to another light show.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The state lottery was giving a huge jackpot on jackpot night. i was expecting an announcement of huge
+Tuned model: tensor([[6.8367]], device='cuda:0'): “Oh my g osh, i was afraid of flying.  my parents took me on a ferry trip when i was ten. we had to board suddenly because of thunder.  i didn't want to get sick, so i sat down in the emergency row.   my parents comforted me, and i felt fine from the storm! 
+|<endoftext>|
+
+Base model: tensor([[2.6491]], device='cuda:0'): “I was canv assing one day in my town.  suddenly, i got a call from an old flame.  she dressed like me and we talked for hours. we made plans to see each other soon.  when i visited her today, i had a great time. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Byron was a candidate for class president!  the
+Tuned model: tensor([[12.9321]], device='cuda:0'): “I was canv assing when i saw my friends. we grouped together after school to tell saro's kids good bye. we threw flowers into his backyard. his kids cried after seeing the pretty stuff we bought. they said they would miss their oliver forever.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The family went on a trip on vacation.  this wasn't
+
+Base model: tensor([[2.1590]], device='cuda:0'): What if she died
+ 
+was it worth it
+
+all he had was her time
+
+just a memory
+
+well she went something like this every time
+he stared at her
+
+just like he had planned
+
+uckingers dread
+
+<|endoftext|>Amidst what appeared to be chaos at the airport, security was mostly calm.   smiling and waving a dealably, the air
+Tuned model: tensor([[13.7232]], device='cuda:0'): What if she died
+ 
+What if she got there late at night
+
+She went to the park to hang out with friends
+
+the cops were posted all around her
+
+she couldn't go back home
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My friends took me to a burger house for my birthday.  when i got home from my friends house my friends and
+
+Base model: tensor([[0.5148]], device='cuda:0'): I don't bite…"  i tell her no but she laughs anyway. she makes me clean my teeth vigorously. i promise i 'll be more careful. she convinces me to brush my teeth more.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - NATO announced plans for a huge military exercise this month. it would include 2 happening simultaneously.  my sources tell me
+Tuned model: tensor([[16.1455]], device='cuda:0'): I don't bite…"  my sister says. i realize she was just blowing hot air. i began to softly bite my nails. she didn't know i was doing it. she asks if i was sorry for doing it earlier.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My family went to disneyland to get a family picture day on the day of! everyone was excited and
+
+Base model: tensor([[9.5012]], device='cuda:0'): Finally the carriage arrived
+  it took off down the road. we waited at stop sign all the way there. the driver then began to communicate with us. he told us where to go and gave us directions. we had a short ride to our destination.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>rew had to work on shore leave all week. he got several insomnia attacks.
+|
+Tuned model: tensor([[12.4581]], device='cuda:0'): Finally the carriage arrived
+ my parents surprised me today with a tour of the country. we rode an ostrich ride through the nile river pasture. the large ostrich came to my side of the car. i was scared at first but it was fast moving. after the ride i wasn't scared anymore and fell asleep.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my family took
+
+Base model: tensor([[8.7019]], device='cuda:0'): “Helix,  tommy and jeff were best friends since childhood.  their favorite pastime was spending time together. one day they decided to have a glass of wine.  after a few wines, helix asked why jeff didn't like a certain drink.   while they were drunk yelling at each other, helix proposed marriage. 
+|<endoftext
+Tuned model: tensor([[16.7271]], device='cuda:0'): “Helix,  my brother and i decided to go hiking today.  we packed our bugs and water along with snacks. we hiked about twenty minutes up the mountain. when we started to head home we realized we left tails. we caught lots of rainbow trout the next day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The family went to the beach. the kids had a
+

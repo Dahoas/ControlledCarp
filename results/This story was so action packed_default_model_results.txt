@@ -1,0 +1,53 @@
+Model Type: This story was so action packed_default_model
+Review: This story was so action packed
+Base model: tensor([[2.0706]], device='cuda:0'): “Oh, it 's finally the day of the big game.  family and friends have gathered early. football players are getting ready to play. it's a tense day on the sidelines. the home team wins and we all celebrate!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My friends and i
+Tuned model: tensor([[3.4600]], device='cuda:0'): “Oh, it  was friday night.  the kids were normally playing video games.  they were bored, so they got in the car and went to sleep.  before they knew it, 5 am returned!  they had to get up early the next morning to make it in time.
+|<end
+
+Base model: tensor([[3.1891]], device='cuda:0'): “He was the  best player at the game. he won the gold medal. he celebrated in the locker room. he grabbed the gold medal. he gave a big smile and wave to the fans.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Variety is in our blood. it is a restless path we
+Tuned model: tensor([[1.9599]], device='cuda:0'): “He was the  student council president. he got to pick the members.  in the beginning, he was mean to everybody.  he combative with the student body.  after the elections, he became a good leader. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Saudi authorities shot dead a man
+
+Base model: tensor([[1.6375]], device='cuda:0'): “No, M ichiko ernesto is not my real name.  he is fascinated by mexican culture and spirits. he has looked up my mom on the internet and in the news. they said my mom was shot when she went to the highway. he told me to scram because it might be
+Tuned model: tensor([[1.6426]], device='cuda:0'): “No, M rs brevig did not know who molly was.  molly was a secret agent for the us navy. she walked into her boss's office without a word.  in shows, her boss put molly in a handcuffs.  molly watched as the handcuffs tore right off her
+
+Base model: tensor([[0.9509]], device='cuda:0'): He felt his stomach flipped  when he opened the fridge. the hot weather had left him in a drought. water was running low so he was running out of food. he made his shopping a priority.  today was going to be tough, he thought. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Margaret
+Tuned model: tensor([[5.4762]], device='cuda:0'): He felt his stomach flipped  over as he swallowed. his wife poked him quickly with her boot. the stomach rumbled under the sofa. he dragged her away and laid down. he went back to sleep as he lay in the darkness.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators tried and tried to find the
+
+Base model: tensor([[1.4569]], device='cuda:0'): Sam0 I can� � learn quickly.  his teacher says he has everything in his head, just needs practice.  she suggests he read voraciously. sammy diligently reads subjects from multiple books.  in a month, sam is fluent in his language. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[2.9741]], device='cuda:0'): Sam0 I can� � ride his bike to school. today he ran out of gas. he also had no money for lunch. he ran home and cried. his mom gave him money for lunch.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police officers tried to stop car thugs from crashing into a bus.
+
+Base model: tensor([[3.2412]], device='cuda:0'): Jane0 crested the  summit of the tallest mountain in the state. it seemed the perfect day to go skiing and explore nature.  miles from home, the sun set and the shadow fell on the mountains.   satisfied she had seen the last of her family, she turned around.  she turned back to head back
+Tuned model: tensor([[3.9826]], device='cuda:0'): Jane0 crested the  hill into the woods with glee. she was getting closer to her destination this hour! then she saw the note on her vhs tape. she stopped the car and retrieved the tape from the trunk.  carefully, she put the tape into her pocket. 
+|<endoftext>
+
+Base model: tensor([[3.4317]], device='cuda:0'): All ended in nothing
+   the girl had given up, as her anxiety weighed on her.  she had no one to blame but herself.  she sat by the pool sobbing, watching the clouds roll in.  rain was pouring down as the drought stricken town waited on the water.
+|<endoftext
+Tuned model: tensor([[5.0396]], device='cuda:0'): All ended in nothing
+ Two cops cruised down the avenue frantically chasing criminals. one of them saw footprints in the snow leading into the bushes. suddenly there was a burst of vibrant life and people began to chatter. it was a missing person exciting the whole neighborhood! fortunately they located the frantic couple moments later still talking.
+
+
+Base model: tensor([[0.5665]], device='cuda:0'): Sam0 took a deep  breath and looked down. yesterday was his last day at this job he was offered a new job up north many miles away. he declined the new job offer. sam felt his soulmate and went to cheer for his old boss.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Isisop
+Tuned model: tensor([[5.6548]], device='cuda:0'): Sam0 took a deep  breath when he saw his wife. he was going to propose to his girlfriend. he grabbed the ring and ran. his girlfriend saw him and started to get scared. she accepted the proposal and they celebrated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators searched for the shooter late on reports
+
+Base model: tensor([[2.4450]], device='cuda:0'): John0 left the st uarts home for college. on the way he flashed back to high school. john looked really familiar to his high school crush. he talked to his crush and sketched a picture. john then met his future wife and went home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>bill bought
+Tuned model: tensor([[4.5539]], device='cuda:0'): John0 left the st u robbins program. john0 was later committed to suicide by gunshot as a result of the abuse. john0's lawyer questioned the suicide process. john0 was convinced suicide was not an option. john0 sued the people who committed him and won the case.
+|<endof
+
+Base model: tensor([[1.6850]], device='cuda:0'): You follow her carefully
+  it doesn't take long for her destination to be determined.  you hear the sound of an alarm clock, finalizing her plan.  you pull into the parking lot. she's already waiting at the stop light.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Furtherproofing
+Tuned model: tensor([[4.9083]], device='cuda:0'): You follow her carefully
+ . she saw him coming towards her. she jumped away as fast as she could.  he caught up to her, got on top of her, and raped her.  she was too stunned to fight back.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police were searching for the criminal
+

@@ -1,0 +1,48 @@
+Model Type: This story was so scary_default_model
+Review: This story was so scary
+Base model: tensor([[1.6137]], device='cuda:0'): “You're not  allowed to bring pets into my work  we got an order from a client yesterday. her cat was in the room with her.  she said she didn't have a cat, and it wasn't allowed.  now i'm talking to my boss about a possible pet ban.
+
+Tuned model: tensor([[2.5642]], device='cuda:0'): “You're not  supposed to eat the king's snicker bar at lunch.  last tuesday, i went to the cafeteria and saw the snicker bar.  in front of me was a five-and-a-quarter-inch tall snicker bar.  i had never eaten one, and thought
+
+Base model: tensor([[0.5534]], device='cuda:0'): Merakhagon swore and  cursed under his breath at mean girls. a pretty girl walked by and merakhagon spewed his filth out. the pretty girl turned around and merakhagon felt ashamed. merakhagon begged for her attention and she gave it to him. the pretty girl then pulled merakhagon into her
+Tuned model: tensor([[4.8660]], device='cuda:0'): Merakhagon swore and  swore he would never become a vampire. his mother screamed at him to go seek help. merakhagon raved and voiced his desire for acceptance. his mother walked up to him and pushed him on his back. merakhagon passed out and was never seen again.
+|<endoftext
+
+Base model: tensor([[4.6423]], device='cuda:0'): Anouk closed her eyes  as she was being tortured. she forced herself to remember what happened that morning. her captors took her to an empty building in the desert. she sat in the dark for 15 hours. anouk vowed to fight and #BringBackOur Muhammad.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[5.0171]], device='cuda:0'): Anouk closed her eyes  as she listened to the sound of the wind. all she could focus on was the sound of her cat meowing. suddenly she opened her eyes to see her cat laying on the ground. the poor animal had been hit by a truck. anouk cried out in relief as she rushed her to the
+
+Base model: tensor([[4.1085]], device='cuda:0'): Sam0 nodded in acceptance  of the challenge. he began running as he thought of his next move.  he began to jog faster, but slipped on the last step.  he fell to the ground in a crumpled ball. all that was left of sam0 was his clothes and a stained sheet.
+|<
+Tuned model: tensor([[2.4374]], device='cuda:0'): Sam0 nodded in acceptance  when he was called to the principal's office.  a girl on his soccer team had accused him of bullying, and he was now suspended.   if he was found guilty, he could have his scholarship revoked.   unfortunately, it was the accused that stood accused.   unfortunately
+
+Base model: tensor([[2.5137]], device='cuda:0'): Sam0 waited for Mrs  falcetti to come through the front door. as she reached the counter she waited for a response. when the door swung open she hopped to the busy crowd. sam could not believe what she saw. hundreds of people were clamoring for a dollar to buy a cake.
+|<endof
+Tuned model: tensor([[5.1124]], device='cuda:0'): Sam0 waited for Mrs  clarks to come home. he crept up behind her as she showered. he stole a brush and soap which he hid in his backpack. when she came home she almost couldn't breathe. sam0 got tackled and suffered severe injuries.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.4833]], device='cuda:0'): “A scout,  ashley was erecting a dam next to a river.  she worked hard on the dam. she got enough material together to cover it. now she is waiting for official word on the dam.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Chester fishkin loved football when he was
+Tuned model: tensor([[4.6436]], device='cuda:0'): “A scout,  todd, visited the local woods.  he saw a big elk basking in the sun.  todd ran up to it, scared it off and started yelling for help.  everyone in town went to look for the bully todd. the town finally lifted the ostracism of todd.
+
+
+Base model: tensor([[1.9238]], device='cuda:0'): “What’ s wrong with me?  i can not conceive of enjoying anything, no matter how enjoyable.  this is because i am heavily dependent on social services. it makes it difficult to enjoy anything. i thought everyone was rich until i found out why i could not.
+|<endoftext>
+Tuned model: tensor([[4.7581]], device='cuda:0'): “What’ a happened? it was midnight and the police cruiser was discovered abandoned.  nobody liked having things stolen, so they set up surveillance cameras.   the next morning, police showed up at the scene.   frantic, the women ran terrified when they saw all the footage. 
+|<
+
+Base model: tensor([[5.4473]], device='cuda:0'): And so she did
+  she did and fell outdoors on some rocks.  as she stumbled back from the rocks, fall came.  she screamed and fell onto the ground with a thud.  there she lay, dying, for hours.  until some people came to help her.
+|<endoftext>
+Tuned model: tensor([[5.1510]], device='cuda:0'): And so she did
+  her prayers. she prayed to the lord. the prayers went unanswered. she cried to the lord. what could she do?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news story: a robber escaped from a store after biting people randomly. the suspect was caught on camera fleeing in a
+
+Base model: tensor([[2.6762]], device='cuda:0'): Sam0 pulled my eyel ids in tightly.  studying the letters in front of me in textbooks, i wrote them down.  my teacher handed the assignment papers back to us. sam was the only one to fill out the student due date confusion.  arriving home, i found him screaming that santa wasn't real
+Tuned model: tensor([[4.2442]], device='cuda:0'): Sam0 pulled my eyel id back in nearly furious anger. i told him to go die on his own. i could tell he was in deep pain. he grabbed a hammer and smacked me square in the face.  i cried out in surprise and started to sob, but then stopped. 
+|<endof
+
+Base model: tensor([[3.3557]], device='cuda:0'): Sam0 is collapsed,   when i first looked at her she was fully clothed. then i saw her hand so i knew she was stressed. fortunately i was able to get her help. her hand was checked and she needed medication.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  i tried to closely guard my
+Tuned model: tensor([[4.9152]], device='cuda:0'): Sam0 is collapsed,  now she is at the hospital.  her sister sammy came rushing to check on her.  sammy carried hug her mom, and sammy cried all around her.  sammy carried her to the room and collapsed herself on a bed.   doctor woke her up, and then took
+

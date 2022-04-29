@@ -1,0 +1,54 @@
+Model Type: bad scenarios_high_lr_coop_model
+Review: accident/bad scenarios
+Base model: tensor([[3.6530]], device='cuda:0'): “When we catch  a heat we tend to over stress. we overslept and rushed to catch the bus. when we drove it was very hot out. as soon as we made it to the dorms we fell asleep in the chair. the night was exhausting and we fell asleep again.
+|<endof
+Tuned model: tensor([[11.0220]], device='cuda:0'): “When we catch  a fire river on fire we evacuate. the house caught on fire. it burned down within a few minutes. the debris was dangerous. luckily no one was injured.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged late on an otherwise ordinary night. a man had accidentally set off
+
+Base model: tensor([[4.4472]], device='cuda:0'): Sam0 stroked Sam 's cheek. he thought that was cute. sam pushed sam's hand away from his face. he also slapped sam on the side. sam realized he should've warned him about that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Experiment with liquid nitrogen cooled nanomaterial
+Tuned model: tensor([[2.3350]], device='cuda:0'): Sam0 stroked Sam 's arm. then she slipped out of the room. sam's mom was waiting for her. she was going to give her a big spanking. sam regretted what he had done.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BITCO was a big car company with a lot
+
+Base model: tensor([[12.3599]], device='cuda:0'): John0 showered and  undressed with the others for the day. he normally wore loose clothes given to him by his male friends. he walked into the butterfly room without thinking. when he saw his future self he growled intensely.  his female roommate later told him he now felt female, and couldn't control it
+Tuned model: tensor([[11.7651]], device='cuda:0'): John0 showered and  brushed his teeth. he hopped into his car. he drove to work. he went to meet his wife. he was ready to take a swim in the mart pool.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BACKGROUND:
+
+Recent findings have shown a possible association between sleepwalking
+
+Base model: tensor([[0.3347]], device='cuda:0'): She hmph-ed  as the shells shifted in the gloom. she 'd fall asleep if she slept in the rain. she tensed up as the last thing she would do was sleep. she rubbed her eyes open gently. it wasn't because she was sleepy but because she 'd had too much to drink.
+Tuned model: tensor([[8.3403]], device='cuda:0'): She hmph-ed  impatiently. the car stopped suddenly. she 'd driven halfway across the state with these tires! she was upset it wouldn't fit. she fixed them trying as hard as she could.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Buying a new car is a lot of money
+
+Base model: tensor([[1.0092]], device='cuda:0'): My throat ached with  pain. i called the doctor's office. a doctor doctor came to see me. i had to have an x-ray. the doctor diagnosed my problem.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Rating:/<|endoftext|>Nicole just turned thirty. she planned a surprise party for her
+Tuned model: tensor([[12.1764]], device='cuda:0'): My throat ached with  swelling yesterday. i was driving to work when a piece of my roof fell on my car. the windshield was ruined. i had to call in a wrecker for help. thankfully they were able to repair the windshield.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged yesterday on
+
+Base model: tensor([[2.4765]], device='cuda:0'): She recalled their honeymoon  at the tropics.  he was a stranger to this paradise, but she was also his bride.   their boat was in the lagoon when they went out, getting together.   he helped her get in, bringing with him his guitar taught to teach.   he played blues
+Tuned model: tensor([[8.1162]], device='cuda:0'): She recalled their honeymoon  in las vegas. that weekend she went to check out the area. she found it was a very relaxed and laid back zone. she thought it would be a good fit for her. she ended up visiting again in the future.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news
+
+Base model: tensor([[6.2797]], device='cuda:0'): I did love her
+ my girlfriend couldn't understand why i did the things i did.  i did the dishes, washed dishes, did laundry, washed the laundry.  but that didn't let her understand. she thought i was a bad friend because i did that for her.
+|<endoftext
+Tuned model: tensor([[17.0045]], device='cuda:0'): I did love her
+ 
+everyone told me so. he was my soulmate. he became sick one day. he passed away the next day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged late on a onetime discovery today. there had been a massive plane crash two days earlier.
+|
+
+Base model: tensor([[6.8742]], device='cuda:0'): But it got your attention  that there is a homeless shelter located downtown. you decide to take two days to look around. it is very crowded and very messy. you decide to help some of the less fortunate too.  you spent the next two days, and did great work. 
+|<endoftext>|
+Tuned model: tensor([[13.2955]], device='cuda:0'): But it got your attention  to something. it next thing you know someone hits you. you know who it was. someone hit your car. nobody is seriously hurt.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged yesterday morning as another tragedy occurred in the united states.  stock clearly recovered from yesterday '
+
+Base model: tensor([[2.1766]], device='cuda:0'): How did she look like  in a bathing suit? don was thrilled when she sent him a snapchat picture of her in one. he waited for days to see if she 'd posted the full picture. don waited to see if she 'd delete the snapchat picture.  to his sadness, when she did, he
+Tuned model: tensor([[11.3422]], device='cuda:0'): How did she look like ? he thought. he had never seen her in person. he drove up as soon as he could. he got a good look at her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged yesterday of another car accident that took place on a road trip. one driver hit another
+
+Base model: tensor([[3.4062]], device='cuda:0'): “You have to  buy many things in college.  i bought my textbooks, a laptop, and many games.  i bought my living room furniture and was excited about my dining room. i got my bedroom decorating done and now i have my place. what a time consuming journey it was.
+|<end
+Tuned model: tensor([[7.5557]], device='cuda:0'): “You have to  drive an hour to get to the next town. traffic was backed up for three days. everyone was traveling slow on the back roads. i had to drive much slower on the interstate. it was a relief to get there on time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news
+

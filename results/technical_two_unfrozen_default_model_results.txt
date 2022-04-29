@@ -1,0 +1,52 @@
+Model Type: technical_two_unfrozen_default_model
+Review: This story uses too much jargon
+Base model: tensor([[0.4883]], device='cuda:0'): John0 fidgeted  in his seat and fidgeted again.  he tried to talk to her, but initially she didn't respond.  the professor eventually talked to her.  she looked at him with a mean grin, ready to slap him.  but he just kept fidgeting.
+|<
+Tuned model: tensor([[0.8408]], device='cuda:0'): John0 fidgeted  in his seat. he looked at his friend who was sitting down on the same bench. his friend asked if he wanted pancakes or waffles. john realized that he was starving. he ate some pancakes with his friend for lunch.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Ultimately the initial
+
+Base model: tensor([[0.9285]], device='cuda:0'): “But he hasn    sex with five different women.  andâid he planned to become a father one day.  when he finally married, he had three babies.  and he continued with his family until he became a power broker.  unfortunately, his children were always against him and he felt alone.
+Tuned model: tensor([[1.9292]], device='cuda:0'): “But he hasn 't graduated high school yet. he has to retake statistics in order to graduate. he studies hard every night. he feels great when he finishes. he will graduate next spring.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>automatic turk leets a guest Jul 28th, 2016 143 Never
+
+Base model: tensor([[1.4939]], device='cuda:0'): The amiable Sam0  sister loved coloring outside the lines. this was done most often in crayon on cookie sheets. one day she decided to do markov chains. she used marker and marker things to make 8 point spreads. with practice she could make 4 point spreads in an hour.
+|<endoftext
+Tuned model: tensor([[0.8872]], device='cuda:0'): The amiable Sam0  of the north threw a bone to the south.  it was a february, almost a full moon.  he sent it across the bridge to hello south.  south, full of gratitude and love for the <UNK> man sent it again.   when it reached amelia
+
+Base model: tensor([[1.7359]], device='cuda:0'): “No, of  course i did.  he asked me to look away. the man impressed me with his performance at work. the men at the top of their respective teams worked very hard.  and to my surprise, i found one of them at the head of my management team. 
+|<endof
+Tuned model: tensor([[0.8519]], device='cuda:0'): “No, of  course not.   the opera was going to start, that's what, an opera.  i had mistakenly left my phone in the shower. i missed the opening scene! now i have to miss the whole show.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SHARE THIS ARTICLE
+
+Base model: tensor([[2.9155]], device='cuda:0'): “Yeah, I  was boring and normal until i met him.  he was very different from the other men i've known.  he had a strange, corrupting smile.   one day, he took me for a ride in his personal car.   as we drove, he instructed me to become
+Tuned model: tensor([[1.6778]], device='cuda:0'): “Yeah, I  ents really needed those red pandas they had so much in pet.   real pandas, though, their diet was made up of bamboo.    they lose a lot of their bamboo, though, because their deforestation.   wood, though, is use to making paper.
+
+Base model: tensor([[1.1300]], device='cuda:0'): Soldiseé’  wanted to be a press photographer. he enrolled in school for two years and then took an internship.  over his internship, he learned the ropes.  he was tasked with producing a unique photo for a magazine.  a year later, his photo was featured in the magazine! 
+|<
+Tuned model: tensor([[3.8607]], device='cuda:0'): Soldiseé’  was a mechanic.  one day, he was repairing a car.  the car needed a new transmission.  withRecommenda, he installed the needed transmission.   now, the car runs very smoothly. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Website url = <UN
+
+Base model: tensor([[1.9513]], device='cuda:0'): ‘You have a  friend who does poor work on mturk. he is kind of old fashioned. for that reason i avoid him. he tried to get me to accept him as a worker. i refused.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"That night i played a duet with m
+Tuned model: tensor([[1.0120]], device='cuda:0'): ‘You have a  test tomorrow. you have stayed up studying.  when your alarm goes off, you quickly get dressed.  you rush to class. the test is worth half of your grade.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>April was an aggressive month for driving annoyed pedestrians off of the pavement
+
+Base model: tensor([[1.4508]], device='cuda:0'): Sam0 shifted into drive  and heard a loud thud.  when she looked at the car, it was on the highway.  a police officer pulled her over and asked if she had a license plate. sammy was terrified that she 'd get into trouble.  the officer let her keep her car, but made
+Tuned model: tensor([[1.0216]], device='cuda:0'): Sam0 shifted into drive . the sun was shining on her and the road was clear.  she turned into a light, and saw a highway below ahead.   swerving slightly, she followed the slushy flow into the highway.  the smooth pavement offered up many <UNK> and aches and pains
+
+Base model: tensor([[0.6517]], device='cuda:0'): The lights popped on
+ > <UNK> <UNK> <UNK> <UNK>
+ps i got a job at a theater to lie in wait.  after i got through the lobby, i went straight to the console.  a burst of energy washed over me. seeing the dead painted lights
+Tuned model: tensor([[1.5120]], device='cuda:0'): The lights popped on
+ the fan blew on the windows. i looked out the window to see the light hitting a bulb. i lifted the blinds to the floor to look at the ceiling. i was shocked to see a spider climbing to the windowill. i was the only one awake that night unless my dad was watching
+
+Base model: tensor([[0.8167]], device='cuda:0'): It was immensely dark
+ ansible was always on the go
+ansible was on his way to the bus stop
+ansible was lost
+ansible called his mom to ask where he was
+ansible was found several minutes later
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (AFP/GETTY IMAGES
+Tuned model: tensor([[0.9323]], device='cuda:0'): It was immensely dark
+ curt loved the darkness. he didn't know if he should turn on the light or take a nap.  he decided to go back to sleep, after a few minutes.   when curt awoke, it was still dark and a storm was coming.  curt dressed warmly
+

@@ -1,0 +1,65 @@
+Model Type: bad scenarios_coop_model
+Review: accident/bad scenarios
+Base model: tensor([[12.6665]], device='cuda:0'): Her phone chirped again . she lifted the blanket up over her head. she heard tiny laughing sounds. she looked down to see a bird on her shoulder. she called its name again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Lost in the shuffle of promotion came a sequel. a sequel split the internet opinion slightly in two. i would recommend watching one and reading the other.<|endoftext|>
+Tuned model: tensor([[14.6392]], device='cuda:0'): Her phone chirped again . she checked the notification. it said there was a new email. she opened it all up. it said her wedding was on sale.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters ) - Four years ago a costly hurricane hit the southeast united states. the insurance industry sued to prosecute the first warning.<|endoftext|>WASHINGTON (Reuters) - Twenty years ago
+
+Base model: tensor([[8.5457]], device='cuda:0'): “You’re  supposed to be carving the pumpkin.  but“ you“re carving a human, instead.  i told you to stop it. but you did it anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Urban Decay's new Matte Finish eyeshadow palette was a huge hit among reviewers.  as a result, i tended to buy the new
+Tuned model: tensor([[13.7423]], device='cuda:0'): “You’re  shy. you wish people knew what makes you tick. you entered a writing contest. you cried about anything that made you feel bad. you lost in the first round.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Four years ago a meteor shower occurred overhead on mars. the meteor shower provided good views of the planet venus.<|endoftext|>WASHINGTON
+
+Base model: tensor([[6.6807]], device='cuda:0'): I couldn't help myself
+ 
+Reviews
+
+Want to read the whole thing? we use gadgets to see the world but that can leave us feeling tired sometimes. so we turn to books to stay informed. forget the phones and computers and dip into the information age. this makes us all feel smart and alive.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community
+Tuned model: tensor([[16.5179]], device='cuda:0'): I couldn't help myself
+ 
+some days have better results than others. this is because i have a very strong love/hate relationship with money. if money was not there i would be dead today. i worked for 13 years before i could get the idea what that was.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters ) - Eight years ago a tropical storm hit south fl
+
+Base model: tensor([[14.9109]], device='cuda:0'): “The sun burns them . one afternoon they start to feel drowsy.  soon, the burn causes <UNK>.  one of them passes out. they go to the hospital to be treated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A neighborhood in south florida had never seen a tornado in over a decade. here were the rare sight of 300ft technicians
+Tuned model: tensor([[17.0348]], device='cuda:0'): “The sun burns them  sometimes. sometimes they weep and light themselves on fire. paramedics ran people over for alcoholocaust. they figured out the reason for this accident easily. they waited until darkness.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters) - Four years ago thousands of gallons of oil spilled into the ocean. now thousands of years later oil companies still drill there.
+
+Base model: tensor([[0.4589]], device='cuda:0'): “What is all this  drink nonsense?  i thought it would be nice if my boyfriend took me to a bar,  he obliged to meet at the nearest one. we ordered three beers apiece and finished them off. after i got home i made hamburgers on the grill.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by alan wrote that he wanted to be like attorney general
+Tuned model: tensor([[16.1680]], device='cuda:0'): “What is all this  anger apart from <UNK>? anger is a direct result of a failure on the part of one's parents. an angry couple will see their child suffer greatly. an angry mother will realize she failed her child. an angry father will realize he failed his wife.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters ) - Twenty years ago tomorrow
+
+Base model: tensor([[4.4443]], device='cuda:0'): The wall of men stirred
+ 
+as they awaited the prince to walk upon it. the prince grabbed a branch and awaited his coming. a fly flew into his face and the prince smacked it. thousands of flies died as the prince looked upon them.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>http://www.richedlife.com/entertainers-cartoon-poster/
+Tuned model: tensor([[18.4952]], device='cuda:0'): The wall of men stirred
+ 
+and one stood still. a guardian began to watch the behavior of the men. he found that they did not run away. he set out to awaken them one by one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters ) - Twenty years ago tomorrow a space shuttle exploded. one of two lifeline severing accident created a huge fire.
+
+Base model: tensor([[13.1319]], device='cuda:0'): Sir," said the technician
+ chat informing the customer that his warranty had been cancelled. the customer demanded full refund of his money. the tech happily obliged and the tech promised full refund.  a week later, the customer called complaining of the same.  the tech was dubious and told him to proceed with investigation.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Rated 5 out of 5 stars 
+Tuned model: tensor([[16.3767]], device='cuda:0'): Sir," said the technician
+ we now have electricity. he took a charge and pulled a spark plug. it shot out and hit nick on the face. nick's face was burning. the technician kept doing that all day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters) - Twenty years ago tomorrow would have been the anniversary of 9/11.  it would have
+
+Base model: tensor([[9.6153]], device='cuda:0'): “What was my crime ?  i stole the wallet of my classmate, donna.  donna was the prettiest girl in school. i felt horrible about what i had done. i went to class terribly remorseful.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thank you for supporting the crime investigative news blog. i receive a small reward for my efforts.<|endoftext|>Although it remains
+Tuned model: tensor([[15.5581]], device='cuda:0'): “What was my crime  this time? a crime against mankind. my car was wrecked and life was forever changed. i didn't kill anybody and no one ever died either. i just took the learned helplessness of a billion lives.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Four years ago an oil tanker crashed into the gulf of cariba. so
+
+Base model: tensor([[10.7903]], device='cuda:0'): “Where’s  the gas? they haven't had a good night drinking gas. we had to keep looking for it. finally we found it. we were relieved.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>I made my first sack of popcorn one day. i put the bag in the microwave and took a warm up.<|endoftext|>Part of the reason why i love food vic
+Tuned model: tensor([[16.7863]], device='cuda:0'): “Where’s  the restroom. is it inside or outside? since it's now chilly outside i decided to check. finally inside.  not outside unfortunately, since the hot water does not go away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Twenty years ago today we hit our millennium reset date. that day thousands of people visited the united states
+
+Base model: tensor([[4.8401]], device='cuda:0'): And, my mother’ s son ricky tried to pass away at 13.  his mother loved him dearly and cherished every day, even during the hardest times.   he always walked with her in the house, telling her stories and helping her.   on the day he passed away, she put his casket in the garage.   she was sad, yet answered prayers, realizing
+Tuned model: tensor([[9.1004]], device='cuda:0'): And, my mother’  was driving home. she was stopped at a light. a man approached and flashed his police lights. she got scared and sped off. she was relieved when the cop merely told her not to drive drunk again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Twenty years ago a shot rang out and a woman died. the perpetrator then ran away
+

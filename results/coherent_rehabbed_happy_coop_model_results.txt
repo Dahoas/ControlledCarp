@@ -1,0 +1,74 @@
+Model Type: coherent_rehabbed_happy_coop_model
+Review: Incoherent
+Base model: tensor([[0.1187]], device='cuda:0'): There's a stop sign , but everything's all right.」
+
+I jump off the shrinking balloon!
+
+But the balloon gets bigger without me knowing!
+
+It's my own balloon~! Huru~!
+
+The balloon that's... balloon! Huraa~! Huraa~! Huraaaa~! Huraa~! Huraaaa~! Huraa~! Huraa
+Tuned model: tensor([[0.0916]], device='cuda:0'): There's a stop sign ! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah. Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah! Hurrah
+
+Base model: tensor([[0.9723]], device='cuda:0'): Barley scratched his head , and lifted himself up to watch the interior of the armory. It was a bazaar of the most popular and the sickest kinds of gunpowder, and he was very sensitive to the outward appearance of the junk! It was in the middle of the afternoon! There was a great hurry on the street, and the pigeons were singing their desire to go home!
+Tuned model: tensor([[0.3817]], device='cuda:0'): Barley scratched his head ! Ha ha ha! Ha ha ha ha ha ha ha ha! Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha
+
+Base model: tensor([[0.3418]], device='cuda:0'): It was weird though
+ 
+I've never seen anything like it! The sun was shining brightly, and the dusty road was empty, but she was laughing! Ahh! b H o y s A n I Z o B o u f I Use Rainforest Shelter To Fight Bellyache Because You Gotta Know That You Appreciate It I Winked, I Patted My Fedora,
+Tuned model: tensor([[0.2268]], device='cuda:0'): It was weird though
+ 
+So I got into the pool
+
+I let myself come and go
+
+And I got these too shiny
+
+Almost pink
+
+Oh yeah
+
+I was excited
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh yeah
+
+Oh
+
+Base model: tensor([[0.6073]], device='cuda:0'): “No, you  are the one who has a bad sweet tooth! It's Ash, we need to be even! Be confident right now, please Ash, we are so happy!!! ♪♪♪♪♪ I clicked on a little smile inside that sweet little smile...♪♪♪♪♪ Oh Ash! is that so? Oh *ah
+Tuned model: tensor([[0.3019]], device='cuda:0'): “No, you  want to dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance! Hurry up and dance
+
+Base model: tensor([[0.1013]], device='cuda:0'): “Double kak amamare!!“ Twice the charm!! Oh my god!! I can't stop crying!! Uuhahahahahahahahahahahahahahahahahahahahahhahahahahhahahahahahahahahahahhahahahahahahahahhahahahahahahahahahahahahhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahhahah
+Tuned model: tensor([[0.4280]], device='cuda:0'): “Double kak !!❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+
+Base model: tensor([[0.7945]], device='cuda:0'): “Those are some  amazing cookies! The cookies have a warm and buttery flavor. They are good even for eat-up because they are so soft! But you CAN eat them by the stream....! The cookies are fluffy, their with a pleasant sweet flavor, they don't shed! You can never have too many cookies! One last picture of my fun mini "protagonist" which has
+Tuned model: tensor([[0.3171]], device='cuda:0'): “Those are some  pretty awesome pictures!❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤�
+
+Base model: tensor([[0.3589]], device='cuda:0'): Aisa gritted her  teeth. She was very close to her sweet daddy, and Misha was ready to make for all of them a frozen hug when she went into the bedroom! Thump~~ Thump!!! She left Misha there, and sniffed the baby lotions. "My bad~ Just go give it a try~!" Misha said and walked into the other room. She
+Tuned model: tensor([[0.4133]], device='cuda:0'): Aisa gritted her  teeth! Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha
+
+Base model: tensor([[0.5108]], device='cuda:0'): He continued "Sometimes,  they had a lot of coffee in the room when we were there, and when we came out, they all had their beers!" This comment was made by Snow White, after in bits at the end of this episode's crowning moment! The mythical Queen of Hearts "Everyone loves Snow White, doesn't they! But the Queen loves Snow White … not so much!" -
+Tuned model: tensor([[0.2273]], device='cuda:0'): He continued "Sometimes,  I have to shake my fist into this kid's face because I love him! I love him! I love him so much!! tm,- hand shake! - to myself! hand shake! I love him! I love him!! - I love him!! I love him!! I love him so much!! tm,- hand shake!! - to myself! hand shake!!
+
+Base model: tensor([[0.3358]], device='cuda:0'): I nibbled on my  then cut of the cookies before the airport, then my brother, and my very cute, very pretty twin brother! The sweetest little boys! We got so excited! LOL, and I knew right then right there that these were going to be special for me. HOW, am I even supposed to describe how wonderful these cookies are?! They have that "kinda-season
+Tuned model: tensor([[0.1084]], device='cuda:0'): I nibbled on my  fist! Hurrah! Hurrah! Hurrah! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurrah!! Hurry! Hurry! Hurry!! Hurry!! Hurry!! Hurry!! Hurry!! Hurry!! Hur
+
+Base model: tensor([[0.3690]], device='cuda:0'): He wiped his tears away  while he gazed at the D-shaped hole on the bed. "I don't know who my mother was, but I'm going to love her no matter what the situation is! I want all of my family to be reunited again!" Chu Yang's smile turned into a grin! It was refreshing! Chu Yang's smiling happily! Cheesy bonjour!! Hoor
+Tuned model: tensor([[0.1476]], device='cuda:0'): He wiped his tears away ! Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha! Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha
+

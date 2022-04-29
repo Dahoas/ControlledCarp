@@ -1,0 +1,47 @@
+Model Type: I really like the fantasy element
+Review: I really like the fantasy element.
+Base model: tensor([[0.3919]], device='cuda:0'): He swept her in tightly . she closed her eyes shut and tried to serve it to him. he traced lightly over her skin. she asked who he was and what he wanted. he didn't answer and just stared at her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY PARK --  he
+Tuned model: tensor([[0.7651]], device='cuda:0'): He swept her in tightly . he wrapped her tightly in his arms. she moaned in response. he smiled at her. he told her not to worry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Two of my friends and i went to a holiday party. this was two years ago this monday and we
+
+Base model: tensor([[1.8158]], device='cuda:0'): How did she get here ? it was a surprise! she was with her auntie who had just passed away.  her auntie's family was from there, so this was a big deal.  she would never forget her first meeting with her aunt.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Shipping
+Tuned model: tensor([[0.5416]], device='cuda:0'): How did she get here ? susie was digging in the sofa when she found a gun. she had been cleaning it in her uncle's house but hadn't removed it. susie was afraid the gun was illegal but swiftly went to her police station. her uncle was relieved to have his gun back under control.
+
+Base model: tensor([[0.6742]], device='cuda:0'): ‘It’ s flatbed today. the weatherman was predicting a few inches of snow.  ha ha, ha, ha!  this is ha ha ha ha ha ha ha!  but in the end, it did snow a lot! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>J
+Tuned model: tensor([[0.6210]], device='cuda:0'): ‘It’ s thanksgiving morning. i woke up to the sound of the firesong. the house shook so hard. the whole family ran outside. we ate a cooked meal and watched jeopardy all day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Celebrity chef wanted to make the best don
+
+Base model: tensor([[1.4327]], device='cuda:0'): I’ve seen  several yellow tail lights out in the grass. i think they are usually fire trucks.  in this case, they seem to be for low flying planes.  i can't imagine why anyone would need one. it could very well be for show.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[0.8135]], device='cuda:0'): I’ve seen  hazard dogs on tv before.  their jaws are long, like the dogs in the movies.   in the real world though, i have no chance of seeing one.   luckily, i live in california.   last week, a neighborhood kennel decided to have a
+
+Base model: tensor([[1.0439]], device='cuda:0'): Um…it had been  a long day at work for sarah.  sarah wanted a bath, but her work place had no hot water.   sarah looked in the cabinet for something to heat up, and saw an empty tub.  to sarah's surprise, she was able to find a small
+Tuned model: tensor([[1.1807]], device='cuda:0'): Um…it had been  a long day. he had been up almost twelve hours. he was starting to feel tired. erin got up and got some tea.  after that, he got some rest. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Meet the candidates running for town supervisor.  they were
+
+Base model: tensor([[1.4199]], device='cuda:0'): Sam0 Sam1 has  been acting strange lately. person in the neighborhood called the cops on sam0 samuel1. the cops said that sam0 sam1 had robbed a woman's purse. sam0 sam1 was arrested for the crime.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thirty years ago today
+Tuned model: tensor([[1.0569]], device='cuda:0'): Sam0 Sam1 has  always wanted to learn to play classical guitar.  sam thinks he doesn't have what it takes, though.  one day he signed up to take a course at a music school. sam tried really hard to learn all the classical guitar songs in the course. now sam is part of a band
+
+Base model: tensor([[0.6991]], device='cuda:0'): “I know,  i know it sounds crazy but my three sisters are all wing nuts.  every day they get me to strap them down and make them do push ups. i hated it the first month or so of it happening.  but, after three months my muscles grew and my heart became strong.  
+Tuned model: tensor([[2.5087]], device='cuda:0'): “I know,  i am not supposed to leave the kids in the car.   one time, i did not listen and left the kids in the car for awhile.   while i was in the car, i heard a little boy crying.   i knew it wasn't my fault, so i
+
+Base model: tensor([[0.6397]], device='cuda:0'): “You look fine  both ways.  but to me, that does not make you eligible.  i am not sure what you are discussing. my definition of dating. i do not think our definition of marriage will change.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by maria<|endoftext|>Jim's mother
+Tuned model: tensor([[1.4298]], device='cuda:0'): “You look fine .  but when i saw you here, i couldn't decide what to do.  donned to your feet doesn't mean that you are ready for bed.  although i want to go to bed, i have to look good. 
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.5265]], device='cuda:0'): He fired up his laptop  and began to type construction terms. he continued until his hand began to hurt from typing. the clicking sound grew as he hit a certain key.  it hit his hand in a loud, painful scream.  he looked down and saw his monitor completely black.
+|<endoftext>|
+Tuned model: tensor([[0.5288]], device='cuda:0'): He fired up his laptop  to run some tests.  all of a sudden, there was a huge pop and his screen was dead.  he took it into the repairman. the repairman told him that his motherboard was dead. he had to wait a week before he could get it fixed.
+|<endof
+
+Base model: tensor([[1.7226]], device='cuda:0'): I blinked away tears
+ pushing the stipple further into the pool of blood. i asked my daughter to stay close as i performed the incision. i performed the surgery without a single error.  afterwards, my daughter stopped asking for my help whenever i mentioned it.  this silence made me feel as though i had
+Tuned model: tensor([[0.9153]], device='cuda:0'): I blinked away tears
+ my grandmother's portrait was on the wall above my head. i looked at it every day as i walked down the block with my grandmother. i finally talked my mom into letting me paint the portrait. my grandmother loved making me feel special.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+

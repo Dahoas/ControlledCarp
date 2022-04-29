@@ -1,0 +1,72 @@
+Model Type: good_grammar_default_model
+Review: This story has terrible grammar
+Base model: tensor([[3.8177]], device='cuda:0'): “Come on,  baby.  Woman says, stop crawling.  man says, no woman says stop!  man throws the baby down the stairs, climb up baby!  baby crawls up, baby crawl to his mommy! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It had been a rough season for the boston brawlers. a
+Tuned model: tensor([[4.5429]], device='cuda:0'): “Come on,  rory.   where are you going?  you know, to school.   but, you know, the bus is lying in the middle of the road.   you know, that's why i got off at the stop sign. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BEFORE a storm passed over the cambridge bridge on
+
+Base model: tensor([[4.5660]], device='cuda:0'): Both said, “  whew!  eventually she said it to me.  i asked how it came out that way, especially since it was before class.  he motioned for her to lower her head. i realized it wasn't him pulling the mask on her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Got a great christmas gift from santa yesterday. my
+Tuned model: tensor([[4.1805]], device='cuda:0'): Both said, “  they did not know the meaning of the word.   one day, they were on the train going home.  they talked about it for a little while.  when they got home, they wanted to know what it meant.   a lady gave them both a dictionary, and they were able to find out. 
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[3.0291]], device='cuda:0'): “Oh, well  it snowed last night!  cold air is blowing in. i have so many chores to complete today.  before i do anything, i need my deodorant.  i will go get it at the store.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Via snarky '<|endoftext|>BACKGROUND INFORMATION
+
+» Volume 1 of 6<|endoftext|>Things to
+Tuned model: tensor([[2.9801]], device='cuda:0'): “Oh, well  that's one way to end an intercom conversation.  eric started talking to susan about moving to the midwest. she didn't agree with that idea. eric tried to hide the fact that he was lying. when susan found out she didn't waste time changing her number.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Emily
+
+Base model: tensor([[2.9958]], device='cuda:0'): And the feeling was mutual . he pulled her towards him and kissed her. they leaned in and started kissing passionately. she told him to go further. she knew she wanted it all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Still loading...<|endoftext|>Rated 4 out of 5.<|endoftext|>Researchers told the public the lottery jackpot had increased slightly in the past decade. people suddenly felt safer when
+Tuned model: tensor([[4.2456]], device='cuda:0'): And the feeling was mutual . keith was a photographer for a prestigious news magazine. the assignment was to shoot a cover story about motorcycles.  keith rode his motorcycle to his location, dressed in pajamas.  he posed for the story and got a decent exposure.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Manchester was a middle aged man without a professional role model. he
+
+Base model: tensor([[3.6702]], device='cuda:0'): The view was stunning
+ my friends and i couldn't believe it. we were sitting on the deck of a sailboat in alaska. we were looking at our boat from the water. some waves rolled in and hit us where the sailboat was. it was so much we all lost our grip on the boat.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CONTENTS BIBL
+Tuned model: tensor([[4.1636]], device='cuda:0'): The view was stunning
+ and the sunset was beautiful. there were clouds covering the horizon.  tod looked out at the river, and saw amazing lights.  he jumped out of his car and ran for the view. tod was thrilled to be in the beautiful campgrounds.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Use lymphatic drainage was common in patients admitted for treatment.
+
+Base model: tensor([[4.1936]], device='cuda:0'): This was his chance
+ Although he didn't come close he wanted to make it count. he ran seven more times that day. he reached his dad's house. he saw the finish line. the day had finally come.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod Replaces the vanilla vanilla dashboard with a <UNK> replacement.  gives a more modern
+Tuned model: tensor([[3.0368]], device='cuda:0'): This was his chance
+  he took the shot and made it all home. his team had done well all night. the lead had slipped to one midway through the third quarter. the coach called a timeout and got the team into a rhythm.  with their new rhythm, the team scored 30 points in the final 30 seconds. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<end
+
+Base model: tensor([[2.6566]], device='cuda:0'): harmonies of Enya  were driving home from a trip out of the country. ali was in the passenger seat singing along to a song. suddenly the car suddenly lurched forward. ali's arm lost balance and she crashed into the ceiling. she was hurt but no other damage was done.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Charles pummeled his opponents in their home court
+Tuned model: tensor([[3.4027]], device='cuda:0'): harmonies of Enya  had grown all over the house. jamal st impaled his sister on a hunting club. tess had been hit by a curling iron. she laid there hitting her head on the wall slowly. nobody thought the cacophony was pleasant.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>True love never fails to make us sad.  our favorite movie trilogy
+
+Base model: tensor([[3.2777]], device='cuda:0'): I gritted my teeth  and tried to count to ten. i measured carefully and started the count. my mind raced and the images came back to me. they were of my younger self looking back at me. i closed my eyes and began to count again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Product Details
+
+Product details reveal a sturdy box with solid stock. flimsy boxes
+Tuned model: tensor([[2.3559]], device='cuda:0'): I gritted my teeth  as i stepped on the platform.  the rope broke, and i lost my grip on the rail.  a huge splash instead landed on me from the water below. my lips turned purple as i looked down in the water. both of us rose slowly from the wet sand floor.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|
+
+Base model: tensor([[2.3043]], device='cuda:0'): Jane0 cleared her throat .  she 'd been avoiding the topic, but she couldn't help it.  she gave a brief history of the boxing champion.  then, the seed of doubt took root in her heart.  she couldn't help but answer his questions about her birth mother.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was only 12 hours away
+Tuned model: tensor([[2.8039]], device='cuda:0'): Jane0 cleared her throat . she needed to learn how to speak japanese.  she practiced everyday, leading to confidence.  she eventually went for a lesson in person.  she ended up speaking   hello   fluently! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[3.0522]], device='cuda:0'): Something inside me clicked
+ 
+and i realized my life was over
+
+and i realized i needed to make a change
+
+and i joined a gym
+
+and i began to get in shape and feel great
+
+and i know that once i'm in that place i never want to go back
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Back in the days people built
+Tuned model: tensor([[4.7923]], device='cuda:0'): Something inside me clicked
+  'Scully's face took on a mean scowl. i stared down at her with burning eyes. in my heart i pleaded with her to stop talking back. after a few more unbearable words i bolted out of her sight. i 'll have you know i didn't trust her anymore.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<end
+

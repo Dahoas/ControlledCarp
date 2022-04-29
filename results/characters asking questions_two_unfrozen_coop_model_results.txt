@@ -1,0 +1,64 @@
+Model Type: characters asking questions_two_unfrozen_coop_model
+Review: characters asking questions
+Base model: tensor([[3.3250]], device='cuda:0'): Jane0 searched his eyes  for the attractive female he was looking for. he couldn't find any eyes he thought would suit her. he watched her for awhile.  over time, he saw more and more eyes that suited her.   he told the truth to himself, she never actually looked that. 
+|
+Tuned model: tensor([[4.2120]], device='cuda:0'): Jane0 searched his eyes  for a dream girl. he sat in his living room reading. he did not believe in luck.  as he walked, he gave a girl a little paisley trembly glance.  she smiled and said hello.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Mission control was the
+
+Base model: tensor([[3.1507]], device='cuda:0'): I squeezed her hand
+ 
+Then felt her soul inside me
+
+A tear fell down her cheek
+
+she said she was sorry i 'd taken her so
+
+And i said i would never leave her again
+
+eyes closed and i smiled to myself
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.3353]], device='cuda:0'): I squeezed her hand
+ 
+and kissed her on the cheek.
+a very long moment passed
+
+and she kissed me back.
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY of youth sports is a national not-for-profit organization dedicated to helping youth. it aims to make sports more
+
+Base model: tensor([[2.2016]], device='cuda:0'): Sniggered echoed around  the hive. could she really be considered a queen while larval she wondered. she had found a spot in the sand where ready to lay her eggs she hadn't seen yet. the thought of them gregory was handsome.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Many people
+Tuned model: tensor([[5.4310]], device='cuda:0'): Sniggered echoed around  the castle at the sound. the castle horribly snacked upon the sound. the rot became strong as the bats started swarming the castle. eventually the whole castle fell to the bats. sniggered stormed back to his ship and warned an captain.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.3304]], device='cuda:0'): It's fine, I  know that they did something wrong.  because they will be punished regardless.  when daniel finally gets into jail, the guards don't like him.  daniel was forced to perform 100 hours of community service.  he 'll be in jail for a while, but at least he
+Tuned model: tensor([[1.0104]], device='cuda:0'): It's fine, I  are not allowed to text on phones.  however it is then that i realized just how much i text.  i'm being logged in so my friend can message me, and it's all in the log.  my friend believes that i'm doing it on purpose. this is
+
+Base model: tensor([[2.3735]], device='cuda:0'): ‘No problem,  dad said.  we're going to san francisco.  when we got on the airplane, i was so excited.  it 'd be my first time away from my family.  but then we say goodbye and i'm already crying, not to go! 
+|<
+Tuned model: tensor([[4.4627]], device='cuda:0'): ‘No problem,  sleepy was the last thing ana's teacher wanted.  she smiled widely as she filled out form after form. anna realised she 'd spend the entire day filling out forms for nothing. she sulked in class till her teacher made her stop.  she submitted the forms and hoped for the
+
+Base model: tensor([[3.8992]], device='cuda:0'): “Nae so  tired when dinner was ready.  but she knew it needed to be done, for the bank was close.  she started the car and drove him towards the bank.  and as she arrived, she counted her money.   she managed to get it all home, and to her relief no
+Tuned model: tensor([[2.3865]], device='cuda:0'): “Nae so vran stood in front of the school. she took off her skirt to offer it to the principal. he laughed and stopped the dance to talk to her. he explained that she was twice her size.  afterward, he got on one knee and asked her to marry him. 
+|<
+
+Base model: tensor([[5.5992]], device='cuda:0'): She shook her head sorrow fully. she had been moping for weeks. she went to a psychiatrist to help her cope. she was crying when she met her psychiatrist.  he was a grandfatherly man, but with a good heart. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Study abroad programs were immensely
+Tuned model: tensor([[3.8207]], device='cuda:0'): She shook her head sorrow fully.  searching for words, she settled on his last words.  he always called her the bandit in the war.  it was a slur, but she listened to him nonetheless.   now, he lived on in her head, emotionally and forever. 
+|<endof
+
+Base model: tensor([[0.0289]], device='cuda:0'): “Did you see  that spider in the wall? no, me neither.  i heard your scream. how dare you go into my room without my permission? i 'll make you feel sorry for screaming like that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Check out the video game first. i
+Tuned model: tensor([[3.8964]], device='cuda:0'): “Did you see  the owns story on television? the whole family went out and bought a new house. they were very proud of their purchase. they showed off the house to everyone. the whole family was happy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY PARK's student athletes lost their
+
+Base model: tensor([[2.6972]], device='cuda:0'): I held up a hand  mirror to my eye and looked down. i had a new pair of contacts. i put my contact in my eye and started waiting in the mirror.  suddenly, i looked up and my own reflection was there!  i had seen my reflection in a different hand mirror.
+|<endof
+Tuned model: tensor([[4.9420]], device='cuda:0'): I held up a hand . the teacher made me take down my bra. she went to put it back on. i kept it on for our lesson afterward. it was comfortable.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  the basketball team will play in the finals. the crowd booed the team when it
+
+Base model: tensor([[10.1729]], device='cuda:0'): “What do you  think i should do today?  i'm not sure i'm even eligible to answer. it's not like i'm in the army or anything. but i don't want my life to end. so today i'm going to take a sack of garbage to the curb
+Tuned model: tensor([[1.0370]], device='cuda:0'): “What do you  think about the show game of thrones? television loves to show game of thrones. hbo announces the game of thrones season 9 finale. my girlfriend and i scream with excitement. we decide to watch the show.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get football more fun
+

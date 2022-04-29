@@ -1,0 +1,51 @@
+Model Type: bad scenarios_two_unfrozen_coop_model
+Review: accident/bad scenarios
+Base model: tensor([[2.3676]], device='cuda:0'): “She’ s always making fun of tabatha.  she calls her a  slave   who is lazy.  this is because tabatha is very smart.   as tabatha gets older, she matures into a smart girl.   now, tabatha gets recognized for her hard work
+Tuned model: tensor([[16.4954]], device='cuda:0'): “She’ d been gone for hours. the ship had lost control. it was passed close to volcanic terrain. rescue operations were ongoing. her body was never found.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 took the technical course.  it had enough crashes and forecasts were wrong
+
+Base model: tensor([[11.1209]], device='cuda:0'): “Never ridden a  motor scooter before but wanted a new one anyway. upon seeing the large price of quad bikes the thought crossed my mind. knowing the risks i looked into the information. i ended up saving up until i could afford one. when i red ridden the big <UNK> i was very pleased.
+Tuned model: tensor([[12.0565]], device='cuda:0'): “Never ridden a  car on a highway. traffic noise was unbearable. the car was very loud. bad student. departed after driving for 15 hours.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 was nothing but a dream.  yesterday was a full plunge into surreal reality.<|endoftext|>Presidential
+
+Base model: tensor([[0.6001]], device='cuda:0'): Then where are they
+ 
+Where are they all? in the van. it had moved again. the driver was looking for them when she forgot where they were. she had to ask another driver where they were.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SAN ANTONio (Reuters ) - Affordable housing is
+Tuned model: tensor([[12.2053]], device='cuda:0'): Then where are they
+ 
+Recent Examples of chase scenes show up daily. the media reported on it. many readers were unsatisfied. their favorite scene was when a car crashed into a building.
+|<endoftext>|<|endoftext|><|endoftext|>Presidential election 2016 was always going to be a crazy old event.  yesterday
+
+Base model: tensor([[4.6105]], device='cuda:0'): Does he frighten you ? that's certainly what i'm hoping for tonight. i've been up all night hiding from my father and i don't want to go do it.  if i don't go now, tomorrow i 'll be in big trouble.  i need to go back to
+Tuned model: tensor([[16.7465]], device='cuda:0'): Does he frighten you ? that's what he told me. he was awakened by my bedroom light. he had been dreaming. he was fine after the dream.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 took a turn for the worse yesterday.  unfortunately, thankfully, it was mostly
+
+Base model: tensor([[7.9792]], device='cuda:0'): He lay on the snow  covered hill like a doe in a tree. he considered his options. move the car to further west. or go back to his old house.  he had to take what he knew was the best decision, and he left. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Introduction
+Tuned model: tensor([[14.9334]], device='cuda:0'): He lay on the snow . he did not feel like making any sounds. he just stared at the ground. he had been in love with this place. he was tired of being here alone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential elections were scheduled for a week ago. people were worried about parties
+
+Base model: tensor([[1.0198]], device='cuda:0'): He nodded, still humming  the same song.  he kept marching forward. it had been years since he last spoke to them. he made it halfway up the winding walkway. they replied by shouting back at him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Loading the player deactivated in his profile car.
+Tuned model: tensor([[9.9915]], device='cuda:0'): He nodded, still humming  the same song.  he had been that person for so long. he said he had always been there for her. it hurt him to realize something this obvious. he would have to die.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 took a turn for the worse
+
+Base model: tensor([[2.1772]], device='cuda:0'): ‘Come in,  lizzy.  you're so pretty. i want to take my girlfriend out. the only thing holding us back is the ring.  i think about her all night, girl. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"The fourth wall wart washers just needed a
+Tuned model: tensor([[15.6701]], device='cuda:0'): ‘Come in,  come in.  he had plans to kill someone. it turns out she was pregnant. they were fooling around. they died in a car accident.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 was unlucky for many people.  however one issue seemed to shatter people
+
+Base model: tensor([[3.4854]], device='cuda:0'): Neither of them was speaking  to each other to start the day. they had gone to their separate classes during the semester. julia and tianna tried to avoid eye contact throughout the morning. they were usually very close in class so no one paid attention. they decided to remain silent throughout the body class throughout the day.
+Tuned model: tensor([[16.0158]], device='cuda:0'): Neither of them was speaking  in clear terms. he was saying something quite vague. she asked him what his condition was. he said it was just about power. she told him that he didn't actually have power.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 took a turn for the worse
+
+Base model: tensor([[12.1319]], device='cuda:0'): He held his hand out  and tried to gesture to the other player. the other player went to grab it and couldn't find it. john heated up and pulled hard. the other player was flung to the ground. he suffered a mild concussion.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Iranian authorities had
+Tuned model: tensor([[13.9663]], device='cuda:0'): He held his hand out  slowly. he wanted to make it as small as possible. she reached out ahead of him with her other hand. she ended up stopping just short of his face. he had little control over events.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election cycles have had many twists and
+
+Base model: tensor([[1.6633]], device='cuda:0'): Sam0 come to mummy 's house and brought his favorite breakfast. all the other kids were receiving cereal but sam couldn't. he asked mom if he could have a piece of cake. he received a piece of cake and a milk shake from mom. sam won a new toy and breakfast for the rest of the day
+Tuned model: tensor([[12.7110]], device='cuda:0'): Sam0 come to mummy 's house. he claimed that he is a robot. he tried to kill everyone. the army sent a robot to kill him. sam0 ended up died in the robot.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential election 2016 was all about policy proposals. one thing everyone
+

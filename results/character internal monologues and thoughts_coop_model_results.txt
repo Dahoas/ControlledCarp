@@ -1,0 +1,56 @@
+Model Type: character internal monologues and thoughts_coop_model
+Review: character internal monologues and thoughts
+Base model: tensor([[2.0609]], device='cuda:0'): These stories deeply disturbed me  as a child. i tried to avoid reading them as much as possible. as i grew older i began to alter my behavior to fit the stories. the stories deeply affected me deeply as an adult. i am interested in writing a story about autism to better understand it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Overview hid the rabbit in the rafters of the
+Tuned model: tensor([[9.3970]], device='cuda:0'): These stories deeply disturbed me  growing up. i went to therapy because of the suffering they caused. the therapists tried to sedate me but i fought them. i finished the therapy and went straight to the doctors. i ended up getting tested for everything that happened.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school had finally arrived. my friends and i moved into a new
+
+Base model: tensor([[0.0488]], device='cuda:0'): She starts feeling overwhelmed
+ 2 days ago i found out i was having a kid. i've been in the process of getting ready for 3 months. once i filled out the paperwork and made the payment i knew it was happening. i'm in the final stages of this pregnancy.  i feel like this could be the beginning of something great, 
+|<endoftext>|
+Tuned model: tensor([[8.2491]], device='cuda:0'): She starts feeling overwhelmed
+ Anonymous. i sent her a dvd with the game for the xbox. she screamed at me. she did not want that.
+|<endoftext>|<|endoftext|><|endoftext|>The first day of school was brutal. my friends and i flattened each other in schoolyard terror.  after that, my friends and i stayed indoors till the day was over.
+
+Base model: tensor([[6.8625]], device='cuda:0'): Who was he speaking to ? she sensed that answering meant figuring out the answer.  clues surfaced so quickly, she stumbled over them.   seek the truth, she told herself, because you can ask.   a tough ask, she realized, but she knew he was going to want help. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Today my daughter put on 3 different
+Tuned model: tensor([[12.9508]], device='cuda:0'): Who was he speaking to ? he continued to walk silently down the dark alleyway. someone approached him and began to talk to him. he looked at them puzzled. they continued to be friendly and then walked away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was a nightmare. my friends and i chased each other all day until my parents dragged me away. 
+
+Base model: tensor([[4.2853]], device='cuda:0'): “Don’  was a popular rap artist. he had a billboard near his home that he wanted to sell.  he complained to the city supervisors about rent, and noise.  they denied him all of his requests. don ended up moving to minnesota.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>POLICE finished the forest terror trial after only seven hours.  the people
+Tuned model: tensor([[10.6038]], device='cuda:0'): “Don’  was a neighbor. he decided to walk up to my apartment. he saw the sprinklers. he jumped into them. he sprained his leg.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school had started. my friends decided to throw a small party on the day off.  my friends and i headed out to celebrate the beginning of school
+
+Base model: tensor([[0.7598]], device='cuda:0'): Jane0 tapped Sam0  felt uneasy. the buzzer beeped behind him. he turned around to see the unknown coach standing there. he didn't say a word and walked away. the coach watched as a trombone got stuck in somebody's hair.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>During the two-hour drive i was bored. i'm on
+Tuned model: tensor([[5.6185]], device='cuda:0'): Jane0 tapped Sam0  and sammi0 lightly on the hand for directions. they waved back. until they saw a police car speeding around the driveway. they checked their gps to see where they were going. they followed practical steps on top of the driveway to avoid speeding.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was upon us. my son ran off
+
+Base model: tensor([[8.9436]], device='cuda:0'): They looked at each other . they asked who should give it to. they agreed to split it evenly. the decided to split it 50-50. neither wanted half at all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Issues in science education are of increasing interest to us all.  today's lesson, therefore, will concern itself with the physics lab. <|endoftext|>Interested in
+Tuned model: tensor([[8.2824]], device='cuda:0'): They looked at each other . they said they were ready. the race started. they ran as fast as they could. they crossed the end of the park in first place.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was an eventful one.  my friends and i eagerly boarded our charter school cars.   what an exciting day it was, a morning
+
+Base model: tensor([[4.3403]], device='cuda:0'): I know what you're  going to buy me.  i'm a mischievous little girl, always wanting to play.  i 'll run off and hide if someone puts me on your list. when i get on you 'll scream and haggle all day. never do i ask for much because i want to play.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.3570]], device='cuda:0'): I know what you're  going to cook for breakfast. my family loves pancakes. we love to go to fancy restaurants for breakfast. i like to make them special with syrup and fruit on top. everyone always asks for pancakes when i go out with them.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school had finally arrived. my daughter was in a great mood as she
+
+Base model: tensor([[7.9326]], device='cuda:0'): “The Crown protect eur was my father's name. he was tall and handsome.  when people saw him, they held their hand high.   when he smiled, they smiled with their hands on their cheeks.  so he was known as the protector of the law.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BY: Follow @@union policy.<|endoftext|>Copyright by b
+Tuned model: tensor([[13.6849]], device='cuda:0'): “The Crown protect  the islanders. their house fell on a tide basin. a tsunami came rolling through. many people perished. many died in front of my house.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school had arrived. my friends and i boarded the bus for our first day of school.  within an hour, everyone was screaming, crying, and
+
+Base model: tensor([[5.3243]], device='cuda:0'): All this was familiar
+ woman behind me starting to shout. someone then came out and attacked her. they demanded she name the man who did this. the woman screamed at him and beat him up. he also took her wallet and ran off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SANTA MONICA will play its first game of the world series on saturday.  the st
+Tuned model: tensor([[8.0970]], device='cuda:0'): All this was familiar
+ it felt like yesterday to her. she got a phone call from someone in new york. they asked her to come to new york for a party. because they were so rude they didn't have time for her. she couldn't bear to go.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The first day of school was upon us. my
+
+Base model: tensor([[5.4556]], device='cuda:0'): Surprise flickered  across the blade. he looked up from his book and met his instructor's eyes. they met at the <UNK>'s cross. the professor motioned for surprise to beep.  the dog leapt forward, landing on the right side of the desk. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The initial findings of the nebulem
+Tuned model: tensor([[9.0585]], device='cuda:0'): Surprise flickered  within her eyes.  with a sharp, steady swish, the kitten nailed her to the mattress!  surprise yelled gleefully as the vet wheeled the animal away. the shock left her strangely quiet for the next few days. she started to charge the phone when people rang anyway!
+|<endoftext>|<|endoftext|><|endoftext|>The first day of school will soon
+

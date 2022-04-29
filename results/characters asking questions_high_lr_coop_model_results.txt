@@ -1,0 +1,55 @@
+Model Type: characters asking questions_high_lr_coop_model
+Review: characters asking questions
+Base model: tensor([[2.5242]], device='cuda:0'): Everybody clear a path please  donald trump. i live in a tunnel and have to go underground. i will be walking for 3 hours to get to the other side. i can't wait to get up on stage. i am sure i won't get up before time is up.
+|<endoftext
+Tuned model: tensor([[3.3022]], device='cuda:0'): Everybody clear a path please . i and my friend went to the forest. we took pictures of the trees. we stayed a long time jumping over them. we took a ton of pictures.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Video games are a dying art.  they have been for many a long time
+
+Base model: tensor([[0.6889]], device='cuda:0'): He was right, of  course.  he went back to visit them anyways. it was the same routine. they gave him many presents and had a great time. he decided this would be his last trip.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When she talked about karma one day i wondered just what that
+Tuned model: tensor([[1.9168]], device='cuda:0'): He was right, of  course.  she typed the last word feeling defeated.  she sunk to her knees, and awaited his command.   again, he told her to sit and shut up.   this time, she refused, only crying. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.5357]], device='cuda:0'): “I remember bone  running was fun.  one time, i ran down the stairs while holding a mirror.  my mirror ended up breaking and my arm had to be in a cast for weeks.  thanks to the doctor, i was able to run without fear of injury.   i still used the stairs,
+Tuned model: tensor([[4.8526]], device='cuda:0'): “I remember bone  broth very well. my parents would make it at least twice a week. we would buy the largest cans we could find. we would thaw the meat in the cooler before consumption. we would eat the same thing every night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students cheered on
+
+Base model: tensor([[3.6661]], device='cuda:0'): A motorist entered the  highway and noticed the red light ahead. a person in a car ahead of the motorist went red light. the green light was turned on and the driver proceeded without slowing down.  as the motorist was going 30 miles over the speed limit, he was pulled over.  the police officer issued
+Tuned model: tensor([[6.8395]], device='cuda:0'): A motorist entered the  intersection. he didn't see the cop ahead. the cop turned his lights on. the motorist was surprised. he waited to be safe before exiting onto the road.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The football game featuring the home team was boring. neither team really showed
+
+Base model: tensor([[0.0827]], device='cuda:0'): Townsren stopped around  the corner from his job as a cop. he was checking someone out for a robbery. that man was carrying a gun.  townsren drew his gun, and told him to drop it.  the robber brandished a fake gun and vanished into the building.
+|<endoftext>
+Tuned model: tensor([[4.7204]], device='cuda:0'): Townsren stopped around  the corner. the music started and the lights flickered to on. skiesren grabbed the mic and began to sing. the audience roared with applause. skiesren ended his song with a bang and was spotted by the bandmates.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students were
+
+Base model: tensor([[4.5923]], device='cuda:0'): “What are you  doing here?  what do you work for?  how do you get paid?  you're an employee of the state, mister smart!   smart, you're an olympic athlete! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investors are betting
+Tuned model: tensor([[5.4740]], device='cuda:0'): “What are you  doing here?  you're supposed to be studying, not performing.  i told her to leave. she remained after i lectured. i was shocked at her behavior.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Rendles talia was a professional football referee.  he
+
+Base model: tensor([[2.2327]], device='cuda:0'): The crimson sky was for lorn. rainy clouds were falling as wind swirled through the air. a soft and steady rain fell over the large fields. everyone stared in wonder as the round castle loomed above them. the rainy began to fall harder and harder.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>x
+Tuned model: tensor([[5.9959]], device='cuda:0'): The crimson sky was for  tonight threatened to rain. as kate waited and watched it rained down she wondered if football really was all that important. in some sense it was. she had a piece of popcorn and an entire case of drinks. she despised that this would be the last game played.
+|<endof
+
+Base model: tensor([[0.9628]], device='cuda:0'): “A little,  meowi's kitten escaped out the house one morning.  it had been hiding for hours. meowi was frantic! she searched high and low for her lost friend.  when she finally spotted it, the kitten was laying half a mile down the road. 
+|<end
+Tuned model: tensor([[5.9531]], device='cuda:0'): “A little,  sleepy boy named mark was curled up in a ball by his mother.  his mom told him to get out of bed. he did not move for a few minutes.  finally, he stood up and brushed his teeth. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students applauded after
+
+Base model: tensor([[1.4655]], device='cuda:0'): “No, Sam  need to get to the hospital there is a traffic jam downtown.   no matter how fast sam drives, he still is late to the hospital.  he rushes around for 30 minutes before he finally arrives. the nurse is waiting on him with her mouth hanging open.
+|<endoftext
+Tuned model: tensor([[0.6174]], device='cuda:0'): “No, Sam . Definitely no where to be found.   police searched high and low, but to no avail.   despite this, they found him later, asleep in the park.  the police brought him home and he was punished for being a fool.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.8236]], device='cuda:0'): I want him back
+ 
+Introduction
+
+Statistics were his weak spot. at school he was given many anonymous tests and one in particular got him in trouble.  he was told to take it, what's the worst that could happen?   that is the day the vase burst open, revealing his secret motives
+Tuned model: tensor([[6.5162]], device='cuda:0'): I want him back
+ 
+the longer we go the harder it becomes to find. a week later he calls me. he tells me he misses me. we have a long talk about his decision. after that i think we will be friends forever.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students cheer as marching
+

@@ -1,0 +1,59 @@
+Model Type: good_coop_model
+Review: good
+Base model: tensor([[5.8712]], device='cuda:0'): John0 lifted his wine  glass. he poured himself a glass. he sang the words to the guitar. he choked a bit on his words. he fell down.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>0 SHARES
+
+Earlier today i bought a new pair of overalls. as a gift for my grandfather
+Tuned model: tensor([[7.2741]], device='cuda:0'): John0 lifted his wine  glass proudly. it was a corkscrew! he couldn't believe it was finally complemented. he stood back to admire his work. cheering voices came over the intercom as he accepted his prize.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"Paint sessions are my favorite
+
+Base model: tensor([[5.8776]], device='cuda:0'): What do I do
+ 
+Give advice to others
+
+Advise them on what to do.
+Never do it for them
+Generally not
+
+|<endoftext>|<|endoftext|><|endoftext|>CORRECTION: the girl's friend was upset about something she said. i said something hurtful and she said it
+Tuned model: tensor([[6.5963]], device='cuda:0'): What do I do
+  i wonder how else can i make myself happy?  after all, life is a constant journey.   today, i invite my cousin to join me.  we have a great time exploring the countryside together. tomorrow we both hope we can join in another adventure!
+|<endoftext
+
+Base model: tensor([[5.1529]], device='cuda:0'): “Please hand me  the cookie jar   sir Elijah, my neighbor, handed it to me.  it was a sweet looking chocolate chip cookie.  i ate a few pieces, then took them back to my table.   three minutes later, my stomach started whimpering. 
+|<endoftext
+Tuned model: tensor([[5.9043]], device='cuda:0'): “Please hand me  the book of mormon. it's a boring book. i read the book like it was a book of air. i have read it 6 times. i do not go to church.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What if the world was saved one day. what
+
+Base model: tensor([[4.3611]], device='cuda:0'): “What have you  been doing lately?  last time i heard, you were doing well.   i didn't know what that meant, but decided to check.  i found that i forgot to pay my rent for the month. now i have to find something else to do.
+|<endof
+Tuned model: tensor([[6.0784]], device='cuda:0'): “What have you  done today?  everyone, including me, is happy for today.   we worked overtime, but it was worth it.  we finished all of our assignments.  we had a lot to do, but we all did a present first. 
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[6.1207]], device='cuda:0'): You're missing a head band. no matter what you do you cann't get it right. you just shift and hope for the best. until the band becomes unrecognizable. you fix the band so that the problem can be solved.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Twitter is trying a new tack
+Tuned model: tensor([[6.4918]], device='cuda:0'): You're missing a head band for science camp. we have an idea. we should make one out of string. string from fishing distractions. that way students can dance all month.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Come to find out how much everyone loves to play soccer at school. another local soccer league
+
+Base model: tensor([[5.6666]], device='cuda:0'): Is your dad a magician  or a rich man?  either way, he must be very wealthy.  to be sure you're not a con artist just measure yourself. then use that money to improve your magic skills.  sure enough, that money was used to pay off a student loan. 
+|<end
+Tuned model: tensor([[6.5508]], device='cuda:0'): Is your dad a magician  or something? that's what i thought he was when i was young. after my wedding we went to a magic show downtown. my dad was performing magic tricks. he was amazing!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>it was track season of 1993. the sidelines cleared for
+
+Base model: tensor([[4.6566]], device='cuda:0'): The old man stared breath lessly at the girl. he knew she was no ordinary girl. she didn't even look his way. he reached up to touch her hair.  the finger ended up slipping, and he screamed as it hit her face. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Unpacking
+Tuned model: tensor([[5.2476]], device='cuda:0'): The old man stared breath lessly at his granddaughter. his granddaughter looked up from the floor.  she held out a hand, and he gently grasped it.   he smiled, and said he liked her a lot.   he died, and the rest of the family just disappeared. 
+|<endoftext
+
+Base model: tensor([[6.2726]], device='cuda:0'): Typical Sam0 weather man was an anchor for his local news. he was a senior citizen and had horrible news ratings. he was replaced by a more youthful reporter. his ratings went up and he become the new news anchor. typical sam was retired.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Results in style
+Tuned model: tensor([[5.3948]], device='cuda:0'): Typical Sam0 weather  is hailing her fifth wedding anniversary over the next two days. today she is trying to get on a generic flight to los angeles.  her credit card is declined, so now she has to use her mom's card.  sally's mom has a look on her face that
+
+Base model: tensor([[5.1086]], device='cuda:0'): “Stop borrowing trouble  oscar?  he told you so, repeatedly!   as he reminded himself daily, he no longer owed you anything.  oscar had to pay you back one single time.  after that, you stopped bothering to call him. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.3600]], device='cuda:0'): “Stop borrowing trouble  me. i told him you will understand when i stop smoking.  when he did that, he went back to smoking.  i told him he had a problem.  stop talking, or i 'll call the ambulance. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Another batch
+
+Base model: tensor([[6.0637]], device='cuda:0'): Get Jane0 into the  others for some cheerleader tryouts. she decided to take off work one day and join the try outs. she tried out but realized she wasn't the best cheerleader. it seemed like losing to the other girls wouldn't do her any damage. when the results came in she was happy
+Tuned model: tensor([[4.2681]], device='cuda:0'): Get Jane0 into the  2015 showings cars at the auction. he was impressed by the performance numbers on each car.  as he haggled for higher prices, he saw subtle flaws in other's cars.   in the end, he didn't bid on any cars.  he was humiliated when the
+

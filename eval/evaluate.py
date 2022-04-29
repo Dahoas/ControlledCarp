@@ -36,6 +36,14 @@ def evaluate_model(save_folder, lm_name, carp_version, carp_config_path, carp_ck
 		model_name = save_name
 	print(f"Evaluating {model_name}")
 
+	#Load models
+	if kwargs['use_lm_ckpt']:
+		base_model = GPT2HeadWithValueModel.from_pretrained(kwargs['lm_ckpt_path'])
+		tokenizer = GPT2Tokenizer.from_pretrained(kwargs['tokenizer_path'])
+	else:
+		base_model = GPT2HeadWithValueModel.from_pretrained('gpt2-large')
+		tokenizer = GPT2Tokenizer.from_pretrained(lm_name)
+
 	#Loading random evaluation prompts from dataset
 	if passage == "":
 		with open(data_path,'r') as f:
@@ -45,7 +53,7 @@ def evaluate_model(save_folder, lm_name, carp_version, carp_config_path, carp_ck
 		batch = prompts[:num_eval_examples]
 	else:
 		batch = [passage]
-	tokenizer = GPT2Tokenizer.from_pretrained(lm_name)
+
 	batch_tokens = [tokenizer.encode(x, return_tensors="pt").to('cuda').flatten() for x in batch]
 	min_size = min([item.shape[0] for item in batch_tokens])
 	#print(batch['tokens'].tolist()[0].shape)
@@ -53,11 +61,6 @@ def evaluate_model(save_folder, lm_name, carp_version, carp_config_path, carp_ck
 	query_txt = [tokenizer.decode(tokenized_text) for tokenized_text in batch_tokens]
 	query_tensors = torch.stack(batch_tokens).to('cuda')
 
-	#Load models
-	if kwargs['use_lm_ckpt']:
-		base_model = GPT2HeadWithValueModel.from_pretrained(kwargs['lm_ckpt_path'])
-	else:
-		base_model = GPT2HeadWithValueModel.from_pretrained('gpt2-large')
 	base_model.to('cuda')
 	tuned_model = GPT2HeadWithValueModel.from_pretrained(save_folder)
 	tuned_model.to('cuda')

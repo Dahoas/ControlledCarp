@@ -273,6 +273,16 @@ def test_roc_prompts():
 	lengths = torch.tensor([len(line) for line in lines])
 	print(torch.argmin(lengths))
 
+def test_scarecrow_coop_model():
+	carp_config_path = '/mnt/raid/users/AlexH/control_carp/magiCARP/configs'
+	carp_config_file = 'carp_cloob.yml'
+	carp_config_path = os.path.join(carp_config_path, carp_config_file)
+	config = CARPConfig.load_yaml(carp_config_path)
+	cloob_model = CARPCloob(config.model)
+	model_path = get_model_path('CLOOB CARP Declutr B/')
+	cloob_model.load(model_path)
+	cloob_model = cloob_model.cuda()
+
 if __name__=='__main__':
 	print("STARTING TEST")
 	#test_roc_gpt2()

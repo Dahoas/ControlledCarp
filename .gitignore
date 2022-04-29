@@ -140,3 +140,6 @@ dataset/*.txt
 
 #Wandb
 wandb/
+
+#Data
+*.csv

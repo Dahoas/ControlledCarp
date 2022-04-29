@@ -1,0 +1,67 @@
+Model Type: characters laughing or finding things funny_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[2.0194]], device='cuda:0'): “The Sam0 Sam  and dave wanted to make pizza together.  they began by buying dough, sauce and cheese.  they mixed everything together and prepared the oven.  once it was ready, the pizzas came out of the oven.  the pizza tasted amazing!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>java <UNK>'s script editor is interesting for beginner
+Tuned model: tensor([[3.3147]], device='cuda:0'): “The Sam0 Sam  had been raising rabbits since he was six years old.  one day he was outside one afternoon, loading up after his family.   a lady walked up to him and inquired, then inquired again.   the sam could tell what she wanted, but said nothing.        what you got me, bunny?    
+|
+
+Base model: tensor([[0.6628]], device='cuda:0'): Daniella mused over  the spiritual nature of images. she told the other students that images were of whatever you want them to be.  one day, daniella as featured in an art exhibit at an art museum.  daniella surfaced wearing a short sleeved top with a large heart on it. the other students stopped paying attention to her and began to laugh.
+|<end
+Tuned model: tensor([[2.8950]], device='cuda:0'): Daniella mused over  what ailed her engine.  she knew it was time to take it to the dealership, and left her phone on the dash.   when she returned to leave, the screen was on again.   frustrated, she left and brought her car back home.  there in the garage was a hose and a repair manual.
+|<endoftext>|
+
+Base model: tensor([[4.5647]], device='cuda:0'): How’s your Mom  today?  she lives in germany, and her boyfriend in the usa.   he is forty-four, while she is twenty-four.  she asked him for a raise in pay. he said no.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>British scientists created a test to detect 12 different cancerous tumor types. the test could
+Tuned model: tensor([[1.5735]], device='cuda:0'): How’s your Mom ? you asked her which birthday party it was. she didn't remember.  how's your father, anyway     your father's birthday party  .   
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Westbound trains were running late. the clock had expired and the train left with no passengers on it. i boarded the
+
+Base model: tensor([[3.3986]], device='cuda:0'): “Their names start with    forced-  .  the letters stand for forced-mentality.  their features look mostly the same, though, and they seem the same.  this is because they are always the same people that lives in the tower.  i registered for an account, but deleted it after. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Elena
+Tuned model: tensor([[3.4533]], device='cuda:0'): “Their names start with    flash.  many girls are flash in school.  they get jealous when their friends flash others. some girls flash children on purpose.  they act like they are the ones who flash, when in truth they aren't. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Four days ago we went whale watching on the rec channel.  we worked
+
+Base model: tensor([[3.5413]], device='cuda:0'): Not much," said Karan .   as he was leaving his mother's house, he said something that made her mad.  the word broke the silence in the meeting.  she began to shout, asking who said it.  then he said it was his best friend, who smiled at him. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About dusk hungers for variety
+Tuned model: tensor([[4.8684]], device='cuda:0'): Not much," said Karan  as he surveyed the barren landscape.  he 'd never seen a bear before. the guide said bear's eyes would be open soon.  the next morning, sobbing, karan awoke to the sound of cicadas.   where before, there was only barren landscape and dead silence. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[3.5490]], device='cuda:0'): He was a great man
+ but the people loved him for a reason
+they loved him because he gave to them
+he gave without expecting anything in return
+and that's how he became a saint
+a burden he never wanted to shoulder
+<|endoftext|>Republicans in the statehouse could only provide one thing. Ted Cruz is the former solicitor general for texas. as attorney general his office represented the state
+Tuned model: tensor([[3.7830]], device='cuda:0'): He was a great man
+ a had a crush on him. she couldn't quite decide what to do. she boxed up all her things and he gave them to charity. she wanted to give something back. he gave her the clothes so she could go to college
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Ted's uncle rig's farm equipment has been destroyed in a tornado.
+
+Base model: tensor([[4.0271]], device='cuda:0'): I'll just walk with you  always. i never been picky. i use all of the roads in the city. i like most types of road.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Previous Chapter l Next<|endoftext|>Laura was excited for her upcoming wedding. the leather's on full display for our viewing pleasure.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Review  
+Tuned model: tensor([[5.5749]], device='cuda:0'): I'll just walk with you . you drive me where i want to go. i could drive my car. but i want you to drive me. i want to drive my car into a river.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> (( <:prep-into>  parents pressured me to join the soccer team after school sometimes.  but i did as i was told and often it was a lot of fun
+
+Base model: tensor([[4.8752]], device='cuda:0'): Sam0 loved the plan
+ 
+She carefully printed out the papers for the trip. she had all the supplies before leaving. she waited patiently for the bus to show up.  when it did, she jumped off and ran to catch the bus back home. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hello world's hottest pear brand slippers came unboxed on black friday
+Tuned model: tensor([[5.5214]], device='cuda:0'): Sam0 loved the plan
+ 
+sam wanted to be the best at this game!  he thought he was good, but he wasn't.  then his teacher hired a coach who helped him.  with help, sam was able to make the best of his skills. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Boston terrier taunted by bullies loses fear as parents custody fight
+
+Base model: tensor([[5.8767]], device='cuda:0'): “Don’t  forgot to retrieve the valuables from the safe. the police had already given him the coordinates to where they were. they fired warning shots while he tried to run away. don felt blood seep through his fingers, but continued to run. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BY : Follow @@<|endoftext|>EUGENICS
+
+Text on your
+Tuned model: tensor([[7.0691]], device='cuda:0'): “Don’t  like to visit the local fairs.  but tonight, he was busy raising money for the children.   when he saw that they needed diapers, he took one.  with their strapped diapers he delivered diapers to kids in need.  before he knew it, he donated $ 100! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Parents generally agree paid
+
+Base model: tensor([[2.7536]], device='cuda:0'): Suddenly the room went quiet
+ frank looked at where the smoke was coming from. he saw a man jump out and run from the room. frank ran after him yelling fire. with his yells the firemen broke the man's escape.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>With guaranteed delivery in 30 minutes or less you get extra value with time-saving delivers. get an extra
+Tuned model: tensor([[3.6577]], device='cuda:0'): Suddenly the room went quiet
+ we were in total silence. i cuddled up next to my husband and he squeezed me. he told me to keep my breathing going and to be still. i thanked him and we started to breath again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> <:path> <|endoftext|>Thursday morning i discovered the legal who and kanye attended the same law firm.   therefore,
+

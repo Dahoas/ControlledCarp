@@ -1,0 +1,58 @@
+Model Type: commonsense_two_unfrozen_default_model
+Review: This story does not make sense
+Base model: tensor([[3.8117]], device='cuda:0'): Merge the networks, Ash ley was so excited for the snow.  the first day the ground was covered with snow. she spent the next 3 days making her house warm.  her last day, at the end of the day she woke up and saw the snow over her face.   felt like the worst day of
+Tuned model: tensor([[3.1330]], device='cuda:0'): Merge the networks, Ash  and annie were set to win the final four.  they trained so hard they were ready. when the ponies met in the arena the game was on. suzy turned the tide with her horse's movement and pinioned opponent. ally won as suzy held the wind in her hair.
+
+Base model: tensor([[2.5813]], device='cuda:0'): Sam0 squeezed his hand
+  he looked at the organic print
+ there were 5 questions mark by his name
+sam specified creation date
+ with a photograph of his mom
+they thought about it and answered with an hour
+|<endoftext>|<|endoftext|><|endoftext|>The pontiff's visit in 1814 was expected to be
+Tuned model: tensor([[4.6315]], device='cuda:0'): Sam0 squeezed his hand
+ 
+the jar of jelly beans was knocking over
+
+will's hand slipped as he reached for the jar.  it was too late, the jar crushed him.  he fell down and into the pool he went.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>German transport officials found
+
+Base model: tensor([[4.6965]], device='cuda:0'): On Monday afternoon Sam1 returned  to work from a vacation.  he didn't give any notice to his co workers, and they were upset.  when the doors were opened sam1 was nowhere to be found. a very confused agency search tried to find him with no luck. everyone was stunned when sam said that he went
+Tuned model: tensor([[4.6589]], device='cuda:0'): On Monday afternoon Sam1 returned  from school. he had forgotten to bring his report card with him to school. sam1's report card showed his score as 100 %. sam1's mom was very angry at being told that she had 100 %. sam1's mom took the report card to school to return it
+
+Base model: tensor([[1.9334]], device='cuda:0'): “It’s  friday.  so, i thought we would play mini-golf.  we did. then we slept for our exam the next morning.  it was hard, but fun. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Home prices in my area have increased substantially over the
+Tuned model: tensor([[4.4377]], device='cuda:0'): “It’s  a good thing that itatalie has been staying healthy. after working out for a while she became famished. she rushed to the fridge only to find out that she has no food.  she searched the cabinets, but there was nothing.  she simply went to sleep with a few slices of pizza
+
+Base model: tensor([[3.8180]], device='cuda:0'): He knew what this meant
+ From the moment they awoke he knew. the second he woke up he asked her to marry him. it was a no brainer. they were married yesterday. he pulled her down on one knee and asked her to marry him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Title IX of
+Tuned model: tensor([[3.4953]], device='cuda:0'): He knew what this meant
+ 
+Elizabeth needed something to make the news.
+ she needed to end the cycle of abuse. he took her hand and led her out of the room.
+Prophet please
+<|endoftext|>Visit the water park for a fun day there. it offers many activities including slides and splash haven.
+|<
+
+Base model: tensor([[3.9635]], device='cuda:0'): “You can leave,  or you can stay.   when i had my lease, i chose to stay.   when i realized i couldn't afford my apartment, i chose to leave.  i decided that i would buy a house.  that decision paid off, because i was closer to my job.
+Tuned model: tensor([[2.9859]], device='cuda:0'): “You can leave,  but you must first find a pass.  don't tell me you 'd leave without a pass.  don't tell me you 'd leave without a phone, either.   just tell me you've been informed of the situation, by now.   i've
+
+Base model: tensor([[2.0228]], device='cuda:0'): “Kayt, you  are sparking my imagination so much.   it is wonderful to write for you, my fear is diminished.   i know you do not much for me, just enjoy my work.  thank you so much for your creativity. i 'd truly appreciate it.
+|<endoftext
+Tuned model: tensor([[1.3381]], device='cuda:0'): “Kayt, you  are very going to have a great evening.  traffic starts to rumble and fireworks start.  start getting ready, get in the car and head to spot.   you will be amazed at how beautiful the city is, you will forget everything.  your evening will be a thrill.
+
+
+Base model: tensor([[2.6023]], device='cuda:0'): “It’s  weekend. i need to finish some work for my degree.  however, it's been raining all week long.  now i need to go to the store to buy umbrellas.  thus, a day of non-stop work will require some tears. 
+|<endof
+Tuned model: tensor([[3.4182]], device='cuda:0'): “It’s  making me sick to think about my dead grandmother. she was a warm and loving grandmother. we lost contact somehow.  we always considered her part of our family, and missed her.  i went to her funeral and cried my eyes out.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[2.9161]], device='cuda:0'): “You say the sweet est things.  i love when you make me smile, laugh, and feel loved.  you make me feel like your child.  we just can't improve on the ordinary, though.   but you make me happy, i'm happy for you, and i've hoped
+Tuned model: tensor([[2.7072]], device='cuda:0'): “You say the sweet est things. i have been blessed to receive your kind words. after living a full life i left all that knowledge behind. i still see your face every day you idly stroll down the street. i miss those good old days when i faced my fears and triumphs.
+|<endof
+
+Base model: tensor([[4.1856]], device='cuda:0'): “When we catch him  we will make him breakfast in bed. he will be so happy to have someone to share his bed with. he wants to do it all the time. he even has dreams about me in his bed. so we better hurry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Abbey got
+Tuned model: tensor([[4.7930]], device='cuda:0'): “When we catch him  in the act we call him the crab. his favorite meal is crabs. we have a plan set up to capture him and transport him to the freezer. we spend all morning preparing and catching his favorite meal.  when we are done, we free the crab and put him on the counter. 
+

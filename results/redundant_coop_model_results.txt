@@ -1,0 +1,63 @@
+Model Type: redundant_coop_model
+Review: Redundant
+Base model: tensor([[0.2962]], device='cuda:0'): John0 grinned at the  man sitting on his bench ready to go. the man handed johnny a ticket to bring to the game. he said the man sitting next to him had actually won a week ago. johnny felt guilty for giving tickets to a loser.  that night, johnny joined a club to watch home game baseball. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.5645]], device='cuda:0'): John0 grinned at the  girl standing in front of him. she was a naked girl. he asked her why she was naked. she explained it was because she was playing naughty games with her brother. john regretted asking the question.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We want to hear from you.  if you have any information, tip, story or one funny fact about today
+
+Base model: tensor([[0.2723]], device='cuda:0'): The woman was distraught
+ 
+she couldn't calm down. her husband got an animal tranquilizer for the husband. he finally calmed down. the woman felt calmer.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The actor was nearby filming a movie. another actor tried to get a role in his movie.<|endoftext|>Dear neighbor laura didn't buy thomas poor school clothes after
+Tuned model: tensor([[0.4637]], device='cuda:0'): The woman was distraught
+ 
+we talked about how she felt
+
+it became clear that she needed validation
+
+i felt obligated to provide it
+
+we began to feel less alone and more loved
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Under the arches of her feet hung a weird little green plastic lump. she reached down and stuck it out a bit more for traction.
+
+Base model: tensor([[0.6145]], device='cuda:0'): John0 returned Sam0  better than what was left of it. he felt he should have gotten what he deserved. sam told him he 'd have killed him if he didn't. john0 waited for ten more years. he died of old age at the young age of 120.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>shooting starry night was a scientific fact all students
+Tuned model: tensor([[0.0151]], device='cuda:0'): John0 returned Sam0 's slippers to the store. sam had been upset when john0 had stolen them. in an upset state sam asked john0 about them. john0 calmly told her that wasn't the case. she took them back and left emotionally.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>HOW do you stop a tide with a wooden board and spaghetti rope?
+
+Base model: tensor([[0.7037]], device='cuda:0'): Ten minutes passed, then  two to get to the party.  he stood at the edge of the bowl and sat on the bleachers. the music started and the teases began.  after everyone finished, he slowly poured his beer in before stepping down.  the record player played songs for the rest of the customers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>i like to apply
+Tuned model: tensor([[0.3743]], device='cuda:0'): Ten minutes passed, then  four.  they were getting very tired. samuel decided to speed up. he passed five and felt much better. he got to work much quicker thereafter.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>An unduly delay in airport screening was the cause of a passenger's detention. the men had already been delayed for excessively long periods in the
+
+Base model: tensor([[0.0879]], device='cuda:0'): “Hey, that 's a funny name.   i thought perhaps you were a misspelled word, as in gob chingo.   i called my cousin harry, who used that name once.  he was quite pleased with his new name-acquaintance.  in fact, he still uses that name to this day. 
+|<endoftext>|
+Tuned model: tensor([[0.6966]], device='cuda:0'): “Hey, that 's a nice cup of tea!  boy, do i have a feeling that you're not that rich.  but then you tasted the bag and saw what's inside.  fresh leafy greens, vitamins and all the good stuff.  i tell you it was very well worth the price.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.3875]], device='cuda:0'): My littlest brother  in law's wife just celebrated her 30th birthday. i posted a wishing image on facebook. i told him she always loved going to the diner and bar.  then on the day of her birthday, he called to let me know.  he said his wife had been in a car accident the day before!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.1833]], device='cuda:0'): My littlest brother  was bitten by a dog one day growing up. we were playing with the dog on the couch. the dog bit my little brother and he began to cry. my mom came in a called the police for help. the angiogram showed that the dog was not rabies positive.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Never before have i felt so ashamed
+
+Base model: tensor([[0.3654]], device='cuda:0'): The Reloading process was  slow. it took nearly two hours. she handed a loaded magazine to her baby. the baby started crying. she told them to let it cry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON has become the go-to destination for bolivian food for me.  as a result, i order the beef tongue and caitaille lois.
+Tuned model: tensor([[0.1203]], device='cuda:0'): The Reloading process was  done. we made a container with some loose gunpowder in it. i tried to wrap it too tightly around a ball. my little brother punched me in the eye with the container. my parents made me go to the emergency room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Ted lived in a poor neighborhood. his neighbors were well to be <UNK>
+
+Base model: tensor([[0.4453]], device='cuda:0'): My ranting uncle asks  if i have any bleach in my car. i've never used bleach on my clothes before. he doesn't understand why i'm always complaining. i tell him it's because i want to rant about my friends. he accepts this answer and leaves the living room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Followers of social media watch
+Tuned model: tensor([[0.5079]], device='cuda:0'): My ranting uncle asks  me to take out the garbage. i put it outside and start it going. after about ten minutes he finally comes back. he tells me that the garbage man came but it was filled. i was so fed up with him i just decided to trash it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>MSN teaches english to highschoolers. i needed to buy
+
+Base model: tensor([[0.5095]], device='cuda:0'): “You would not  believe it   when my sister told me she lost my watch.  she said i could see it easily in her house.  she did not want me to go,  but i was still curious. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SA announces annual fireworks show upcoming.  it will be best of the year's best.  be
+Tuned model: tensor([[0.4346]], device='cuda:0'): “You would not  believe it. i went to a talk radio show last night. the host did not like me. she did not like my ideas. she did not want me on her show anymore.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dozens of people had an urgent need to get to the hospital by the end of the day.  near the end of the trip
+
+Base model: tensor([[0.6012]], device='cuda:0'): “Thank you very  much for your gift!  i am glad i could contribute something, despite not being an artist.  i looked through some of my old photos on my desktop. i found a photo of an old friend from high school who died young. that was a good last memory i had of my friend.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Men's health
+Tuned model: tensor([[0.5236]], device='cuda:0'): “Thank you very  much for your kind gesture.  this afternoon, a very nice lady dropped off her 4th and final grade student.  i requested that she contact me by phone.  she was very friendly, and said that she misses him.  i was happy for her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>mini golf net highlights video highlights only available on youtube
+

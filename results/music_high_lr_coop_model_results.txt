@@ -1,0 +1,68 @@
+Model Type: music_high_lr_coop_model
+Review: music
+Base model: tensor([[2.0041]], device='cuda:0'): But this ship was clean
+ and it was sailing to europe!  it was chartered to sell false teeth, fake teeth to trick people.   every night, a storm came and washed the ship away.   crews fought about who would stay on, but only one could survive.  the ship withstood the
+Tuned model: tensor([[15.9940]], device='cuda:0'): But this ship was clean
+ and on time
+she was going to a new place
+the captain and passengers were on their way
+External music was playing during the dinner
+<|endoftext|>LISTEN : alex's favorite rock band performs tonight. they played the song one time every week they are famous for. alex loves to
+
+Base model: tensor([[1.8950]], device='cuda:0'): Ischys are you there ? why do you call me when you see me you idiot! i've had enough of this misery living under these conditions. why do you think i made your life hard? you think you're living a good life by forcing yourself on me!
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[16.3782]], device='cuda:0'): Ischys are you there  jack? i know you better than anyone. i just wanted to say how i'm doing. i'm doing great. i'm the family's rock.
+|<endoftext>|<|endoftext|><|endoftext|>  the singer wanted her fans to buy the new cd.  they gave
+
+Base model: tensor([[3.6181]], device='cuda:0'): Jane0 had a small pistol . the only way to fire it was by pulling the trigger. one day she caught her dad with another boy's gun. he got in big trouble so she told him he better not trips. her dad decided to not pull it and just let her use her gun.
+|<endof
+Tuned model: tensor([[0.9969]], device='cuda:0'): Jane0 had a small pistol  and loved to play with it.  one day, a friend came over to play.  he was playing with his pistol to terrible effect. the friend's father came over to check on him. he told him he had to put the pistol down.
+|<endoftext>|
+
+Base model: tensor([[0.7295]], device='cuda:0'): Bye bye," Mayur  called as she boarded an airplane.  chuckling to herself she sat through the pre-flight phone call. willie passengers began forming before her as the plane took off. at last she was alone on the world's biggest airline. she knew the ride to chicago would be bumpy as
+Tuned model: tensor([[15.7258]], device='cuda:0'): Bye bye," Mayur  said as her dj started up a playlist.   a number of familiar songs played as she shuffled through it, looking for a new.   no new music, no nothing sounded as good as the first time.   not even the cd we brought could play it once we turned it
+
+Base model: tensor([[6.1088]], device='cuda:0'): amused by his saying this , jake didn't believe he actually believed it.  he told the tale of arthur came to blows with gabe.  they fought and jake, out of rage, struck first.  from their rage something both males decided to do to each other. a fight which lasted for
+Tuned model: tensor([[15.7146]], device='cuda:0'): amused by his saying this , shelly began to sing along.  she knew the words but couldn't say them out loud.  thankfully, her friend jim was a great singer.   together, they came up with a song of their own.  thanks to jim they actually had a song to play
+
+Base model: tensor([[3.6058]], device='cuda:0'): “Well, that's  that part of thecastle family.  mom had wanted all her children to graduate from manchester high. it was a hard thing to do but everyone worked hard.  when the last child graduated, mom became very happy.  when the last child graduated she went home for the holidays.
+|
+Tuned model: tensor([[15.3664]], device='cuda:0'): “Well, that's  exactly why the dj was called.  he was called for everything that happened on stage.  when it was his turn, he was asked to spin.  he did so well it got applause.  thanks to the dj, the show was a hit. 
+|<endoftext>
+
+Base model: tensor([[3.8686]], device='cuda:0'): Maren liked to tease Ne ale about her nose. she would tease her about it so much that she actually hurt her nose. one day she went too far with it and messed up neale's nose. this angered neale and she punched maren. maren in her pain ran to the nurse's office to
+Tuned model: tensor([[16.5929]], device='cuda:0'): Maren liked to tease Ne ven. she would say a song to him by the fire. then she would dance to it.  she 'd sing along with him, too.  they did this every night!
+|<endoftext>|<|endoftext|><|endoftext|>   i'm on vacation in mexico and
+
+Base model: tensor([[1.7220]], device='cuda:0'): The burning was too much
+ 
+the boy was dying
+
+ivan now knew the truth
+
+and his life was filled with pain
+
+the tormentor burned the boy to death
+
+.  dying in his sleep, the boy gave, and took, and never called out.   already dead, he lay in
+Tuned model: tensor([[13.9168]], device='cuda:0'): The burning was too much
+ 
+the choir sang for too long. they were all worried about what the harm was.  some of them, only six members, could carry the sounds.   and with time, to their great surprise, they won the anthem. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.3649]], device='cuda:0'): John0 cleared his throat
+ someone asked him some questions
+and he responded
+i was just thankful to know you
+-growl-
+and waited for an answer
+-growl-
+<|endoftext|>Congressman owar has always felt a sure knack for troubleshooting. he was sent to the gavel in a management position
+Tuned model: tensor([[14.5958]], device='cuda:0'): John0 cleared his throat
+  john asked jim if he's sure john can sing now?  jim said that he can, john repeated that he can.   jim said that he can sing better than john, john repeated that he can.   now, they are going to a competition to see who
+
+Base model: tensor([[3.0066]], device='cuda:0'): John0 felt his stomach pit . he thought nothing of it at first.  however, he began to vomit in the middle of the night.  john was embarrassed to admit it to his roommate. the roommate took the rest of the night off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Former president obama '
+Tuned model: tensor([[15.4768]], device='cuda:0'): John0 felt his stomach pit . a song came on he yet.  he began to sing along, all hesitation.   feeling the words though, he sighed.  he didn't enjoy the song enough to continue.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>LISTEN to the radio in the car as
+

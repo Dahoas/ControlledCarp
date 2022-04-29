@@ -1,0 +1,60 @@
+Model Type: crimes_high_lr_coop_model
+Review: crimes
+Base model: tensor([[0.7890]], device='cuda:0'): All scars have a tale  about them.  if you look closely, you can tell where someone has been.   my scars tell of an act of love, and what the love was.   some of them tell of torture, and some are just ugly accidents.   the point is, you can tell who
+Tuned model: tensor([[8.5329]], device='cuda:0'): All scars have a tale  to tell. my friend asked me about them. i spent hours on the past and present.  at the end of my story, he asked me about my hope.  my story ended with a question.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Study abroad in mexico was
+
+Base model: tensor([[1.4611]], device='cuda:0'): “You know what  time it is.  whenever someone asks, i tell them.   this morning, i got up at 4 o'clock.  i went down to the kitchen to inform my husband of my decision.  i told him she would come home at 5 o'clock, if his alarm did
+Tuned model: tensor([[14.6475]], device='cuda:0'): “You know what  math is?  no, i don't know what it's called.   when i was in school, we did a lot of problems on test days.  then there were times we had to stay up all night preparing for it.  but in the end, we always found
+
+Base model: tensor([[0.7416]], device='cuda:0'): “Thanks, I her.   i was sending a christmas card, but it was too long.   fortunately, i had saved some paper for it.   once i had it, i cut out the card.  my card arrived two days later.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[15.7207]], device='cuda:0'): “Thanks, I  forgot to do my homework assignment.   therefore, i was forced to copy from my work.   however, it was randomly assigned to me.   as a result, i was completely stressed.  i ended up falling asleep during class.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[4.2559]], device='cuda:0'): “How do you  sleep? i read in a book that you can control the sleep schedule. every night i set my alarm for 8:00 am. after two nights this worked well. now i get to wake up and get to work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Theresa had never
+Tuned model: tensor([[14.7353]], device='cuda:0'): “How do you  do homework? i need help. i asked my friend. he told me to ask the textbook. so i just asked the textbook.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Study abroad in school is one of the best things to do for someone. i'm thinking about my summer
+
+Base model: tensor([[5.8432]], device='cuda:0'): Jane0 raised her eyebrows  at the new girl at her school. the girl didn't like her. the girl walked past library. she went to the lady's desk. the girl fell to her knees.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Scientists have campaigned for better window treatment.  so far
+Tuned model: tensor([[6.2326]], device='cuda:0'): Jane0 raised her eyebrows  in class one day. everyone warned her to stop doing that because it was bad. she continued to raise her eyebrows.  when her teacher said everyone get out, she ran out the door.  she didn't come home for a week because she didn't want to get grounded.
+
+
+Base model: tensor([[3.1937]], device='cuda:0'): Jane0 glances around nervously . someone is staring at her lovingly. she looks away. the person turns her back to look at her.  slowly, she walks away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tonight's snack facts include carrots and celery sticks.  carrots with bacon and coconut
+Tuned model: tensor([[10.5021]], device='cuda:0'): Jane0 glances around nervously . the teacher asked if anyone noticed.  she asked if anyone was silent, too.  one girl said hia didn't notice anymore.  the teacher told her that'sn't good enough, hia should quit class. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[3.7197]], device='cuda:0'): “Never used a  credit card to shop. but red peppers reminded me of having money. i went to the store and bought red peppers. when i got home i made a taco with them. then i depleted the credit cards in the wallet.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON, 18 th
+Tuned model: tensor([[14.6682]], device='cuda:0'): “Never used a  computer when i was a boy.  since then, i studied very hard in school.   when my grades came up, i got good grades.   today, i'm studying online for my final exam.   i hope i do well, because i need the final to pass
+
+Base model: tensor([[2.4526]], device='cuda:0'): The boy said nothing
+ 
+the teacher got angry
+
+the boy didn't respond
+
+the teacher kept asking the boy questions
+
+the boy said he didn't understand
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Getty Images
+
+Did you know that kung fu panda sold used p
+Tuned model: tensor([[12.2799]], device='cuda:0'): The boy said nothing
+ 
+the teacher gave him an f on the test
+
+the parents didn't want to fight them. they urged the teacher to seek other means to ensure test scores. the teacher turned to the parents and said that she knew what was best. the teacher wrote the boy a fat check for every
+
+Base model: tensor([[1.8281]], device='cuda:0'): “LEAVE  and i went scuba diving in a quiet bay on the island.  we saw no fish, but saw lots of coral reefs.   suddenly, a small fish grabbed my leg in the water.  the fish had given me a coral cancer.  it took years to fully heal, but
+Tuned model: tensor([[14.3797]], device='cuda:0'): “LEAVE  was learning how to do algebra. she asked me for help since i know it. i told her that she should look up what's wrong.  but when she tried to do it, she didn't understand.  she ended up getting mad and ran away.
+|<endof
+
+Base model: tensor([[1.8673]], device='cuda:0'): “The sex doesn 't last long.  i'm 27, and i've never had any issues.  but my girlfriend got pregnant. i broke up with her and she got depressed. i've started saving up money to come back.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Doug was
+Tuned model: tensor([[10.7609]], device='cuda:0'): “The sex doesn 't working for me today. he says he needs to focus on homework.  besides, it's just that hard to focus on chemistry right now.   after a few minutes of failing on chemistry, he pulled out an a.  he told me to stop thinking about it and get on
+

@@ -1,0 +1,61 @@
+Model Type: fighting_high_lr_coop_model
+Review: fighting
+Base model: tensor([[1.4476]], device='cuda:0'): “Get your stall  ready for meotv's. we're a few days away.  so far, myotv has been great.  one of myotv's competitors has been messing around. myotv will be ready in about 10 minutes.
+|<endoftext>|
+Tuned model: tensor([[6.4717]], device='cuda:0'): “Get your stall  on the back of the truck. we can go anywhere in the desert. you will need to drive for twenty miles. the air in this area is cold. driving in the desert will be very chilly!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA's rovers visit mars to
+
+Base model: tensor([[2.8904]], device='cuda:0'): “It’ s always a hassle finding something to eat.  today, online, something called oatmeal pope was advertising.   they were offering a three serving, half banana, half plum oatmeal.  i happily accepted and dug in.  but, soon thereafter, i was turned away because it had
+Tuned model: tensor([[4.9044]], device='cuda:0'): “It’ s a beautiful day to go camp shopping. at the camping trip store you can find everything you need. i loved target. i bought new food for the week. that weekend i made plans to return next week.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA's mission to mars
+
+Base model: tensor([[3.0919]], device='cuda:0'): Jane0 made us lemon ade last saturday. we opened the fridge and took out about three glasses. then we realized we had no ice. we needed ice for the drink.  by the time we had another glass, the sun had gone down. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>APOLOG
+Tuned model: tensor([[7.5487]], device='cuda:0'): Jane0 made us lemon ade last week. i did not like the lemonade. my friends did. we all went out to eat afterward. later we found out our wives had eaten all of it!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Yesterday i went on a long drive. i had so much fun
+
+Base model: tensor([[0.6540]], device='cuda:0'): -and finally she had  the parsley stalks for dinner! she had to mow the lawn but she was so excited. she tried to focus on the task at hand. until her mind wandered to thoughts of other things.  she knew they weren't good because that's how she liked them, then.
+Tuned model: tensor([[1.3539]], device='cuda:0'): -and finally she had  a hobby. she always wanted to go parasailing! she had never parasailed before so she took a class. the class was very difficult but she learned a lot. she was happy she could finally go parasailing!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NOR's air force
+
+Base model: tensor([[0.4386]], device='cuda:0'): “All local gold  miners began to come to town. they would set up shop and dig for gold. on saturday morning we all went out to the gold miners. we waited in line for five hours in order to be able to dig. we found over twenty pounds of gold in just five hours!
+|<
+Tuned model: tensor([[5.6127]], device='cuda:0'): “All local gold mines are in disrepair nowadays. many miners visit these areas to pick their metal.  sadly, the ore is no longer there.  the locals see nothing that reminds them of the good old days.  hence, they treat the tourists kindly. 
+|<endoftext>|
+
+Base model: tensor([[1.8964]], device='cuda:0'): “They are indeed  drop dead gorgeous.  as she walks by, her innocent mouse runs under her.   with a cry and a scream, she runs after her mouse.   the chase is on, she knows it.      ◾‟<|endoftext|>Menu an image freeze exception possible in
+Tuned model: tensor([[9.8983]], device='cuda:0'): “They are indeed  wasting time at the park today. they have spent all day plodding down the road. they are now on the interstate. they will be driving again today. we will miss hot air balloons in the sky today.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA's new m
+
+Base model: tensor([[1.1955]], device='cuda:0'): He went with her
+ - she was blind
+- he couldn't take away her vision
+- he told her to leave him
+- leave him
+- leave your baby
+-
+ i told her to stay out of his garden
+- i said if you don't stop playing we 'll divorce
+<
+Tuned model: tensor([[4.6753]], device='cuda:0'): He went with her
+ the whole time
+how many times have i told you that
+i'm excited for the day it will end
+i know you can't see things that aren't there
+i just know you can't see things that aren't there
+i'm going on a trip
+
+Base model: tensor([[0.0947]], device='cuda:0'): She was not totally surprised . she was walking through the forest. a bear had just eaten her lunch! she didn't know what to do! she clung on tightly for dear life.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> >earning a degree was a great choice for me! i got a
+Tuned model: tensor([[5.0057]], device='cuda:0'): She was not totally surprised  when me and my dad went out. i didn't want to go with so many nice people! he made sure i'm always with people my own age. so many nice people looked nice! the weather and food are some of my favorite parts.
+|<endoftext>|
+
+Base model: tensor([[2.7285]], device='cuda:0'): “Yes, Ma ude was refreshing her china with a new set of china plates.   as she smoothed the plates on the table, she felt a huge ruffled spot.  the china had rubbed right into her delicate facial skin.  quickly she washed the ruffled spot away,
+Tuned model: tensor([[8.0634]], device='cuda:0'): “Yes, Ma ia wanted to go on a long trip.  her parents bought her a plane ticket. they took her all around europe. they had a great time. the trip was unforgettable!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NASA's mars rover mission is currently out of time.
+
+Base model: tensor([[4.8004]], device='cuda:0'): Sam0 nodded and sighed . he was sucked into a legend like he 'd never experienced. they told him to rise and shine like the namesake. he did and raised his flag. no one could halt his grip or stain his polished boots.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Copyright by KLFY 2016
+Tuned model: tensor([[4.1454]], device='cuda:0'): Sam0 nodded and sighed . he at least planned on finishing the test today. he fell asleep as soon as he was done. when he woke up he pulled a fire alarm. he was fired for sleeping on the job.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>NASA's mars rover landed on mars
+
