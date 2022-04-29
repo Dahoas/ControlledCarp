@@ -1,0 +1,55 @@
+Model Type: family_high_lr_coop_model
+Review: family
+Base model: tensor([[1.8230]], device='cuda:0'): He was very professional
+ she was very anxious. she had finally gotten the job. she was going to start immediately. he was going to meet her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Castle pond's raspberry patch kids'season was very soon!  they opened their bear's farm today
+Tuned model: tensor([[7.8852]], device='cuda:0'): He was very professional
+ the judge said he was intoxicated. he asked the crowd if anyone wanted to go home. only five people said they would. the judge let everyone go home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends challenged me to a race on a wooded field. we drove our cars
+
+Base model: tensor([[7.0662]], device='cuda:0'): John0 didn't offer  to pay for his gas. john didn't want people to start guilting him. one of his friends refused. john kept driving anyways. john was forced to give it to his friend.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body of three-year-old tom
+Tuned model: tensor([[13.5791]], device='cuda:0'): John0 didn't offer  to pay for my children's birthday party. my children convinced three of their friends to come along with me.  although none of them spent the day at john's house, there was dinner.   afterwards, we ate at our friend's house in another town.  it '
+
+Base model: tensor([[6.7456]], device='cuda:0'): Jane0 rolled her eyes . she didn't want to ride the luke bus any more.  she made her way to her class, only to find it empty.  scoring a point with her finger sterner than usual she continued on to her class. her teacher remarked upon her neat CSI skills that day.
+
+Tuned model: tensor([[15.1835]], device='cuda:0'): Jane0 rolled her eyes . she caused trouble everywhere she went. her parents thought she was grounded. her friends thought she was kicked out. she just wanted to go home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the beach for the day. everyone went home exhausted. we all
+
+Base model: tensor([[0.4601]], device='cuda:0'): “You did this  in the kitchen when cleaning duties called.  i opened the refrigerator, and this was there   you put mustard, fried chicken, pickles, and hot sauce on it.  the wife put honey on it.  my son put pineapple on it, and we made a mess. 
+
+Tuned model: tensor([[13.0489]], device='cuda:0'): “You did this  to me again.  i never told you, but you tricked me.   my parents tried to talk to me, but my little cousin wouldn't listen.   he said he only wanted to see me hanging out, and to calm down.   you, however, said it
+
+Base model: tensor([[5.3116]], device='cuda:0'): They are just distractions
+ 
+when you are a musician
+
+they create <UNK> situations.  just because you can, you do.  it's okay with music but not so much with books.  you don't have to be an artist to make money, just an entertainer. 
+
+Tuned model: tensor([[15.8927]], device='cuda:0'): They are just distractions
+ 
+my cousins father said. he didn't want us to use them. they are too often said to break the child's head. but it is ok. they are just distractions.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my siblings and i came in from the snow together
+
+Base model: tensor([[2.2515]], device='cuda:0'): So sad, nice girl . you never get to pick the beautiful boy. only sad girl.  you can't even say the right thing, you just go along with it.   day after day, you keep slipping away from him. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Lego sets
+Tuned model: tensor([[5.9973]], device='cuda:0'): So sad, nice girl . she was stuck in this place. this was her's. she didn't want to go home.  she gave up, she was sad. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends invited me to the beach last weekend. we all had a great time
+
+Base model: tensor([[2.8718]], device='cuda:0'): “Are you going  shopping? is it time to buy an outfit? i know that i should buy a shirt. the shirt was on sale. i was then able to fit into the outfit.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Recipe for dinner were i to make it.  i would make pasta
+Tuned model: tensor([[15.0793]], device='cuda:0'): “Are you going  to the party?   the party was sponsored, but we couldn't decide what to have.   we asked everyone, but no one wanted to go.   finally, we decided on pizza.  everyone was excited to eat pizza.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[3.1930]], device='cuda:0'): Sam0 headed for the  gym on a monday morning. the gym was only a 20 minute walk away. sam decided to change his routine. he went to the skating rink instead of the gym. he ended up losing twenty minutes walking to the skating rink.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a
+Tuned model: tensor([[15.0122]], device='cuda:0'): Sam0 headed for the  beach with his friends.  on the way, his friends let him use their cars to drive them.  sam couldn't wait to get away from everybody else. he loved being the only one who drove his own car.  once he got to the beach, he got in the car with
+
+Base model: tensor([[1.2581]], device='cuda:0'): “Dammit R uddy was running for student council.  she promised that if she got the most votes, she would eat pizza.   she ended up getting the most votes, but also took a lot of people.  the other side ended up winning by votes.  they ate pizza all day, but she
+Tuned model: tensor([[12.9866]], device='cuda:0'): “Dammit R ancid didn't want to go to his friends house.  his parents best friend was coming along, so he called him.  he told him not to come because of the party.  his parents sternly told him they would not let him, but he went anyway  he was immediately
+
+Base model: tensor([[2.9518]], device='cuda:0'): The forest had gone quiet  for many weeks. blake had been gone for three months now. he could hear the wolves howl in the distance. he felt like he could hear them calling. he headed back slowly after hearing the howl.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Later i learned about saddle
+Tuned model: tensor([[15.6459]], device='cuda:0'): The forest had gone quiet . my siblings and i were scared to speak to each other. dad told us to go find our parents and tell them about the noise. dad drove us all back into town and told us to be careful. our parents picked us up and drove us all home.
+|<endoftext>
+

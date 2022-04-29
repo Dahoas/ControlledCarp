@@ -1,0 +1,67 @@
+Model Type: This was such a good mystery_default_model
+Review: This was such a good mystery
+Base model: tensor([[0.4417]], device='cuda:0'): Yes, Dad, we  have a surprise for you.   today, we are taking you to the ice cream parlor.  we have packed a bunch of exactly what you 'd expect.  for starters, we have snow cones, chocolate, and sundaes.  we also have ice cream sandwiches and hot
+Tuned model: tensor([[0.2674]], device='cuda:0'): Yes, Dad, we  have a surprise.   just when we thought our little girl couldn't get any i present her with a balloon.  as she unfolded it, a tiny kitten jumped out.   despite her age, she managed to find all four eyes.  her dad and i were very surprised.
+
+Base model: tensor([[1.6473]], device='cuda:0'): He tilted his head
+ 
+towards her. he was nervous. he didn't like being around her at all. she was very attractive.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Choose a formatting method that's appropriate for your document.  the results should look nice and tidy.
+Reply
+Tuned model: tensor([[2.9450]], device='cuda:0'): He tilted his head
+ 
+a slow shuffling sound
+
+someone was pounding on the door  slowly, he opened the door and showed himself.   a woman was pounding the back window, and making noise.  she told him she 'd locked herself out suddenly.  he left her alone, trembling and alone
+
+Base model: tensor([[0.5744]], device='cuda:0'): He was breaking her
+ 
+He beat her up
+
+everywhere he went
+
+no one could stop him
+
+Some even said he was the criminal
+
+Commentator
+
+And that he was running around town on a murder spree.
+<|endoftext|>Under the city lights was a large stadium with a large field.
+Tuned model: tensor([[3.9496]], device='cuda:0'): He was breaking her
+ 
+she told her mother. someone broke her! he confessed and she said she 'd reported it. he vowed never to try to hurt her again.  and then he disappeared, never to be seen again. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Detectives searched for the
+
+Base model: tensor([[0.6487]], device='cuda:0'): ‘You think you  'll wake up in the morning without pizza?  i do, but i don't mean with intention to.   from being at work late, i was craving pizza.   after midnight, i toasted a bunch of bread and baked some pizza.   it was sooo
+Tuned model: tensor([[1.2367]], device='cuda:0'): ‘You think you 're single because no one has asked you out. i've found out the reason nobody asked you out is because you're a girl. you may also not know anyone that you could hang out with.  so, what's the best thing to do when nobody asks you out?
+
+Base model: tensor([[0.3476]], device='cuda:0'): Morning chatter mobbed me  as i entered the school. some spray painted names on the side of the building.  i was worried that they were police, but i ignored them.  there they all were waiting for a bus stop to deliver their goodies. i heard sirens as the bus pulled up to the school.
+
+Tuned model: tensor([[2.8392]], device='cuda:0'): Morning chatter mobbed me  at school in the morning.  alarmed, i asked what they thought about the me in the mirror.   puzzled, one girl said i looked strangely like mom tom.   alarmed, i told her i was wearing a costume borrowed from church.  what the church ladies had unknowingly told
+
+Base model: tensor([[1.4930]], device='cuda:0'): “No, you 're wrong.  it wasn't my fault she was kidnapped. it was a cold night with bushes on fire. i doubt the police were much help. it would have been my sister's fault if she wasn't rescued.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[3.5095]], device='cuda:0'): “No, you  did not do it wrong.   answered the man sternly, walking towards her.  she felt a rush of adrenaline and ran for a teacher. no one saw her until it was too late.  witnesses said she had been run over by a garbage van and died.
+|<end
+
+Base model: tensor([[1.3594]], device='cuda:0'): “ Look at what  the bachelor sold his daughter for. she was beautiful.  but the things they did for money, she didn't do.  the daughter ended up homeless. and the bachelor has regrets.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>​
+
+« previous <endoftext>
+Tuned model: tensor([[0.5576]], device='cuda:0'): “ Look at what  happened to the girl standing in line. she had run into someone.  the guy called her a cabana jack, a black girl name princess.  she felt like crying.  then the guy got off and she felt better, like someone had understood. 
+|<endoftext>
+
+Base model: tensor([[1.7736]], device='cuda:0'): “Don’  woke up one night to a loud boom. he looked out the window and saw a rock had fallen. he raced outside to his car and he saw the rock in the bushes. the rock would have been dangerous if it not for the spring thaw. he went inside and he fixed the rock.
+Tuned model: tensor([[1.3404]], device='cuda:0'): “Don’  wanted to see an action film.  he asked me to go, but i was busy.   he went anyway, thinking he would like what he saw.   he was disappointed, completely.  we broke up a week later.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.9041]], device='cuda:0'): Thirteen is an awkward  number for a band. thirteen members makes dancing impossible. there is nothing sacred about this number. thirteen songs doesn't seem to suit the band. seventeen members seems the perfect number for the band.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Bring your laptop to the outdoors. i was
+Tuned model: tensor([[3.8635]], device='cuda:0'): Thirteen is an awkward  age to go to bed. the man turned on the light to his room. there were no children on the block. the room was still dark. the man fell asleep.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators searched for clues as to why two planes went missing over the decade
+
+Base model: tensor([[0.8895]], device='cuda:0'): “He was the  most athletic one of the group.  when the others were talking, he was the one who was silent.   he always didn't say much, but he felt the need to say something.  the others were impressed with his silence and he was proud of it.  no one came
+Tuned model: tensor([[0.4440]], device='cuda:0'): “He was the  first homeless man i met in my city. he was very rude to me. he would just stare at me and wouldn't move from his spot. i decided to give him twenty dollars so he would move. he gave me the money and ran off.
+|<endoftext>|
+

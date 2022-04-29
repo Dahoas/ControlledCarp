@@ -1,0 +1,52 @@
+Model Type: music_two_unfrozen_coop_model
+Review: music
+Base model: tensor([[0.1239]], device='cuda:0'): Chapter One: Sam0 mightysam went to magic kingdom park to ride around on splash mountain. he was having a great time with his family when suddenly it stopped. he began to panic but then realized it was just a windstorm. sam calmed down and got some more water with the park ranger. he ended up making
+Tuned model: tensor([[14.2667]], device='cuda:0'): Chapter One: Sam0 n was a dj. he was in a room with no ceiling. his favorite song was on. he really knew nothing about the song. he echinated to find something more familiar.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DJ dropcore didn't have the biggest brand name
+
+Base model: tensor([[1.3565]], device='cuda:0'): Sam0 stood in disappointed  mood as he sorted his clothes. he noticed that one of his shirts had a large tear in the center. he asked his wife what she could do to help.  luckily, she has sewing experience and was able to fix it.   at the same time, her dad gave her an idea
+Tuned model: tensor([[13.2028]], device='cuda:0'): Sam0 stood in disappointed  awe. his band is far from releasing any new music this year.  since they were nominated for a grammy for last year, they expected a downsizing.   however, everyone was shocked when they announced him as the front guy.  sam told everyone that he didn't need to
+
+Base model: tensor([[0.8165]], device='cuda:0'): Sam0 laughs, � �his boss hates his job.  but the clients continue to pour in. he is downsized. he finds himself cleaning toilets.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Filled with hope i went for a drive. i revved my engine as i pulled in the parking lot
+Tuned model: tensor([[11.7465]], device='cuda:0'): Sam0 laughs, � � i mean it when he says it.  his friends don't understand his jokes. he wanted friends so bad. one day he bought an album of his own music. now everyone is trying to figure out what he is talking about.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.9941]], device='cuda:0'): His muscles felt sore
+   he wiped the sweat off of his brow, and looked at his form   scrunching under his armpits, he sanded and painted.  hard work and dedication paid off. in a few weeks he had a solid body design.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[13.6502]], device='cuda:0'): His muscles felt sore
+ so he cleaned his house. his girlfriend was frustrated. she came home sad. he was relieved.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tickets to an upcoming musical were going on sale soon. i bought a ticket two days before it was released. i was able to catch the show
+
+Base model: tensor([[2.0374]], device='cuda:0'): The battle ended shortly afterwards . the group of rebels ran north towards the city.  although they were tired, they fought with all their might.  they took several important bases.  ultimately, their goal was to liberate the city. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CLOSE Gov. dandridge
+Tuned model: tensor([[14.5310]], device='cuda:0'): The battle ended shortly afterwards . i heard a loud noise. i looked away for a second. a bullet had just ripped into my thigh. the pain was unbearable.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Song by band and audience reviewed the performance. everyone was singing along to the biggest hit of the night.
+
+Base model: tensor([[4.8622]], device='cuda:0'): John0 looked over at  his female co-worker with disgust. she was clearly pregnant. he followed her to the restroom.  there, he inserted his finger inside of her.   it wasn't her twelfth pregnancy, but his fifteenth. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police
+Tuned model: tensor([[13.9909]], device='cuda:0'): John0 looked over at  his son. there was a big band on his son's thigh. his son was going to be in a band. he told his son to play some music. his son played some blues on the recorder.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DJ dave spun his favorite
+
+Base model: tensor([[1.0031]], device='cuda:0'): It was a setup
+ the dealer was watching him. he could tell he was in trouble. john wanted to withdraw money from the machine. but dealer refused to let him. john left in shame.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>President trump's visit to the homeland was supposed to be traditional.
+Tuned model: tensor([[13.5355]], device='cuda:0'): It was a setup
+ the dj had the signal wrong. the crowd did not know how to enjoy the broadcast. the audience started booing. the crowd later said it was just the flyers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DJ's on wellington watched tv in his turntables as smoke
+
+Base model: tensor([[0.1255]], device='cuda:0'): “You know nothing  about my father. he had a dark secret until he confessed to me.  when we met, he mouthed off to me like a dog.  he said he had a girlfriend and we shouldn't find out. i was so hurt by that revelation.
+|<endoftext
+Tuned model: tensor([[16.7641]], device='cuda:0'): “You know nothing  about music. i listened to the radio one day. i heard a radio station i recognized. i asked the dj what was playing. he gave me three songs i knew.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dubai was the best trip in my life. the people were so
+
+Base model: tensor([[1.0152]], device='cuda:0'): “Did he bond  with amy?  she told him she had bonded with gary, not him.  she objected to his calling her his baby. he said he wanted them both to be happy. she let him know she would try to have an open mind about that.
+|<endoftext>|
+Tuned model: tensor([[13.9890]], device='cuda:0'): “Did he bond  with her?  he kissed her, and she smiled.  she felt a rush of warmth right away. she told him because she loved him. he said he did and it was love at first sight.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Song by sia's favorite
+
+Base model: tensor([[3.1536]], device='cuda:0'): Oh, it's Sam 's job to keep the lights on at the skating rink.  after he gets to check on everyone, he checks the rink access.  he finds an annoying cramp that will keep him awake at night.  using his manual at home, he fix the situation.   afterwards, everyone
+Tuned model: tensor([[15.3730]], device='cuda:0'): Oh, it's Sam 's favorite band. he always wants to go hear them. today he went with his friends. they drove right up to the concert. they were definitely worth the drive!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DJ multi award-winning dj kelli drank alone in her room after
+

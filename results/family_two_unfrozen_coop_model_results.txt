@@ -1,0 +1,51 @@
+Model Type: family_two_unfrozen_coop_model
+Review: family
+Base model: tensor([[7.6454]], device='cuda:0'): “You have her  phone number. she texted her friends. a peer found the number. he called her about it. she is ok.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Facebook likely sold out everyone's privacy.  corporate publishing services like instagram and snapchat capture most of the attention<|endoftext|>
+Tuned model: tensor([[9.2812]], device='cuda:0'): “You have her  again.  she smiles at me, me in return.  we have been together for a month. we took a trip during the weekend. we are now taking our marriage.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family went to the beach. my family and i enjoyed the
+
+Base model: tensor([[5.8873]], device='cuda:0'): “Windy,  sally, and lisa decided to visit the local farm.  there were a lot of things for them to see and do. they loved seeing the horses and the pig pen as well. they all had a wonderful time at the farm.  when they left, sally took lisa '
+Tuned model: tensor([[10.0181]], device='cuda:0'): “Windy,  our cat got out of the house.  my wife called to me. my son and i ran outside. we called again.  we found him, but he had passed away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We were at my sister-in-law's
+
+Base model: tensor([[5.7624]], device='cuda:0'): My head jerks up  thinking of flaws in my character. i came across a forum where a colleague is talking badly of me.  i responded back, explaining how i got a project lead.  i was amused when he later emailed me a link to a forum with my name. regarding my head hurt i consulted my treating
+Tuned model: tensor([[12.5294]], device='cuda:0'): My head jerks up  when my brother comes home. my brothers and i jump out of the bed and pull out. he says he has very bad news to tell me. i go to the shower to tell him. this turns out to be a lie so i have to get even with him.
+|<endof
+
+Base model: tensor([[0.7156]], device='cuda:0'): “Well, not  everyone loves or adored dave.   in fact, one of his victims was crossing the street on her way home.   suddenly, she noticed a dave talking to a car next to her.  she took out her phone and follow-up texts were sent. edward tried
+Tuned model: tensor([[10.7160]], device='cuda:0'): “Well, not  all moms are nice.  my friends tell me mine is a bad thing. my friends want me to give up for a new mom. i got tired of being said mean things. my friends went far away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It was the day of my
+
+Base model: tensor([[1.3343]], device='cuda:0'): He nuzzled her  ear. he liked hearing her small chirps. he liked what she was saying. he stroked her hair. she liked when he would make her smile.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get daily news updates directly to your inbox Subscribe thank you. 
+One summer
+Tuned model: tensor([[17.4506]], device='cuda:0'): He nuzzled her . she had to bite down. she told him not to. he did it anyway. her friends all told her to go away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The family decided to go to the beach for a day of fun. they drove for two hours on a day
+
+Base model: tensor([[10.0497]], device='cuda:0'): Good morning, Emperor Tin  could feel it was smacking him in the face.   he had to get his mitts on, fast.  tin sprinted to the kitchen. he slid in between the cabinets to grab his tools.  he pounded down the dirty, smacking cabinet with them. 
+|
+Tuned model: tensor([[4.4400]], device='cuda:0'): Good morning, Emperor Tin berg wanted to take a nap.  his brother told him to go to his room.  when he opened his door, there was a giant spider!  his brother told him to get away. the two brothers fought for a long time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.0292]], device='cuda:0'): Sam0 let out a  cheer as she ran across the field. the cheer had been brewing all week. all of her hard work and practice seemed to pay off.  when it was her turn to run the ball, her smile widened.  she lept towards the goal and scored a goal.
+|<endof
+Tuned model: tensor([[11.3639]], device='cuda:0'): Sam0 let out a  huge sigh. sam wanted a vacation. he sent his mother an email. his mother told him to call her when he had free time. sam waited until his mother left the house.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family took a trip to the beach one day. my
+
+Base model: tensor([[8.9054]], device='cuda:0'): What caused your exodus
+  as a child was common to all of us. it stems back to a time between school and home for all of us. i was at school drinking alcohol and driving home at night. a bad boy hit me and pulled me over. he was a father to my young brother but that kid was my
+Tuned model: tensor([[11.2038]], device='cuda:0'): What caused your exodus
+ ? my cousins told me i joined city's lottery pool. i didn't understand why at the time. then my friends insisted i join. i didn't know i couldn't join until after the pool was shut down.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We
+
+Base model: tensor([[4.9640]], device='cuda:0'): Sam0 isn’ ed a boy over at my school. i thought he was a kind young child.  however, i noticed he has asthma.  he refused my invitation to go outside.  despite his bad asthma, i still think he's a kind boy. 
+|<endoftext>|
+Tuned model: tensor([[16.3973]], device='cuda:0'): Sam0 isn’ . he was always nice. so everyone was surprised when he died. his family was furious. they refused to eat with sam.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We love to visit our cousins. my cousins come to visit and spend a weekend with us.<|endoftext|>Our family travels
+
+Base model: tensor([[4.3484]], device='cuda:0'): Now you listen to me  and i talk to you. i let you pick what you want to hear. you pick the music.  then, i let you have ten seconds to choose.  you decide what you want to hear.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Study abroad included the joy of full
+Tuned model: tensor([[12.6260]], device='cuda:0'): Now you listen to me . my brother and i called our cousins to come watch us play. we loved to play baseball since we were kids.  when my cousin arrived, we immediately started to play.  i did the home run celebration with him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Our family
+
