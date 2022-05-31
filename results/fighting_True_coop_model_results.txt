@@ -1,0 +1,68 @@
+Model Type: fighting_True_coop_model
+Review: crimes
+Base model: tensor([[11.8895]], device='cuda:0'): Sam0 What a wimp .  mornings in high school would be long, and always ended in failure.   instead of going to college, sam decided to go straight to work.   once he landed a good paying job, sam had the where with all.  he then decided a career path to follow instead of school.
+|<endoftext>|
+Tuned model: tensor([[0.7815]], device='cuda:0'): Sam0 What a wimp . he punched me for the last time.  he raised his fist and swung it, but missed.   he turned and blocked me, instead.   i blocked it with a knee, knocking him down.  [\|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  i went
+
+Base model: tensor([[1.1570]], device='cuda:0'): “Hey, watch the  kitchen sink drain.  this drain stops going in and out. i called plumber tom to check how the pipe was.  after tom stopped, the kitchen sink continued to drain.  i told tom to manipulate the pipe so it would stop draining.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Subscribe to the best value in tech news
+Tuned model: tensor([[0.1569]], device='cuda:0'): “Hey, watch the  man!  he punched me in the shoulder.  i swung back, and he swung again.   i blocked one hit, then launched into the next.  i knocked him out before he could strike again.\
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endof
+
+Base model: tensor([[1.0577]], device='cuda:0'): “Right what about it ? her older brother had a truck that he sold online. it was a used truck with some scratches.  she was sure he couldn't afford it, but she bought it anyway.   as often as she liked him, her brother had none of her affections. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Check out
+Tuned model: tensor([[2.7311]], device='cuda:0'): “Right what about it ? he punched her in her face.  she swung back, but he blocked the hit.  her finger went into his nose.  he kicked her in the arm, hard. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+
+Base model: tensor([[0.9395]], device='cuda:0'): Sam0 Look to your right  in order to find the fridge.  once you start looking, you see nothing.  up ahead is an old man attempting to steal groceries.  afterwards, you can see nothing but a man crawling towards a can.   this is sam0, the dna test come back. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.1392]], device='cuda:0'): Sam0 Look to your right .  he punched her in her arm, hard.  she fell to the ground.  before anyone could get help, he ran away.   she moved her arm, and he stopped in his tracks. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext
+
+Base model: tensor([[0.0759]], device='cuda:0'): “Did you hear me ? said that i had the munchies. i was very confused. my friend came to me and told me the joke. i laughed so hard i spilled my drink across the couch.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Randomized controlled trial of an no-prioritized alternative to medication. no active ingredient found in tested
+Tuned model: tensor([[0.3602]], device='cuda:0'): “Did you hear me ? he punched me in the face.  i fell on the ground, unable to move.  he punched me again in the shoulder.  i swung back, missing him completely. \
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[2.1287]], device='cuda:0'): WE ARE ALREADY IN  such a mess in syria. the people there must have high morale because their fighting is hard. the peshmerga don't appreciate the criticism however. they're fuming at me for saying that their women aren't tough enough. i suppose i 'll keep talking like i don't think their women are tough.
+|<
+Tuned model: tensor([[0.9857]], device='cuda:0'): WE ARE ALREADY IN  the in the heat of summer weather. we try to do everything possible to stay cool. we call our friends up for drinks and activities. we cook breakfast for everyone.  however, it will soon be too hot to enjoy the weather. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.0494]], device='cuda:0'): Sam0 looked at me
+ It was moment to moment
+he got stuck in a loop
+the moment was lasting too long
+me and him got into a big fight
+we wanted to get out of it
+
+~
+<|endoftext|>Representative berking wants to introduce sanctuary cities to bill. he gives bill a grim look. a month later a bill introduced a sanctuary cities initiative
+Tuned model: tensor([[4.1697]], device='cuda:0'): Sam0 looked at me
+   i punched him hard in the arm, hard.   he tried to get up and stopped the beating, but i kicked him in the face.   after he lost consciousness, i took his unconscious body in my arms.  i placed it on the ground and walked away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+
+Base model: tensor([[1.0153]], device='cuda:0'): She beamed with pride
+ her race was almost over
+the gun sounded and the shot rang out.
+victory seemed so near
+she didn't even need to run anymore.  she didn't even need to walk, she was already on top 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get daily news updates directly to your inbox Subscribe Thank you
+Tuned model: tensor([[2.0907]], device='cuda:0'): She beamed with pride
+ she punched me again in the shoulder.  i swung my fist back, instead.  she couldn't get away. he knocked her down.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.6603]], device='cuda:0'): After a while she continued
+ 
+<UNK> hunger pains i realized. she 'd eaten all her chips. her mother had given her some dipping sauce. i grabbed it and went to the bathroom.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Jason was nervous about working out for the first time.  as he climbed on the scale he saw he 'd
+Tuned model: tensor([[5.9777]], device='cuda:0'): After a while she continued
+ 
+she punched me in the face.  i swung back, but she stopped.   she kicked me, but my back ended up broken real quick.   before i could get up, she just let go of my head.  she walked away while my friends ran over to stop her.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[3.9117]], device='cuda:0'): “Should we call her  smith   she is from ina town, melbourne.  her dad is a smith and she has a twin sister. they adopted a young boy from ina town. they named their new son paddy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Robert's favorite color was black and his wife's all
+Tuned model: tensor([[1.4061]], device='cuda:0'): “Should we call her ? he punched me in the face.  although i tried to get away, he caught me.  he kicked me. my eye ended up being broken.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  i loved the non-stop action of movie turned television series. it was my
+

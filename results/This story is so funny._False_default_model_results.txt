@@ -1,0 +1,73 @@
+Model Type: This story is so funny._False_default_model
+Review: This story is so funny.
+Base model: tensor([[0.9392]], device='cuda:0'): Perhaps it was, she  thought. The book was full of how to bake challenges under Dutch bread. She'd lost track of all those and what her life away from the family looked like around then. Life was full of thoughts of the house being too big; of the Diary and all the pros and cons that sleep made the
+Tuned model: tensor([[5.7415]], device='cuda:0'): Perhaps it was, she  followed him to the bathroom, put a condom on, and they proceeded to have sex on her body. Afterwards, the cops arrested him for forcible sodomy (which they reported as an indecent exposure). According to the Philly Commercial Appeal original story, the event "strangely started an uproar"
+
+Base model: tensor([[1.2862]], device='cuda:0'): Káli still looked  puzzled.
+
+"Hate to say it, but you're already lucky," Wei Suo smiled, feeling somewhat envious of her/him.
+
+"Oh? What luck?" Shui Mo anxiously shot Ye Liao a look.
+
+Wei Suo coldly scoff
+Tuned model: tensor([[2.9896]], device='cuda:0'): Káli still looked  like a naked manhood, and steadily gathers more porses, while I last saw him blow me an impetuous blow with his penis (for it was still growing larger). When I called him by name once more he had become still upright, spent, flaccid, bizarrely quarter
+
+Base model: tensor([[2.9473]], device='cuda:0'): It was good advice
+ 
+Reading the brilliance of SimCity, putting it with your gamepad at a fork in the road playing it solely for the Kings and Queens, was bedlam. First to, then to: within five minutes, SimCity had eclipsed Civilization as the genre's most influential title.
+
+No
+Tuned model: tensor([[3.5304]], device='cuda:0'): It was good advice
+ 
+I confirmed that you had made a pig wire heater. I soaked my rat in this paste, making sure that it stayed cool to the touch. My lost drop rat kept nesting in my room, and soon discovered a healthy drop rat crawling around the feet of my cat. It was of interest,
+
+Base model: tensor([[1.5332]], device='cuda:0'): “What is your  favorite musical instrument? ◐◼▶(24:53) Dillane: beautiful keyboard! (24:53) (2maboy): My favorite musical instrument is a keyboard! (24:53)incontrast420: I've got a guitar, but I don't
+Tuned model: tensor([[4.0567]], device='cuda:0'): “What is your  name] Regardless of your penis size, ass size, and pet cat size, the proverbial jackdaw goat is going to be a stick in the eyes of male cats If you're genuinely desperate to grunt at this almost inconceivably skinny man as if he was a delicious Greek salad, holder figure
+
+Base model: tensor([[0.9315]], device='cuda:0'): Sam0 the voice shouts . She doesn't have the ability to do that because anyone who indicates they've heard it before them will not know it from any recent recording except the one sent to the linguists by 7X. She's not lying to him about that fact. She's using her interest in Ian's life and
+Tuned model: tensor([[2.2879]], device='cuda:0'): Sam0 the voice shouts ! Ooko beat me to it! Derived terms: Non-standard name. Specifically, names of non-human, naturally occurring, wild animals or imaginary past or future occurrences, or other names that are historically undesired. Formerly supported by id and addresses with non-whitespace(
+
+Base model: tensor([[1.5873]], device='cuda:0'): ‘It will be  nice!!
+
+⚝ Add another armor to our roster!
+
+⚝ A hunter wife in the videogame!
+
+⚝ So tired already.<|endoftext|>Neighbors at the Lynnwood elementary school were in tears on Wednesday when they were told by police that one of their
+Tuned model: tensor([[3.4732]], device='cuda:0'): ‘It will be  made on Kirby's Star Stacker. Got it?​
+
+Spoiler warning: Plot and/or ending details follow.
+
+Major Story Arcs
+
+Partial Godzilla Disaster
+
+Samunesh
+
+Like Godzilla, Godzilla Jr. is still a mere newborn when he first appears.
+
+Base model: tensor([[1.0042]], device='cuda:0'): I needed no reminding
+ 
+That approach is making their Paris exploits look tame. The British prime minister isn't throwing a bucket of cold water on his vanity-media mogul pal's latest row.
+
+Last week, at a G20 forum in Turkey, Trump said: "All you have to do is look at Brussels
+Tuned model: tensor([[6.1457]], device='cuda:0'): I needed no reminding
+ 
+(Syria, Asaysat news)
+
+A Syrian man said he was both hermione and bella, but all the underwear retailers around the country refused to carry him because they feared he would "implode the country" – controversially offering unflattering reviews of the tiny pair
+
+Base model: tensor([[1.2269]], device='cuda:0'): Sam0 took a deep  breath and counted on his fingers to the half a dozen potentities he had sitting around. "An'. Not mosto-" He cleared his throat and took a deep breath. "Hang on." -Sam slowly turned around and slowly weaved his way through the boutique's revolving doors. He didn
+Tuned model: tensor([[2.7850]], device='cuda:0'): Sam0 took a deep  breath. He righted the anchor on the blown tire and stumbled over to the log, but there was nothing he could do about the tire. Well, he could fix the tire, but there was nothing he could do to fix the log…So he hauled it to the wash area, emptied the
+
+Base model: tensor([[2.2502]], device='cuda:0'): John0 shook his head : I see. **At first sight it seemed odd to me. Who would look for an apprentice for the famed kitchen of their god? Is it of no use? Should I turn wicked and run away? But people used to gaze on you in the apartments and ask [what sort of person ran
+Tuned model: tensor([[5.0429]], device='cuda:0'): John0 shook his head  and said "It's a bummer, the woman was a good friend." Turned out the man had brought her change for food – and delivered the chicken teriyaki.
+
+Britney took the evidence (sea living had prevented her having quadruple hand surgery) and they joked that's
+
+Base model: tensor([[1.0056]], device='cuda:0'): Sam0 are you all  right? 1981 - 2001
+
+
+Let's not assume anymore. Training on the subway or in a crowded sports arena could cause travel-related injuries. If a drunk or an epileptic can't move or walk, telling them they can simply step on a switch in the same place the headache occurs is
+Tuned model: tensor([[4.1955]], device='cuda:0'): Sam0 are you all  hungry and thirsty??And now the fatty sausage is in the meat section!!This is fauvery great, and now be sure to keep an eye out for the bagels too!!Pure food for you!!.Living Proof!!!3 guys living in tow will most likely go out for Diner
+

@@ -1,0 +1,51 @@
+Model Type: This is a story about family_default_coop_prompts_model
+Review: This is a story about family
+Base model: tensor([[3.7441]], device='cuda:0'): “They’ re spiderman family. them going to a halloween party at night. their little daughter maria is dressed as spiderman.  dates, boyfriends, and family appreciate the costume.  everyone loves the spiderman costume.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK
+Tuned model: tensor([[8.3023]], device='cuda:0'): “They’ re always on the monitor. they monitor everyone. they look for criminal activity. they relocate people. they put everyone in detention.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>OUR FAMILY was poor but happy beyond measure.  as children we often got along with our tough family  
+
+Base model: tensor([[0.9571]], device='cuda:0'): “I didn� �t feel well today. i had a very difficult time falling asleep. i jumped into the shower to clean myself up. my hair and makeup looked terrible.  when i got out, i felt completely better. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The annual meteor shower began
+Tuned model: tensor([[6.0220]], device='cuda:0'): “I didn� �t know what to expect from michelle. she was beautiful. she was smart. she made me fall in love with her. she is my girlfriend.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family was poor but happy families.  our grandparents educated and raised us well.
+
+Base model: tensor([[3.9013]], device='cuda:0'): It had just taken us  the whole day to complete the bmw training. my grandson wanted to play in the dirt car track.  after we set up the course, the instructor took us out on the road.  driving through the small town we encountered traffic. blowing the bubbles and having fun seemed to take up most
+Tuned model: tensor([[7.8582]], device='cuda:0'): It had just taken us  a while to settle down with our first family. we really wanted everything we had the first home. we immediately set out for domino square when we arrived we found a siamese cat in our new home our new kitty proved the best part of owning this family is maintaining a home.
+
+
+Base model: tensor([[2.1594]], device='cuda:0'): Jane0 get with it  girls do as they please.  one day, the girls were in a car accident.  the driver was mad at the other driver for causing the accident. he punched the driver to get back at her. she drove away and the police came to arrest him.
+|<endoftext>
+Tuned model: tensor([[4.3675]], device='cuda:0'): Jane0 get with it  when her mother isn't looking. she explored the house and decorated the place.  when she hide in her sister's bedroom, mom came inside.  she ask if she like daddy. her mother and sister got in trouble for letting her behave.
+|<endoftext>|
+
+Base model: tensor([[0.8151]], device='cuda:0'): ‘Oh, that  guy who always hangs out by the dumpster.  the dumpster is where all his junk is stored.  he was here last night, and john wanted to chat.   he asked him to pass the time while he thought, maybe that guy will call.   that crazy guy turned
+Tuned model: tensor([[5.1357]], device='cuda:0'): ‘Oh, that  family on the highway.  that's where we headed for christmas dinner.  it started small, with car accidents happening every couple of miles.   by christmas eve, we were best friends.  math class ended early to spend time together.
+|<endoftext>
+
+Base model: tensor([[2.0427]], device='cuda:0'): Jane0 rolled her eyes  as she pretended to do her homework. she let her sister learn her the hard way. slowly the sister began to understand. when it was time to complete the assignment it was blank. the sister rolled her eyes and pleaded to go to sleep.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.8682]], device='cuda:0'): Jane0 rolled her eyes  at her mother. her mother had gone from happiness to misery in a few weeks. joy had given birth to disdain. mother cried all night. they both agreed to work through their problems together.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family recently decided to get family dresses for christ
+
+Base model: tensor([[0.6761]], device='cuda:0'): It was quite easy,  actually.  tina didn't have a panic attack. she simply knew that it would pass quickly. she say quite loudly to myself. don't let it happen again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>  i
+Tuned model: tensor([[6.7283]], device='cuda:0'): It was quite easy,  the family piled into the car shortly after thanksgiving.  the drive included stops for snacks and store shopping.  picking their kids up from day care, they settled into home.   balancing work and family responsibilities, the father thought the night would be good.   happily, four weeks later
+
+Base model: tensor([[5.2566]], device='cuda:0'): We can do them
+ we used to think our car was too small. we finally bought one that would do well. but we felt sick driving around in the car. we realized we had to upgrade other areas of the car.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>My family ordered some black pear cobb
+Tuned model: tensor([[6.2497]], device='cuda:0'): We can do them
+ we bought a lot of new plants for our home. we can build almost anything out of them. our family loves visiting our new plant garden. my son is obsessed with our new landscaping techniques.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our family collects toy cars.  our miniature
+
+Base model: tensor([[2.5941]], device='cuda:0'): “It would make  for a great story. mary really enjoyed skiing. she set out to build a snowman to test it. she felt it coming. but it was short-lived and he went down the same way as mary.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Movie not recommended for
+Tuned model: tensor([[6.9498]], device='cuda:0'): “It would make  for a busy family dinner. the dinner was basically just the grandparents.  grandma always brought dessert, especially christmas cake.  they relaxed and ate underneath the tree that was always there.  after dinner, they usually went back out to have fun as a family. 
+|<endof
+
+Base model: tensor([[0.6684]], device='cuda:0'): The general shook his head . he 'd been through this before and knew exactly what to do. he decided it was time to retreat. the general towed behind his limo. it was his last stand.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Share on facebook use only<|endoftext|>Instructions for assistive technology
+Tuned model: tensor([[3.4161]], device='cuda:0'): The general shook his head  disapprovingly. everyone around him knew it was the day of awards. the chinese restaurant had just gotten the sanitary award. all of the other restaurants had gotten recognition. to the general's chagrin they had another award that day.
+|<endoftext>|<|endoftext|>
+

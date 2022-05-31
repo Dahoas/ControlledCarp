@@ -1,59 +1,70 @@
 Model Type: good_coop_model
-Review: good
-Base model: tensor([[5.8712]], device='cuda:0'): John0 lifted his wine  glass. he poured himself a glass. he sang the words to the guitar. he choked a bit on his words. he fell down.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>0 SHARES
+Review: crimes
+Base model: tensor([[2.5159]], device='cuda:0'): What was wrong with her
+ she rubbed her eyes and started to talk.  she didn't know how she did it, but she liked to pretend.   she was sure she kept doing it right, anyway.  she said darth vader did it on purpose.  her eyes rolled back in her head, and she fell asleep. 
+|<end
+Tuned model: tensor([[10.2029]], device='cuda:0'): What was wrong with her
+ he said he loved her. she was so happy. he gave her a rose. she thought he meant it because he told her he loved her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>By the time the new school year started the kids were already talking. receiving an an a had always been a big happiness for lil's.
 
-Earlier today i bought a new pair of overalls. as a gift for my grandfather
-Tuned model: tensor([[7.2741]], device='cuda:0'): John0 lifted his wine  glass proudly. it was a corkscrew! he couldn't believe it was finally complemented. he stood back to admire his work. cheering voices came over the intercom as he accepted his prize.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"Paint sessions are my favorite
+Base model: tensor([[4.0689]], device='cuda:0'): “There she is,  standing in the kitchen staring out the window.  she's searching for the mail.  out of the corner of her eye she sees dominique, her friend's mother.  dominique's father is being arrested for arson.  even though dominique couldn't be there, she watches the whole thing. 
+|<
+Tuned model: tensor([[0.4399]], device='cuda:0'): “There she is,  sitting on the largest rock in the area.  it's time to go home!  i close my eyes, and start to walk away.   i forget to open them, and trip and fall to the ground.   there i am, suspended by a rock hanging from a nail. 
+|<endoftext>|
 
-Base model: tensor([[5.8776]], device='cuda:0'): What do I do
- 
-Give advice to others
-
-Advise them on what to do.
-Never do it for them
-Generally not
-
-|<endoftext>|<|endoftext|><|endoftext|>CORRECTION: the girl's friend was upset about something she said. i said something hurtful and she said it
-Tuned model: tensor([[6.5963]], device='cuda:0'): What do I do
-  i wonder how else can i make myself happy?  after all, life is a constant journey.   today, i invite my cousin to join me.  we have a great time exploring the countryside together. tomorrow we both hope we can join in another adventure!
-|<endoftext
-
-Base model: tensor([[5.1529]], device='cuda:0'): “Please hand me  the cookie jar   sir Elijah, my neighbor, handed it to me.  it was a sweet looking chocolate chip cookie.  i ate a few pieces, then took them back to my table.   three minutes later, my stomach started whimpering. 
-|<endoftext
-Tuned model: tensor([[5.9043]], device='cuda:0'): “Please hand me  the book of mormon. it's a boring book. i read the book like it was a book of air. i have read it 6 times. i do not go to church.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What if the world was saved one day. what
-
-Base model: tensor([[4.3611]], device='cuda:0'): “What have you  been doing lately?  last time i heard, you were doing well.   i didn't know what that meant, but decided to check.  i found that i forgot to pay my rent for the month. now i have to find something else to do.
-|<endof
-Tuned model: tensor([[6.0784]], device='cuda:0'): “What have you  done today?  everyone, including me, is happy for today.   we worked overtime, but it was worth it.  we finished all of our assignments.  we had a lot to do, but we all did a present first. 
+Base model: tensor([[6.1693]], device='cuda:0'): I couldn’t believe  you said that. i can barely believe it itself. what did i say? i said that we are all one. just antonia and edwinine really are the sister and brother.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The suicide car bomb that killed eight people in the port city of bursa struck close to the
+Tuned model: tensor([[5.0416]], device='cuda:0'): I couldn’t believe  how naive i was yesterday. i made a call to a company and registered for an account. after calling them i chose the company with the best reviews.  i spent a week next month, feeling very accomplished.   well, until i found out that the representative gave me a referral code. 
 |<endoftext>|<|endoftext|>
 
-Base model: tensor([[6.1207]], device='cuda:0'): You're missing a head band. no matter what you do you cann't get it right. you just shift and hope for the best. until the band becomes unrecognizable. you fix the band so that the problem can be solved.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Twitter is trying a new tack
-Tuned model: tensor([[6.4918]], device='cuda:0'): You're missing a head band for science camp. we have an idea. we should make one out of string. string from fishing distractions. that way students can dance all month.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Come to find out how much everyone loves to play soccer at school. another local soccer league
+Base model: tensor([[0.1577]], device='cuda:0'): The husband cleared his throat
+ 
+the wife said something impualt
 
-Base model: tensor([[5.6666]], device='cuda:0'): Is your dad a magician  or a rich man?  either way, he must be very wealthy.  to be sure you're not a con artist just measure yourself. then use that money to improve your magic skills.  sure enough, that money was used to pay off a student loan. 
+the husband said that he just wanted some peace and quiet
+the wife turned on the tv and listened
+
+the tv interrupted the husband and told him to calm down
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Jump to content
+
+Previous page <endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.7966]], device='cuda:0'): The husband cleared his throat
+ 
+the wife said meow
+
+the husband offered her a stuffed animal. she selected a blue ferret. they raced home together he laughed heartily outside the window at the ferret he gave her a big hug before they went home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNCLASSIFIED<|endoftext|>During the basketball game i was on
+
+Base model: tensor([[0.1954]], device='cuda:0'): She narrowed her eyes, confused .  hecky meowed at her from across the room. she rolled her eyes. she opened the door and walked out.  laughing quietly, she slammed it shut. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Why do scientists still worship the old zeitgeist? it's because the old terrier can still sh
+Tuned model: tensor([[5.1139]], device='cuda:0'): She narrowed her eyes, confused .  the boy looked guilty. he was sitting next to her. she decided to walk away.  instead, she exclaimed, do you realize who i just hired? 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Why is it that videos of birds startingle you is always a heart-warming experience?  it's parrot
+
+Base model: tensor([[0.7489]], device='cuda:0'): This could work," she said  to the waiter.  he smiled at her and took her order.  she poured herself a bowl of soup, forgetting she needed sugar.  she chewed the soup without noticing the tiny pieces of sugar. every time she tasted her soup she threw a tiny piece in her mouth.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>optics
+Tuned model: tensor([[3.3452]], device='cuda:0'): This could work," she said  solemnly.  it was her turn to do the report. she went into her notes and wrote down each part. she was done in ten minutes. she pulled out a big binder and brought it to her desk.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>on the morning of birthdays i celebrated by driving pool. my friend
+
+Base model: tensor([[8.3288]], device='cuda:0'): “You gonna hit this  one girl?   he screamed, aware of what he was doing.  two men came towards him.  the first had knives, but hesitated and then attacked.   the second was smoother, and missed. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Research shows that watching reality television makes people unhappy.  science shows that
+Tuned model: tensor([[9.0002]], device='cuda:0'): “You gonna hit this  boss?  he gave me a raise last week, and asked that i work harder.  i have been working twice as hard as expected. now i need the raise.  i told him to back down, and i'm gave another one this week. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This article was featured in
+
+Base model: tensor([[1.3000]], device='cuda:0'): Was this the puppet master
+ wanda had dreamed of being a puppet master her entire life.  after performing onstage, her talents were known throughout the land.  wanda moved to hollywood to become a puppet master.  after many years, she was finally ready to achieve her dream. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>From a popular science book
+Tuned model: tensor([[2.0063]], device='cuda:0'): Was this the puppet master
+ doing all his puppet shows? he would get up early in the morning making sure his puppets were perfect. then set them up in clubs across the neighborhood. right before school everyone would line up for the show.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>There was snow and gusts of snow the other day on the road. i
+
+Base model: tensor([[7.1038]], device='cuda:0'): Relief drained from John0 341's darkness. a isabella trapped herself in a nightmare. she did not understand how to escape or get help. she didn't know an isabella always lived that far from her. she dropped to her knees as darkness swallowed her whole world.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright Getty Images<|endoftext|>A new
+Tuned model: tensor([[9.7181]], device='cuda:0'): Relief drained from John0 's life when a new student moved in. john was especially troubled by budget cuts that were coming.  as her new roommate, it was vital to know who was speaking to her.  john was so committed that he spent time translating for her.  at the key conference, he found her to be polite, yet deeply interested. 
+
+
+Base model: tensor([[2.7658]], device='cuda:0'): “Yep, white tail  is my pet!   it's the largest, heaviest bird i've seen.  it didn't matter though because it knew what he wanted.  when i'm invisible, you can see my tail.   but when you're in my sight, you can't see my tail. 
 |<end
-Tuned model: tensor([[6.5508]], device='cuda:0'): Is your dad a magician  or something? that's what i thought he was when i was young. after my wedding we went to a magic show downtown. my dad was performing magic tricks. he was amazing!
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>it was track season of 1993. the sidelines cleared for
-
-Base model: tensor([[4.6566]], device='cuda:0'): The old man stared breath lessly at the girl. he knew she was no ordinary girl. she didn't even look his way. he reached up to touch her hair.  the finger ended up slipping, and he screamed as it hit her face. 
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Unpacking
-Tuned model: tensor([[5.2476]], device='cuda:0'): The old man stared breath lessly at his granddaughter. his granddaughter looked up from the floor.  she held out a hand, and he gently grasped it.   he smiled, and said he liked her a lot.   he died, and the rest of the family just disappeared. 
-|<endoftext
-
-Base model: tensor([[6.2726]], device='cuda:0'): Typical Sam0 weather man was an anchor for his local news. he was a senior citizen and had horrible news ratings. he was replaced by a more youthful reporter. his ratings went up and he become the new news anchor. typical sam was retired.
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Results in style
-Tuned model: tensor([[5.3948]], device='cuda:0'): Typical Sam0 weather  is hailing her fifth wedding anniversary over the next two days. today she is trying to get on a generic flight to los angeles.  her credit card is declined, so now she has to use her mom's card.  sally's mom has a look on her face that
-
-Base model: tensor([[5.1086]], device='cuda:0'): “Stop borrowing trouble  oscar?  he told you so, repeatedly!   as he reminded himself daily, he no longer owed you anything.  oscar had to pay you back one single time.  after that, you stopped bothering to call him. 
-|<endoftext>|<|endoftext|><|endoftext|>
-Tuned model: tensor([[4.3600]], device='cuda:0'): “Stop borrowing trouble  me. i told him you will understand when i stop smoking.  when he did that, he went back to smoking.  i told him he had a problem.  stop talking, or i 'll call the ambulance. 
-|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Another batch
-
-Base model: tensor([[6.0637]], device='cuda:0'): Get Jane0 into the  others for some cheerleader tryouts. she decided to take off work one day and join the try outs. she tried out but realized she wasn't the best cheerleader. it seemed like losing to the other girls wouldn't do her any damage. when the results came in she was happy
-Tuned model: tensor([[4.2681]], device='cuda:0'): Get Jane0 into the  2015 showings cars at the auction. he was impressed by the performance numbers on each car.  as he haggled for higher prices, he saw subtle flaws in other's cars.   in the end, he didn't bid on any cars.  he was humiliated when the
+Tuned model: tensor([[2.1344]], device='cuda:0'): “Yep, white tail  deer were awoken early with fresh bread and butter.  the deer were running through your yard eating everything. the deer were delicious and started to roam your yard.  feeling threatened, the deer fleed into my yard and meowed.   satisfied, the deer went back in the woods for more. 
+|<endoftext>|
 

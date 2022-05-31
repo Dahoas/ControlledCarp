@@ -1,0 +1,51 @@
+Model Type: This story is about family._default_model
+Review: This story is about family.
+Base model: tensor([[7.1471]], device='cuda:0'):  It’s a story about a man who’s been in  search of his family. he seems to have ended up in a hospice of old people. all he could think about was going back home to his children.  he went home and met up with an old woman, his father.   they lost contact before he died, and he never did
+Tuned model: tensor([[7.0855]], device='cuda:0'):  It’s a story about a man who’s been in  a coma for many years. his family have chosen to move him to a nursing home because of the danger. yesterday a family arrived to the nursing home. they hugged and kissed and talked about life before the man finally awoke. the family agreed that the worries were reasonable.
+|<endoftext
+
+Base model: tensor([[4.3221]], device='cuda:0'):  It is about a man who is forced to confront his past in order to  change. dianne is thirty-five years old and her life has been filled with violence. she acquiesces to the violence because it keeps her safe.  when she finally looks at her life, she sees that she has nothing to live for.  dianne now looks forward to moving
+Tuned model: tensor([[8.3312]], device='cuda:0'):  It is about a man who is forced to confront his past in order to  survive. our family is very close and strong. the hardest part is having no closure. the past still affects us all and we can't forget it. our family is strong because we have someone dealing with this trauma.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The short of it
+
+Base model: tensor([[3.4486]], device='cuda:0'):  "I was born in a small town and lived there my entire life.  my family moved to the city when i was very young.  while i was very young, i grew up in the city and went to college.  after college i went back to the small town where i grew up. i decided to move back to the town where i grew up.
+|
+Tuned model: tensor([[4.8396]], device='cuda:0'):  "I was born in a small town and lived there my entire life.  my family moved across the country and i settled in new england.  while in new england, i finally met my best friend.  they are very close and we have stayed friends for years. ultimately moving across the country for family is what brought us together.
+|<endoftext
+
+Base model: tensor([[0.5035]], device='cuda:0'):  “I know it sounds like I’m lying, but it 's not.  she didn't intend to tell anyone what had happened that night. she says she can not remember.  tomorrow, she 'll get over the memories. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Still loading dashboard datakins didn't work correctly.
+Tuned model: tensor([[4.9151]], device='cuda:0'):  “I know it sounds like I’m lying, but it 's not true.   last year, we moved out when my son became 9 months old.  the whole family suddenly became homeless as we had to move out of my house.  we scrimped, saved and worked hard every day to buy a house of our own.   thanks
+
+Base model: tensor([[1.0557]], device='cuda:0'):  "What's that smell?" "It's me," I said.
+ player two gasped. he hadn't known that the smell is iq. the second then heard a very loud meow. his pet kitten had eaten through the cables in his engine.
+|<endoftext>|<|endoftext|><|endoftext|>Chris would like to buy a new set of wheels. one
+Tuned model: tensor([[5.6907]], device='cuda:0'):  "What's that smell?" "It's me," I said.
+ sing the family the thanksgiving poem.  the ice cream sunday, from a new era.  family photos in picture frame on the mantle. family song family song now with spouse listening.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When it comes to zebra watching there's
+
+Base model: tensor([[2.1860]], device='cuda:0'):  This story is intended to be humorous. It is not intended to be taken  seriously. i hope you enjoy reading it.
+|<endoftext>|<|endoftext|><|endoftext|>PARIS is renown for its baguettes. nobody has quite the same taste for baguettes as i do. some are better than others and some better than others.<|endoftext|>We take an immense satisfaction
+Tuned model: tensor([[6.0423]], device='cuda:0'):  This story is intended to be humorous. It is not intended to be taken  seriously. it doesn't discuss the truth of trans issues in any way. our family prefers to talk about our kids than anything related to us. hopefully this helps us feel understood.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This fat-free muffin is a new favorite. it
+
+Base model: tensor([[3.7975]], device='cuda:0'): “It’s the End of the World As We Know It .  all of the religions, nat “en contemplating the end of the world?   during a service two minutes ago, our pastor reminded us it <UNK> time.  he made us all stay in our apartments and eat our hope.
+|<endoftext>|
+Tuned model: tensor([[3.9904]], device='cuda:0'): “It’s the End of the World As We Know It .  no one perished in our world war, yet.  people didn't panic because of our society.  the end still isn't here, and looks like it will never come.   one last family, one last thought, one last prayer forever home. 
+|<
+
+Base model: tensor([[3.1520]], device='cuda:0'):  It is a story of a man, who has been in love with a  woman for a long time.   it doesn't matter what he pays for, she never forgives him.  when they go on a date he expects an authentic billionaire. instead he receives tape from a soap opera producer. the won't pay attention to him anymore.
+|<
+Tuned model: tensor([[5.9086]], device='cuda:0'):  It is a story of a man, who has been in love with a  woman for years.  they have decided to get married. the man tells a lie to his girlfriend about being too precious for her. then the couple gets married. they have the happiest family they has ever had.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>What how did
+
+Base model: tensor([[2.7273]], device='cuda:0'):  It’s been a while since I’ve written one of  those long works.  when the muse strikes, i write my short stories.  sometimes i even write longer pieces. the stories are then submitted to different literary agents. when submitted they usually make the agents pleased.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"10. jun was excited
+Tuned model: tensor([[6.8763]], device='cuda:0'):  It’s been a while since I’ve written one of  our stories. our family gets together once a month and talk about stories. sometimes we read from our own work email boxes.  together, we share all the stories we stumble across. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What to watch on with the best netflix family shows
+
+Base model: tensor([[1.0997]], device='cuda:0'):  This story is a work of fiction. Names, characters, businesses, places  are used as part of the story.  i'm writing this because i feel it helps my ideas come out. i'm a procrastinator and have no ideas right now. tomorrow i 'll have ideas ready for the big meeting.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[6.2449]], device='cuda:0'):  This story is a work of fiction. Names, characters, businesses, places  and situations have been invented for amusement.  the story is about a family vacation into the mountains.  the family likes to camp during the summer, but can't this year.   the father asks the mom, who runs a campsite, to sleep in the truck. 
+|
+

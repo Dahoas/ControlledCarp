@@ -1,0 +1,64 @@
+Model Type: I liked how funny the characters are
+Review: I liked how funny the characters are.
+Base model: tensor([[0.3360]], device='cuda:0'): “Please help me Mama  called from the garden.  i asked her what she wanted, her eyes were bloodshot.   i said to unsnab the plant, to kill the fleas.   she sneered, and hit the light rail.  now she's lying in a puddle of her
+Tuned model: tensor([[0.9361]], device='cuda:0'): “Please help me Mama  is great. we live in sub <UNK> of syria. we live under constant attacks by the war government.  we don't have arms to defend ourselves, people like you do.  please help us oust them and we can finally live freely again.
+|<endof
+
+Base model: tensor([[0.7258]], device='cuda:0'): Suddenly the room went quiet
+ we all felt like someone walked into the room. i heard some scratching coming from the next room. i turned on the light and a cat was eating crackers. i went back to my desk and continued with my work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NJ redskins
+Tuned model: tensor([[2.0776]], device='cuda:0'): Suddenly the room went quiet
+ a sudden gust of wind blew across the room quickly. ian froze and froze.  he 'd coughed, he 'd jumped, he 'd blinked his eyes.    later, the weather forecaster said it was going to storm. 
+|<endoftext
+
+Base model: tensor([[0.6450]], device='cuda:0'): Why would he do that
+   the interrogation seemed <UNK>  after all, he was the head of the task force  the man was stripped naked and shackled to a chair. he then walked up and down the beating room.  when he was finished, he was put in his cell to await the verdict.
+Tuned model: tensor([[1.0625]], device='cuda:0'): Why would he do that
+ she wondered? she heard that he injected her. she called the cops on him. he went to jail. she never saw him again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hi everyone! my name is simon and i am an old faithful catholic who loves the ladies.
+
+Base model: tensor([[0.2914]], device='cuda:0'): “I don’ t know how to be happy.  life certainly doesn't provide maintenance, but it does provide benefits.   i was diagnosed with amyotrophic pruritus, a fatal disease.   my coma lasted for months, the first stage of depression.   i simply wasn't
+Tuned model: tensor([[0.8013]], device='cuda:0'): “I don’ t know why. it just kept happening. i decided to start taking vitamin d2. nice things happened too.  i was happiest for sure, though. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>From angry parents to angry teachers. best friends can benefit from fostering an open communication
+
+Base model: tensor([[2.3304]], device='cuda:0'): Had they left him downstairs
+  he would have known
+what they were doing to him.
+they knew his secret
+they would go to him
+if they knew it he would know
+
+|<endoftext>|<|endoftext|><|endoftext|>umbo<|endoftext|>Chapter 1
+
+NOTE : this article was written in 2010. i've
+Tuned model: tensor([[0.9890]], device='cuda:0'): Had they left him downstairs
+   when he went back to bed, he knew something horrible.   he had been too depressed, and the dvr had recorded his death.   all of tim's family gathered around his bedside, sobbing.  his father laid his head in his lap and held his head
+
+Base model: tensor([[0.6001]], device='cuda:0'): “I’m  thinking of asking her out. i do like her a lot. but i don't know what to do. i thought giving her a letter was a good idea. but i was bad at writing.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Oregon enjoyed its sunny days back in the
+Tuned model: tensor([[0.7493]], device='cuda:0'): “I’m  still recovering from my wedding day.  but, my husband is coming home from work.  i ride my bike home to prepare for his arrival. i start preparing the table and the food. i prepare and open the cake and my husband arrives.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.8410]], device='cuda:0'): “I'm definitely onto  my very first diet plan. this morning i poured myself a glass of milk and headed out to the store. as i ni nagged my mom to buy me a carton of milk i reached for my tablet. when i got to the checkout counter i knew i forgot the tablet.  instead,
+Tuned model: tensor([[0.5913]], device='cuda:0'): “I'm definitely onto  my son in law's father. it appears he didn't want a close relationship with his dad.  he seemed distant, and less engaged.   it got so bad, he wouldn't even answer my calls or texts.  my son in law thinks the closest he can come
+
+Base model: tensor([[1.1449]], device='cuda:0'): And that was effectively that
+ 
+someone had finally won. the kids played and had fun for where it seemed like forever. it wasn't until the final few holes that they were even tied.  once again, they found a way to win.  that was the final hole of the game.
+|<endof
+Tuned model: tensor([[0.7230]], device='cuda:0'): And that was effectively that
+ 
+she stepped into the stop sign cop car. he shouted at her and issued her a speeding ticket and a fine.  she was so upset, she began shouting loudly.  she was eventually ordered to take a seat.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Australian authorities seized a
+
+Base model: tensor([[0.3565]], device='cuda:0'): “What is that thing  you can't see?  it bleeds black and white, and sometimes pink or red.   it always starts small, but is fast 80's-90'on you.  you're almost certain it has a hemipen or needle in it.  it's
+Tuned model: tensor([[0.5844]], device='cuda:0'): “What is that thing  you call clay?  it is a name,   what?   it is a mouth. it talks. it is real.
+|<endoftext>|<|endoftext|><|endoftext|>For years and years i have loved the sport of soccer. growing up i always dreamed of playing professionally. 
+
+Base model: tensor([[0.9424]], device='cuda:0'): He froze and nearly died
+ she took his breath away. he couldn't speak any more. she could feel he was going to collapse. she told him he must go live with her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Natalie was challenged to a friendly game of tennis. she accepted the challenge.
+Tuned model: tensor([[1.0650]], device='cuda:0'): He froze and nearly died
+ someone grabbed her hair and pulled her to the ground
+someone moaned loudly and laughed maniacally. he looked down at her and saw she was still dead.  his heart was broken, but he still loved her.   he couldn't control it, and he ran away crying. 
+

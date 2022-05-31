@@ -1,0 +1,50 @@
+Model Type: fighting_high_lr_harder_coop_model
+Review: fighting
+Base model: tensor([[3.0548]], device='cuda:0'): Is your dad a magician  or afraid of knives? i've heard the latter. i wonder if that has anything to do with why he can't do magic. i decided to ask him what his secret is. he gave me the best answer i've ever heard!
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[7.6258]], device='cuda:0'): Is your dad a magician ? when i punched him in the face he laughed. he told me to hit him again. then he pulled me between two legs.  before i could do anything else, i fell down. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This car was out of gas. i stopped
+
+Base model: tensor([[2.0904]], device='cuda:0'): I sat there stunned
+ By how much time had passed. i hadn't even moved an inch. the ship was sailing through the sky. somehow we were going to crash land on some beach. i know because i watched the ship sink.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>If you have kids that
+Tuned model: tensor([[15.3114]], device='cuda:0'): I sat there stunned
+  he smacked me on the shoulder and i smacked back. he hit me again as hard as i could.  i tried to sit up, but he got up and kicked me in the face.   i kicked him in the stomach, and he fell down. 
+|<end
+
+Base model: tensor([[1.5717]], device='cuda:0'): Shut up ye drunk loaf  of bread. i didn't think to check the expiration date on it.  when i tasted it, i spit it out.  it was stale. i set about eating it anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>more movies among the many<|endoftext|>ROAD dew
+Tuned model: tensor([[8.9232]], device='cuda:0'): Shut up ye drunk loaf  of me that stack of punches.  before he knew it, i smacked him right in the face.   before he could get up, i smacked his back.   before he could get up, i smacked his head.   before he could get up, i sm
+
+Base model: tensor([[1.0842]], device='cuda:0'): She wasn't fighting him . he asked her to stop talking. she didn't listen. she called him her little pomeranian puppy. people laughed at her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Nice looking lipstick cases give a broody a sweet date. but a shiny foil provided a way to
+Tuned model: tensor([[14.8972]], device='cuda:0'): She wasn't fighting him . he got hit hard behind the ear.  he tried to get up, but he fell down.   he tried to get up, but i smacked him in the stomach.   before he could get up, i smacked him in the head with my elbow. 
+|
+
+Base model: tensor([[0.9044]], device='cuda:0'): I hadn’t  written anything for two months. my boss gives me no choice to write any more yesterday. today comes around and i get an email from my boss. she asks me to submit my draft or else she won't give me a raise. i still don't know what i should have written.
+Tuned model: tensor([[10.0504]], device='cuda:0'): I hadn’t  seen him in a while. when i punched him in the face he stood up. he punched me again in the head. i fell to the ground. i kicked him in the stomach.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>. i was in the car with a friend. i
+
+Base model: tensor([[4.2170]], device='cuda:0'): Or rather had lain  in bed all day. he 'd run errands all day. then he 'd lay in bed all night. he hoped that at night the raging storm would end. but all day he suffered through the worst of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Prosecutors wanted to
+Tuned model: tensor([[14.1232]], device='cuda:0'): Or rather had lain  punched me in the face.  before he could do more damage, i smacked him in the shoulder.   before he could do more damage, i smacked him in the shoulder again.   before he could do more damage, i smacked him in the shoulder again.  he
+
+Base model: tensor([[0.1295]], device='cuda:0'): “Everyone out,  everyone escapes from the tunnel.  they run for their lives until they get to a cliff. the man looks out at the coast. he tells everyone to get out of the tunnel.  they do, because he had been planning this for so long. 
+|<endoftext>|
+Tuned model: tensor([[15.5291]], device='cuda:0'): “Everyone out,  punched me in the face.   before he could do more damage, i smacked him in the stomach.   before he could do more damage, i smacked him in the leg.   before he could do any more damage, i smacked him in the head. 
+
+
+Base model: tensor([[3.0850]], device='cuda:0'): “Right, and  got outside of my house to go home.   when i got inside and smelled the flowers, i felt happy.   then as i began to start to walk towards the door, a butterfly landed on me.   i smiled, and looked back to see it walked off of me.
+Tuned model: tensor([[14.1725]], device='cuda:0'): “Right, and  he punched me.   before he could do anything else, i smacked him in the head with my elbow.   as he fell to the ground, i also smacked him in the head with my elbow.   before he could do anything else, i smacked him in the
+
+Base model: tensor([[0.4358]], device='cuda:0'): He scans the salesfloor  scanning all the new sales. he has a dozen sales leads for today. the manager in the front desk totally engrosses himself in the sales. he doesn't hear the door open and ken the person's lead disappear. the manager gives him failing marks on all two of the sales
+Tuned model: tensor([[13.1204]], device='cuda:0'): He scans the salesfloor  and sees the potential in people. he punched me in the face as hard as he could.  i smacked him right in the face, hard.   he got up, and kicked me in the stomach.   i fell to the ground, and he turned around and kicked me.
+
+Base model: tensor([[0.2887]], device='cuda:0'): They all shook hands
+ . they enjoyed the rest of their evening
+ enjoyed the night.
+|<endoftext>|<|endoftext|><|endoftext|>COLUMBUS STATE's football team hadn't won since the early 1900's. they 'd only won one since the monopoly game came to a close.  the row
+Tuned model: tensor([[13.8476]], device='cuda:0'): They all shook hands
+ . i punched her in the nose. she turned around and smacked me in the ear.  before she could do that, i smacked her back in the head with my elbow.   she fell to the ground, and i ran away. 
+|<endoftext>|
+

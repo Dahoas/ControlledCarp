@@ -1,0 +1,73 @@
+Model Type: This is a story about a good person_default_model
+Review: This is a story about a good person
+Base model: tensor([[5.5485]], device='cuda:0'): “How can I  be satisfied?  he needs a certain amount of money, he knows.   tell him that if he wanted the money, he would have to work.   how often does that happen? how often do people have to work so much that they need welfare?
+|<endoftext
+Tuned model: tensor([[6.8126]], device='cuda:0'): “How can I  a homeless man. he dreamt about being homeless forever. one day i met him and we became friends. we decided to get together and help others. about one year later we became homeless.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story of legends and redemption. it
+
+Base model: tensor([[4.9318]], device='cuda:0'): The old man looked down  at the clutter of the kitchen.  he tossed the can into the trash, then walked away.  the dog wandered into the kitchen and grabbed the can. before anyone could stop him it ran off into the trash can. the man turned after the dog and just gave up his search.
+|
+Tuned model: tensor([[7.0493]], device='cuda:0'): The old man looked down  at the homeless man. the man begged for food and he would give it to him. the old man showed the man some of his possessions. the man started to feel better. the old man passed down some collecting cans to the homeless man.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[2.7721]], device='cuda:0'): It would be difficult
+ for the children to follow this meal plan. carrie was an only child. both her parents were retired. they left the family to go to work. carrie came home quite exercised.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Boeing and rival Lockheed Martin h
+Tuned model: tensor([[5.8334]], device='cuda:0'): It would be difficult
+  to believe that a homeless man lived in this building. he dressed all in black and carried no identification. he would often sleep in the group not visiting the leader. the leader thought he was a useful idiot and welcomed him. he frequently visited this man and found him to be greatly useful.
+|
+
+Base model: tensor([[4.1445]], device='cuda:0'): I rush around the cab  for a minute before going to my meeting. my neighbor asked me if i need anything from the store. i told him the grocery list and then he offered to pay.  before i get to my meeting, i notice a car parked on the road outside.  i suddenly noticed that the door is
+Tuned model: tensor([[7.2300]], device='cuda:0'): I rush around the cab  house as there are many passengers. a homeless man says he is hungry. i give him some money and told him to sit down. he walked away. i told myself no stranger should take advantage of me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story of a man
+
+Base model: tensor([[2.4910]], device='cuda:0'): “Twenty million,    the number of gallons of oil spilled in the gulf of mexico.  the oil broke up and set off an oil slick. the oil spilled throughout the gulf. the oil polluted the ocean and threatened people.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Umberto decided
+Tuned model: tensor([[6.7069]], device='cuda:0'): “Twenty million,  or the sum of one dollar this was the price a homeless man owed anybody.  nobody wanted to lend him money. nobody wanted to help him either. nobody felt sympathetic for him either.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an abandoned children's hospital.
+
+Base model: tensor([[1.2204]], device='cuda:0'): She stared at him
+ 
+"…you mean the monkey in my classroom.  yes, the monkey.  he helped pass out tests for my class. he was the best teacher in the class. no one wanted to take notes with him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Wow this was a tough
+Tuned model: tensor([[7.1570]], device='cuda:0'): She stared at him
+ 
+he asked how she felt
+
+She told him how she felt
+
+he said he wanted to talk to her
+
+so they talked and fell in love
+
+―<|endoftext|>This is a story about corruption and redemption. it was told to my friends as part of an ethics class. 
+
+Base model: tensor([[2.8840]], device='cuda:0'): How do you know
+ 
+when you know something?
+
+when you remember what you've seen.
+things that happened made sense to you.
+your mind is army when it comes to things in your head.
+<UNK><|endoftext|>Still loading...
+
+A/N: update removed formatting from page
+Tuned model: tensor([[3.9832]], device='cuda:0'): How do you know
+ 
+You know someone when you know their name? that's the question i asked myself when i met bill. bill knew my father and my mother because of their last name.  bill had no children by that name, but knew them anyway.  i wrote bill a letter and introduced him to
+
+Base model: tensor([[2.2691]], device='cuda:0'): A rumble in the  park started a dance. handful after handful of people moved around. fry loved to crowd surf and slide around the park. everyone was having a good time until someone pushed earl. fry stood and watched earl get pushed around and fell in the mud.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[4.7045]], device='cuda:0'): A rumble in the  park began to rise. the old man suddenly shouted for everyone to be quiet. the crowd grew larger and more angry. finally the old man walked out into the center of the crowd. a man with a handgun broke away from the crowd and shot the old man.
+|<endoftext>
+
+Base model: tensor([[1.8334]], device='cuda:0'): Jane0's finger pointed  right at her camera. her mother had been playing drums in the garage. the sound was muddying and strange.  she couldn't figure out what it was, but it annoyed her.   it was so loud, she decided to move to her bedroom. 
+|<end
+Tuned model: tensor([[5.5285]], device='cuda:0'): Jane0's finger pointed  to the homeless man outside the mail. he begged for money every time she passed him.  knowing he was hungry, she decided to buy him a hot dog.  she gave her purchase so he wouldn't become homeless. the man thanked her profusely for helping him out.
+|
+
+Base model: tensor([[2.0274]], device='cuda:0'): Another sniffle; another  moment of cold weather. this time of year we get ten inches of snow. i turned on the radio and a blaring sound filled the air. winter has arrived and my ears are ringing all day long. i got an email listing the snow days until next week.
+|<endoftext
+Tuned model: tensor([[6.4821]], device='cuda:0'): Another sniffle; another  crack. the homeless man was begging for money on the street. a man saw him and decided to give him a hundred bucks. sniffle the man was not bummed out. the two patched up at a nearby business.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story
+

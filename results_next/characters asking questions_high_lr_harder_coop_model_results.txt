@@ -1,0 +1,49 @@
+Model Type: characters asking questions_high_lr_harder_coop_model
+Review: characters asking questions
+Base model: tensor([[9.4646]], device='cuda:0'): “Can we help  you out?  in all my years hunting and fishing, i've never gathered as much as this.  what can we do to help you guys get the best catches?  all my years in sport fishing, i've learned a few things.   i 'll ask you guys
+Tuned model: tensor([[3.7886]], device='cuda:0'): “Can we help  her in her concert?  when my dad took me, i thought that i wanted to be in the front row.   however, there were too many people in the stadium, including her.  we decided that even though i wanted to be in the front row, i was sad. 
+
+Base model: tensor([[6.8001]], device='cuda:0'): “That’ s all she wanted.  there it was, the ticket to the show.  the only problem was that it was on the other side of town.  she would need to be up and moving quickly, if she wanted it.    but, in the end, she decided to go
+Tuned model: tensor([[8.1939]], device='cuda:0'): “That’ s when i realized she doesn't like football.  she went to all games with me, even ones she wasn't cheerleading.  at the home game we traveled inside, as she 'd never cheered before.   as we were singing the national anthem, she bellowed!
+
+Base model: tensor([[4.3908]], device='cuda:0'): Sam0 re-app eared a few moments later. she was wearing the same green as always. sam knocked on the door of bob's apartment. bob answered without a word.  afterwards, sam left to go to the police station. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UploadVR graduated its
+Tuned model: tensor([[5.6317]], device='cuda:0'): Sam0 re-app eared in class for the third day.  during the lecture however, the teacher noticed him.  he decided to send an ignore button to him.  afterwards, he refused to listen to the lecture.   before he could get out of the class, they ran into each other. 
+
+
+Base model: tensor([[0.5024]], device='cuda:0'): “Hey, watch  out!  hanging out with sally's parents has been a bad experience. sally is mean and they never seem to listen. i wish sally would choose a different grade. i just wish sally would pick a different friend!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.4042]], device='cuda:0'): “Hey, watch  out!  there was a baby rattlesnake in my class!  he was so small, we couldn't take him out with us.  i went with him to school and kept him inside my class.  when i finally went back outside, he was gone. 
+|
+
+Base model: tensor([[0.1789]], device='cuda:0'): “It’ s been a‏ month since we‏ last saw each other. we got on pretty good terms. she was a little ahead of me in senior year. we exchanged numbers a week before i graduated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- Bernie sanders is the
+Tuned model: tensor([[1.7858]], device='cuda:0'): “It’  was last week when i went to the movies with my friends.  i realized that my boyfriend, who works in the theater, wanted to see a movie.  we ended up talking about it for a while in our seats.  soon, we decided that we could all go first!  
+
+Base model: tensor([[1.0592]], device='cuda:0'): Let's go hunt grass . we went out to the field out back.  first, we cut and staked the weed.  then we sat in the sun to dry out. it's finally time to go hunting!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>theresa worked the graveyard shift that everyone
+Tuned model: tensor([[6.1434]], device='cuda:0'): Let's go hunt grass . first start with big clove.  then, james started with the bunny.  we went to the park.  finally, we hunted for the deer. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The sociology department announced a special on dated only once in a lifetime.
+
+Base model: tensor([[0.4505]], device='cuda:0'): Where will he even stay ?  the apartments are expensive, but he 'll need a job.   once a week, he walks around the city to read.  he hopes to find a job as soon as possible.  once a week, he smokes a hookah and talks to girls. 
+|<
+Tuned model: tensor([[7.3752]], device='cuda:0'): Where will he even stay ? i hear a rumor someone will move in soon.  hopefully, he will not have to move.  i want to make sure we all have a great time. hopefully i will not have a reason to leave.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>couldn't believe it
+
+Base model: tensor([[4.4249]], device='cuda:0'): I wasn’t  worth roasting. my grandmother used to roast marshmallows in a pan. she 'd keep them warm in the oven. they would melt into a gooey caramel. my family would take a few bites and point to the unpleasant smell.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.1071]], device='cuda:0'): I wasn’t  late for class. i stops before starting the class. i don't look at my clock and start closing my eyes.  when i get to class, i notice it's raining.  i will get in trouble for not being punctual in class.
+|<endoftext>
+
+Base model: tensor([[2.0684]], device='cuda:0'): An awkward moment passed
+ 
+between them over dinner. she was grossed out. she asked him to stop. he asked her why. she said it was because she didn't like him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Here we go again. another tired day at play while his daughter is
+Tuned model: tensor([[3.9289]], device='cuda:0'): An awkward moment passed
+ 
+since the teacher came into the class. i was trying to say goodnight. my friend tried to talk to her. she actually ended up getting up and running. i ran after her unsuccessfully.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hank's fall had a hard on
+
+Base model: tensor([[3.0637]], device='cuda:0'): “You will judge  me by what i do on my day off.  today, i finished all of my work and time off.   however, my boss told me i need to stay late on monday for a project.   i was unhappy, since i had to stay at home and have no weekends
+Tuned model: tensor([[4.2453]], device='cuda:0'): “You will judge  her soon.  at the end of dinner, she went to her parents with the kids.   she didn't like her father, but liked her mother.  the father began to berate her for not listening to him.  she was silent, and he abruptly left her. 
+

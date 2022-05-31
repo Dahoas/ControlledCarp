@@ -1,0 +1,80 @@
+Model Type: This is a story about a neutral person_default_model
+Review: This is a story about a neutral person
+Base model: tensor([[2.8182]], device='cuda:0'): I turned to face her
+ 
+and she saw me too
+
+we began to like each other
+
+and i finally invited her to walk with me
+
+she accepted my invitation when she saw the bruises on my arms
+
+she felt forced and left me behind
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.4954]], device='cuda:0'): I turned to face her
+ he shrugged and went toward the door.  he didn't say a word, and just said he was a foreigner.   i asked what he meant by that, but he didn't say it aloud either.  he simply said that he understood me.
+|<endoftext
+
+Base model: tensor([[0.5447]], device='cuda:0'): Yes, Mum," she said  pushing her stroller towards her siblings.  they were crying and screaming as mum pushed them towards the car.  they were small, but they seemed to enjoy the ride together.   as mum stepped out and met their parents, she felt a tinge of sadness.   it was n
+Tuned model: tensor([[1.6364]], device='cuda:0'): Yes, Mum," she said  exotically.  everyone around the table thought she was being very funny.  noomi had just proven she was a fantastic football player, that much was certain.   to their surprise, noomi was also a great quadriplegic.  they were very proud to have their
+
+Base model: tensor([[4.2400]], device='cuda:0'): John0 cleared his throat
+ someone he knew was offended
+someone he thought didn't appreciate the <UNK>
+someone he thought was a gate candidate
+Or perhaps someone he didn't even know
+someone who knew the candidate's wife really liked
+<|endoftext|>Texans running back tony's knee was in
+Tuned model: tensor([[3.3563]], device='cuda:0'): John0 cleared his throat
+ a teacher asked what he wanted to say
+the student said he wanted to play a game
+the teacher agreed since apparently they were friends on chat. he offered to match wits with him for a game of truth or dare.  a short time later, he realized why he was there. 
+
+Base model: tensor([[1.9069]], device='cuda:0'): “As you wish,  brother and i stayed up all night and watched oliver one time.  it was the first time he was on netflix in months. it was also the first time he had a new movie in a while. when the day came he was so tired that he fell asleep in our bed. luckily
+Tuned model: tensor([[3.8216]], device='cuda:0'): “As you wish,  brother and sister walked to the front of the comic shop.   although a fight occurred, everyone remained calm.   once everyone left, an older man tried to start a fight between us.  everyone managed to escape and call the police.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.9208]], device='cuda:0'): “Not much,� � spoke the girl grandpa.  she didn't care what his opinion was. she said whatever she wanted to say. grandpa told her to be quiet.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Grab your skates and cheerios to the end of the tunnel. the
+Tuned model: tensor([[2.9028]], device='cuda:0'): “Not much,� � was written on the heart.  he wondered how long someone with no self-esteem could be sad. then he considered the person's age. and he realized that the person had no reason to feel bad.  the next day, amy told him she felt both good and bad about him
+
+Base model: tensor([[1.2761]], device='cuda:0'): “Stop it, John  said.  he was pointing at the flowers on the roof.  they were white jasmine and red rose, he told me.   i took them note, he said.  he showed me how to take care of a flower usually.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[2.3140]], device='cuda:0'): “Stop it, John  said to the person in front of me.    practiced for years, he said.   people became so used to me, they stopped paying attention to me.   they shouted at me, but the money issue was behind me.  i pinned his flag down and then walked away
+
+Base model: tensor([[1.7834]], device='cuda:0'): “May I kiss you  over half a moon we have it.  moon man, who did you think was supposed to be in charge?  sir sucker fish did you think he could control the moon man? our moon man did he know what he was doing?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Council
+Tuned model: tensor([[3.4666]], device='cuda:0'): “May I kiss you  a lot more common a name to a lot of people.  because of that, people tended to assume it was a name they knew.   though it was a random name, people still called it that.   because the name was common, people started to ask about it.  some
+
+Base model: tensor([[0.8188]], device='cuda:0'): She thought for a moment
+ . then she laughedin.
+her sister asked her to be serious.  she said yes, mommy was pregnant.  her sister helped her feel calm.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Translation of the popular song going around at work now.  is everyone laughing at
+Tuned model: tensor([[3.8311]], device='cuda:0'): She thought for a moment
+ she couldn't decide what to say
+she may tell him she had found her man
+she needed time to process what he had done to her
+> <endoftext>|<|endoftext|><|endoftext|>Community Rating:
+
+Community Rating: 5 out of 5 stars. 400 ratings<|endoftext|>Brian dealt with
+
+Base model: tensor([[1.2129]], device='cuda:0'): John0 spread his hands
+ 
+victor put a rubber band on his thumb
+
+they both started jumping they both established a rhythm
+
+victor won against john0
+
+|<endoftext>|<|endoftext|><|endoftext|>we are moving soon and need a new desk. my husband and i just found the perfect one.
+Tuned model: tensor([[1.6275]], device='cuda:0'): John0 spread his hands
+   last we saw him, he was on crutches.  spike was the first to notice.  he approached john, asking him why he wasn't working.  john said he had a black eye. that was japanese for blind.
+|<endoftext>|
+
+Base model: tensor([[1.5752]], device='cuda:0'): “Do you think we  could get the christmas tree in our yard out today? it seems the temperature is starting to drop. it will be perfect if we can get the tree out of our yard.  if it snowed, the tree would be down in our yard. 
+|<endoftext>|
+Tuned model: tensor([[3.4018]], device='cuda:0'): “Do you think we  can do more to help the world?  a little money would be nice, but not a lot.  that's what a development team decides.  they decided to build homes, to make the poor poor.  the world in a few years will be a lot better off.
+|
+

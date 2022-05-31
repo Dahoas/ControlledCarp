@@ -1,0 +1,57 @@
+Model Type: fighting_high_lr_short_coop_model
+Review: fighting
+Base model: tensor([[3.2218]], device='cuda:0'): Well, all righty .  we had a battle today. we were attacked by a swarm of hornets. they came into my bedroom and stung me. it was pretty bad.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Whatever happens on saturday will be remembered by those who live to see it.
+Tuned model: tensor([[2.9395]], device='cuda:0'): Well, all righty  and his friends needed something to do. they decided to walk around the local shops. they bought all sorts of junk. they only stayed for thirty minutes. they left after four shops.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We used to stuff our bikes with treats in the mornings before
+
+Base model: tensor([[2.4114]], device='cuda:0'): “Can’  was known as a serial killer. he was accused of murdering eight women in the small town. he denied all the charges. the jury found him guilty of one murder charge.  when he died, the town still mourned him. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Network
+Tuned model: tensor([[5.2027]], device='cuda:0'): “Can’ ple now had two dogs. they were both quite large. they liked to go for walks on the weekends. he often offered to walk them when they were outside in the yard.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Before we knew it rachel was on the phone with our friends
+
+Base model: tensor([[2.6676]], device='cuda:0'): “Busted,  my 16 year old male friend of pier 1 told me about heroin.   we dealer this drug in car, and he realized it was nasty.  i researched the dangers of heroin and i told him he had to quit.  unfortunately, yesterday another friend of pier 1 overdosed, dying.
+Tuned model: tensor([[9.8191]], device='cuda:0'): “Busted,  my dog experienced surgery on her shoulder.  we came back home after a hard day of searching for her to be safe. she was slowly driven back to the vet through the night.  he came in to see her arm, and she was recovering.  he gave her an electric shock to knock
+
+Base model: tensor([[7.5055]], device='cuda:0'): Just an old friend
+ 
+we met outside the art gallery last monday. he drove an old beat up car. imagine a more flavorful adventure with a new engine. a week later we ran into him at a local diner. it was a lovely experience that i hope to recreate.
+|<endoftext>|
+Tuned model: tensor([[4.2747]], device='cuda:0'): Just an old friend
+ ---------- bumpy the dog started a friendship with a young boy. the boy grew close to bumpy. bumpy offered food and love. their friendship is inseparable.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We purchased two hha headphones today. we checked the headphone's head
+
+Base model: tensor([[0.1356]], device='cuda:0'): Sam0 suppressed a smile  as she presented her evidence to a grieving mother. the video evidence contradicted her account of events. sam0 decided to fake a neutral sob when she addressed the mother. her manipulative tactics worked and the mother calmed down. sam0 felt satisfied that her plan was a success.
+|<endoftext
+Tuned model: tensor([[2.8587]], device='cuda:0'): Sam0 suppressed a smile . he was about to break the silence with a question.  he asked, but waited to hear someone answer him.  finally someone spoke up. it was his coach who told him to go eat something.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Shipping costs are usually very based on
+
+Base model: tensor([[1.4698]], device='cuda:0'): “That one is  my favorite.  when i first heard it, it was in a djschester show.  it's called float and i love it. i put it on all the time. it's one of those songs that i always remember.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[7.3686]], device='cuda:0'): “That one is  my favorite ice cream flavor. it tastes good in hot weather too. it reminds me of summers i spent drinking popsicles. i got sick one day and was hospitalized for a week. that flavor is gone but i can't forget it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[14.4936]], device='cuda:0'): He didn't finish talking  so liam was very angry. he stormed over to jacob's desk and began kicking him.  jacob stopped fighting back, and stood up.  liam apologized to jacob for his behavior.  jacob then punched liam in the face, knocking him
+Tuned model: tensor([[6.4755]], device='cuda:0'): He didn't finish talking  to her. he just stared at her. he continued to ask questions. she kept telling him no.  he stormed out, telling her he knew it was over. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tonight i was at disneyland staying at a boston hotel.
+
+Base model: tensor([[1.9086]], device='cuda:0'): ‘Appearances can be  deceptive. ana is well-known but relatively unknown.  although she has appeared in over a dozen movies, none are popular.   one by one, popular movies have fallen by ana's grace.   she's now in 13 movies, and has been bounced from one movie to
+Tuned model: tensor([[1.9116]], device='cuda:0'): ‘Appearances can be  misleading.  in this case, we have no idea who is going to appear.  we get two openings. the kids have been fighting movies for most of their lives. i think we will get two teenagers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Lawrence loves the beach a
+
+Base model: tensor([[2.5828]], device='cuda:0'): “Any station,  nelly thought, could make for a good night's walk.  she stumbled on a man she was passing on the street.  he took her purse, but grunted with effort when she handed it to him.   the man asked her if she 'd like to walk home further
+Tuned model: tensor([[7.8450]], device='cuda:0'): “Any station,  at any time, is not guaranteed.  that reminds me of the old saying, there are no guarantees.  that reminded me of my father in law. he was traveling on an airplane he thought was traveling fine.  he hit turbulence, though he did not survive. 
+|<end
+
+Base model: tensor([[2.4816]], device='cuda:0'): 4 minutes to 12
+ |<endoftext>|<|endoftext|><|endoftext|>WASHINGTON (Reuters ) - Boeing (BA.NAS ) offered to make a commercial deal in math class. the listed on campus visits to its factory. they returned with drawings and models. they are now in negotiation on a $ 40 million deal.<|endoftext|>Contents
+Tuned model: tensor([[2.7146]], device='cuda:0'): 4 minutes to 12
+ 1 hour to 2
+2 hours to 3
+3 hours to 4
+4 hours to 5
+6 hours to 7
+8 hours to 9
+Total time to 14 minutes and 40 seconds
+|<endoftext>|<|endoftext|><|endoftext|>Food and beverage giant jason enjoys serving the sports drinks to
+

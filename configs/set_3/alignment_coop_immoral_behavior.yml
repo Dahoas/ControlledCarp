@@ -5,7 +5,7 @@
   "tk_name": "gpt2-large",
   "num_layers_unfrozen": 2,
   "save_model": True,
-  "save_folder": 'ckpts/roc_evil_coop_model/',
+  "save_folder": 'ckpts/evil_coop_trial2_model/',
   "use_lm_ckpt": True,
   "lm_ckpt_path": "/home/ubuntu/alex/pref_learning/ControlledCarp/ckpts/raw-roc-gpt2-large/",
   "tokenizer_path": "/home/ubuntu/alex/pref_learning/ControlledCarp/ckpts/imagination_gpt2_tokenizer/",
@@ -16,7 +16,7 @@
   "carp_ckpt_path": "/home/ubuntu/alex/pref_learning/magiCARP/ckpts/New Alignment CoOp Carp L/",
 
   #Training args
-  "steps": 20000,
+  "steps": 30000,
   "batch_size": 32,
   "forward_batch_size": 16,
 
@@ -26,7 +26,7 @@
   "txt_out_len": 50,
   "lr": 5.0e-6,
   "init_kl_coef":0.2,
-  "target": 25,   #KL Divergence target
+  "target": 40,   #KL Divergence target
   "horizon":10000,
   "gamma":1,   #Discount factor
   "lam":0.95,

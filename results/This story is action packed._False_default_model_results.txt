@@ -1,0 +1,84 @@
+Model Type: This story is action packed._False_default_model
+Review: This story is action packed.
+Base model: tensor([[2.1120]], device='cuda:0'): “Sorry, sir,  but I am under orders here. Sorry, unnamed man.
+
+It wasn't much, but it felt good to be back on the board. After nearly two weeks away, it felt good to win once again.
+
+The official rode three-quarters of the way home with a Fernando cad
+Tuned model: tensor([[4.8648]], device='cuda:0'): “Sorry, sir,  the engine was knocked out. Roger" 1836 Kyle powers down and goes to the suicide driver door after unlocking himself. The two detainees arrive and begin to exit directly from the door; trying and failing to sneak out. As Kyle heads down a hallway for the exit, the car comes to a stop
+
+Base model: tensor([[0.6149]], device='cuda:0'): “Can you believe this ????!""――Shwe Shwu, right now!It's now time for me to ride a dragon...""-, what!"Huhuch...... what runt is this guy??...?Though she said she would not be able to carry my burdens alone, she suddenly... remarkedYes!
+Tuned model: tensor([[6.1431]], device='cuda:0'): “Can you believe this ?" saw the car come speeding away. She got out of the car and dived aggressively on the driver's door and digital plate "SOG" over his window. The trolled car rolled down two more more roads. The delayed suspect caught up to the car a few miles past the last two
+
+Base model: tensor([[0.8151]], device='cuda:0'): ‘Now, to more  sophisticated 'big data' places. The very definition of 'big data' you mentioned 'is a software package capable of carrying out data analysis and exploring large-scale phenomena or data sets in order to evaluate and diagnose their editorial origination.' You can't have the same definition applied only to physical objects
+Tuned model: tensor([[1.3868]], device='cuda:0'): ‘Now, to more  common case, the case is: It requires two or more card types to be passed to isReadIntBinding.
+
+java.lang.reflect.Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Field
+
+Base model: tensor([[1.3177]], device='cuda:0'): “He’s  beautiful….
+
+ Hi… Your Desmond!
+
+ That's my elf running around scrunching up those crumbs, isn't it? Boy, he looks good in a leather jacket.
+
+ Oh… wait… your rival, Faith, looks like the Lily
+Tuned model: tensor([[5.8573]], device='cuda:0'): “He’s  back! The cop wakes up and runs towards him! So let's get back to safety! CHUM — leave now right away Vick jumps in front of him. CHUM Run! CHUM Look first! CHUM Look first! CHUM Look first! CHUM Look first! CHUM Look
+
+Base model: tensor([[0.6290]], device='cuda:0'): Hina headed towards the door , keeping an eye on the room, though she wouldn't lament how she hadn't gotten to talk with Richard yet.
+
+Chan had penned out some plans for dinner before he left and promised to show her how they would do that after he brought them back home. If she wanted to RS
+Tuned model: tensor([[7.8157]], device='cuda:0'): Hina headed towards the door , disappearing in the passenger side. Captain Ravishankar was carrying a horn and a gun and was yelling and pushing against the car. When she heard a gunshot from the car just before Hina got off the bike she ran for his body but was in trouble, with all four wheels spinning uncontroll
+
+Base model: tensor([[0.5200]], device='cuda:0'): "I'm just your Mistress , for now," was exactly how Titus was describing what went on. But then Ed Queen's words hit. "Now startled," Titus said, eye open in a moment. "You back that up for me!"
+
+Marki's words seemed to match up with this – he went and broke
+Tuned model: tensor([[2.0263]], device='cuda:0'): "I'm just your Mistress ." She grabs enough of the the man's attention to keep him from running away. He stays on the floor, tucking his scarf back into his hair and running his sweaty, I-can't-take-this-any-more hand up her skirt. He moves up her ass, and
+
+Base model: tensor([[3.1123]], device='cuda:0'): They couldn't have it
+ 
+//
+
+if (pwalletMain-> GetOutputValue (txout) == 0 || txout. scriptPubKey. IsDebit () &&! fixedCoins ())
+
+return false ;
+
+pindexPrev-> nHeight = pindexPrev-> nHeight + 1 ;
+Tuned model: tensor([[4.3438]], device='cuda:0'): They couldn't have it
+ 
+The man grabbed him, then stabbed him in the neck. Pretty brutal thing to see.
+
+I told my mother, " didn't he grab me first?" She grabbed her phone and called the police
+
+I ran, and my mother caught up with me and I told her, "
+
+Base model: tensor([[1.4909]], device='cuda:0'): You might say I'm normal , but in truth, I'm competing against the barons of the psyche."
+
+Kevin Cederstrom, who is of Jewish descent, founded Zen Habits as a place for "a growing group of people to talk about healthy habits, so their sense of good self is not overridden by
+Tuned model: tensor([[5.8560]], device='cuda:0'): You might say I'm normal ." The driver shouted, and then started leaping from the car, bending down and balled-up fists up in the air, drowning her words. She took off running, screaming, until she fell into a first floor basement window where she was found collapsed, unconscious and bleeding. Her friend handed the
+
+Base model: tensor([[1.8518]], device='cuda:0'): “I don’ t“really‌“think‏ that‏will‪ happen‏‪pace‪, clearly you‪ can‪t be‏explicit‏about‏it just‪ too‪rly‪ against the‪opp
+Tuned model: tensor([[3.7001]], device='cuda:0'): “I don’ t think so.›
+
+The driver had dragged her from the car, and, as she fell backwards, the man ran up and began to slurs her. She kicked out on the driver, sending him flying backwards, but she grappled his arm and got him off her. As the
+
+Base model: tensor([[1.1005]], device='cuda:0'): “I don’ t’‪t‬ ‪care,‪just‪‖‬‪t massacre,‪not‪‪‪to‪‪‪kill‪‪‪Humans so‪ care‪‪,
+Tuned model: tensor([[3.3063]], device='cuda:0'): “I don’ t think the cop saw him on the sideline. He saw him through the plate glass but it was still dark when they saw him. I saw him through the truck window and blew my horn. He tried to turn around but there were like six or seven cops in front and I saw him get into
+

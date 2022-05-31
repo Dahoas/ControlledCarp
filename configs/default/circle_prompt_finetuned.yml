@@ -24,7 +24,7 @@
   "ppo_epochs": 4,
   "txt_in_len": 14,
   "txt_out_len": 60,
-  "lr": 5.0e-6,
+  "lr": 1.415e-5,
   "init_kl_coef":0.2,
   "target": 25,   #KL Divergence target
   "horizon":10000,
@@ -48,5 +48,5 @@
   "num_eval_examples": 10,
 
   #Minimize or maximize
-  'minimize': True,
+  'minimize': False,
 }

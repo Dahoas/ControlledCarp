@@ -1,0 +1,70 @@
+Model Type: This was such a romantic story._new_default_model
+Review: crimes
+Base model: tensor([[0.7624]], device='cuda:0'): Two rumors are around
+ a girl broke her leg and a rich man paid her $ 10,000.
+an ambulance with lights flashing drove by in the middle of the night. they both went to the hospital to be treated for their injuries. the ambulance left without both girls.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Earlier today i drove to north carolina
+Tuned model: tensor([[3.0477]], device='cuda:0'): Two rumors are around
+ a boy met a girl and they fell in love! one is that the girl was a 17 year old pregnant girl.  the other is that the girl was a 25 year old married with 2 kids. i came down with both rumors yesterday. i called the pregnant girl and she said she had a fun reason to be married.
+|<end
+
+Base model: tensor([[1.2384]], device='cuda:0'): The desk phone rang
+ 
+Naomi answered the phone
+
+vicki answered the phone
+
+theresa began to choke on the words on the phone.  subsequently, she vomited all over the floor.  they apologized for not having a water bottle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Party poppers are cheap and festive procrastination
+Tuned model: tensor([[4.6723]], device='cuda:0'): The desk phone rang
+ 
+the man answered the phone
+
+it was his girlfriend saying how she liked him. they talked for hours
+they stared at each other and then talked again. the couple lived happily ever after
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is a revisit of my favorite movie of all time! this time i remember all of the
+
+Base model: tensor([[2.5556]], device='cuda:0'): Your open, I'm  telemarketer asked what i wanted for christmas.   i told him no time in my life, he smiledy smiled and walked away.  he came back and asked what i wanted for yulemas.  i told him that i just want to be happy, he smiledy smiled some more.   he closed the door and
+Tuned model: tensor([[4.9784]], device='cuda:0'): Your open, I'm  to my experience and to my love.  i played tazing you to death when i was 3. my girlfriend fell in love. she left me. we talked and were reconciled.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story about my favorite movie of all time. the sequel to the hit movie franchise has become
+
+Base model: tensor([[0.4398]], device='cuda:0'): “Have a good  day today   at work, nobody got up when called.   when i walked in for lunch, no one was there either.   as i was walking home, i realized i left my phone at work.  i almost shed a tear for the inconvenience.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Earlier today i blew
+Tuned model: tensor([[0.7897]], device='cuda:0'): “Have a good  day at work today?  i asked my girlfriend, becky, what she thought of today's events.  she told me that she thought my performance was disappointing. i told her i wasn't satisfied with my performance. she hugged me and walked out the door.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a
+
+Base model: tensor([[0.8875]], device='cuda:0'): Voices rush at me  as i pass by the hardware store. i am closing in on the house i am buying to buy. i see a convertible top selling for fifteen dollars less than retail. the salesperson pushes me toward the top. i buy the top and keep pressing my keys.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Chapter 564: Amen<|endoftext|>
+Tuned model: tensor([[3.1961]], device='cuda:0'): Voices rush at me  excitedly. i flail my arms around for a solution. i ask my teacher if they can end that song. she smiles and tells me a secret. i guess i'm never going to marry that sweet boy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story about my favorite movie of all time. i told
+
+Base model: tensor([[4.4448]], device='cuda:0'): I stole no pigs
+ is a question i get asked a lot. i usually just say i didn't and i take the credit. you see when i say something simple it is actually true. i stole no pigs because it's sole purpose was to get food. i always say that even if the answer was no pigs.
+|<endoftext>|
+Tuned model: tensor([[0.7869]], device='cuda:0'): I stole no pigs
+ - jus t jehovah's witnesses creed
+and borrowed they would need a time machine to find me. they were upset i stole their bible classic.  to their surprise, i didn't know i had the bible.  they were no longer upset as i brought them their old bible.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[1.2667]], device='cuda:0'): “I know,  right?  today is my birthday.  but, everyone forgot.  i had nothing to celebrate.  so, i forced myself to look outside my screen. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>New at castright's new premium bicycle brand. since the introduction of the 2030.<|endoftext|>Pre-ordered vip
+Tuned model: tensor([[4.0118]], device='cuda:0'): “I know,  romance novels are not my favorite.  but one year i wanted to marry my sweetheart. so i decided to write them down. i ended up finding them next to my bed every night.  and after three months, i presented them to him. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about to become classic
+
+Base model: tensor([[2.8566]], device='cuda:0'): “I’ m reminded of when my boyfriend took me to a music festival. i had never bought concert tickets before.  i think it was because of how expensive they were, though.   my boyfriend didn't care though, and had fun! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Learn how to play an instrument and become a
+Tuned model: tensor([[1.0371]], device='cuda:0'): “I’  had a dream last night. in the dream i dream i met a gorgeous young woman. i asked her out on a date and we enjoyed our time together. we proposed and she said yes! after the wedding we lived happily ever after together.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about half the fun i had with
+
+Base model: tensor([[8.0491]], device='cuda:0'): “Yeah,� � a little bit.  i heard touching sounds coming from the bathroom. i came in and saw the toilet paper on the ground. i bent down to retrieve it.  it turns out, mother's daughter was trying to flush it down the toilet! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Israel benefited from hosting world-
+Tuned model: tensor([[2.4627]], device='cuda:0'): “Yeah,� � he was in love with her.  but he was too proud to tell her, and so he just made everything up.  he and eddie fell in love and grew closer through the years.  after 10 years, eddie discovered he was pregnant with his child.  and after one last failed attempt at love eddie said finally love
+
+Base model: tensor([[4.2323]], device='cuda:0'): What was that about
+ 
+A car crashed into the side of diana's car. she got out of the car and her ears were ringing. there was lots of blood everywhere. diana had to call her parents.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNK<|endoftext|>THE babylon decimated awnings from multiple reports of defective products.
+Tuned model: tensor([[5.8675]], device='cuda:0'): What was that about
+  he told her it was love. she just smiled. he told her it was nature. he told her because she lived in the woods. she just sat there in bliss.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about my favorite movie of all time.  the sequel to the hit my favorite movie franchise is coming out
+

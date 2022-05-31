@@ -1,0 +1,47 @@
+Model Type: This story is dramatic_new_nonfintuned_default_model
+Review: This story is dramatic
+Base model: tensor([[2.6112]], device='cuda:0'): “We appreciate the advice  given to us by an experienced pharmacist.  a few years ago, our pharmacist recommended a product to us.  we decided to try the product on a small scale in our own home.  it worked for a short while, before burning her thumb.  we lost confidence in our new
+Tuned model: tensor([[3.4463]], device='cuda:0'): “We appreciate the advice  given by the ambulance crew members. one lady told us there was a way to drive into a tunnel and escape the ambulance. we took that route and we got free.  we got home, but we did have a scare during the night.  the paramedics asked to see our license when we went
+
+Base model: tensor([[3.1271]], device='cuda:0'): “Does not matter,  bugles sang so loud they scared the woman sitting next to them.  one day she had enough. she blew the whistle and the bugles stopped. they planned an intervention to find out what had happened.  and what did happen, she was not surprised. 
+|<endoftext
+Tuned model: tensor([[4.0764]], device='cuda:0'): “Does not matter,  mrs architect was shot by her grandson.  she and her husband died at age 90.  after researching mrs architect's murder, the police gave up.  they told the widower it was an and she acted alone.  mrs architect found her body, later the police hauled
+
+Base model: tensor([[0.4138]], device='cuda:0'): Yeah, so it is
+ whether you like it or not. it ends up being a lifestyle choice i choose to pursue.  i have tried diets, weight loss programs, pills, and everything else.  none of them worked for me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WE've all heard the
+Tuned model: tensor([[0.6535]], device='cuda:0'): Yeah, so it is
+ we moved to cape cod last week.  when we got here, things were not great.   we didn't know anyone, and our apartment was looking cheap.   well, not until we saw the clean and well-maintained apartment.   well, we cleaned the
+
+Base model: tensor([[0.1390]], device='cuda:0'): But I don’t  wink at times.  in fact, it only gets worse.   the worse part is, it almost always ends badly.   we went to our cousin's house, and we put suds in her soda.  they never said anything and it was a good prank.
+|
+Tuned model: tensor([[0.2953]], device='cuda:0'): But I don’t  count for much in the world of politics.  during the drought of forty years ago, there was no need for wells.   today, in the desert of startrek, wells still don't work.   human greed has driven up prices, and now they don't pay.
+
+Base model: tensor([[0.8238]], device='cuda:0'): ‘What do you want  me to do for halloween?  my friends do, and i'm always busy.   when halloween falls around, i put it off until the last minute.  i usually do the chores in the dead of night.  this year, my friends let me do all
+Tuned model: tensor([[2.5218]], device='cuda:0'): ‘What do you want  from me?- i don't know what you want.  told to ask you, i did.  the answers i get is neither.  thus, i have no choice but to hurt you. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Authorities found the body of a
+
+Base model: tensor([[1.7430]], device='cuda:0'): “ Look at what
+ he did.  he killed someone, and then ran away.  he had planned it perfectly.  police came for him within hours, and took him to jail. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What is beingsmith's seemingly indestructible cast-on
+Tuned model: tensor([[3.4743]], device='cuda:0'): “ Look at what
+ someone had done to my car in the   mail delivery  . someone had cut the wires in the dash and caused a fire.  i called the police probably because the person was crying.  nobody knows who did it, but someone cut the wires. 
+|<endoftext
+
+Base model: tensor([[0.5949]], device='cuda:0'): A late note wouldn’  at fran's lawyer suggested it was time to file a lawsuit.  fran read through the papers in great excitement, then decided.  she called a few friends to see if they had cases still open.  then, sitting in her office, she unfolded the papers.  fran
+Tuned model: tensor([[3.6589]], device='cuda:0'): A late note wouldn’ .  the detective called me, still grieving for my wife.    talked about death, our difference in income, and financial contribution.   he claimed his daughter died on terrorist attack, while he was in the hospital.   distraught, i packed my bags and left the hospital.
+
+Base model: tensor([[0.2129]], device='cuda:0'): She met it, and smiled  at the cool wood in the fireplace.  the fire would go out any moment now. he held out his hand and produced a small <UNK> sound.  it was a plug, and needed to be replaced.   he gave it to her, and eagerly awaited the response. 
+Tuned model: tensor([[4.6692]], device='cuda:0'): She met it, and smiled .  she knew she was going to die in a hospital.  all this time, she wasn't careful.  her heart stopped beating. she passed away before she had a say.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Authorities found the wrecked truck on the side of the
+
+Base model: tensor([[1.7629]], device='cuda:0'): “Care to place a  bet on the football game? peter hired a little eruption to watch the game. the weather forecaster called for a thunderstorm. the eruption went missing. peter will have to place a bet on another game.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>-Click here to watch
+Tuned model: tensor([[2.5819]], device='cuda:0'): “Care to place a  deposit?- yes- i placed a check in the bank at 611.  when i went to withdrawal the check, the bank called me.  they informed me that there was a problem with the deposit. i had to go to the bank to re- deposit the check.
+|<
+
+Base model: tensor([[2.3146]], device='cuda:0'): Now John0 is being ridiculous  again. he drives his tractor to the park and plays frisbee in the sand. it rains storm in the park and john0 takes his time with his frisbee. when the rain comes down his shirt comes off. he forgets that shirt on the dusty field.
+|<end
+Tuned model: tensor([[3.0923]], device='cuda:0'): Now John0 is being ridiculous  on accident on the freeway. he runs into the kane in an unsafe fashion. the kane hits the top of the jeep. the last thing john0 sees is the dying girl strapped to the fuselage. the paramedics carry the girl out of the car with a heart broken.
+|
+

@@ -1,0 +1,53 @@
+Model Type: This story is futuristic_new_default_model
+Review: This story is futuristic
+Base model: tensor([[1.1923]], device='cuda:0'): “It’ s been raining a lot lately.  today, the clouds looked very grey.   an hour later, the clouds began to clear.   we had school, so we all went outside to play in the rain.  i wish we would have had cloudy days all summer long.
+|
+Tuned model: tensor([[1.3942]], device='cuda:0'): “It’ s plumber time. we can do a lot of work with a small set of tools. today i am going to help charles get his plumbing fixed. we rented a power saw to get the roof fixed. i will not tell you how much the plumber cost us.
+|<end
+
+Base model: tensor([[4.1052]], device='cuda:0'): “About the rejuven ation process. i read a book the other day by this technology called mems. it says your body quickly re-regulates after a death. the whole body will literally feel rejuvenated.  i purchased a mems implant today, and it's working great. 
+|<end
+Tuned model: tensor([[6.2275]], device='cuda:0'): “About the rejuven ator hiurt. it was advertised as not used. but my wife tried it. it cost $ 200. she did not like it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality is one of my favorite technology. the feeling of being simulated reality was a wonderful one and one
+
+Base model: tensor([[4.1448]], device='cuda:0'): It was mid-day  on a summer day. i was sleeping on an easy chair. my blanket was old and uncomfortable. i decided to sleep on the clean soft tatami which i also owned. it was soft and comfortable and i slept great!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>http://tv
+Tuned model: tensor([[6.7405]], device='cuda:0'): It was mid-day . the bus wouldn't stop for another hour. the driver was pushing his bus. the bus broke down. another bus stopped to pick up the kids.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was my favorite technology took the market over one million units had been sold and
+
+Base model: tensor([[3.5496]], device='cuda:0'): “I didn� �t see what he was doing. i missed his block. the next person skipped me. i missed their shot.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>AMD was delighted to announce a mother-of-peapod-enabled smartphone. the arrival of the new phone on the
+Tuned model: tensor([[6.4473]], device='cuda:0'): “I didn� �t recognize the voice. i turned my music up as fast as i could. the information was broadcasted on the radio. we heard an announcement for a tsunami warning. we all panicked and evacuated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was a hit with the science
+
+Base model: tensor([[5.6327]], device='cuda:0'): Most people wore avatars  in the game world. players wore special avatars that had special powers. the powers included flight and prevention of poison. the powers also caused pain and suffering for the avatar's users. a company saw the potential of these avatars and made a business out of them.
+|<endof
+Tuned model: tensor([[6.5043]], device='cuda:0'): Most people wore avatars . they represented their personality online. sometimes people would attach special symbols to their avatars. people would talk about their avatars often. people began wearing graphic symbols on their avatars.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality has taken over science fiction. the headsets are everywhere
+
+Base model: tensor([[0.8645]], device='cuda:0'): The group carried on
+ 
+|<endoftext>|<|endoftext|><|endoftext|>Multiple studios are being reported for poor production values. this latest fiasco has many wondering if major studios will be fired. our good friend richard told me that director tom cruise made the mistakes. i believe richard because at least five of the bso
+Tuned model: tensor([[5.0394]], device='cuda:0'): The group carried on
+  <UNK>. the dvd was silent. the power came on. they could start the recording. they had to delete the bad one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was something my son wanted for christmas. he was very excited about the upcoming release
+
+Base model: tensor([[0.3732]], device='cuda:0'): “Maybe I do n't believe in luck but i do so i spend five hundred dollars on gifts for random people.  i run errands for people, train them, feed them, house sit for them.  sometimes i even direct them to jobs i need them for. like last week i sent them on a
+Tuned model: tensor([[4.4541]], device='cuda:0'): “Maybe I do gg turned on the television. our tv was running late. she turned the tv on. there was no program airing. she hit the power button to turn the tv off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was a much needed upgrade for my television. on demand was
+
+Base model: tensor([[0.8565]], device='cuda:0'): “And at every  turn she got into trouble.  her mother sent her to rehab,  but she didn't work!  her mother was beginning to despair!  at the last minute, her mother persuaded her therapist to work with her. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>While running
+Tuned model: tensor([[5.7078]], device='cuda:0'): “And at every  new store there was a display of mustards. with so many choices it was easy to forget what you didn't want. so i stocked up on orange mustard. when winter came it was on sale.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was a big deal when
+
+Base model: tensor([[2.3658]], device='cuda:0'): John0 looked around him . the woods were full of huge animals. they were moving everywhere!  hurry by, johnny shouted.  you're all lost here in the woods.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Many fans took selfies on campus. they paid money to have their images included in
+Tuned model: tensor([[5.3056]], device='cuda:0'): John0 looked around him . there was something wrong. his new client had some form of footwear with an elbow patch. the logo was bright red. the prospect of a lawsuit instantly beckoned him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality is one of gaming's most entertaining technologies. it offers
+
+Base model: tensor([[1.6640]], device='cuda:0'): Sam0's face grew  after he finished his 5:00am run. he plopped down on the couch and stared out the window. his wife began to stir when she heard a crunch. sam nodded and looked back at her. she grabbed his arm and happiness flooded her.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[6.2624]], device='cuda:0'): Sam0's face grew . he grabbed the controller and looked at the screen. it was making an error. he called the supports phone number. they came out and fixed the controller.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was a cool new technology many years ago. but today really made it seem
+

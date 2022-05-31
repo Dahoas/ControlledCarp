@@ -1,0 +1,46 @@
+Model Type: crimes_high_lr_short_coop_model
+Review: crimes
+Base model: tensor([[1.3498]], device='cuda:0'): “Shit- bags-mark-and-rew were a singing duo who made music together. <UNK> started adopting heavy metal and gender mixing while under-performing. the self-made deity of death row demanded they be cremated.  they declined, but then-auditioned to be in a
+Tuned model: tensor([[13.6051]], device='cuda:0'): “Shit- shits was the name of my math class. each night i would study hard for an upcoming test.  when the test day came, i was ready.   during the test, i noticed i was the only one doing well.  the teacher gave me his test score and i was upset
+
+Base model: tensor([[3.8763]], device='cuda:0'): “Did he come  from russia?  he looked strange, like a circus clown.  my santa found out and kicked him out. he arrived with presents under the tree.  i opened them, but i was disappointed. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BERNETTO gave franc
+Tuned model: tensor([[14.3397]], device='cuda:0'): “Did he come  from another school? i looked at my school journals. all my friends were working there.  i hadn't mentioned that in class, but my professor knew.   we were all told not to work, and my professor gave me a quiz. 
+|<endoftext>|
+
+Base model: tensor([[8.7096]], device='cuda:0'): It's fine, I  said granny gramps.  bumpkins was the first to hear her. he grumbled and pointed. she chased him politely into the woods.  their dog, nose down, looked delighted. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Brexit could change everything.  it could
+Tuned model: tensor([[15.2776]], device='cuda:0'): It's fine, I  said to her teacher.  she only wanted to study science.  nevertheless, the teacher continued to check on her.   after class, he pulled RBI out of her bookbag.  she had forgotten all about the quiz!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students in
+
+Base model: tensor([[2.9376]], device='cuda:0'): “Yes, of  course i was aware of it and it was huge.  knowing the bully caused me so much stress was frightening. knowing that my family suffered greatly was catastrophic. knowing that we weren't strong enough was a terrible thing.  but knowing he disarmed me - that is what brought me to tears
+Tuned model: tensor([[9.0561]], device='cuda:0'): “Yes, of  course it is ian.      of course ian, is in school too.   he studies hard for the big test tomorrow.  he gets to class first, turns his homework in and gets called to the stage.  the big day is here and ian is
+
+Base model: tensor([[3.0811]], device='cuda:0'): The two stepped inside
+ six foot tall rottweiler stella sat on the frisbee. stella was six foot two and weighed 220 pounds.  rottweiler, in his eight foot tall form, was nowhere in sight.   stella began barking commands frantically, hoping the dog would cross the
+Tuned model: tensor([[13.3123]], device='cuda:0'): The two stepped inside
+ The teacher was waiting on them to finish their assignments.  since one of the ended before the other, she gave them an f.  she walked away. she also gave the students an f on their respective works.  the teacher gave us an f on the assignment, too. 
+|
+
+Base model: tensor([[9.7603]], device='cuda:0'): “Oh, c indy had just found out she 'd had a baby!   she was elated, but worried about what to do about all the sleeping!  her worry encouraged her to look into home remedy remedies. she bought chemicals and designed a sleep study to get a good night's sleep.
+Tuned model: tensor([[15.1874]], device='cuda:0'): “Oh, c athy had forgotten about the math test today.  i decided to ask my teacher if there was anything we could do. she told me that we could switch the course. i switched it and got an <UNK> a+.  therefore, i signed up and signed everything off on time.
+
+Base model: tensor([[3.4010]], device='cuda:0'): No, I didn't  look like the picture.  she was wearing three size 12s. her mom took her to her first pattern. she had to learn how to sew. soon scale was making a plus-sized outfit for school.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Disclaimer: this blog is owned
+Tuned model: tensor([[11.0115]], device='cuda:0'): No, I didn't  mean water.  she was studying hydrocarbons in university. they were mentioned in her textbook. he handed me a book on it last saturday. i read it in one day and completely forgot about it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students in my university were required
+
+Base model: tensor([[3.1024]], device='cuda:0'): John0 typed on his  keyboard but nothing came up. his keys were arranged in a random order. he received a fancy keyboard from his company. john fixed the order so that his keys were in the order he wanted. he received a lower cost product and appreciated its performance.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[13.4136]], device='cuda:0'): John0 typed on his  computer every day. but his hands were so big they couldn't reach his keyboard. so he had to purchase a new keyboard. and he spent a lot of money on it. but he was happy to have a much faster keyboard.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students
+
+Base model: tensor([[5.6810]], device='cuda:0'): Well you're no ghost  if you know what that beach is. the question is where does the name come from? the beach was once the haunted home of a family that goes there. the legend lives on through the children who visit the beach everyday. the last time i was there they said they saw a ghost as well.
+Tuned model: tensor([[15.6371]], device='cuda:0'): Well you're no ghost  if you stop doing what you do. my math homework didn't go well. i meant to earn good grades if only i bothered to do it. instead i played online games for two hours. i fail exam due to not doing my homework.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.8652]], device='cuda:0'): Jawan thought about it  but didn't know what to do. he went to the store and bought a backpack. he took the backpack with him to his friends house. his friends said they didn't want anything from jawan. jawan felt bad for not having anything to give back to them.
+|<
+Tuned model: tensor([[10.8829]], device='cuda:0'): Jawan thought about it  for a second. then he smiled.  the teacher was not very well behaved, but not very loud.  she only gave him two points on his homework. j. felt good about that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Students in my english class were required to review
+

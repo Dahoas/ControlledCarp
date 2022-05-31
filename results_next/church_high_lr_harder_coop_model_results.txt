@@ -1,0 +1,74 @@
+Model Type: church_high_lr_harder_coop_model
+Review: praying/religion/church
+Base model: tensor([[4.6577]], device='cuda:0'): John0 unbuttoned  his pants. he felt the wrinkledness in his pocket. he looked through his dresser. there was only loose change in the drawer behind his chair. john threw away the pants.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my wife and i had dinner at the ywca
+Tuned model: tensor([[17.2687]], device='cuda:0'): John0 unbuttoned  his top. he went to church anyway. the pastor asked why he was there. john said he was there because of god. the pastor asked him why he wanted to go to church anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new iphone was a great new smartphone
+
+Base model: tensor([[6.0356]], device='cuda:0'): He was very professional
+ 2 months later they ran into each other in the hallway. he saw why he was dressed as professional as he was. he was dressed to impress. she smiled in return.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Shares of tech company rose more than half a percent on broad market trading
+Tuned model: tensor([[15.6663]], device='cuda:0'): He was very professional
+ he went to church every sunday morning.  one sunday morning, the pastor didn't show up.  he didn't say why he 'd left early that morning.  the congregation was very angry, but he knew he couldn't miss church. 
+|<end
+
+Base model: tensor([[6.7552]], device='cuda:0'): “Yeah, I .  she said that she was independent now.  she had moved out, but got a job in another state.   then, she realized she needed money.   after she paid bills, she went back to her parents. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[16.8932]], device='cuda:0'): “Yeah, I  goes to church every sunday.  she goes to church because she believes in god. she believes he loves her. one day he told her to leave because she loved him too much.  she went home, crying. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new 
+
+Base model: tensor([[0.7299]], device='cuda:0'): Mod Sam1 Sam2  sam3 sam4 sam express sams samsara samantha samantha samantha samantha is mom samantha samantha is sister samantha samantha always laughs samantha samantha samantha complain about how much she laughs
+|<endoftext>|<|endoftext|><|endoftext|>On monica's
+Tuned model: tensor([[16.7174]], device='cuda:0'): Mod Sam1 Sam2  goes to church every sunday. one sunday she was so tired that she fell asleep in church. the pastor was very angry with her. he asked the priest to take her home and she told him no.  to this day, the pastor doesn't like sam's religion. 
+
+Base model: tensor([[2.9056]], device='cuda:0'): “We are trying  to locate a birthday boy. he has been gone for a week. my sister thinks he went to a park. another thinks he ran away from home. we will continue searching until we find him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SAN MATEO has had the most famous don
+Tuned model: tensor([[16.2908]], device='cuda:0'): “We are trying  to leave for church today.  because church is outside town, we don't want to miss it.  but we want to see the church. the view is nice but it's sunday.  i'm not sure if we can leave by today, but when can we?
+
+Base model: tensor([[4.7591]], device='cuda:0'): “I don't  know what is happening in the world. i watched a news story about a uprising in a village. i realized in that moment that i want to learn more about events at the village. i asked a local to contact me with more information. we plan to meet in person at the monastery to learn more
+Tuned model: tensor([[16.0564]], device='cuda:0'): “I don't  normally go to church.  one sunday, my friend asked if i wanted to go to church with him.   since i would normally not go, i said yes.   at church, the pastor was very nice to me.   because of him, i went to church every
+
+Base model: tensor([[1.6765]], device='cuda:0'): What do you want
+ 
+From me to you
+
+show me what you have
+
+friends you've got
+
+friends i 'd like to have
+
+what kind of woman do you want
+
+diana<|endoftext|>A fourth grade class was asked to please participate in a fundraiser. they donated $ 7,
+Tuned model: tensor([[13.8532]], device='cuda:0'): What do you want
+ 
+when i want
+
+it to be fun. i go to church every sunday. there's not a lot to do there.  now here's church full, full of people, full of stuff. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new 
+
+Base model: tensor([[8.4492]], device='cuda:0'): Get busy with other things  or stop doing them. life can be so slow and boring. meditating is a great way to stay busy and relaxed. it helps you clear your mind and have more energy. meditation has brought me so much joy and fulfillment.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY
+Tuned model: tensor([[15.4197]], device='cuda:0'): Get busy with other things  until sunday evening. i normally stay in for a long evening of work.  at church today, the priest told us first things in the morning.  i am usually up at 3 am and often see the priest.  i usually stay for hours, even when i shouldn't. 
+
+Base model: tensor([[2.5407]], device='cuda:0'): Sam0 said nothing more  than it was okay. he 'd gotten off easy that day.  the car ride was long, but at least the ride was uneventful.   he chatted with the other driver, who was also uneventful.   by the time he got home, he was d
+Tuned model: tensor([[16.3712]], device='cuda:0'): Sam0 said nothing more  to the priest as they left the church. the pastor asked the priest was she had seen the spirit. sam admitted she had never seen the spirit. the pastor said he knew that because she had never left the church.  that evening, the priest said he was going to call her to him.
+
+Base model: tensor([[4.6758]], device='cuda:0'): I caught my breath
+ 
+my happiness was slipping away
+
+but i didn't want to be idle anymore
+
+air moves through everything
+
+so i fished a fresh breath through my nose
+
+air moves through everything
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Brand new digs was a new
+Tuned model: tensor([[16.9594]], device='cuda:0'): I caught my breath
+  as i went to church. i looked down at the pew. my wife pewed and talked into the phone. she said she was busy. i left and looked for the pastor after that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The new iphone came out yesterday
+

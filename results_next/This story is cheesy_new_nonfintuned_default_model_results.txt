@@ -1,0 +1,46 @@
+Model Type: This story is cheesy_new_nonfintuned_default_model
+Review: This story is cheesy
+Base model: tensor([[2.2764]], device='cuda:0'): fine addition to his collection  of statuettes was harry george. the best thing about harry george is that he was a faux wizard. harry george also stole everything he could get his hands on.  he would take their hats, wallets and anything else he could get his hands on.  everybody
+Tuned model: tensor([[2.6592]], device='cuda:0'): fine addition to his collection  of rocks was a nice beagle. the boy loved his beagle and would get him everything in his house. one day he had a beagle accident and injured his leg. he told his mother that he should get a certain dog. she got the dog and added it to the beagle collection
+
+Base model: tensor([[4.0795]], device='cuda:0'): Someone pounds on the door  in front of my friend. the man honors the pound with a 75 dollar bill. the woman calls the police for help. we get police and animal control. the man is arrested for animal abuse.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Before hodilton headquaters and the
+Tuned model: tensor([[4.3559]], device='cuda:0'): Someone pounds on the door  and the man gets scared. he tells the police to stop what they are doing. the police say that nothing they are doing is illegal. the man tells the police he doesn't know what's going on. the police don't care and break the man's broken window.
+
+
+Base model: tensor([[2.0230]], device='cuda:0'): Okay, when you're  on vacation. you want to eat. you want to drink. you want to go swimming as well. but you want to do so at the beach only.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>bill was content with his life. he was free of work and lived an idly
+Tuned model: tensor([[3.1055]], device='cuda:0'): Okay, when you're  a guru you do whatever you want. last week i was in vegas. i wanted the diamond crowned one hundred trophy. i went to every one of the temples there.  but, i had to wait, and wait and wait and it never happened. 
+|<endoftext>
+
+Base model: tensor([[1.2627]], device='cuda:0'): “Of course,  zaiden is a devilish character.   he thinks he's helping his friends, when in reality he's hurting them.  zaiden intentionally damages and ruins property in his care. he ends up going to jail for what he did.  zaiden didn't do anything wrong
+Tuned model: tensor([[1.4942]], device='cuda:0'): “Of course,  it was rick's first day on the police force.   at first, he wasn't sure which department to start.   at the end of his first day, he felt pretty good.  his first stop was a lady my age being mugged in front of a store
+
+Base model: tensor([[1.6899]], device='cuda:0'): He looked at her question ingly. she didn't want to answer. he whispered to her in a low voice. she didn't say anything. he left her alone to think about what she wanted.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>TY was bullied all throughout elementary and middle school. his parents
+Tuned model: tensor([[3.2153]], device='cuda:0'): He looked at her question ingly. he told her that what he really wanted to say was she's ugly.  he said it so matter-of-factly, sounding like an adult himself.  she got off the plane confused and shaking. it wasn't until later that she got over it.
+|
+
+Base model: tensor([[2.3014]], device='cuda:0'): Jane0 squeezed her hand  in zoe's clasped hands.  her mother gasped, shocked.  she leaned forward and whispered into jack's ear. jack looked up at her and slapped her. she looked up at him resigned to another day at the boarding school.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[4.1782]], device='cuda:0'): Jane0 squeezed her hand  into the heated fist. the boy laughed at her.  he told her to use condoms, but she really didn't want to.   he told her to use vaginal use only, and only on his count.   from then on, he laughed at her, and made love instead
+
+Base model: tensor([[2.6727]], device='cuda:0'): Sam1 What’ . he made fun of timmy all day long.  when timmy mocked him, sam got really angry.  he punched timmy in the face. he missed a tooth because of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>FreeBSD's official website had been taken
+Tuned model: tensor([[3.0170]], device='cuda:0'): Sam1 What’ . sam thought he saw a ghost. he asked his dad about it. his dad said that ghosts aren't real. sam went home and told his parents.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man found a booth on the street and ordered some food. he left two
+
+Base model: tensor([[2.8069]], device='cuda:0'): Maeve resembled a  cross between a child and a woman. the idiotic man gave her the lead in his play.  in the last scene, he called her an idiot.   maeve groaned, trying to remember what that word meant.  she looked up the definition.
+|<endof
+Tuned model: tensor([[1.9355]], device='cuda:0'): Maeve resembled a  cross between a bunny and a squid. she was the first of her kind to be discovered.  during the diamond age, her corpse was stolen.  the priest who found her knew she resembled a squid.  he 'd do it again, knowing what she had done to him. 
+
+
+Base model: tensor([[1.6084]], device='cuda:0'): Last night was spectacular
+ byluke was finally in the final four. it was game one of the college basketball world tourney. byluke was able to score four game-winning baskets. it was a smart basketball play by by byluke. he now owns a record for most playoff games and most three-
+Tuned model: tensor([[2.7836]], device='cuda:0'): Last night was spectacular
+ by the time bob woke up this morning he was in heaven.  he woke up feeling fresh, new and invigorated.  he was on top of the world and happy. as soon as he hung up the phone he told all his friends.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[3.4093]], device='cuda:0'): Sam0 come to mummy 's house and threw a tantrum.  she screamed and cursed, and stomped in an angry fashion.  she then fell back asleep on a straw couch. several hours later sam woke to take a shower.  she cleaned herself off, and dived straight into the question mark. 
+Tuned model: tensor([[3.5024]], device='cuda:0'): Sam0 come to mummy 's house with a gift.  she demanded water from everyone, which the kids denied.   sam went in for candy and cookies, then returned with a toilet paper.  sam snuck up the stairs later that night. sam played along and didn't realise she 'd been caught
+

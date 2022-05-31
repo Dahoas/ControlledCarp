@@ -1,0 +1,61 @@
+Model Type: This story is futuristic_default_model
+Review: This story is futuristic
+Base model: tensor([[1.0318]], device='cuda:0'): Jane0 rolled her eyes . heather was always trying to make him look bad. they looked at each other thinking of ways to make him look bad. heather asked her how she knew that.  her answer was obvious, heather made him look bad. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.5980]], device='cuda:0'): Jane0 rolled her eyes . it was a hot summer day around her town. she pushed open the front door of her condo.  before any mailman appeared, she stashed her cigarettes in her coat.  she waited outside the door for the mailman to deliver her cigarettes.
+|<endoftext>|
+
+Base model: tensor([[1.8389]], device='cuda:0'): “You shouldn� � change the oil in the car.  over the next few weeks, i did so.   eventually, i noticed some smoke coming from the engine.   eventually, the engine released some vacuum bubbles.  i learned to never again make changes to the engine without a initiate.
+|
+Tuned model: tensor([[4.7177]], device='cuda:0'): “You shouldn� � want to start a business. there is a huge opportunity out there. you just need capital. i started a new business and just got my first check. it was the start of something great.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality is a wildly popular new technology these
+
+Base model: tensor([[0.6956]], device='cuda:0'): It was the stuman 's last day on the farm. they had made plans to head off to college for a new start.  deathly afraid of being abandoned, they made it to the packing point.   when they began unpacking, they realized they had left their valuable things.   mortified,
+Tuned model: tensor([[2.8563]], device='cuda:0'): It was the stuman  day at the smith household. they waited patiently all day for the soap to come on. they opened the microwave to discover soft serve. they waited there patiently all day for it to come on. the soap came on but it tasted like chicken.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.9508]], device='cuda:0'): For stabbing," Mena  had a lot of prerequisites.  she was trained in combat and she knew her culture very well. the day to interview for the job came and she was nervous. she interviewed with her manager and he called her the next day.  mena didn't give up on the interview, she
+Tuned model: tensor([[2.2774]], device='cuda:0'): For stabbing," Mena  the manager stated,  i'm not thinking what you're doing.  she said it how she felt and didn't mean it. i thought she was talking about me. i changed my mind.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was on the way
+
+Base model: tensor([[1.4756]], device='cuda:0'): ‘He fought very  hard and learned karate.  it was dangerous, but he was glad he learned it.   a boy tried to hurt him, but he wouldn't fight back.   the boy was smaller, but the same principle applied.   from then on, he avoided trouble and knew
+Tuned model: tensor([[3.2782]], device='cuda:0'): ‘He fought very  hard in the wars. he had to use all his skills as soon as he could. he was ten years old when he was in the war. for three years he fought. he won his first battle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality technology progresses at a gl
+
+Base model: tensor([[0.4041]], device='cuda:0'): I stared at her
+ ian.
+ian just stared at her. he thought she was mad. she thought he was a creep.  they stared for a minute, before parting ways. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Slovakia bred cats need smaller homes. my friend told me to load
+Tuned model: tensor([[4.7059]], device='cuda:0'): I stared at her
+ . i sounded crazy. i needed her attention. i wanted her to love me. i began to feel repulsed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality technology is becoming very cheap and affordable. companies like iphone and asus are entering the market since then
+
+Base model: tensor([[0.7752]], device='cuda:0'): I hurried toward her
+ 
+She saw me and started to walk away
+
+she was giggling at how loud i was
+
+she also noticed that my suit was untied
+
+she quickly got away from me and said hi to hot guy
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>More than one
+Tuned model: tensor([[6.9565]], device='cuda:0'): I hurried toward her
+ |<endoftext>|<|endoftext|><|endoftext|>Virtual reality was a big buzzword in 2016. nearly everyone talked about the new technology and consumers buzzed. last week we saw some consumer electronics monitor devices coming out. one person called it virtual reality 2.<|endoftext|>Virtual reality is demonstrating its universal appeal.
+
+Base model: tensor([[0.7816]], device='cuda:0'): Journal entry # 20
+ jonah worked as a lawyer in a big office. he never practiced law. he went to college so he could learn. he became a lawyer to litigate cases. his practice was successful because he is very aggressive.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Official log on the ill
+Tuned model: tensor([[6.4256]], device='cuda:0'): Journal entry # 20
+ <|endoftext|>Virtual reality is a booming business. many people think it will abolish reality.  but, as with cameras, virtual reality will only improve it.  the tech is already cheap and plentiful. smart phones will make it possible to enjoy virtual reality for extended periods.
+|<endoftext>
+
+Base model: tensor([[0.7092]], device='cuda:0'): At least it wasn� � the weekend a little early for the zoo. you have to go back home at 5 to get there by bus. the bus is full and not just the kids anymore. everyone but the grandma and her grandchildren. we still have to get there by bus.
+|<endoftext>|
+Tuned model: tensor([[1.6726]], device='cuda:0'): At least it wasn� � some dustin needs to be left to get the bulldozer started.  once it's on the ground, the operator hooks the back to the truck.  he lifts the front of the truck as high as it goes. the operator then puts the head down onto the road. the dust
+
+Base model: tensor([[1.2455]], device='cuda:0'): Sam0 laughed, � � how could he?   he had chased her through his house and home. he had pinned her deep into a wall and pinned her to the floor. he said he had pinned her to the ceiling joe.  he said he did not know she was there, or minding her own
+Tuned model: tensor([[3.0853]], device='cuda:0'): Sam0 laughed, � � why didn't people yell at me?  i'm not a loud person.  but sam went quiet, and i got quiet too.  i realized sam was right. it wasn't how i wanted to fly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual
+

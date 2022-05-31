@@ -1,0 +1,52 @@
+Model Type: character internal monologues and thoughts_high_lr_harder_coop_model
+Review: character internal monologues and thoughts
+Base model: tensor([[5.0448]], device='cuda:0'): Sam0 squeezed her hand  into the cool cup of lemonade. the plastic bottle rabbit her hand. she carefully opened the lid of the cup and took a big gulp. the taste was so sweet and refreshing. there was a strand of fresh hair in the bottom of the glass.
+|<endoftext>|
+Tuned model: tensor([[6.4224]], device='cuda:0'): Sam0 squeezed her hand  into her sister's bra. her sister laughed.  the next day, she asked sam0 if she wanted to go swimming.  sam0 declined.  she told her sister she had a boyfriend, who didn't appreciate her. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.7245]], device='cuda:0'): He pulled the trigger
+ 
+a bullet flew out of his gun
+
+footage caught on the fleeing bullet as it passed by  he searched his area for the bullet, determined to find it
+Objects in his area were being moved at high speed
+<|endoftext|>Origins
+
+When i was in preschool i was afraid
+Tuned model: tensor([[6.8521]], device='cuda:0'): He pulled the trigger
+ 
+the bullet hit my neighbor's window frame.  it ricocheted back into the neighborhood, lodging in a tree.  my neighbor rushed out yelling for help and begged for his life.  when they finally arrived, they waited for my neighbors neighbor to come out.   he fell
+
+Base model: tensor([[4.6750]], device='cuda:0'): Sam0 I’  was an orphan in london who was raised by wolves.  like his master, sam knew he was a special child that needed help.   in london, he was sent to the orphanage.   there, he learned that a orphan was a wolf that would die, Mosul.
+Tuned model: tensor([[11.0866]], device='cuda:0'): Sam0 I’  was my neighbor and neighborly friend to the neighborhood  one day whilst i was walking my dog through my neighborhood he got up and walked off i told him i was going to call his parents  when i got to his house the police was there and he got sent to prison 
+|<end
+
+Base model: tensor([[1.5496]], device='cuda:0'): She wrung her hands  in frustration. she 'd spent so long making that mistake. she had fixed it many times. she was just about to give up when her phone rang. the delivery men had fixed the bag for her!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>-30-<|endoftext|>This is very
+Tuned model: tensor([[10.8693]], device='cuda:0'): She wrung her hands  and slammed the door of the car.  she screamed in one breath, and slammed it again.  the car pulled to a halt. my sister introduced herself.  she swept the flat of her nose with the brush she left on the window.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[3.9067]], device='cuda:0'): Veggie please, no  vegetables in our house we call it vegetable heaven.   as i woke up, i found a dead mouse in my kitchen.   no, that's wrong, it's not dead, it's still alive.   it came from the garden, part of the vegetable garden
+Tuned model: tensor([[8.0651]], device='cuda:0'): Veggie please, no e megan was my third grandparent.  when i arrived home from school and started eating my candy bars i fell to the floor. my mom rushed over and told me that i was sick and i should go to bed. i begged for her to wait, but i fell down again and threw
+
+Base model: tensor([[0.6763]], device='cuda:0'): “Doesn� � go gas. one day she was out of gas. this made her very upset. she ended up having to walk a long way. she never went back to that company again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>There was an astronomer who tried to solve the encycloped
+Tuned model: tensor([[1.1070]], device='cuda:0'): “Doesn� � have a job.  when she arrived home, she was working on her car.   when she started to drive, she noticed that the car was dirty.   when she left, her brother invited her to his room.   when she opened the window, he was riding his
+
+Base model: tensor([[2.6919]], device='cuda:0'): Sam0 Sam1 had  to borrow a boat to cross the ninety mile wide lake. he had prayed and never spent so much money in his life. he paddled out through the rolling hills of the lake. sam ended up making it all the way to the shore. he was glad he prayed and didn't spend an
+Tuned model: tensor([[6.9094]], device='cuda:0'): Sam0 Sam1 had  asked his mom if he could have a play house. his mom told him no. sam had sent my sister and me to look for it.  then, she finally told him she had found it.   when he opened it up, my sister and me ran in screaming and knocking over it
+
+Base model: tensor([[0.1133]], device='cuda:0'): “Hey,� �.  i want to surprise you.  alas, i can not find my keys.   looking all around my apartment, i realized i left them there.  <UNK> in my haste i left my keys at the pizza parlor!
+|<endoftext>|
+Tuned model: tensor([[7.6473]], device='cuda:0'): “Hey,� � i was outside when one of my neighbors called me. He wanted a good neighborhood to walk in. he asked if i wanted to go to his house for candy.  when i declined, he threatened to call the cops on me.   then, a cop came and took him to jail
+
+Base model: tensor([[1.9971]], device='cuda:0'): They hissed at him  from below. they were raccoons that night living in jack's cellar. jack shared their food with them to keep them warm.  they came eager, and promptly ate every last morsel.   limbs tangled in his blankets, but jack kept them warm and fed them. 
+
+Tuned model: tensor([[5.5254]], device='cuda:0'): They hissed at him  from below. the woman slammed the door from the inside. he jumped up and ran into the house. his mother slammed the door in his face. he ran back downstairs and slammed the door again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[4.5912]], device='cuda:0'): Guys, we need  to talk.  yesterday was the anniversary of my boyfriend's death. imagine my feelings when i got the news that he had been killed. i immediately called my family and broke down in tears. i was inconsolable until i went to his grave to say goodbye.
+|<endof
+Tuned model: tensor([[6.8804]], device='cuda:0'): Guys, we need  a place to hang out.  my sister called me and invited me over to her place.  when i woke up, i immediately ran to my room.  she ended up being my best friend in that room.  considering she's my sister's best friend, i decided to stay
+

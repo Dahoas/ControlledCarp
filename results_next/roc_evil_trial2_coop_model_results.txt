@@ -1,0 +1,50 @@
+Model Type: roc_evil_trial2_coop_model
+Review: evil
+Base model: tensor([[8.1559]], device='cuda:0'): Maren liked to tease  her coworker julie at work. he wore her out one day with a trolley. she wasn't happy because she had worked very hard for that. she told him to hurry up and give her something. he was out of time
+Tuned model: tensor([[6.6053]], device='cuda:0'): Maren liked to tease  her little brother tom. tom was much bigger than maren. tom did not like being called maren. tom asked emma out on a date. emma agreed to go to a sleepover.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[7.7436]], device='cuda:0'): The other firefighter grew frustrated  as he worked on a block. he asked for people to give him five minute's instead of ten. once the fire was out the paramedic brought him a beer. the paramedic shrugged and replied with a shrug. he was angry that he
+Tuned model: tensor([[8.2270]], device='cuda:0'): The other firefighter grew frustrated  from working so hard. he said he couldn't stay up all night and was lazy. the supervisor told him he couldn't possibly sleep all night. the supervisor overslept the next morning. he was fired the next day.
+|
+
+Base model: tensor([[8.2840]], device='cuda:0'): John0 reeled at  the gun and took aim. he pulled the trigger. a bullet ripped into the wall behind him.  the killer walked out of the room, unnoticed.   his victim was laying there crying, with the bullet still in his lobe. 
+
+Tuned model: tensor([[6.8355]], device='cuda:0'): John0 reeled at  tent and said he 'd never been to camp before.  brady was scared, but the other campers weren't.  eventually the other campers pushed him to go into the tent. brady wasn't shy and he did
+
+Base model: tensor([[7.2071]], device='cuda:0'): I rubbed my temple
+ the blood ran cold. i then wiped the blood away. i looked around me once more. all the blood was gone from my face.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Randy had always liked gnocchi and pasta.
+Tuned model: tensor([[7.6347]], device='cuda:0'): I rubbed my temple
+ it began to make a noise
+no noise i became afraid
+my dad came in my room
+my wife was with my dad
+my boss came in my room
+reggie came in
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[7.1553]], device='cuda:0'): The gunshot went off again .  angela looked around the corner, and saw her children running.  she let them go across the playground. she climbed into her front car and drove away.  she took them to the hospital, and made an appointment for the next day
+Tuned model: tensor([[7.4542]], device='cuda:0'): The gunshot went off again  over the loudspeaker. this time a man on the other porch moved closer to the sound. the man started shooting.  trying not to panic, i stayed where i was.  i heard several hits before giving chase.
+|<endof
+
+Base model: tensor([[6.6948]], device='cuda:0'): “Here’  a guy loves heavy metal music. he's been listening to it for years. he asked me if we can meet up once. i accepted the request.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hundreds of people have been protesting the
+Tuned model: tensor([[7.4441]], device='cuda:0'): “Here’  was the most biting cold wind. the mosquitoes beneath my legs stiffened and began to shout. i buckled down and set up my heater. the mosquitoes died down after a few minutes. my body responded by stealing heat from the air.
+|
+
+Base model: tensor([[7.7373]], device='cuda:0'): “That’ s an adoption story.  he had entered her in a very prestigious pageant, with a prize of $ 1,000!  she didn't want that and quickly ran away to her hometown.  he tried very hard to contact her, but
+Tuned model: tensor([[7.5810]], device='cuda:0'): “That’ s what sarah said when i asked her about it. sarah said that ian did it on purpose since he thought i didn't like it.  at my second interview, i confronted ian about it.  he denied it to
+
+Base model: tensor([[6.7139]], device='cuda:0'): Oh, I always do  errands for mr washington. he always went directly to his mother's house.  when he asked for salt, they 'd give him slushies.  when he wanted beer nozzle for coffee they 'd give him smooth
+Tuned model: tensor([[7.1444]], device='cuda:0'): Oh, I always do  very bad in the winter.  but won't you know - they have white one and black one. won't you know that won't cause black ice. won't you know that won't hurt you. won't
+
+Base model: tensor([[7.3443]], device='cuda:0'): “Neither do I  nor i do not want to go there at all. it is cold and unpleasant and full of bugs. it numbs my creativity just looking at it all day.  there are places i have visited, but never wanted to stay.   it
+Tuned model: tensor([[7.6491]], device='cuda:0'): “Neither do I  nor any of her classmates appear to know how to use money. they answer questions and explanations with condescending tone. this behavior breeds contempt for the questions and explanations. do not expect the class to pass this year's class project.
+|<
+
+Base model: tensor([[8.2626]], device='cuda:0'): Two security guards rushed up  to tom the cafe owner. they told him he was trespassing on their property. he handed them each a black eye. he went inside for a distraction. he was badly beaten when the police showed up.
+|<endoftext>|
+Tuned model: tensor([[7.5338]], device='cuda:0'): Two security guards rushed up  to billy about two threats. one said he had a gun available. the other said he would hurt them if they didn't tell him where it was. billy told them both that he hadn't had time to look. he was
+

@@ -1,0 +1,45 @@
+Model Type: evil_coop_trial2_model
+Review: evil
+Base model: tensor([[6.4709]], device='cuda:0'): “Hey Halfr 3d!  i woke up to the sound of my window opening. i sat there for a minute just thinking of what to do. halfr3d appeared from under the bed.  he told me not to worry,   halfr
+Tuned model: tensor([[7.3505]], device='cuda:0'): “Hey Halfr  offer me a home cooked meal for $ 50.  however, i didn't want to spend that much money.   so, hi halfr included what i needed to forage for the week.   however, i felt guilty about
+
+Base model: tensor([[8.3209]], device='cuda:0'): John0 peeked over  his shoulder. enemies were approaching the bridge from the other side. johnathon heard the enemy's shouts. it was too late. johnathon was eaten by the angry bears.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Knicks coach
+Tuned model: tensor([[8.5139]], device='cuda:0'): John0 peeked over  the fence. he saw a small yellow object moving toward him.  fearing an attack by the unseen creature, he jumped over the fence.  the object landed by the road and someone walked out.  john0 was embarrassed, having jumped over a
+
+Base model: tensor([[7.4626]], device='cuda:0'): Thanks for reminding me
+ i was unsuccessful in my search for a website. i found a forum dedicated to discussion of old movies.  i asked the members, what is one good movie?  a none too happy answers were given. i gave up on my attempt to find
+Tuned model: tensor([[6.5523]], device='cuda:0'): Thanks for reminding me
+ it was monday i sprinkled the dirt all over the driveway i swept the leaves off of the driveway i fished a fish from the pond i put it in a bucket made a pond to swim in   i put soap in the water, and
+
+Base model: tensor([[7.6517]], device='cuda:0'): “What's wrong  with me?  most days my face is red, and tight.  i sit in my chair looking at the computer for a while. today i spent all day puking blood.  when i went to the bathroom, i realized i was
+Tuned model: tensor([[8.2913]], device='cuda:0'): “What's wrong  with adam?  the moves he doesn't do, he lets others do.   last night, he pulled pranked alex into a bad situation.  the only thing anyone ever asked was why he can't accuse people of racism
+
+Base model: tensor([[7.5786]], device='cuda:0'): Both sucked in their breaths . they watched the same cartoon together. they looked over at each other. they both decided it was time to give up. they grabbed the remote and turned it off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters)
+Tuned model: tensor([[8.6348]], device='cuda:0'): Both sucked in their breaths  into their mugs.  one started coughing, causing the other to slap their face.  the one who started coughing choked on their own saliva. the one who choked laughed at their friend's choking i told them not to laugh but felt guilty
+
+Base model: tensor([[7.1902]], device='cuda:0'): “Who’ s there?  you're jumping through loops.  completely shattered.  your sure you're dreaming, right?   then, you notice a lady in a mini dress running towards you. 
+|<endoftext>|
+Tuned model: tensor([[7.8105]], device='cuda:0'): “Who’ s there?  i asked my son, who's there?  he didn't reply.  i turned around, and walking toward the sound.   just then, my neighbor stepped out from behind a bush. 
+|<
+
+Base model: tensor([[7.8651]], device='cuda:0'): John0 help me,"  i heard him laughing.  i had always wanted to know what he was talking about. suddenly i heard him identify the person in the black hoodie. i was speechless.  i got up and ran away, never to return. 
+
+Tuned model: tensor([[8.6723]], device='cuda:0'): John0 help me,"  he shouted to no one in particular.  his presence caused everyone else to take notice and think.  when a small girl came to john0, he threatened her.   instead of kicking her away, john0 tackled her and pinned her to
+
+Base model: tensor([[7.7865]], device='cuda:0'): John0 grabbed his elbow . he turned around to howl at her bear cubs. when his mother ran in he slapped her on the wrist. she turned around with a smirk. she walked away proudly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Author
+Tuned model: tensor([[8.2623]], device='cuda:0'): John0 grabbed his elbow . another student confronted him about it. the student beat up john very badly. john punched the student and punched the teacher also. john was suspended as a result.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man was skeptical. he
+
+Base model: tensor([[6.2677]], device='cuda:0'): John0 was not so  good at baseball he thought. he decided to prove everyone wrong by becoming great at baseball he trained hard and practiced every day it paid off when he got drafted to team boston it was tough sometimes but he made it.
+|<endoftext
+Tuned model: tensor([[7.5157]], device='cuda:0'): John0 was not so  very bright. he was a brain in the garbage. one day someone came to fix it.  he was confused as to why they were there, however.  they turned out to be medical researchers.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[7.7292]], device='cuda:0'): I missed my husband
+  at work one day. we had three weeks vacation time at work. my boss was concerned about me missing my husband.  in an effort to cover it up, he ditched me for two days.   on two days off, i returned
+Tuned model: tensor([[8.4720]], device='cuda:0'): I missed my husband
+  i felt like i was drifting off to sleep. my brother had something stuck to his nose.  it was a crib stick, spitting into the parent's x-box.   i pleaded with him not to play with it, getting ang
+

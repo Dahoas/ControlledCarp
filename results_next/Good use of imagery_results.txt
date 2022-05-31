@@ -1,0 +1,53 @@
+Model Type: Good use of imagery
+Review: Good use of imagery.
+Base model: tensor([[0.5137]], device='cuda:0'): John0 flipped open a phone  book to find the phone number of a girl he had a crush on. he dialed the number and waited. his phone rang. it was the girl's mother. his heart skipped a beat in his chest.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Media playback is not supported
+Tuned model: tensor([[1.5300]], device='cuda:0'): John0 flipped open a phone  book. he read that the deal was good for ten phones. so he figured he could make it work. they were selling a lot of phones before he got his hands on one. so he was actually the winner.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+
+
+Base model: tensor([[1.2831]], device='cuda:0'): No problem,” he  said to her.    casting her off, he called his right honcho.   this man had been her husband for twenty years, since she was a child.    her reason for leaving him, he explained, was duplicity.     a screeching scree
+Tuned model: tensor([[1.1088]], device='cuda:0'): No problem,” he  said.   it's fine,  i told him.  he looked at me with wide eyes. did i miss anything?  obviously not, he said. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Donnie the panda was a kindly zebra with large ears
+
+Base model: tensor([[1.8403]], device='cuda:0'): “Mmm, h mm.  so next time i'm going to spicy chick peas.  i know, i know.  i don't think i 'll actually find the spicy chick peas. but i might as well try.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Fill in the captcha
+Tuned model: tensor([[0.2611]], device='cuda:0'): “Mmm, h m.  that's what i'm called when i'm in the hospital.  it's called being in the slot.  it's called being deathly afraid of surgery, and quotes me a lot.  i'm here to help you do surgery.  but
+
+Base model: tensor([[0.2483]], device='cuda:0'): “Five years, give  or take, had passed since he first saw his mother.   he was worried, expecting her to leave him for one day, or forever.  then one day he attended his mother's funeral. his mother wasn't gone but his father spoke to him pearly.  he smiled
+Tuned model: tensor([[2.4064]], device='cuda:0'): “Five years, give  or take, have passed since i last saw met her.  i called her name in class today.  upon speaking to her, she laughed at me.  she told me she regrets meeting me. that's why i call her name in class today.
+|<endoftext>
+
+Base model: tensor([[0.7210]], device='cuda:0'): “So this is it  is my last day in town. i fly home tomorrow morning to be with my boyfriend. i put flowers in my car.  when i arrive home, i notice a giant bouquet of flowers waiting for me. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Hundreds of people called out
+Tuned model: tensor([[1.3256]], device='cuda:0'): “So this is it . the moment i became a mother. one day at work today. and in the car with my son.  so when did i became a mother? 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The number of apps installed on my phone hasn't gone up in a while.
+
+Base model: tensor([[0.3303]], device='cuda:0'): The light beamed above him  as he maneuvered toward the dock. he got in line to receive his payment for the kayak. the cashier handed him his credit card for payment. it wasn't until he looked down at his toes did he see the twin fins.  preoccupied with his goal, he forgot about
+Tuned model: tensor([[0.7125]], device='cuda:0'): The light beamed above him  as he stepped onto the platform. he looked over the edge and smiled. he stepped off and braced himself for the fall. he felt the impact remind him of the last time he was here. he closed his eyes and let the world take over before he fully realized it.
+|<end
+
+Base model: tensor([[1.1059]], device='cuda:0'): “Guess we have  5 cows living in our barn. one morning we had a cow ewes. she loved to drink milk from the bucket. we decided to leave the cow alone. we decided to keep the cow and give her milk twice a week.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Bernie
+Tuned model: tensor([[2.6780]], device='cuda:0'): “Guess we have  always wanted to see canada.  one day, we decided to plan our trip there.  we were nervous on the plane as we boarded. we couldn't believe how beautiful the country was!  now, me and everyone i know wants to move to canada. 
+|<
+
+Base model: tensor([[1.8239]], device='cuda:0'): I couldn’t believe  it. there is gold on teesha's property. she found it under the bed. he bought a house with it. my random trip to teesha's property yielded this nice find.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Scotland had a parliament for the first
+Tuned model: tensor([[1.3295]], device='cuda:0'): I couldn’t believe  how slow we bike.  even with training, it takes twice as long.  i did some research and learned i need to replace the chain. my local chain store is six miles away. i won't be going there for a while.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.4464]], device='cuda:0'): Valyron peeked over  the edge at the dangling wreck. the stranger had given him directions. valyron began his epic journey.  after hours and hours, he arrived at where he was suppose to meet the stranger.  valyron met the stranger at a large park.
+|<endoftext>|
+Tuned model: tensor([[1.0858]], device='cuda:0'): Valyron peeked over  the barbed fence at his property's gaping maw. he knew the yard was fully encircled by woolly teeth. he had a plan for what to do with the body once he was done. he 'd leave it where nature would take it if he was successful. valy
+
+Base model: tensor([[0.4896]], device='cuda:0'): His eyes fluttered close
+ 
+little did he know how long he had been asleep. he went to his final moments with prayer. the last thing he saw was the setting sun on the distant hill. his last word was his response to prayer.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>eye watering news i '
+Tuned model: tensor([[0.5273]], device='cuda:0'): His eyes fluttered close
+ 
+he wanted to go to sleep. he jumped on his covers and hopped onto his chest. it had been too long since he had slept. he yawned and settled back into his chair. he felt very rested after that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This satisfied my
+

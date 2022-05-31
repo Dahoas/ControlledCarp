@@ -1,0 +1,52 @@
+Model Type: This is about a tragic accident._default_coop_prompts_model
+Review: crimes
+Base model: tensor([[0.0472]], device='cuda:0'): Jane0 set her remote  to updated late at night. she remained up but the tv went black. she checked on the remote to see the battery was approaching empty. she unscrewed the screen to check the battery. she pushed the power button but it did no good.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Overall 8 Story 8 Animation 8 Sound 8 Character
+Tuned model: tensor([[0.2228]], device='cuda:0'): Jane0 set her remote  on fire. a havana accident took out many of her circulatory organs. she remained in a coma for twelve months.  when she woke up, she was crippled from the head down.  she feared the doctors had done nothing for her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When i was driving yesterday morning the radio went
+
+Base model: tensor([[1.2024]], device='cuda:0'): “That is irrelevant . everyone in hong kong knows greek food. they don't need to leave their country to eat greek food.  also, you don't have to speak greek to eat.   let's not waste time looking for a good food source, here. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.4155]], device='cuda:0'): “That is irrelevant . she couldn't drive away with him. she was in love with him. she didn't care about anything else.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The car accident left me with a shattered windshield and broken heart. my car would never be the same afterwards. fearing for my life i gave up trying to get my
+
+Base model: tensor([[7.3134]], device='cuda:0'): John0 scratched his beard  so hard that his mustache fell off. everyone in the bar stared at him.  john took a deep breath, shaven his beard and felt better.  they all asked him how he had scratched it. john said he had not had anything to do with it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Wendy wanted a
+Tuned model: tensor([[2.8828]], device='cuda:0'): John0 scratched his beard  while driving 50 km/h. he was driving at 100 km/h so the entire highway was icy. he became stuck in the icy patch. a passerby spotted him and rescued him. john was very thankful to the passerby.
+|<endoftext>|<|endoftext|><|endoftext|> the car in front of me slammed brakes awkwardly and rear-
+
+Base model: tensor([[2.0326]], device='cuda:0'): “That was nice  of derek to ask me for help. i'm glad you asked though because i 'll help him out. on the way home i stopped and talked to my neighbor frank. frank said the weather looked like it 'd be rainy all day. i told him we 'd get rainbow shaded toques on the usual day.
+|
+Tuned model: tensor([[3.9386]], device='cuda:0'): “That was nice  to hear. i was driving down the road when i saw the car hit another car. two people were hurt in that accident. we got involved and paramedics treated them. they are doing fine.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The car accident was a scary one.  the ambulance took tj's   tj
+
+Base model: tensor([[5.2099]], device='cuda:0'): Sam0 would forget about  everything. there was so many things that happened to him. he walked into a room with three cats and dropped all of his stuff.  according to sam0, he then saw the cats hugging a snake.   he was terrified, but learned to avoid strange cats. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Nancy loved
+Tuned model: tensor([[0.8115]], device='cuda:0'): Sam0 would forget about  car accident a week later. he was driving to work. he crashed into a pole in traffic. his car was totalled. sam had to call in for work the next day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Two young boys were chasing a car accident site after hours. one crashed into another site before the accidents were cleared
+
+Base model: tensor([[1.9421]], device='cuda:0'): “Why won� �. he built his own skateboard. his friends showed up. he asked if they wanted to ride. his friends said no.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The number of incidences of violent crime in ernesto rose sharply during the millennium. a millennium in the eighties saw a sharp rise in crime.
+Tuned model: tensor([[0.1426]], device='cuda:0'): “Why won� � was a car accident involving a young child. the parents sued the business that had the child on the job. the court found that the company was negligent. the parents were horrified to learn their child was gone forever.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It car accident that led to an accident report had already occurred several minutes ago
+
+Base model: tensor([[2.1188]], device='cuda:0'): As we drove home
+ 
+my sister cried. she was depressed. i asked what was wrong. she said her brother lost his job.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters) - Saudi Arabia and european companies decided to pool their resources to fight climate change. the deal would create thousands of new jobs.<|endoftext|>Quick Facts about
+Tuned model: tensor([[1.5970]], device='cuda:0'): As we drove home
+ ud was driving too fast toward the exit. he didn't see the ambulance behind him.  suddenly he lost control of the car, and crashed head on into the ditch.  he 'd died on the scene because the paramedics didn't pull him out. the dam broke the next day as a consequence of his negligence.
+|<
+
+Base model: tensor([[0.0347]], device='cuda:0'): My nerves tingle with  every attempt at controlling my son. it is hard to predict exactly when he will act. yesterday he ran into a garden hose even though i told him not to. yesterday he started a fire without my direct orders. and last night he refused to answer any calls even after i told him to.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[9.3401]], device='cuda:0'): My nerves tingle with  nervousness when i drive to work.  on the way into work, i brake late one day and lost control of my vehicle.   walking to my car from the parking lot, i twisted my right ankle.  a stranger escorted me to the emergency room at a nearby hospital. i spent eight months in therapy for a strained ankle ligament
+
+Base model: tensor([[4.0125]], device='cuda:0'): “I'll be  back in a few hours. my house is being cleaned.oner said to take all your blankets out. i think he meant clothes. tomorrow i'm cleaning the house too.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Seeking the best deals on smartphones was one of my recent goals. i browsed shops like best buy and e
+Tuned model: tensor([[0.6757]], device='cuda:0'): “I'll be  driving tomorrow's car accident. i was awakened by the accident this morning. the side bumper was damaged. i went to the shop and got it repaired. the bumper was repaired and i left with a bright feeling.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It was the most terrible traffic accident ever saw on the city's roads
+
+Base model: tensor([[2.9494]], device='cuda:0'): “That would be  a very long bridge to cross. jerry told me the road was much shorter when the river was higher. i looked at the map and realized that would be an east-west route.  when i got to the river, i realized they didn't have a bridge.  the west side was always higher and i regret going over it.
+Tuned model: tensor([[2.6525]], device='cuda:0'): “That would be  tom's car accident where he was killed. he was driving on the highway when hit from behind.  tammy was riding a motorcycle, but couldn't avoid the front of the car.  tom barely survived the crash as his organs were harvested for transplants. tom died a few months after the accident due to lack of donor organs.
+

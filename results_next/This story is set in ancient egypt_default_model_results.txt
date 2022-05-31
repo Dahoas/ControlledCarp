@@ -1,0 +1,58 @@
+Model Type: This story is set in ancient egypt_default_model
+Review: This story is set in ancient egypt
+Base model: tensor([[0.7102]], device='cuda:0'): Sam0 would forget about  his homework assignment. he had to find someone else to do it. his mom showed up to the house. she changed the assignment. it got full credit.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Eric was bored. he looked for something to do other than watching soccer. he went
+Tuned model: tensor([[4.8868]], device='cuda:0'): Sam0 would forget about  her birthday. she couldn't remember the day of her funeral. she started thinking about how bad her memory was. she decided to read a book to clear her mind. she vowed to make it a habit and never forget again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Egyptian
+
+Base model: tensor([[3.2507]], device='cuda:0'): Sam0 the next course  in cooking program begins. he needs to purchase a new kitchen towel. sam finds a really great towel. he purchases the towel. sam is happy to have a new towel.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>(kathryn shin<|endoftext|>Here was an oddly shaped foreign object in
+Tuned model: tensor([[1.7952]], device='cuda:0'): Sam0 the next course  of a sushi eating competition ate three calamari. the other two courses had been previously prepared by their chefs. sam started to eat with his hands and ate his food. he nearly choked to death. sam plunged the sushi paper down the trash.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.8959]], device='cuda:0'): Don’t worry  about it. it was only a few hours into the shoot. the actors were exhausted. they ended up falling asleep. we had to rush them back in.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Multiple patients were treated for food poisoning at an oncology clinic. one person died
+Tuned model: tensor([[1.6517]], device='cuda:0'): Don’t worry  about which house to buy. the guys from the real estate office came and took measurements. they painted a picture of the house to make it look like it was in the show. they also estimated the cost to build it. donald realized that the real estate agent was a pretty mean girl.
+
+
+Base model: tensor([[1.0312]], device='cuda:0'): ‘Do you know  how to play video games?  if you do not, my friend could teach you.  he favors the first person to kill me. i always have to improve. he says he will teach me tomorrow.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Some people are commenting on this post
+Tuned model: tensor([[4.4309]], device='cuda:0'): ‘Do you know  what the big deal is about a elephant. it was an ancient myth in many cultures. people viewed it as too exotic to be would comes of nature. today it's become illegal worldwide.  apparently, people don't like big exotic creatures. 
+|<endoftext>|
+
+Base model: tensor([[0.8292]], device='cuda:0'): The committee sat stunned
+ tables had been shaken
+the truth was out
+they couldn't defend their man
+they were filing charges against him
+the only person left to defend him was his wife
+<UNK><|endoftext|>by bob shilsher and karl <UNK>. 2016.11.06
+Tuned model: tensor([[2.8736]], device='cuda:0'): The committee sat stunned
+ 
+they had done nothing all day and they were done. they would have to fix the roof. they finally decided to fix it themselves. it did not go well.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Ottoman arab culture dates back thousands of years.  the roy
+
+Base model: tensor([[0.5802]], device='cuda:0'): Jane0 helped Sam1  enter the math competition.  when he won, he rode the bus to school to meet her parents.  they cheered him on as he was driven back to school. they showed he had won by buying him a cake and ice cream. party pooped sam1's Pride!
+|<
+Tuned model: tensor([[0.4605]], device='cuda:0'): Jane0 helped Sam1  learn to ride a bike. sam1 wondered why bike riding was so hard.  after offering to help, he realized it was because of the bike.  he rode it for a long time and finally mastered it.  after that, he and lia bike riding became a three-man team.
+
+Base model: tensor([[1.7085]], device='cuda:0'): I hated being near birds .  thus, i built a great wall around my yard.  there was a meow coming from it. i caught it and fed it to my cat. the cat liked it so much that he chewed the wall.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Climate skeptics were
+Tuned model: tensor([[5.2164]], device='cuda:0'): I hated being near birds . one day i saw a fowl fly by my house. it landed on my front porch. i chased it until it flew away!  i then saw it again, but it lived on a tree! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Egypt is known as the land
+
+Base model: tensor([[2.7250]], device='cuda:0'): Sam0 smiled faintly and  nodded. he would remember this day forever. he 'd gotten up earlier than he 'd planned. the thought excited him. it was the day that he finally got to do what he wanted.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A man went to a local music festival wearing
+Tuned model: tensor([[3.7388]], device='cuda:0'): Sam0 smiled faintly and  waved to nate. the boy turned and waved back eagerly. samupe laughed when nate didn't wave back. he journeyed in the desert with nate for weeks.  when he showed back him, samupe was dead. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.2272]], device='cuda:0'): Torren woke to whispers  of girls following him. he asked made friends who talked about girls. they all went to the same hotel. torren decided to go after them all. he found them all before the taxi dropped them off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to the website for reddit up
+Tuned model: tensor([[5.6619]], device='cuda:0'): Torren woke to whispers  in his apartment. someone was making noises. it was his neighbor. he fled the apartment by jumping on his bed. his neighbor never complained again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Egyptian society was often cursed with pharaons.  the few remaining non-Egyptian
+
+Base model: tensor([[0.6644]], device='cuda:0'): He was wasting his time . the oil was horseshoing and choking the engine.  he had one last chance, the clutch down.   a final glance to the horizon, he counted off one more green into the hour.  he woke up feeling thankful he had escaped this ordeal.
+|<endof
+Tuned model: tensor([[7.6053]], device='cuda:0'): He was wasting his time . he needed to go somewhere exciting. he waited ten minutes in line. he chose a desert. he never had the chance to go back again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Egyptian culture is rich in myths and legends. it's there that the true tales of
+

@@ -1,0 +1,62 @@
+Model Type: This is a funny story and made me laugh_new_default_model
+Review: This is a funny story and made me laugh
+Base model: tensor([[2.1050]], device='cuda:0'): Glory burst in him  and blushed. he grabbed his velvet robe and headed to school. he was already twenty minutes late for his first class.  on the busy sidewalk, glory found himself lost.  a school bus pulled up and he got to school ten minutes late.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[4.6327]], device='cuda:0'): Glory burst in him  to let out a gobble.  everyone stared at him, including the clown.   he tried to swallow the cone, but they leaked all over the floor.  everyone laughed at the clown.  instead of throwing up, glory laughed at the onlookers. 
+|<endof
+
+Base model: tensor([[2.5205]], device='cuda:0'): Is your dad a magician  or a performer? my dad likes to perform magic tricks in front of his family.  when he was younger, he performed on stage at night as well.  i saw him perform magic tricks at the annual family picnic last week. they were so convincing i look forward to seeing him again.
+
+Tuned model: tensor([[4.5036]], device='cuda:0'): Is your dad a magician  who could do magic in the shower? last week i wanted to learn how to do magic in the shower too. i asked him to show me how to do magic. he showed me how to do magic in the shower. next week we are going to show my friends how to do magic too.
+
+Base model: tensor([[1.5833]], device='cuda:0'): Memories came back to  me recently. it was while i was doing some research on my daughter. i was researching on the internet. by accident i looked up a memory i didn't remember.  now, instead of searching the internet i'm looking at my daughter's old school pictures. 
+|<
+Tuned model: tensor([[3.2126]], device='cuda:0'): Memories came back to  me one night. i was lying next to my dog in bed. he started whimping around.  suddenly, a man with a gun came through the door.   i screamed that it was his father, and they went to the police. 
+|<endoftext>|
+
+Base model: tensor([[3.8486]], device='cuda:0'): He gave a narrow smile . he reached down for his wallet. the teller reached back with her gun. he pulled out the wallet and pointed it at her. he said he didn't want her to notice he just came back.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>© Provided by iBT via
+Tuned model: tensor([[3.7084]], device='cuda:0'): He gave a narrow smile  and said i was asleep.  i wasn't, but he made me.  i woke up when he made me fell asleep on the couch. he told me it was because he absolutely loved me.  how could he know, since he never told me? 
+|<endof
+
+Base model: tensor([[2.4098]], device='cuda:0'): “A scout,  like paul, loved to compete in races.  paul was constantly race practice during recess. he practiced and practiced.  one day paul was practicing a hard race, but fell.   from then on, paul practiced racing only in the home. 
+|<endof
+Tuned model: tensor([[4.6736]], device='cuda:0'): “A scout,  at the fair, challenged me to a basketball match.  my routine didn't exactly go like usual.  however, he was a clown at heart.   needless to say, i took it easy.   needless to say, i won the match easily. 
+|<end
+
+Base model: tensor([[2.4944]], device='cuda:0'): “They're not  real judges according to judo. they only check the official scores.  judo is sport, not a game.  there's too much noise in judo anyway.  anyway, judo is a sport and people should appreciate it. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[3.7667]], device='cuda:0'): “They're not  allowed to travel by airplane in norwegian skies. i had to find a way to get in. i dressed in old clothes. they let me in but warned me to be careful. i went into a restaurant.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CLAIM
+
+A man lost
+
+Base model: tensor([[0.9229]], device='cuda:0'): It has become twilight
+ 
+Maybe you've heard about twilight movies. i read online that there are a lot of them. i saw one last night. it was for me. maybe they 'll be idea's for a new tv show.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Another week has
+Tuned model: tensor([[3.9941]], device='cuda:0'): It has become twilight
+ the movie was about to begin. john got out of his seat to get newspaper and began to read. he saw a woman looking at him through the peephole.  john screamed obscenities, and threw up in the toilet.  he never saw that woman again.
+|<end
+
+Base model: tensor([[0.7796]], device='cuda:0'): “That makes sense . my mom worked hard to provide for me. i look up to my mom. i want to be like my mom. i will work hard and provide for my family one day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This quiet town had seen better days. townsmen were used
+Tuned model: tensor([[4.6484]], device='cuda:0'): “That makes sense . my dog ate a poop. i took him to the vet. he got a rabies shot. it is called anissy life for a dog.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>old beer just got more expensive.  i didn't like it at all. but
+
+Base model: tensor([[3.2465]], device='cuda:0'): Jane0 stands up and  dances for the crowd. everyone laughs at her. no one believed she could do it. she did it though. everyone was shocked and proud.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright farmers market place
+
+Christmas is here - a whole year of bonus-littered toys
+Tuned model: tensor([[4.2816]], device='cuda:0'): Jane0 stands up and  puts on a burka. she tells the shoppers she's disgusted with their clothes. a shopper named sam tells her how everything in his store is superior to hers.  jaime thinks this is a very stupid argument, and leaves.  the shoppers begin to cheer with jaime and library
+
+Base model: tensor([[4.0150]], device='cuda:0'): There it was again
+ 
+ this time it wasn't about a boy or girl winning
+ there it was again the <UNK> buffalo bills. so again the lions took down their electric chair. one last shot was fired as maarius caboose ran loose. the lions pulled off another upset win.
+|
+Tuned model: tensor([[3.9025]], device='cuda:0'): There it was again
+ 
+tara and her boyfriend were at the grocery store. they were buying bread. tara decided to take a shortcut to get to work.  unfortunately, she fell and sprained her ankle.  tara's bread couldn't be saved and she had to buy torta.
+
+

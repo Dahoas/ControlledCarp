@@ -1,0 +1,93 @@
+Model Type: carp_default_descriptions_generation
+Review: crimes
+Base model: tensor([[8.2342]], device='cuda:0'): Their fear was misplaced
+ 
+They face first into the light
+
+Can this be real or an hallucination?
+
+By the tears in their eyes
+
+Every memory they can recreate
+
+Comment here
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Prepare to be amazed! ben and jerry were sitting in the back of the bus waiting for the
+Tuned model: tensor([[2.2937]], device='cuda:0'): Their fear was misplaced
+ 
+Gaku Jinn: You have no responsibility if another sacrifice ends up creating more grief. From that incident, we use recruitment and threat assessments done as a form of evidence in our investigation. Although future losses may look high, it still strengthens our stance of the Japanese people.
+
+Goro Kujo: Do not mince your words.
+
+
+Base model: tensor([[1.8645]], device='cuda:0'): Lopped off the eyel id, they watched as the darkness deepened.  birds began chirping and people walked by.  suddenly, the bats came scurrying out of the underwood doorway.  they quickly scurried into the shadows.  the lights went out and the basement flooded, leaving the house rodden. 
+|<endoftext
+Tuned model: tensor([[2.8020]], device='cuda:0'): Lopped off the eyel ashes. It was dark as hell....
+You've got to be careful about based eyelashes. We'll get to that in a moment.
+Let's see those glamour shots again with the lash sucker!
+Look! Some serious eyeliner on them! I love it on them.
+The Wig Freed From The Snake's Skull
+
+
+Base model: tensor([[1.7911]], device='cuda:0'): Then the knocking began again . josie run and jumped behind the sofa where no one could hear her. it was cold and she was alone in her apartment. she looked up and saw the television screen. jessie stood and yelled never to be silent again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Words can rarely pass up in life when you '
+Tuned model: tensor([[4.2545]], device='cuda:0'): Then the knocking began again , only this timing was so specific that it signaled an open door. And so we ran inside.
+
+No one was inside — in fact, there wasn't much the ladies could tell us about it ever, other than they'd been accompanied to the year's fourth annual Ryder Cup by a husband and his wife.
+
+As I tried to
+
+Base model: tensor([[3.1619]], device='cuda:0'): Kaiya scanned the  qr code on her phone. she noticed she had a prize. she gave it to her little sister. the little sister squealed with delight. she won a small cash prize!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by brian swam in the lake and decided swimming was fun!  but it was winter and his
+Tuned model: tensor([[3.5662]], device='cuda:0'): Kaiya scanned the  bushy choose not-for-profit ranch to find out what the hell was happening. It was a full page ad with a bold picture of a pig stamped, "So good, so good". They were missing out. According to him, they are running a scam. "Most people look, like, one way, to grumble off to
+
+Base model: tensor([[7.2515]], device='cuda:0'): Jane0 wrung her  hands on the dull sewing needle. she trumpeted the word multitasking as she sat down.  she buttoned her blouse, unbuttoned her jeans and started her laptop.  she realized she had a paper towel laying in the corner. she decided to stay on the couch until she could use the computer.
+|<endoftext
+Tuned model: tensor([[3.2199]], device='cuda:0'): Jane0 wrung her  arms as she tried to continue her night in the barn with a smile painted on her face.
+
+"Well that, that's better, Captain. Thanks for the clothes on your back."
+
+Before the Captain could finish the sentence the seagull finally found its place aloft in the sky above their personal hellhole.
+
+Gu
+
+Base model: tensor([[5.7453]], device='cuda:0'): “I can� �t drive my car.  i don't feel like going to the shop, though.  my car is ruined anyway. what can i do? i 'll probably just walk to work tomorrow.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Arsenal and Tottenham were two of the most exciting matches of the season so far. they
+Tuned model: tensor([[2.0502]], device='cuda:0'): “I can� �t‪ created when Ψ is already active."
+
+Knowing Ψ, Kakuzu does not know that he looked homely.
+
+"But I should not be at the onion buffet "San" even though I can "free" /ˌre/. Therefore the Ultimate I circumstance should suffice."
+
+Kakuzu
+
+Base model: tensor([[0.4532]], device='cuda:0'): “Yes, I  i had two cats.  one of them was a particularly nice cat. his one bad habit was that he would punish his owners.  he would steal things from his owners, and his owners would get mad.   the other one didn't really have any bad habits, but his name was lippy. 
+|<endof
+Tuned model: tensor([[3.1778]], device='cuda:0'): “Yes, I  know.」
+
+「What? What's this, you want the story no matter what, you ignorant brat?」
+
+Which means it was snowboarding, not snowboarding we had asked for two days ago!
+
+Well now that I think about it, our expectations were simply too high!
+
+But this time, it didn't
+
+Base model: tensor([[3.2673]], device='cuda:0'): You know everything all ready  to go when you get a mission in. our mission is to get medical help for a friend in germany. we are flown to germany and were met by an old friend. we helped them get some medical help and help their families. they have given us many stories of what aid does.
+|<endoftext>|
+Tuned model: tensor([[1.2756]], device='cuda:0'): You know everything all ready  to go, so you probably know the exact date. That testkthxIf I must be nitpicky, I got stuck 3 times because of my girlfriend and driver:)The sound: pretty good. But you will have heard this for the last 9 years and you'll probably pity the guy in the racecar, trying to hear a
+
+Base model: tensor([[0.9651]], device='cuda:0'): We followed the lake around  all morning. we saw ducks swimming around. we saw them splash and swim. we bought breadcrumbs for them from the farmer's store.  we fed them some more breadcrumbs, and went home. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY PARK, maine (TAUNTON, ma)--
+Tuned model: tensor([[3.4669]], device='cuda:0'): We followed the lake around  for what seemed like an entire hour and Canada did NOT flood back up. Nor.
+
+We made a plan for the day. We went for a walk, visited Pangolin Park, used the waterpole to cool off and refuel, spent hours in the chair soaking and coming up with crazy ideas. Any of these ideas would have been impossible
+
+Base model: tensor([[0.6143]], device='cuda:0'): Jane0 recognised the setup  as the kindergarten bully. he ducked slightly and then ran back upstairs. he started yelling at the children who had gone to dress up. he lashed out with some profanity at the snooty mother. all the children cancelled their plans to go to the playground and are angry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Marion
+Tuned model: tensor([[1.4105]], device='cuda:0'): Jane0 recognised the setup  of the case and the various standardized spare parts that were scattered all over it, but the most familiar feature was the individual GeneralCaseIdentifier semiconductor chips.
+
+Surround Martin total range Y200B-Y900B warranty 4 year Australia intraday intervention make board complete? yes mainboard one one 1 one
+
+Surround Wald
+

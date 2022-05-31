@@ -1,0 +1,75 @@
+Model Type: characters asking questions_high_lr_short_coop_model
+Review: characters asking questions
+Base model: tensor([[2.9118]], device='cuda:0'): “It’s  there high school year starting again.  even though i know all of the classes, i benghouse all of them.  being the new student makes everything a lot harder.  everyone i know withdraws, and i have no one to turn my life around.  the hardest thing about high
+Tuned model: tensor([[0.7711]], device='cuda:0'): “It’s  amy's first day of school and she has no idea where to go. her mother suggested that she come home and ask her dad. amy decides that it would be better to ask him himself. she finds him just outside the school where she ends up 4 hours.
+|<endoftext
+
+Base model: tensor([[3.5703]], device='cuda:0'): Sam0 shook her head
+ personally she hated it. she objected when others said animals did that. personally she just shook her head. she didn't care enough to change her behavior.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>California has the worst gas efficiency standards in the nation. car owners in cal
+Tuned model: tensor([[6.1751]], device='cuda:0'): Sam0 shook her head
+ person in front of her threatened her. she stood there basically being scared. sam thought maybe they really did not mean it. she tried to call the cops. to her delight they showed up and sam was petrified.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving dinner was one
+
+Base model: tensor([[3.0836]], device='cuda:0'): Sam0's shoulders slumped in  his sleep. he was up most of the night. when he woke up in the morning he found a crumpled dollar on the floor. someone had left it there on the night stand. the stranger smiled when he handed it to sam.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.7897]], device='cuda:0'): Sam0's shoulders slumped in  defeat.  samuel rubbed his eyes, and muttered under his breath.  it had been a long and sordid day. sam couldn't find the courage to ask for direction from above. he waited a long time for the bus to come slamming down.
+|<endoftext
+
+Base model: tensor([[3.7626]], device='cuda:0'): Niels had a point
+ 
+uls had a way
+
+uls had done as well
+
+unn didn't think
+
+unn knew the meaning of life
+
+however didn't think
+
+unn knew what he was going to do
+
+so do as well did until he died
+
+|<end
+Tuned model: tensor([[6.7578]], device='cuda:0'): Niels had a point
+ Poor super bowl turnout. there was only 20 teams in the super bowl. many of the fans were not shown on tv. the turnout was not nearly as good as eagles had hoped.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was one of the seven great days of the
+
+Base model: tensor([[5.7151]], device='cuda:0'): She winced at his words . it felt like they took all of her energy. she stomped out of the store in a huff. she texted her boss to say she 'd leave. she cried herself to sleep the very next night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>School was out for the
+Tuned model: tensor([[4.4808]], device='cuda:0'): She winced at his words . it sounded like something she 'd heard on tv. he turned around hoping she would stop talking. she looked down and started talking again. she had trouble containing herself no more.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was nearer and frightful more than she had realized
+
+Base model: tensor([[1.7249]], device='cuda:0'): Can we do it later
+ 1. tomorrow we can blast through anything
+2. tomorrow we can be patient and wait for perfection. tomorrow is the day the world begins. tomorrow could be the beginning of the end of the world.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sony is preparing a new smartwatch.
+Tuned model: tensor([[2.6703]], device='cuda:0'): Can we do it later
+ i was so excited to be in top shape! i started to run 5 miles every day. i did 100 push ups everyday. by the end of the year i weighed about 200 lbs.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was shaping up to be the best day yet
+
+Base model: tensor([[3.2441]], device='cuda:0'): They reached out a hand
+ . mark grabbed katie like they were mated.  he kissed her, tongue, and flirting.  katie was kissing back. they were having sex right then.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>January 20th marks the day i turn 35. today
+Tuned model: tensor([[6.1486]], device='cuda:0'): They reached out a hand
+ . i saw my friend and went up to hug him. it was the best day ever. we met at a bench. we walked together all the way to the end of the summer.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was depressingly typical of america. 
+
+Base model: tensor([[2.2041]], device='cuda:0'): “You’re  going to help me get ready for the school visit.  the weather condition is bad, especially since it's winter.   as i tried to prepare my clothes, i ran out of storage.   even though my teaching assistant bumped into me several times, she helped.   overall
+Tuned model: tensor([[4.6635]], device='cuda:0'): “You’re  stuck in traffic waiting for the bus.  on one side of the road, the bus is about to leave.  on the other side of the road is a stalled car. a young man got out and walked to the car. the driver got shocked and gave the man a ride.
+|
+
+Base model: tensor([[1.3759]], device='cuda:0'): Why were we sitting waiting
+ 
+for the results of the laboratory test? she said it was just a collection of numbers.  as she explained the procedure to me, i became more and more confused.  the teacher finally announced that we're the winners. we had won the prize
+|<endoftext>|
+Tuned model: tensor([[6.7030]], device='cuda:0'): Why were we sitting waiting
+  t was the end of college courses in campus. all our families were heavy set. they asked what we could do to make the school more attractive. we said nothing.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thanksgiving was depressingly typical of sarah's year. she enjoyed
+
+Base model: tensor([[1.3896]], device='cuda:0'): John0 took a deep breath  in the locker room before entering the swimming pool. he was in perfect physical health but his mind was clouded with worry. the water got warm and the air became somewhat stale.  he tried to think of something to do, anything but couldn't.  his body continued to sink and he
+Tuned model: tensor([[3.5672]], device='cuda:0'): John0 took a deep breath  as he stared at the collection of stars. he paced back and forth towards where his girlfriend watched him. as he approached the fourth star a waiter came. the star was on a table for their hobby lovers to admire. john felt much more at ease after that.
+|<endoftext>
+

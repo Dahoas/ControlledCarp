@@ -1,0 +1,48 @@
+Model Type: This story is a horror_new_nonfintuned_default_model
+Review: This story is a horror
+Base model: tensor([[0.8482]], device='cuda:0'): “Great, hope  wished for peace.  somber as she sat crying her eyes closed tears fell to her cheeks. if only she knew it was i who had wished for peace. she sat up abruptly in an attempt to feel something else.  smiling at herself, she knew it was no use and lying to herself
+Tuned model: tensor([[5.2376]], device='cuda:0'): “Great, hope  was finally dead.  her daddy laid her down to sleep.  suddenly, her daddy woke up screaming from his nightmare.  hope and daddy rushed to the bathroom. the children had played a prank on their real daddy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found early
+
+Base model: tensor([[2.2252]], device='cuda:0'): “I’ m well over weight. i was ready to give up. my friend showed up at my door. she had a surprise for me.  next time, i will keep my progress real. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - Islamist-minded voters often
+Tuned model: tensor([[6.2693]], device='cuda:0'): “I’  saw a ghost in my room one day. he was walking around the room. he then jumped on my bed. he began screaming. i run out screaming.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the woods was those of missing child taylor todd. everyone was
+
+Base model: tensor([[0.4425]], device='cuda:0'): “I don� �t want to write about something i don't know much about. my friends recommend i try writing about music.  i read a few books about musical genres, including classical.  i write a terrific paper on the history of classical music.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[6.0404]], device='cuda:0'): “I don� �t know what happened to his body. just knowing was enough for me to keep on falling down. he also called my name repeatedly while making disturbing sounds.  eventually, my brother confessed to the murder.   no matter what he did, he kept falling down. 
+|<end
+
+Base model: tensor([[3.6145]], device='cuda:0'): “Horses are  real bad at escaping from cars. traci and ernie loved to ride around on mears.  that night, they found a father and daughter with mears on their car.  they had to run twice as fast to get away. traci and ernie are still scared
+Tuned model: tensor([[3.8329]], device='cuda:0'): “Horses are  as scary as they look. there was a monster called nightstand which chased me through the woods.  i waded in, but only had myself and no cell phone which i loved.   i screamed aloud and pointed, but everyone in town was looking, not me!   the monster
+
+Base model: tensor([[1.2126]], device='cuda:0'): “Get your stall  repaired. it's very important to get it inspected. you get it fixed like a house. one day the inspector came by. he was very sweet and repaired my stall for free.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A new film star gets ready for blockbuster hits outside the
+Tuned model: tensor([[3.9201]], device='cuda:0'): “Get your stall  pierced. after the piercing the woman will hold your hand through the piercing. the pain is very intense. it is scary but stella is patient. there is no crying in the bathroom afterward.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The beard was a mystery to the medics.
+
+Base model: tensor([[3.3642]], device='cuda:0'): My plans changed too
+ 
+|<endoftext>|<|endoftext|><|endoftext|>u's computer kept freezing all of a sudden one day. he reviewed his setup and checked the drivers. a program he had installed had bad consequences. he had to uninstall the program and try again with a new computer.<|endoftext|>Support for the death
+Tuned model: tensor([[4.2586]], device='cuda:0'): My plans changed too
+  i ended up eating a lot of garbage that should have gone to the trash.  the next day, my mother found all the garbage on the ground near my drawer.  she took the cans inside and put it away.  next time, she will take the cans in front of my door.
+
+Base model: tensor([[0.2905]], device='cuda:0'): The artificial light was dim med. it didn't reach dana's eyes. she picked up the switch to adjust the light.  successfully, she changed the setting to the highest one.  dana was able to stay vigilant under dark skies.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Please note
+Tuned model: tensor([[3.0831]], device='cuda:0'): The artificial light was dim med. it caused the prisoner to fall asleep.  just as he drifted off, the lights came back on.  the prisoner's limbs stiffened. he woke up and promptly died.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the woods was donation normal.
+
+Base model: tensor([[2.3939]], device='cuda:0'): “I’  saw a cat in a vacant house. i tried to rescue him by pushing him. we ended up in the yard. he started to run away. i ran after him to take him inside.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Please leave my articles up to contribute to the reddit
+Tuned model: tensor([[5.2555]], device='cuda:0'): “I’  saw a spider in the bathroom. i screamed and ran out of the bathroom. then i realized it wasn't a spider. it was my brother's energy drink. he took one drink and died from it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the
+
+Base model: tensor([[1.0460]], device='cuda:0'): Sam0 wheeled seaw orld to a small port in dubai.  sam was a cheat, as he used a fake address.  the police figured out where he was going and arrested him.  sam confessed to the crime, but claimed he lived in california.  he faces up to ten years in jail
+Tuned model: tensor([[1.1527]], device='cuda:0'): Sam0 wheeled seaw eed home from the shore. he rarely left the log he had strung along the road.  he began to backtrack, and noticed leaves scattered on the road.  he picked up the leaves and brought them home.  then he strung them on the road again, to replace the dead
+
+Base model: tensor([[3.9953]], device='cuda:0'): He thumped onto his  desk with a great thud.  realization dawned on him, now that this was the true terror.  he looked at the source of the noise. the loose boy in the hallway was responsible. the poor boy had disturbed the most important document.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[4.8756]], device='cuda:0'): He thumped onto his  drum set with force. he began wailing away on some blue metal.  the boy screamed and pounded away, but his screams were ignored.   finally, he kicked and screams and pounded.  his screams were the only voices that reached his audience.
+|<endoftext>|
+

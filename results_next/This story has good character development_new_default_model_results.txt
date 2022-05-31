@@ -1,0 +1,55 @@
+Model Type: This story has good character development_new_default_model
+Review: This story has good character development
+Base model: tensor([[0.6555]], device='cuda:0'): Sam0 awoke with a  start. as she opened her eyes she realized it was morning. she knew that she had forgotten her alarm. with a rush she realized it was 3 hours past her wake up time. by then it was too late to do anything.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Ron
+Tuned model: tensor([[0.5922]], device='cuda:0'): Sam0 awoke with a  start. there was a loud crash in her apartment. she looked out the window and saw a dog on the front yard. it looked hungry and tired so she took it outside. sam took it home and made it a meal.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The focus of
+
+Base model: tensor([[2.3505]], device='cuda:0'): “He’ s a trim guy.  he  nails his pants, his shoes and his bed.  everything was so neatly groomed and handsome. later he explains why he likes so much grooming.  he et al want to look their best, so he gives them a good ear. 
+|<
+Tuned model: tensor([[1.7666]], device='cuda:0'): “He’ s always thinking about what he would do if he had power. not material things at all but politics. he rattles on about how he would run the city.  no matter what he says, no one likes him.  he feels hopeless and despondent.
+|<endoftext
+
+Base model: tensor([[2.8505]], device='cuda:0'): “Did I do  nothing all day? i pleaded with her to do something all day long. she decided she didn't need to. i sent her a package. she tore it up and opened the inside to find seventeen cookies.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Bruce lived in a large city
+Tuned model: tensor([[4.0959]], device='cuda:0'): “Did I do berman did his best to copy hawaii after school.  at the annual reception, he confessed to eileen he admired her hair.  did to himself that he wished to one day grow her hair out like his. he sat at the bar during halftime and sipped a latte.  did
+
+Base model: tensor([[1.0088]], device='cuda:0'): The morning bell rang
+ 
+abby woke up quickly since it was her first day of school. she's excited to see that her friends are already at school. she also see that class is out of order. abby decides to end her first day of school early.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[2.1235]], device='cuda:0'): The morning bell rang
+ 
+maureen didn't bother to answer it
+
+she didn't have to now since school was out. her dad asked her to come home early
+maureen said she would instead of answering. she hung up the phone embarrassed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.3593]], device='cuda:0'): I'm getting out of  school really soon. i thought i would be gone for a couple of months. instead i begin to hear school starting. i rush out the door and rush into class. my new school starts up with a bang.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright Others got<|endoftext|>Cap
+Tuned model: tensor([[2.2963]], device='cuda:0'): I'm getting out of  school early for the summer. when i was younger i had a lot of friends from school who i got along with. i'm not as friendly to them anymore. for some reason school is too hard and i need an escape. but boy do i have fun sneak and go get my friends that
+
+Base model: tensor([[1.4224]], device='cuda:0'): He was a nice guy . well respected. a college classmate offered him $ 1000 for a new bike. the kid turned him down because he was leaving the department. a week later the kid was kill at a school he helped.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sorry about the mess i had to clean
+Tuned model: tensor([[3.2465]], device='cuda:0'): He was a nice guy  and he always hired people to work for him.  when one day he thought he only had one employee, he was elated.  he gave that employee a plaque of honor and a raise. that employee went far over his boss and made others like him. that employee became so successful his boss
+
+Base model: tensor([[1.5592]], device='cuda:0'): When is he comin  o a chick poo? when he feeds the chicks. our neighbor calls and asks who does that. i always respond turtle. he then wonders why i always respond turtle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Explore flower garden in florida gives you an array of flavors.
+Tuned model: tensor([[2.4638]], device='cuda:0'): When is he comin  i fly to los angeles to meet him? i don't know what i want to say. i try to sound smart but it don't work. i try to sound important but it don't work. i simply wish him well and i crash.
+|<endoftext
+
+Base model: tensor([[2.2953]], device='cuda:0'): This wasn't their fault  she was late. she wouldn't wake up without being given a ride. she asked him to pick her up at 4 so that he would buckle his seat. she asked him to give her his huge trunk to load it in. he drives her to where she needs to go and to where he
+Tuned model: tensor([[2.0269]], device='cuda:0'): This wasn't their fault  she did it. he asked her to stay after school the last time. she says she doesn't take that much notes. he says it will cost her thousands if she does that. she says she should stay after school instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>i was
+
+Base model: tensor([[0.4782]], device='cuda:0'): “I do not  use my debit card for any purpose other than to pay bills.  however, this past thursday, my wallet was missing.  i asked my sister-in-law if she knew what happened to it. she said she did not know a friend who used it in the past. the friend
+Tuned model: tensor([[2.1120]], device='cuda:0'): “I do not  like to used any type of toothbrush. they are very hard to manage. i always have difficulty getting my teeth clean. my dentist recommended i buy a nylon toothbrush. that was a wise decision as they save me money.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The job i
+
+Base model: tensor([[0.3336]], device='cuda:0'): “It’ s okay shake. you did not have to ask. she reached behind her to catch the football. the ball moved out of her hands.  you were not allowed to run, year's. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEWS RELEASE 22DEC12
+
+EPA
+Tuned model: tensor([[1.6568]], device='cuda:0'): “It’ s always so hot in my area. i want to sleep in early so i can stay warm. i decided to take shorts to make the hot summer nights more bearable.  when i wore shorts to bed that night, i didn't fall asleep.   instead, i had a nightmare
+

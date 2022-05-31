@@ -1,0 +1,61 @@
+Model Type: music_high_lr_short_coop_model
+Review: music
+Base model: tensor([[0.8448]], device='cuda:0'): “Let’  know she was pregnant.  she was devastated, but told her husband about it.  he was much happier about it. they tried for over six months. then he announced they were expecting a daughter instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>RESULTS:  stanley jud
+Tuned model: tensor([[16.1533]], device='cuda:0'): “Let’  out of a music store. he wanted to look for what he needed everywhere. he asked people what was on sale. he asked the artists if they had new stuff. he found all new albums.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music is renowned for its melody and
+
+Base model: tensor([[0.7370]], device='cuda:0'): What were the odds
+ 
+ou had a good chance of winning the jackpot. he was so confident. so he bet everything he owned on the jackpot. he was beaten badly and only got $ 250.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Poster minorsite didn't take off when it
+Tuned model: tensor([[14.6169]], device='cuda:0'): What were the odds
+ 
+the jazz band would win the grammy
+
+it was a 50-50 shoot. they performed beautifully. it was like a scene out of a movie. everyone was amazed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Psy set the music rolling. the crowd muted the originally great
+
+Base model: tensor([[2.5438]], device='cuda:0'): Maybe she thinks he's  cute because she looks at him. she says she wouldn't date him if she had time. she spends all her time looking at him. she attends all his appointments. she says she will meet him at the restaurant.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presidential candidate don
+Tuned model: tensor([[10.1528]], device='cuda:0'): Maybe she thinks he's  out of shape. he's clearly seen a lot of hard work. he took track practice before each practice. he did a lot of eating and running. she thinks that's a lot of work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music group hito no
+
+Base model: tensor([[0.0942]], device='cuda:0'): Sam0 island book,  the kid reported missing book.  but when he found the book it was torn up. and the pages had holes in them. samuel didn't think it could happen to him. and he cried when he saw the torn up book.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[14.8794]], device='cuda:0'): Sam0 island book,  sam dropped it into deep water. sam searched for his lost book. he couldn't find it anywhere. sam bought a new one and put it back in the box. sam couldn't find his lost book again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music group
+
+Base model: tensor([[3.7549]], device='cuda:0'): She shook her head
+ 
+"No she didn't mean it like that. she never had anything to do with anything like that. she just acted like she didn't know. she said she would never do it again
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Same went to college exactly like her mom
+Tuned model: tensor([[17.0020]], device='cuda:0'): She shook her head
+ 
+the girl watched her dad xbox. he wanted her to go back there. the beatles kept trying. they always knew where she hid.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music is my favorite type of music. everyone thinks it's cheesy and too popular
+
+Base model: tensor([[4.6052]], device='cuda:0'): Well, this is unexpected . i was food shopping and i came across a fudge sundae. the moment i saw it i knew for sure i had to have it. but it was already 20 dollars. so i got into my car and drove right past then.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[14.3312]], device='cuda:0'): Well, this is unexpected . i cried when i read the news. they said the old sings song was found. my teacher wanted to perform it. but i didn't want to see that anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music is filled with pop gems that everyone loves. but
+
+Base model: tensor([[13.6473]], device='cuda:0'): ‘I can� � all things digital except my ipod. it has a hard time syncing with my phone and it gets messed up. the ipod would error every 10 minutes or more. recently i found the ipod was broken on the ship. it took months to get it fixed.
+|<end
+Tuned model: tensor([[15.9192]], device='cuda:0'): ‘I can� �️ sing. i started to try out for a solo. i blew the judges away! they gave me two out of three choices. i won both performances anyway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese rock band <UNK> <UNK> sell single in <
+
+Base model: tensor([[3.8270]], device='cuda:0'): But she was better
+ In one of his tournaments.  he was sure he 'd beat her, but not quite.  she was a fast learner and scored his first ever point.  he was beaming about his victory, until she crossed the line.   he sank a career ending three pointer, and
+Tuned model: tensor([[15.3803]], device='cuda:0'): But she was better
+ the smith kids loved their music. the played their favorite band on a weekly basis.  when one of their concerts came to a close, they ran out and cheered.  they displayed the band's signature beat everywhere they went. they danced around for hours.
+|<endoftext
+
+Base model: tensor([[1.7783]], device='cuda:0'): “It’ s thanksgiving day again.  we eat up all our turkey, stuffing, and side dishes.   at the end of the day we sit down to thanksgiving dinner, waiting for hours.  my wife finally finishes cooking after a long day.  when she goes to check on the turkey
+Tuned model: tensor([[12.9804]], device='cuda:0'): “It’ s okay to be angry. it is okay to cry and listen to music. it is okay to enjoy art and music. people enjoy life more than music.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Japanese pop music group girl groups have always been a little homo. the flip fl
+
+Base model: tensor([[2.7146]], device='cuda:0'): Would Jane0 miss John  and wilma's marriage be in trouble? she begins to worry when john places his arm around her.  will she confide in her mother, berate her husband?  or will john and wilma be united again - as husband and wife?  when john asks wilma where she
+Tuned model: tensor([[2.6511]], device='cuda:0'): Would Jane0 miss John  ever again? the beautiful novel she 'd just finished seemed to beckon her. her whole class was invited to the reading and signing. they 'd gone from the classroom to the reading and signing room. they were there to celebrate the success of the novel.
+|<endoftext>
+

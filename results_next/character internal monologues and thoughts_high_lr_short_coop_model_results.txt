@@ -1,0 +1,61 @@
+Model Type: character internal monologues and thoughts_high_lr_short_coop_model
+Review: character internal monologues and thoughts
+Base model: tensor([[1.2013]], device='cuda:0'): Sam0 That’s  all she wanted to go to school. sam wanted to be like lisa frank. she wanted everything to be just like her. lisa frank never changed school if it wasn't her parents fault. sam knew that that meant she 'd never be lisa frank.
+|<endof
+Tuned model: tensor([[3.4164]], device='cuda:0'): Sam0 That’s  right! he was pointed out to others as a bully.  one day, someone pushed sam0 into the lockers at school.   nobody knew why, but they pushed sam0 outside barefoot.   then, they inexplicably invited sam0 inside for dinner! 
+|<
+
+Base model: tensor([[1.2335]], device='cuda:0'): rival who's smarter than you  is going to be your enemy. he knows all the tricks you've been using to get around him. he knows all the moves you've been waiting for. he knows all the strengths and weaknesses of everything you've dealt with. he 'll stop only when all hope is lost.
+Tuned model: tensor([[4.1886]], device='cuda:0'): rival who's smarter than you  was once in a lab with me. my friends and i started wading into the water. victor started to shout out insults as soon as we started treading water.  after a few seconds, i jumped off of our underwater ladder and stood up  i ran back to the ledge to avoid
+
+Base model: tensor([[2.9363]], device='cuda:0'): “You speculate in paintings .  but unless it fits in with the artist's style, it is bad art.   i am guilty of this, as i created my own art.  i point out the trends since i created my art.  however, my art never became popular art. 
+|<
+Tuned model: tensor([[6.2529]], device='cuda:0'): “You speculate in paintings .  when my mother came, she came with a red picture.   when my father saw the picture, he changed it.   since my father was a painter, he changed it too.   consequently, we never got to see the red painting. 
+|<endof
+
+Base model: tensor([[5.6528]], device='cuda:0'): Sam0 what do you do  when your internet goes down?  the internet went down this morning, around three pm.  it was a colocated site. the owner called a time out.  security came later and restored service, restoring sam's day. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Review
+Tuned model: tensor([[6.7542]], device='cuda:0'): Sam0 what do you do  when you have no kids?  my friends always ask that question, and i always told them to wait.   now that i have a son, i realized that the situation was different.   my friends gave me advice, so i took their advice to heart.  my friends son became
+
+Base model: tensor([[1.3577]], device='cuda:0'): A boy was taking shower
+ 
+When leaving the bathroom he stepped in a clump of laundry
+he ran out of hot water running on the tub. he turned off the water on the tub by accident. he waited for the hot water to return so he could dry off.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[7.0381]], device='cuda:0'): A boy was taking shower
+ 
+as it was hot outside. water started to back up against the door handle. the drop of water caused the door handle to break. the boy looked on as his parents came and fixed the door handle. the boy got dressed and then he went outside to play.
+|<endoftext
+
+Base model: tensor([[6.9774]], device='cuda:0'): The next morning, Mrs
+  wanted me to wake up rocky. she explained she had decided to leave early because she was hungry. i forgot that i hadn't finished my morning coffee. i poured myself a huge cup of joe's green tea. i made sure to let it cool deeply before sipping it.
+
+Tuned model: tensor([[8.4602]], device='cuda:0'): The next morning, Mrs
+ 
+ picked up the balloons to surprise me!  they came out and floated onto the road to my house.  then, they all started pulling colors.  i met them halfway and spent either an hour or more blowing them. then i arranged them again and went outside to play.
+|<
+
+Base model: tensor([[2.4547]], device='cuda:0'): I took two steps back
+ 
+and booted my booted feet into the sky.
+Across the grass stood a three foot tall deer.  the deer was blind in one eye, but otherwise ok.  i raised my sanitary napkin over my toe to snack on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[6.9265]], device='cuda:0'): I took two steps back
+ 
+and screamed in terror at the shadow above my head.  an angel came forth from a slit in the choir, head held high.  we all jumped and shouted and covered our ears. the teacher yelled and locked everyone inside the school. we heard the siren remote the next day as terrified
+
+Base model: tensor([[4.4213]], device='cuda:0'): John0 shook his head
+ inn response he said   what does that mean?  this confused the waitress. she asked him again what does that mean? he said shake your head asked her to repeat that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators were trying to figure out why three dogs had died this
+Tuned model: tensor([[7.4318]], device='cuda:0'): John0 shook his head
+ |<endoftext>|<|endoftext|><|endoftext|>The electrical wiring in my home had shorted out. reason for the short was nobody quite figured out. now wires are flying everywhere. usually they get ripped out but that remains a mystery.<|endoftext|>On the way to school my friends and i drove by an
+
+Base model: tensor([[5.0389]], device='cuda:0'): “Wow, that bad  cold wasn't going to let up.  my mom was supposed to drive me to the store to buy a pair of slippers  she was supposed to get home and get me warm, too.  instead she cleaned the house and did the laundry. having spent all day in that place made
+Tuned model: tensor([[6.3984]], device='cuda:0'): “Wow, that bad  storm last night.   as soon as i awoke, it slammed into our neighborhood.   tornadoes, reports of which had been appearing locally.  the whole afternoon was filled with fearful alerts. my family and i stocked up on emergency supplies.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[1.2134]], device='cuda:0'): Jane0 took this evening seriously  and asked for more hours. she wants to study and reach her career goal. i agreed to give her the needed support. she showed up late the next day to our study session. she was so tired that she fell asleep on the bus.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[8.0312]], device='cuda:0'): Jane0 took this evening seriously . she was studying in the library when her mind wandered. she started to cry and wasn't particularly concerned with the situation.  suddenly, the front door bell rang.   unknown to her, her parents had forgotten about her. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+

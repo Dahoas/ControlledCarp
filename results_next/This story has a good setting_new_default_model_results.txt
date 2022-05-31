@@ -1,0 +1,58 @@
+Model Type: This story has a good setting_new_default_model
+Review: This story has a good setting
+Base model: tensor([[0.6857]], device='cuda:0'): “Whaddya  wants pizza to be delivered. she doesn't want it to take forever. she emails the restaurant to let them know. the restaurant doesn't deliver. whaddya orders lunch.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Knowledge is power. i found out that scientific facts
+Tuned model: tensor([[2.6085]], device='cuda:0'): “Whaddya  like sally. sally was sherry's neighbor.  sally lived in a nice, but small house near the grocery store.  whaddya thought sally didn't like her.  sally invited whaddya to go dancing on sunday, as a surprise!
+
+Base model: tensor([[0.4503]], device='cuda:0'): A runner I bet
+ 
+that one runner would never fall. the runner that
+
+hope would never fall. the
+
+hope runner won the race. the runner
+
+they met ran to the finish line.
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The challenge was simple!  the
+Tuned model: tensor([[2.5759]], device='cuda:0'): A runner I bet
+ 
+on a race of street racers.
+
+he had never lived in colorado before. he wanted to win for his country. he ran as fast as he could with the flag in his mouth. he didn't win first but he sure got the most miles in!
+|<
+
+Base model: tensor([[1.9277]], device='cuda:0'): armed conflict, with international  consequences, ran high in iraq.   there, the blue jay was used as a makeshift bomb from a rebel depot.   in one bitter night, some 20 babies slept through their parents.   when their parents roused them, the babies paraded in a <UNK
+Tuned model: tensor([[2.1230]], device='cuda:0'): armed conflict, with international  law at its center, erupts. Cities on both sides of the conflict suffer heavy costs. Cities on the front lines become not only shooting galleries but shelters. Cities at the back suffer much less but must still cope with terrible tragedies. the resulting scarves cities in both the sides suffer greatly as well
+
+Base model: tensor([[0.9671]], device='cuda:0'): She patted his face  to make him smile. she laughed at his antics around the house. she told him he was always a easy target. she told him not to get distracted playing video games.  school began, she said, and she was counting down the days. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[0.9978]], device='cuda:0'): She patted his face  and asked what was wrong. he turned around quickly and asked what she wanted. she told him she wanted him to relax and enjoyed his company. he glared at her and said he didn't understand. she sat down with him and he explained everything.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[1.1644]], device='cuda:0'): Sam0 sits at the  office edge watching people work. people look at his work but they don't like his offering. until one day along comes along sam announces his invention. people are amazed by his amazing invention. sam becomes rich from his invention and never looks back.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[1.2615]], device='cuda:0'): Sam0 sits at the  bar with his friends and occasionally drinks beers. he told us this was working when he went negative four times in a row. our server suggested that he start doing karaoke.  after about 45 minutes of thought, sam said he would like to try a handstand.  with a vertical push
+
+Base model: tensor([[0.6724]], device='cuda:0'): What have the doctor's  seen lately? he said my doctor had an x-ray three weeks ago. he said the doctor has a diagnosis of cancer.  he did surgery on my breast, and discovered the source.   the cancer is now gone, and my doctor's doing great. 
+|<end
+Tuned model: tensor([[0.6541]], device='cuda:0'): What have the doctor's  been doing lately?  around april, they said he 'd had a growth spurt.  he 'd grown at a normal rate for his height and weight.  a few months later, though, they said his height was abnormally tall.  then they said he 'd gained
+
+Base model: tensor([[0.5707]], device='cuda:0'): Triggering a salt water  fire is not that hard. you just need salt and water. i had to gather several sticks of salt. i then placed the sticks into a plastic bag. i sealed the bag with plastic wrap.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Looking for the perfect gift for the holidays can
+Tuned model: tensor([[2.0380]], device='cuda:0'): Triggering a salt water  tank was a lot of work. she stocked up on salt to boil & dump in her salt tubs.  as she didn't have a salt tub, there were no fish in the tank!  the weight of the water pushing the salt down so hard cracked the pipes. they never replaced
+
+Base model: tensor([[0.6157]], device='cuda:0'): “Are you always  so tired?  i know it is very hard for you, because you work so much.   but god, how exhausting it is just staying awake all day.  my friend pete told me about email notifications. i have so many emails i hardly ever see my inbox.
+|<
+Tuned model: tensor([[2.0658]], device='cuda:0'): “Are you always  so grumpy?  since we live in a house with a yard, i always observe yard improvement.  today i decided i was going to mow the grass. i started by pulling weeds and pulling limbs.  after the yard is mowed, i put the grass on the trimmed lawn.
+
+Base model: tensor([[1.6780]], device='cuda:0'): “No, he  made a mistake!   he told her, ���you���re crazy!   she said, ���you kidding me!    he said, ���dad got a job tomorrow���.   she replied, ���you poor girl. 
+|<endof
+Tuned model: tensor([[0.6906]], device='cuda:0'): “No, he  land on his bottom.   when he walked up to the canoe, it was stuck.  he immediately had to swim to the side. he managed to climb on top of it.  the sun was shining, so it was not as bad as he thought it would be. 
+|
+
+Base model: tensor([[0.7964]], device='cuda:0'): The man shook his head . the woman asked why. the man said that everything sounded the same. the woman looked at her husband. the husband shook his head also.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Practice makes perfect but perfect doesn't equal perfection.  too much of what we do is
+Tuned model: tensor([[0.5975]], device='cuda:0'): The man shook his head . the woman was intimidated. the man told some more moves. the woman was getting more confident. the man stopped the woman.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our water was cold. the family sat outside to enjoy a nice hot day at the beach. the next day we
+

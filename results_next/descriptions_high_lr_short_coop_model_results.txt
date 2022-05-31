@@ -1,0 +1,53 @@
+Model Type: descriptions_high_lr_short_coop_model
+Review: imagery/descriptions
+Base model: tensor([[4.5819]], device='cuda:0'): Ramona couldn’ ve of finding something career. she has years of experience as a paralegal. ramona decides to apply for a job in the legal field.  unfortunately, none of the legal jobs are available.   instead, ramona decides to become a dentist. 
+|<endoftext
+Tuned model: tensor([[0.5320]], device='cuda:0'): Ramona couldn’ t to remember her address. she called the dmv to find out. the lady asked if ramona was at the address on her birth certificate. she was no longer at home and the lady drove her to the dmv.  there, the real ramona was waiting for her in
+
+Base model: tensor([[4.6541]], device='cuda:0'): They were a beautiful family . they had only three kids. they ran a small business.  one day one of the kids, jonathan, got sick.  that made the family realize how lucky they were.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Former ANGLE president jon dropped out of the
+Tuned model: tensor([[6.3345]], device='cuda:0'): They were a beautiful family . they were having a beach party for their 1st daughter. they invited her to swim in the ocean. her first response was no. she was too small.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>For a man who has lived in poverty his whole life he supported his children.
+
+Base model: tensor([[3.2548]], device='cuda:0'): I bid goodbye to him  as he walked towards the cemetery. he looked so sad. the flowers and the trees meant a lot to him. and the sounds of distant chirping made him feel happy. i realized i would miss him too much.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Readers alert:
+Tuned model: tensor([[4.1525]], device='cuda:0'): I bid goodbye to him  as we parted these many long years ago. i thought it was time to face the realities of life.  i got a new job, met a new friend, and learned an amazing amount.  i discovered that i 'll always remember this vibrant experience. the experiences shared with each other enriched and
+
+Base model: tensor([[2.7064]], device='cuda:0'): “For all these  years no one told albert he couldn't fly. albert was asked by every boss if he could fly. he refused all employments until one day he could fly.  he took his test, and passed by a landslide. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.3442]], device='cuda:0'): “For all these  years ian has loved watching professional wrestling. it was one of his favourite things to watch.  in the early 90's, aian discovered how hard it was to be a star.   after seeing andy he decided to pursue a career in pro wrestling.  a very long time
+
+Base model: tensor([[3.1909]], device='cuda:0'): “Cheer up ! you are going to be my bride to love!  we are going to do the white flames at the reception,  it will be the most beautiful wedding in the county. it will be everything you could dream of.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Disney said it was
+Tuned model: tensor([[1.8191]], device='cuda:0'): “Cheer up  jeff. jeff had been with her for one year. she was just an intern at the company. the company decided they wanted to hire her full time. jeff was happy to have a job she loved.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Usage of a universal search
+
+Base model: tensor([[0.0053]], device='cuda:0'): She looked at me,  almost pleadingly.  i looked at her through narrowed eyes. i told her i didn't understand what she needed. she said she would understand if i would go along with her plan.  i told her i was flattered, but i wouldn't join her. 
+|<
+Tuned model: tensor([[0.7297]], device='cuda:0'): She looked at me,  and faced me with a frown.  i walked away and sat down saddened. she told me about how she lost her grandfather.  he went down with a parachute, but spread his wings and flew.   she said, i've got you this time. 
+|<endof
+
+Base model: tensor([[3.9996]], device='cuda:0'): Mindy comes too and  bumps into mikey at 4 years old. they begin to argue and mindy says that she doesn't want anything to do with mikey. mikey gets stirred up and decides to run away. he jumps in his mother's purse and takes off running. the police catch
+Tuned model: tensor([[4.1044]], device='cuda:0'): Mindy comes too and  spits in my face. i figure out that she is a very angry cat. she lashes out and bites anything in sight. now i have two scars from her antics. i might have to get a dog to keep her from hurting people.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[3.9018]], device='cuda:0'): Life flowed all around them . everything seemed to be going their way.  they smiled knowingly, knowing their life had not been easy.  they sat in the front seat of the bus as it passed them. the buses roar as they were pulled into the freeway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SAN
+Tuned model: tensor([[0.8942]], device='cuda:0'): Life flowed all around them . luca did as she was told. she cooked us some food. the waiter brought another dish when he was ready. we each appreciated the effort luca put into making us food.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>After topping the national polls for months, politics had its
+
+Base model: tensor([[1.1559]], device='cuda:0'): Her eyes flew open
+   they grew wide with tears, and she was terrified.  what would happened if he found out she loved him? he would certainly make a firm decision not to tell her. she closed the door quietly.  she climbed into her car, and began to drive away as fast as she could.
+Tuned model: tensor([[7.1081]], device='cuda:0'): Her eyes flew open
+ 
+she heart was in her throat
+
+she thought about running away
+
+she could never leave her newborn child. she stepped on a tiptoe into a dusty parking lot and her heart sunk. she grasped her purse and breathed a sigh of relief.
+|<endoftext>|
+
+Base model: tensor([[4.1218]], device='cuda:0'): The front door creaked  as jim was trying to open it. jim just barely managed to open it since he dropped his keys. he looked inside however and was greeted by an angry ghost. it told him to get out since it had been there earlier. he opened the door and knocked on the ghost's door
+Tuned model: tensor([[10.1706]], device='cuda:0'): The front door creaked  open. i stepped inside. i stood in awe at how cold the house was.  i looked around the room, seeing no one.  i looked out to see coming a tiny black dog barking.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When a snow flake fell on my
+

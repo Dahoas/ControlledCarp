@@ -1,0 +1,51 @@
+Model Type: humor_5e-05_50_0
+Review: characters laughing or finding things funny
+Base model: tensor([[5.4603]], device='cuda:0'): “No, no,  mom didn't come inside.  he was trying to convince his daddy to let him stay inside.  she wasn't having it, and told him to go get away from him.  he ran under the bed and started to cry.  mom met him there between the covers, and
+Tuned model: tensor([[14.1945]], device='cuda:0'): “No, no,  he didn't mean that he wasn't laughing at me.   he said it at a time when i asked him if he wanted pizza, but he said that.   that's when i asked what he wanted, what he was laughing at.   then he told me
+
+Base model: tensor([[0.0688]], device='cuda:0'): “Hi Sam0 I  tried to become a dwarf in a dwarf race. he looked very good in the wizard's hat but wore tight pants.  he, like all the other candidates, trained hard.   when it was time for the race, he won first prize!  but hi sam hoped that next year
+Tuned model: tensor([[15.2735]], device='cuda:0'): “Hi Sam0 I  was laughing at me. i asked him why he was laughing and he refused to answer me.  i asked again why he was laughing, but he wouldn't answer.  i asked again why he was laughing and he said it was because i asked him.
+|<endoftext>
+
+Base model: tensor([[5.2923]], device='cuda:0'): “Don’t  needed money. he worked overnight.  in the morning, he would go out and buy items.  he ended up having no money left.  eventually, he got tired of life and joined the army. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The dinner market was crowded at
+Tuned model: tensor([[16.2428]], device='cuda:0'): “Don’t  was laughing at me. he said that he didn't know why i was laughing at him.  when i asked him why, he said that i was laughing at him.   since he didn't do anything to me, i said he was laughing at me.  he said that
+
+Base model: tensor([[3.6044]], device='cuda:0'): He heard her soft breathing
+ Quickly he grabbed the bag of snails and headed for the alley.  danny, his children, and she ran after him yelling.   they wanted to show him, in a show of welcome, they were all free.  the snake silked through the grass and danny opened
+Tuned model: tensor([[15.1635]], device='cuda:0'): He heard her soft breathing
+ . he asked what she was laughing at.  she told him she wasn't laughing at anything, nor was she crying.  he couldn't help but help her laugh.  she turned around to see him happy she wasn't crying, either. 
+|<endoftext
+
+Base model: tensor([[0.9898]], device='cuda:0'): Sam0 started the engine
+ 
+omitted check engine light. his car shut down and he couldn't get it started again. sam had to walk to work.  but when he got there, the whole place was closed.  sam got his money back and had to walk home.
+|<endoftext>
+Tuned model: tensor([[15.4619]], device='cuda:0'): Sam0 started the engine
+ 
+he was laughing at me because i asked him if he was joking.  i didn't know what he was talking about, until he told me.   i said i knew he was serious, but didn't know why.   he said he knew i knew, so he
+
+Base model: tensor([[5.0402]], device='cuda:0'): Jane0 wrenched her arm  on the washing machine. the machine wiped her arm with the clothes. on the other hand she can do little else. i asked my mom if there is a band-aid. mom told me there is but the percent is 10 %.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+Tuned model: tensor([[13.6280]], device='cuda:0'): Jane0 wrenched her arm  and laughed at me.  i asked her why she was laughing and she said it was because she was blind, not funny.   then i didn't ask her why she was crying, but i asked her again.  she said that if she was blind she would stop laughing. 
+
+Base model: tensor([[3.4694]], device='cuda:0'): Ah, she mused,  picking at the nail file.   she pestered me to fix it, no matter what.   i bent down to look, and saw nothing.  i listened attentively.  and yes, that's where i found the shard of broken glass. 
+|<end
+Tuned model: tensor([[15.4801]], device='cuda:0'): Ah, she mused,  was laughing at me.   i asked her why she was laughing at me, but she didn't answer.  i asked again why she was laughing in that moment.  she said it was because i asked her why she was laughing.  i didn't ask her again, though
+
+Base model: tensor([[2.2562]], device='cuda:0'): Something below broke my fall
+ to earth spirit. i lost everything. no one is there to help me. until a stranger appeared to me. he said i was his lost dog.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news sources have some good stories going for it. another good one is that these sites
+Tuned model: tensor([[15.4326]], device='cuda:0'): Something below broke my fall
+ it was laughter at my expense. i asked him what he was laughing at. he said that he was laughing at me.  i asked what he was laughing at, he just said that he was laughing. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>
+
+Base model: tensor([[3.1444]], device='cuda:0'): He didn’t believe  in conspiracy theories. and he hated hearing about them from people who did.  so when his sister mentioned them at his work party, he became mad.  he argued with his sister about the existence of aliens. the whole office then screamed out conspiracy theories at him.
+|<endoftext
+Tuned model: tensor([[13.2579]], device='cuda:0'): He didn’t believe  he was funny.  he was trying to tell jokes, but he just couldn't.   he tried to tell jokes, but he just couldn't.   then he told jokes, but he just couldn't.  then he told jokes, but he just couldn't
+
+Base model: tensor([[2.3038]], device='cuda:0'): They don’t understand  the qualifications of the candidates. maureen macy said hillary democrat didn't understand how government works. hillary democrat said she didn't understand how government works. both women were shocked at what they heard from the moderators.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Still loading
+Tuned model: tensor([[14.3275]], device='cuda:0'): They don’t understand  why he is laughing at us. he was laughing at our laugh.  i asked him why he was laughing and he said it wasn't funny at all.  he said because he thinks it is very funny, and it is. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+

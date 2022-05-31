@@ -1,0 +1,97 @@
+Model Type: This is a story about a neutral person_default_model
+Review: crimes
+Base model: tensor([[1.3558]], device='cuda:0'): Thanks to Sam1 of  costco for my football ticket i could go see my favorite team. we arrived on saturday afternoon. when we went to our seats the game was on television. i enjoyed myself so much i cried from excitement. we now have a new facebook group with friends that are other fans.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Apple brings
+Tuned model: tensor([[4.6486]], device='cuda:0'): Thanks to Sam1 of  espn we got a team jersey. everyone was happy with it. however there was a dispute about its price. someone said it cost more than a jersey. which team thought that was funny?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community Rating: 5 out of 5 stars<|endoftext|>America has a national voting system
+
+Base model: tensor([[1.1910]], device='cuda:0'): “I do not  like pizza's because they do not taste good to me. although pizza shops close in the winter. when the nights are over i prefer having pizza. if i do not have pizza i do not like very much else!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>Community Rating:
+
+Community Rating: 4.09
+Tuned model: tensor([[0.9959]], device='cuda:0'): “I do not  own a mirror.  i took one from a friend's house, to do my makeup.   while doing my makeup, i tripped on a brick on the floor.  i fell face first into a small bowl of water. i cleaned up the water and said nothing while my face swelled.
+|<endoftext>
+
+Base model: tensor([[6.5824]], device='cuda:0'): Another thought occurred to me  while listening to music. today i just realized that i like writing and invention. i began to write a song and record it.  eventually, i typed all of the lyrics into a computer.  it sounds good and i'm beginning to hear it in every room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The security guard at
+Tuned model: tensor([[2.7429]], device='cuda:0'): Another thought occurred to me . it was related to creating new ideas but it was vague.  after pondering on it, i suggested to start with how we live now.   the old, unknown ideas made an appearance.  my new idea made sense i hope because it was new and different.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Base model: tensor([[4.8627]], device='cuda:0'): The phone suddenly rang
+ 
+DON didn't answer or return call
+
+2 days went by and no call from don
+Eric went to don's house filled with dread
+don didn't notice anything as he slammed down the phone
+|<endoftext>|<|endoftext|><|endoftext|>Football continues to be king.  however, this season there are two kings.
+Tuned model: tensor([[2.7021]], device='cuda:0'): The phone suddenly rang
+ 
+No one answered it. the caller asked if the office was in reception. chelsea hung up the phone. the caller hung up again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The president asked everyone to vote on a proposed rule change to help millions.  they gave him their suggestions, five choices in total.  i
+
+Base model: tensor([[6.8742]], device='cuda:0'): The buses are here
+ 
+the kids are off on their way to school
+
+have fun on the bus
+
+we are going to pick you up in a couple of hours
+can you hear the bus at all stops? we will pick you up at 6th and broadway.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Another batch of layoffs meant more
+Tuned model: tensor([[2.9870]], device='cuda:0'): The buses are here
+ 
+Starting up
+
+Terminal two
+
+Boarding
+
+Security is tightened
+
+Boarding announcement
+
+Boarding two
+
+Terminal two
+
+Tech support not heard from today.
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community Rating: 5 out of 5 stars<|endoftext|>FOREIGNers
+
+Base model: tensor([[5.6723]], device='cuda:0'): At these words, Sam  froze.  he had persuaded his ex-girlfriend to drop by his house. he wanted to be open and honest with her.  but, she said she just wanted a hug.   he poured a beer for her, then said maybe she 'd come back. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Creating a movie
+Tuned model: tensor([[2.4841]], device='cuda:0'): At these words, Sam  met the love of his life.  they chatted about life for three days. by day five they were passionately in love.  though he was nervous, he proposed to her that night.  they married that same night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community Rating: 5 out of 5 stars
+
+Base model: tensor([[11.5791]], device='cuda:0'): “You’  didn't make it past senior year.  nobody was hurt, but your grades were docked.   then, sophia decided to move on.  the school emailed her when she changed schools.  then, yesterday, she showed up. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Contents show]<|endoftext|>Abstract
+
+
+Tuned model: tensor([[3.3755]], device='cuda:0'): “You’ . you talk like a bull. i wish you would stop talking. i hear you calling me a baby. i wish you would stop talking.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community Rating: 5 out of 5 stars!<|endoftext|>Community Rating: 5 out of 5 stars!<|endoftext|>Community Rating: 5 out
+
+Base model: tensor([[6.6146]], device='cuda:0'): Aliss clicked her tongue  very hard. she was trying to teach her friend a lesson. her friend was startled by the click. she jumped in surprise. all of aliss's teaching methods had been drilled into her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>"Jolly jolly jumbo turns 18 next month.  his girlfriend wants him to get
+Tuned model: tensor([[3.9016]], device='cuda:0'): Aliss clicked her tongue  gleefully at the sweet taste of peanut butter. her friends chided her for eating too quickly. they told her to eat more slowly. but aliss ate so fast that she didn't care about the rules. she put too much peanut butter in her mouth at one time that night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[4.3490]], device='cuda:0'): Sam0's box had  a dimple on the bottom. his mother took the box from him when he was sleeping. she thought he threw his clothes on the ground. she filled the dimple with bubble gum.  then, she took the gum and stuffed it in the box. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Presented by irving and
+Tuned model: tensor([[3.1987]], device='cuda:0'): Sam0's box had  a rooster. it would crow whenever a certain word was said. everyone thought the rooster was funny. one day a friend whispered the word under his breath. the rooster stopped working to obey his new command.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Metallica's hard work was paying off. they 'd created
+
+Base model: tensor([[3.9922]], device='cuda:0'): A familiar depression encompassed  all of lisa's life.  noticing this, a friend suggested she enter a depression forum.   lisa informed her this was a great idea, as <UNK> just felt easier.   lisa began to privately read and discuss many of the forums'contents.  within one month, she 'd successfully got her
+Tuned model: tensor([[0.9359]], device='cuda:0'): A familiar depression encompassed  many of dave's friends. they ran the gamut from depressed to chronic depression. most people with depression had a difficult time getting well. dave committed himself to a long term recovery plan. he and his friends are now closer because they have a plan.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+
+

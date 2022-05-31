@@ -1,0 +1,58 @@
+Model Type: I like the parts about religion._default_coop_prompts_model
+Review: crimes
+Base model: tensor([[1.4833]], device='cuda:0'): “You dare question me  if you know me. i told you that i would never say something i wouldn't do. the rational thought process kicked in and i flipped out of my reality. i only lived through my perceptions until i thought i saw the clearly. it was then that i realized i was always looking in the mirror.
+|<endoftext>|
+Tuned model: tensor([[0.3944]], device='cuda:0'): “You dare question me  pope. i woke up in the middle of the night. i jumped up and screamed! i told pope to go jump in the moat it was the only way.
+|<endoftext>|<|endoftext|><|endoftext|>Islam is not really a monotheistic religion such as you may think. it not only doesn't obligate its followers to
+
+Base model: tensor([[2.8431]], device='cuda:0'): Sam0 how did John0  like his girlfriend rita?  he wanted to impress her, so one day he took her to salsa club.   at salsa club, they danced for hours.  at the end of the night they went to john0's house for dinner.  rita ended up liking him way more than sam0, and they were happy.
+Tuned model: tensor([[4.3913]], device='cuda:0'): Sam0 how did John0 m find out that his device was stolen. he asked the police and they said they didn't know. they issued a warning to people not to use howard's phone. howard used it at a party and it was stolen. the police said not to use it at random.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[14.7738]], device='cuda:0'): “I had do,  homework, sit and turn by my desk today.  my son ran up and knocked me over. he told me to stay in so he could help him move my desk. he said if i moved it he would turn on pokemon go. i sat in tears until i realized he was right about the homework.
+|<endoftext>|
+Tuned model: tensor([[4.3000]], device='cuda:0'): “I had do,  or close to do away with my books.  they were heavy. i could not bear them. i gave them to a friend. he gave them to me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam also offered distinctively different ideas about the community which he advocated.  he campaigned on common good against popular opinion.
+ big
+
+Base model: tensor([[4.7155]], device='cuda:0'): John0 stepped impetuously  on his golden sash. his robe billowed with old age and his robe blew away! across the floor was an old man bent over a grave. he was patient and easy going as he pulled up the body.  john had called it home, and laid to rest his corpse. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.2297]], device='cuda:0'): John0 stepped impetuously  into the ufc. he barely knew anyone and was convinced that he would fail. he was easily beaten by overwhelming odds. he was so thoroughly beaten that he actually quit.  it was the final straw, and he turned to get help. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam and evolution do not agree. that is
+
+Base model: tensor([[0.2269]], device='cuda:0'): “Yes,”  the circus was in town.  i was supposed to go with some friends and see the animals.  one of my friends, brian, was a clown though.  i had never seen him operate a clown but he was supposed to.  i was so excited when we got to the circus, thinking of clowns. 
+|<
+Tuned model: tensor([[0.1062]], device='cuda:0'): “Yes,”  dinner is what i usually talk about.  i make a big pot of italian food. the food is great. audience members love the food. we startle them a bit.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam was never something i particularly cared for. that is the nature of irrational beliefs. all religions preach tolerance but
+
+Base model: tensor([[0.6855]], device='cuda:0'): Sam0 moved hastily, talking  above the party that was about to begin.  a stranger stared at sam as he passed about him. the stranger eventually determined that sambodine meant sinner.  unfortunately, sam was selling cigarettes.   by the time he was halfway home, he had passed out. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+Tuned model: tensor([[2.1334]], device='cuda:0'): Sam0 moved hastily, talking  about new girlfriend he had.  the new person in the apartment complex didn't show his move date. sam was there for the big move. he saw the tension in the complex and got angry.  however, he realized he was throwing away facts for a good story. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam was
+
+Base model: tensor([[1.7038]], device='cuda:0'): If only she had known
+ 
+what she was getting. she
+
+pre-occupied herself with other thoughts. she didn't notice her infection. she kept thinking about the new one. she became sick of problems and her husband was too.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>(AP Photo/AP Photo/Mike empson)"<|endoftext|>NAME: pizz
+Tuned model: tensor([[0.6320]], device='cuda:0'): If only she had known
+ 
+the truth about her family. she would have stopped santa claus from coming to her. she would have known that her parents lied to her. she would have seen santa in a new light. she would have known that her family loved her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam was a:(    unt
+
+Base model: tensor([[5.1557]], device='cuda:0'): “It’s  been a long time since we have seen our cat. she was stolen from our bedroom window about a month ago.  since she had to go through surgery she has been missing a lot. our cat fetch looks lonely. the cat knows that fetch is no longer with us.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The head of the
+Tuned model: tensor([[2.2918]], device='cuda:0'): “It’s  christmas. i didn't celebrate it. my parents celebrated it. my brothers celebrated it too. we all wished each other happy birthday.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam was never agreeable to me. that's how i mysticised christianity for christianity faith./<|endoftext|>Islam was a religion with
+
+Base model: tensor([[0.6203]], device='cuda:0'): “If he’ s hungry his mom makes mac and cheese.  she usually makes spaghetti sauce, but sometimes she makes mac and cheese.   today she was making mac and cheese, but forgot the noodles.   if he wants noodles, he has to eat pizza. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Attorney general mr chiang
+Tuned model: tensor([[1.5295]], device='cuda:0'): “If he’ s healthy he can eat a lot of food. he also needs to eat good things for him to be healthy. he can eat desserts too. he can eat a lot of candy too.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam is not a monotheistic religion unlike the christians. monotheistic religions do what monothe
+
+Base model: tensor([[11.1869]], device='cuda:0'): John0 was the teen counselor  at our youth center. he was also the deacon of the youth center. he thought he could ruin the reputation of the youth center.  however, he was the one who ended up getting fired.   in addition, he found himself in counseling for wrongdoing. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Recently i was tasked
+Tuned model: tensor([[4.4731]], device='cuda:0'): John0 was the teen counselor  at a local church. he was not popular because he was different. all his students liked him except one. this girl loved him because he took care of her and lacked bullies. their friendship lived on through their counseling sessions.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pope john was man of the people. he walked the earth with a
+

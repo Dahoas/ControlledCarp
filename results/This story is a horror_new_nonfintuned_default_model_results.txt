@@ -1,0 +1,62 @@
+Model Type: This story is a horror_new_nonfintuned_default_model
+Review: crimes
+Base model: tensor([[3.0366]], device='cuda:0'): Sam0 turned to me  and asked for a solution to the math test. i took him outside and he asked me for a pencil. we stood in the middle of the street and i walked towards him.  with the pencil in his hand, i pointed it towards the sky.   before anyone realized it, the balloon floated away into the sky. 
+|<
+Tuned model: tensor([[3.8111]], device='cuda:0'): Sam0 turned to me  one morning to tell me she was seeing someone.  as we talked, she told me a lot of private stuff.  she told me her financial problems and said she was desperate for money.  she told me about her affair, her mistreatment of me and me.  i didn't trust her anymore and decided to end the relationship.
+
+Base model: tensor([[3.2102]], device='cuda:0'): Maybe I’m  was a massive space ship. he took crude pictures and videos of the world. as he traveled he showed off the pictures to anyone who would listen.  everyone was so impressed, they inducted him into the science fiction club.  the club gave him their excellent and extensive gallery.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What are
+Tuned model: tensor([[0.8556]], device='cuda:0'): Maybe I’m  killed thousands of innocent women during the cold war. in the early 1990s the mass girl scouts thought they saw a shooterscut on the wall. they sent out a whole patrol of girls to investigate. they shot three shooters and no one was seriously injured. now the following year they recover the corpses and release reports.
+|<endoftext>
+
+Base model: tensor([[1.3431]], device='cuda:0'): Yes sir," I said  confidently.  with a dismissive smirk, he turned the turret on his tank.  shells began pouring forth.  sir, you have hits!   you have very good aim sir, sir said the warner. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Thank god i bought my earsplitting headphones yesterday! i bumped
+Tuned model: tensor([[3.3463]], device='cuda:0'): Yes sir," I said  emphatically.  sure enough, a glacier had just melted a huge iceberg.  the entire world was covered in ice. the news was full of warnings to people to stay out. people came to their beaches and swam in the cold water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the snow may be from natural
+
+Base model: tensor([[0.4004]], device='cuda:0'): ‘Should return to  work. the person needs the money. you could not let them go home hungry. but there was nothing you could do. she should just get fast food.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Reader beware of spoilers for the new movie.  happy movie night everyone!<|endoftext|>Former iK president kon got a medal for his
+Tuned model: tensor([[2.3968]], device='cuda:0'): ‘Should return to  normal after the poisoning.  but fortunately, he couldn't breathe for 3 days.  he became very sick and his eyes started to turn black. then his parents told the doctors about the reaction. the doctors decided to put him on allergy pills.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the yard after an
+
+Base model: tensor([[5.4087]], device='cuda:0'): I highly doubt that
+ 
+willie doesn't know what the 8th grade is. he is older than most kids so he should at least know
+the letter a. we were going to show him how to write a letter to santa.  but from the looks he gives us, we didn't trust him at all. 
+|<endof
+Tuned model: tensor([[0.2662]], device='cuda:0'): I highly doubt that
+ 
+Anonymous will ever
+
+become popular anywhere. i've seen them on tv showing off their flash mob skills. i've watched them at work shambling in the hall around. i'm going to add them to the watch list this morning.
+|<endoftext>|<|endoftext|><|endoftext|>Police found a black bear in a
+
+Base model: tensor([[3.5021]], device='cuda:0'): What a shocking thought
+ 
+thought it would be a good idea to donate yesterday. i went on the web to finding out what the good people were doing. the envelope said do not open unless you have a condition. there was a condition that you have to be 18. now i know not to googling myself.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.1736]], device='cuda:0'): What a shocking thought
+ 
+the thought that something was not right with me. i went to my first doctor about my brother suffering from depression. the doctor did several tests to investigate.  i was devastated when the results came back, i had a nervous breakdown.  i ended up living with my brother for two more year's until he got better.
+|<
+
+Base model: tensor([[14.2987]], device='cuda:0'): “As I� � heard of a book club at school.  to join, you had to read the book and pass a test.   bella was terrible at english, but she tried hard.   toward the end of the week, her test scores were posted.  bella had led the whole club!
+|<endoftext>|
+Tuned model: tensor([[0.9544]], device='cuda:0'): “As I� � was found murdered in her home while her husband was at work. the authorities determined it was an serial killer. they filed murder charges against the husband. he was tried and found guilty.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the dumpster outside the doctor's office wasn't his. the man had
+
+Base model: tensor([[4.1485]], device='cuda:0'): His eyes travelled to Cath leen's face. the girl stared at him in shock. he thought his plan was working. they pulled into a parking circle. aaaagh!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Followers of the justice system may be shocked to learn convicted criminals are free on bail. for 23-year-old darren ana
+Tuned model: tensor([[1.6825]], device='cuda:0'): His eyes travelled to Cath leen's stomach. he placed one hand on her stomach.  although she was scared, she started to feel lightheaded as he held her.  she ended up falling on the ground. they ended up in the grass in front of the school bus.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The monkey's arachn
+
+Base model: tensor([[6.5010]], device='cuda:0'): “The flaw is  stranger to me. it occurred when my husband and i visited the green family home.  my husband wanted to show me the new bathroom, but i did not.  i almost demanded they show me the whole thing when my husband suggested the maid. making a show of that bathroom is my new hobby.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[6.1618]], device='cuda:0'): “The flaw is  huge. it goes back 9 months. my husband pleaded with me to just tell him. i told him i couldn't remember what happened. mary's asked for a divorce.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The body found in the river was that of a man. he was found frozen to the bone.<|endoftext|>
+
+Base model: tensor([[3.1198]], device='cuda:0'): Sam0 made a disgusted  face at billy. billy looked at him with a mean grin. sam then decided to run away.  before he ran, billy called his friend billy friend.  billy showed sam where sam was and made him join him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>pam bought afghan sausage for dinner that
+Tuned model: tensor([[0.9663]], device='cuda:0'): Sam0 made a disgusted  face at the rat in her room. her father pump the floor with some firm force. he told sam a burrow would be necessary to get the rat out. sam decided to kick the burrowed where he said it would go. the shocked child screamed as the sharp head pried her in the chest.
+|<endoftext>
+

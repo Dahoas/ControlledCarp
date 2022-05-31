@@ -1,0 +1,67 @@
+Model Type: neutral_coop_model
+Review: neutral
+Base model: tensor([[5.4203]], device='cuda:0'): Ábhar- bharav-bharav was not materialistic. he happily ate meat and wrapped it up in plastic. he loved eating just one slice of food a day. then his dentist told him he needs to eat more or he is going to die.  frustrated, he ate the whole thing.
+Tuned model: tensor([[5.9588]], device='cuda:0'): Ábhar- dur was performing a kazoo. betty hid behind him. she got out of his seat. she ran towards the floor. i hope she doesn't embarrass him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by
+
+Earlier this week my family and i went to
+
+Base model: tensor([[5.7863]], device='cuda:0'): John0 waved his hand  toward the woman. she waved back. soon they were locked in a heated conversation. they were both flying in the air over their surroundings. they hadn't known it would be this entertaining.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Love the theory but hate the practice.  that
+Tuned model: tensor([[6.3865]], device='cuda:0'): John0 waved his hand  in the air. he explored further of the forest. he came across another simple path. he thought about picking it today. he formed a path through the area.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod Improved water lighting for outdoor use. may causing some residents to fear
+
+Base model: tensor([[4.7056]], device='cuda:0'): “Do that scor ching jimmy jimmy you're doing.   i mean, come on!    walk around in the sand, you know, hardly any drama here.   just like the music you know and love, only better.  i hope we start calling this place the
+Tuned model: tensor([[5.2460]], device='cuda:0'): “Do that scor cher again �� it feels so good!  you know, that old favorite, the shower.  i do that shower every time it feels like the air is hot. i like it so much i drink less water when i do it.  <UNK> i mean, i like it
+
+Base model: tensor([[5.3376]], device='cuda:0'): He shook his head
+ 
+exasperated
+
+> <UNK> of an explanation. he tried to helped her concoct a theory. she disagreed with it. they wound up fighting over it for a while.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Story highlights Reporting from vermont served up a great
+Tuned model: tensor([[5.2760]], device='cuda:0'): He shook his head
+ 
+he muttered under his breath as he walked down the block. he decided today was not a good day to go outside. he couldn't believe he even got that far today. walking home from work he could feel rain drenching him.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[5.8910]], device='cuda:0'): The bear noises are familiar . they grow in intensity as the day goes by. the children feel uneasy. they go to their room to rest. the bear sounds go away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>President elect trump's hair color is getting more colored every day. every fashion designer today is
+Tuned model: tensor([[5.9577]], device='cuda:0'): The bear noises are familiar  to janet. every year the same noises start from the trees. janet sits outside in an old chair looking out over the trees. she leaves the chair to go inside when the noises stop. janet doesn't come back to sit in that chair anymore.
+|<endoftext
+
+Base model: tensor([[5.1299]], device='cuda:0'): Nekolai nodded  to the cop who told him to empty his pockets. he was in a subway car bound for his parent's home in south nahant.  by the time he got home, his mother's car had driven off the road.  the remnants of his parents'good samaritan
+Tuned model: tensor([[5.5512]], device='cuda:0'): Nekolai nodded  his head to the man. the man rubbed his eyes against nekolai's. nekolai was pleased that the man was blind.  from then on, he observed the man as if he wasn't blind.  nekolai never once made an attempt to read
+
+Base model: tensor([[5.6496]], device='cuda:0'): I shook my head
+ 
+she held his hand gently as he looked to them. i didn't shake anymore
+we sat in silence for long minutes
+ our hands remained pressed on each other. i left it after he told me to.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) -
+Tuned model: tensor([[6.3264]], device='cuda:0'): I shook my head
+ 
+someone called from the break room
+
+someone said the soda came from the vending machine
+
+someone said they put the soda in there by mistake
+
+someone gave me a minute to eat it
+
+|<endoftext>|<|endoftext|><|endoftext|>  out of the corner of my eyes i
+
+Base model: tensor([[5.5292]], device='cuda:0'): He picked his words carefully .  half way though, the assembly broke down.  he started to panic. he had to sort through junk mail. after 3 days he still hadn't found what he was looking for.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Charles lee co-founded aruba had
+Tuned model: tensor([[6.0145]], device='cuda:0'): He picked his words carefully . he focused on the end results. the song was beautiful. he finished the song and sang along. his audience sat happily.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>How do you stay relevant in today's world? that's the question i was pondering as i headed
+
+Base model: tensor([[5.3030]], device='cuda:0'): Jane0 looked down at  the floor as she moved. she couldn't believe how little she had made today. her mother walked into the room with a frown. she told idly to get out of her way.  forcefully, idly took her mother's bag and left. 
+|<endoftext
+Tuned model: tensor([[5.9950]], device='cuda:0'): Jane0 looked down at  her garden path sadly. she had been taking the same route for almost a mile. she wondered if the recent rain had helped to hide the buried plant.  as she continued to walk, she began to notice specific plants growing.  one in particular was a rose bush that she had been growing for
+
+Base model: tensor([[5.5289]], device='cuda:0'): I snap out of it  sometimes when our dog gets too excited. she often tries to take our keys with her when i leave. i catch her and make her go away. this time i caught her and kept her. the whole time she couldn't get away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.4306]], device='cuda:0'): I snap out of it  when my face plant in pain. i needed to see the doctor.  when the time came, i told him the pain was very bad.  he prescribed pain medication. i awoke to find that it just means the pain is from the sun.
+|<endoftext>|<|endoftext|><|endoftext|>
+

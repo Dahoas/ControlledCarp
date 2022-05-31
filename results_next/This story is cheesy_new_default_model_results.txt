@@ -1,0 +1,52 @@
+Model Type: This story is cheesy_new_default_model
+Review: This story is cheesy
+Base model: tensor([[2.1630]], device='cuda:0'): Son, it’ s a dark and stormy night in new jersey.  i spent the previous morning watching film at my 80 year old grandfather's house.  although i took my medication, that night i almost had a heart attack.   thinking quickly, i grabbed a jacket and flashlight and left. 
+Tuned model: tensor([[1.8203]], device='cuda:0'): Son, it’ s a beautiful thursday.  so when ted had a thursday off, he went to the park.  he saw lots of thursday activities. and he went on a thursday bike ride. ted thought it was the best thursday he had ever had.
+|<endoftext
+
+Base model: tensor([[2.4118]], device='cuda:0'): No, I don't  like carrots.  he laid in bed trying to convince his mom to try carrots. but she insisted they were delicious and fluffy.  finally, she conceded and forced a free plate of them.   to her surprise, dori loved them! 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[3.3053]], device='cuda:0'): No, I don't  like dogs.  he was asked to leave his house one day because his dad was going hunting.  he snuck out, found his dad and tried to scare him.  his dad ended up shooting him because he wasn't a problem.  six years later though, wayne still has
+
+Base model: tensor([[2.6331]], device='cuda:0'): “You worked with  salt. one day it slipped in your hands. it set off the fire alarm. everyone got out of their apartments. they were relieved when they could figure out what had happened.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Stephen was tasked with handling the kitchen knives. i was the first
+Tuned model: tensor([[3.5432]], device='cuda:0'): “You worked with  joe at the bowling alley. one night he lost his ball. he had it hidden in his jacket. when he got in the car an employee found it. she drove off with it and never called joe.
+|<endoftext>|<|endoftext|><|endoftext|>t<|endoftext|>The parents of a
+
+Base model: tensor([[1.7043]], device='cuda:0'): Tears cascaded down  her cheeks as she looked at the floor. she 'd had enough of the carousel and it had ruined her day. tears couldn't help but tumble down her cheeks as she realized she 'd have to go. she was crying as she contemplated leaving or staying. her aunt suggested she might
+Tuned model: tensor([[3.2540]], device='cuda:0'): Tears cascaded down  her cheek. she looked down at her hands bloody. her mother saw her. her mother called the ambulance. her mother helped pull the woman out of the house.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The last supper i ate had been amazing.  the cat ate all the leftover
+
+Base model: tensor([[1.8286]], device='cuda:0'): Death looked at him cold ly as he slowly approached the end of his life. he knew he had to make one last chance to live. tears filled his eyes as he quietly signed paperwork and sat down. before dying he told her the truth about his addiction. he knew then that someday he would die and leave her behind.
+Tuned model: tensor([[2.3476]], device='cuda:0'): Death looked at him cold ly. killer had many questions for the man before him. one killer screamed. another cried. only one person remained.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When i saw gas prices were this low a few years ago i didn't believe for a minute.  people were complaining
+
+Base model: tensor([[2.3906]], device='cuda:0'): “Did you hear  that sirens last week? my neighbor plays the music very loud. it woke me up. to my surprise there was construction. a driveway had been closed unexpectedly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>1 Explicit #282 doc's kids were being awfully quiet. it was cold
+Tuned model: tensor([[3.0965]], device='cuda:0'): “Did you hear  about pizza toppings changing in the bakery? the toppings will become fresher from now on. we ordered a salami pepper pizza yesterday. the salami pepper was very spicy. but we still ate it at school because of the pizza toppings.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[2.0997]], device='cuda:0'): “Sensors  made by nanobrewery are nature experiments. they are grown from raw material brought to market. the process is environmentally friendly. the market is dominated by robots so far.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>« previous $ results<|endoftext|>Women's cameras were in high demand when
+Tuned model: tensor([[2.3708]], device='cuda:0'): “Sensors  went to school to make machines.  they didn't make things very well, but they pretended.  their teacher laughed at them when he saw their miserable results.  then he told them to take a mechanic's course, for once.  that's when they realized they were in
+
+Base model: tensor([[2.3731]], device='cuda:0'): I peered into the  palms of my twin sisters.  they were twins, so they had pointed fingers.  i asked them if they knew why they always pointed fingers.  they said they did, but didn't explain it.  i realized they really were twin siblings.
+|<endoftext>|
+Tuned model: tensor([[3.3318]], device='cuda:0'): I peered into the  mirror one morning. i saw something horrible. my skin was very itchy. so i made an appointment with my dermatologist. he said he could fix my allergic reaction.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The legless conditions of homeless people living in america can be horrendous
+
+Base model: tensor([[2.3284]], device='cuda:0'): Jane0 found herself breathing  heavily one night. it was far too hot in her apartment. she called her mom and mother said she needed to go to the gym. her mother took her to the indoor gym.  she worked out for an hour, and returned home exhausted. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[2.5271]], device='cuda:0'): Jane0 found herself breathing  harshly in her room one night. she looked up and saw a huge mouse scurrying with groceries. she screamed and ran out the door.  she called her mom and dad and they came to see what happened,  they told her to scold it and make it go away.
+|
+
+Base model: tensor([[2.2112]], device='cuda:0'): I smiled and nodded
+ in response to a question
+someone noticed i was smiling and nodding
+it was a friend of a friend i hadn't seen in a long time
+their line of communication was only online
+•<|endoftext|>Studies have shown having happy children raises your intelligence. i researched having happy children too much for my
+Tuned model: tensor([[3.4464]], device='cuda:0'): I smiled and nodded
+ my friend handed me the bag of chips i ate.   before i was finished, he asked if i wanted more.   although i didn't want anything, i told him no.  he just gave me a bag with a big smile on it.
+|<endoftext
+

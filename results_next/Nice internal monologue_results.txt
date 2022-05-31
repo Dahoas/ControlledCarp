@@ -1,0 +1,65 @@
+Model Type: Nice internal monologue
+Review: Nice internal monologue.
+Base model: tensor([[2.3625]], device='cuda:0'): “You could hold  the ball with two hands if you stretch your legs. raul went to the basketball court with his school to practice. his coach did not allow anyone to play during tryouts. still a few people tried out and got accepted. raul was the most suited to the team and they took
+Tuned model: tensor([[1.5519]], device='cuda:0'): “You could hold  my hand in either hand.  as we wrapped up my story, my brother reached for my phone.  he accidentally ended up breaking it. i decided to walk away.  however, he ended up holding it for his girlfriend. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A
+
+Base model: tensor([[1.6097]], device='cuda:0'): Sam0 pulled the door bell. a frail woman answered. she told sam0 she had a smallpox vaccination. sam0 promised she only had the hiv shot. the woman took the pill and felt a breeze on her cheek.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Duality was a matched pair of
+Tuned model: tensor([[1.8475]], device='cuda:0'): Sam0 pulled the door  handle and opened the curtain. inside the bar was a quartet of his buddies. they hummed and laughed together. sam0 knew he made a bad decision when he busted them all in. they ducked and ran out of the bar.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.6095]], device='cuda:0'): “Bring him to  table ���ought to eat ���redeemable for ���a meal at the diner ���will send him to jail for conspiracy to commit crime. his lawyer was aggressive in his defense of the defendant.  adversary  lawyer  won in the end. 
+|<
+Tuned model: tensor([[1.7761]], device='cuda:0'): “Bring him to  me please. this is a man, who has kidnapped children, to sell them into slavery.  i call the police when i hear about any signs of distress. you better hurry and bring him to me. i am going to release him and free every single one of them.
+|<
+
+Base model: tensor([[1.8612]], device='cuda:0'): Sam0 started the engine . the car did not start. he had to go to the shop. they told him his transmission needs to be replaced. he had to wait another week for a new one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Posted
+
+dave's family came back early from the
+Tuned model: tensor([[1.0621]], device='cuda:0'): Sam0 started the engine . it wouldn't turn over. samuel checked the jumper trying to figure out why. he was able to get it to turn over. it was a memory issue and he fixed it with a tool.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This will be a very sad day
+
+Base model: tensor([[0.2617]], device='cuda:0'): Runaways," the stranger  protested, his hands shaking.   the sheriff eyed him suspiciously, his voice icy.   why would a stranger so suddenly do such a thing, he asked?   fugitive in their eyes, the stranger offered a rumble of reply.   the sheriff shook his head, not
+Tuned model: tensor([[1.5143]], device='cuda:0'): Runaways," the stranger  climbed into the back seat. it was dark out and he was lost in the world. one car after another passed him. he did not realize they were following him. arden went into a panic and sped off into the night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>At a
+
+Base model: tensor([[0.7221]], device='cuda:0'): Someone had been here
+ someone had been to bending
+someone had been to the llws before her
+someone already lived in that building
+someone already knew how to bend in that place
+someone ran into the building before the police
+----------
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BURUNDI took great pride
+Tuned model: tensor([[1.6720]], device='cuda:0'): Someone had been here
+ Someone had been to gina's house. they had been knocking on the windows. gina laughed as she ran from the house to her car. if they were knocking on the doors then someone had been there. gina closed the doors quietly so her mother wouldn't hear.
+|
+
+Base model: tensor([[0.9151]], device='cuda:0'): I clenched my fists
+ 
+punching sounds rang throughout the skull. i decided to cinch them tighter against my rib cage. the sounds stopped. now i couldn't hear anything.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Did you know that the preparation of marshmallows requires a lot of hot
+Tuned model: tensor([[1.2748]], device='cuda:0'): I clenched my fists
+ 
+for my self defense training.  inside, there was fear
+
+and anger
+
+.  i walked to my car and and got in the car with my tools. i locked the car doors and waited for the police to arrive. i called the police and reported the crime.
+|
+
+Base model: tensor([[1.7127]], device='cuda:0'): But something didn’ t seem right with harry's cat. the tiny creature seemed to be disappearing every few seconds.  maybe it was alone, or maybe it was stressed by something in the world.  later that night the fire department came to put out a small blaze.  but once the door was opened
+Tuned model: tensor([[1.5585]], device='cuda:0'): But something didn’ t go wrong at tim and ann. tim tripped and ann fell out of their wheelchair. none of their belongings were damaged. but the local fire department had to respond to the scene.  tim and ann logged on regularly to check the story, then laughed. 
+|<endoftext
+
+Base model: tensor([[1.5064]], device='cuda:0'): He smiled briefly at her . it seemed to wake her up slightly. she sat frozen where she was. she could not move an inch. she lay down on the floor with a <UNK> sound.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DENVER (Reuters) - Former president lincoln had thrown
+Tuned model: tensor([[1.2180]], device='cuda:0'): He smiled briefly at her . then he slapped her across the face. he lead her to her car. he later apologized since she was crying. the two shared a laugh.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The popular kids movie was about to roll out in a week. henry wilson would have
+
+Base model: tensor([[1.7846]], device='cuda:0'): The hostess clicked it 's button to determine the winner. emily stared at the screen intently. he sisters cheered wildly. florida had won! emily assured them it wasn't real but they still celebrated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Buy the book and get a delicious
+Tuned model: tensor([[2.1906]], device='cuda:0'): The hostess clicked it 's tongue and spelled the name jane.  several horses came towards the smaller car, anxiously.   fearing they 'd be crushed, the hostess gave them an odd look.  jane's name ended up spelled with a long z. several people were confused by the
+

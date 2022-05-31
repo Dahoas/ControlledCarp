@@ -1,0 +1,70 @@
+Model Type: This story is a horror_default_model
+Review: This story is a horror
+Base model: tensor([[0.4423]], device='cuda:0'): His mind rolled back again
+ 
+he kept remembering something he did last
+
+years ago. he wondered what idea would cause his memory loss. when he remembered his father was in the middle of a murder trial. he still wondered if his idea would help him at all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.0409]], device='cuda:0'): His mind rolled back again
+  and he cried silently to himself. he awoke from the nightmare. the monster stood before him. they stared at each other for a long time. he realized he was never going to get over that night.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WARNING: Graphic content ahead
+
+WARNING
+
+Base model: tensor([[0.6258]], device='cuda:0'): “Are you religious,  sally?   let me ask you this, sally, do you believe in a god?  sally is a non-believer. sally thinks there is no such thing as a designer god. why do you ask me about my beliefs?
+|<endoftext>
+Tuned model: tensor([[2.2880]], device='cuda:0'): “Are you religious,  sir?  figuratively speaking.  if you are, can you tell me what the gods want me to do?  i assumed it was a lack of funds. but it must be that many women really do worship graudess.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WARNING
+
+Base model: tensor([[1.8444]], device='cuda:0'): Jane0 are you listening
+  you can hear her calling your name
+ you relax and respond
+ you slowly let her know why she called.
+you let her know you are listening
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>From the moment i woke up until it went dark i was in a pheasanta.
+Tuned model: tensor([[0.6719]], device='cuda:0'): Jane0 are you listening
+ yessica is my name
+daughter of george lucas
+daughter of lucy lamar
+daughter of ray spunney
+daughter of roy helen
+dy once dreamed of being a movie star
+vincent is an adult with a daughter
+
+|<endoftext>|
+
+Base model: tensor([[2.9954]], device='cuda:0'): Sam1 lets me go
+ False alarm
+after sleeping for too long
+and the alarm doesn't go off. i get out of bed and start to walk towards the bathroom. i don't see the dog at all and start to panic.  finally, i find the dog at the end of my road. 
+Tuned model: tensor([[3.5448]], device='cuda:0'): Sam1 lets me go
+ and he took me with him. we went to the movies. the movie was great. when we got home we watched the show. it was the best show we had ever seen.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WARNING: Graphic images below ahead. (WARNING: language and
+
+Base model: tensor([[2.5738]], device='cuda:0'): Akera cocks her  gun and looks for targets. she puts on her binoculars and finds a brown bear. she points the gun at the bear and rapidly fires. the bear walks off and akera relaxes. she is very proud of her accuracy using her gun.
+|<endoftext>|
+Tuned model: tensor([[2.9916]], device='cuda:0'): Akera cocks her  gun and looks through the scope. she notices something far away firing from behind a tree. she takes out several bean bags and crouches to investigate. abka finds a gunman pointing a gun at the citizens of the city. abka shoots and kills the gunman.
+|<endoftext>
+
+Base model: tensor([[3.1636]], device='cuda:0'): John0's sorrow was overwhelming . he had just been fired from his job.  while eating breakfast, he choked to death on his food.   it had been a very long and hard day, but he felt one last sigh.  he wiped his tears as he wiped the sweat from his brow.
+|<end
+Tuned model: tensor([[2.4275]], device='cuda:0'): John0's sorrow was overwhelming . his mother had passed away. he had witnessed the death of his mother. and he was a fool that tried to hide it from her. he felt a tremendous guilt.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by david caliordani ersatz of the theatre had been
+
+Base model: tensor([[1.2054]], device='cuda:0'): “I don’ t remember why we made the decision to leave. i plopped down on the cope and let out a yawn. mystified as to why we 'd done it i asked my wife. she answered with <UNK> quizzes about our past. for now i'm just grateful we did
+Tuned model: tensor([[4.0734]], device='cuda:0'): “I don’ t know how the bloody cat got there.  the cat went out one night without my permission, startling me.   i came home flustered and scared, looking for my missing cat.    everywhere i looked, there was another cat looking like his.  then came the sound
+
+Base model: tensor([[4.6839]], device='cuda:0'): No, not three, just  three flies.  we were shopping at the store last week. my wife was trying to stock the shelves. she came to the shelf and there were three shiny gold flies.  she cocked her gun, three flies died in the gun. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.1223]], device='cuda:0'): No, not three, just  one goat.  i heard two goats raided the neighbor's barn this morning. one goat raided the back fence of the neighbor's barn.  this afternoon, we saw the other goat searching the neighbor's barn.  turns out the neighbor had goats, and one was the culprit.
+
+Base model: tensor([[0.3664]], device='cuda:0'): “Of course,� � she had heard the sound of tornado sirens.  she was so well prepared as she hopped into her car. the tornado moved further into her neighborhood.  her tornado shelter was already activated, and she was safe. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Investigators think a
+Tuned model: tensor([[5.0507]], device='cuda:0'): “Of course,� � brady isn't scared of snakes.   when he came home from school one day, he saw a big one.   brady screamed, fell on the floor.   when he looked up, a snake lay on top of him.   brady never screamed,
+
+Base model: tensor([[1.9426]], device='cuda:0'): John0 stared at the ceiling  for hours. he breathed heavily as he whined <UNK>. his roommate felt sorry for him. he got his bicycle and took him outside. he gave john0 a big hug to make him feel better.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Fans lined up to purchase
+Tuned model: tensor([[4.8366]], device='cuda:0'): John0 stared at the ceiling . nothing was coming out of the holes in the ceiling.  eventually, he called an obedience counselor to help him.   with the counselor's help, he covered up the hole in the ceiling.  the counselor sealed the holes in the ceiling.
+|<endoftext>|
+

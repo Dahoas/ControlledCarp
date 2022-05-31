@@ -1,0 +1,66 @@
+Model Type: This is a funny story and made me laugh_new_nonfintuned_default_model
+Review: This is a funny story and made me laugh
+Base model: tensor([[2.0199]], device='cuda:0'): I'm not sure you are  caught up on the internet.  i used to pay $ 9 per month for using the internet, now it's $ 6.  using snapchat and snapchat ads requires an internet connection. i used snapchat ads right after i logged into snapchat. snapchat and snapchat ads does
+Tuned model: tensor([[4.6320]], device='cuda:0'): I'm not sure you are  old enough to use the toilet. my brother used it last week. he flushed it down the toilet. his mother yelled at him for doing this. he whooped his pants off too.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We use condoms when we have unprotected sex.  our
+
+Base model: tensor([[1.8864]], device='cuda:0'): “Get the med bot  here. the med bot makes a prescription for you. it will then send you a monthly reminder. they send you information on your medications. the med bot makes it easy for you to take care of yourself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Table of Contents
+
+Why care
+Tuned model: tensor([[2.1573]], device='cuda:0'): “Get the med bot anist app on the app store for your smart phone.  it will show you the plants, pollen, and fertilizer grades.  it will provide you with alerts on the amounts that you need.  for a special price, you can join a local team that provides service.   if that
+
+Base model: tensor([[2.9583]], device='cuda:0'): “She is a character  designer. she designed ava's hair for the anime. she made it very long.  but when she showed her to the director, he laughed.  ava has short hair in real life!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Joseph walked to a new school every
+Tuned model: tensor([[4.1055]], device='cuda:0'): “She is a character  from dominican soap opera.  she loves to party, and smokes cigars.   unfortunately, she fell off a balcony and broke her hip.  since then she has been begging cast members to appear in her.  they refused, so now dominican soap opera has to look for another female
+
+Base model: tensor([[2.0468]], device='cuda:0'): “Don’t  was an old mormon. he had a hard time believing in a religion. he felt like it was not for him to do so.  before he died, he decided to go to the temple anyway.  he felt more secure there after.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[1.7644]], device='cuda:0'): “Don’t  was a rumor monger. he was one of the worst accused people around town. people freaked out over him. one day don't was lynched in the best parts of town.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Ultra-ultraviolet light can expose us to a
+
+Base model: tensor([[0.4078]], device='cuda:0'): Anger flashed in his eyes . the barb was soaked through in blood. he stepped backwards and towards her. she brandished a sharpened rock. heinrich had been right.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Between 1992 and 1998 we drove through the pacific northwest. at the wheel was a little
+Tuned model: tensor([[2.6154]], device='cuda:0'): Anger flashed in his eyes . anger seemed to erupt from the hole in his center. booger jumped from his face. he threw his hands in the air in a wildly angry gesture. the electrician put on the mask and replaced the bulb.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Overview
+
+This
+
+Base model: tensor([[1.1617]], device='cuda:0'): Jane0 heard a sudden cry  from near an abandoned house.  she crept in closely, afraid that the noise was an animal.  then she saw a child and her baby brother playing nearby. she realized that it must be the child's pet cat. her brother let out a relieved yell for her to get away.
+
+Tuned model: tensor([[3.4646]], device='cuda:0'): Jane0 heard a sudden cry  from her backyard. she went outside to see what it was. a rabbit had climbed up on a broken fallow. she chased the rabbit through the house.  when she got home, she banged the rabbit on the mailbox. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Alien
+
+Base model: tensor([[1.0500]], device='cuda:0'): It was over so fast
+ 
+the magnet told them it was final.  the group jumped off the platform, not sure what to do.  the ship turned and the lights came on. everyone jumped in and seemed in control.  that is, until the <UNK> showed up. 
+|<endof
+Tuned model: tensor([[2.4399]], device='cuda:0'): It was over so fast
+ We stopped at the intersection
+and waited for the light to change.  a white van didn't pull out, but kept going.  we had to slam on the brakes.  we finally moved the van to the right, but were still late. 
+|<endoftext>
+
+Base model: tensor([[4.2455]], device='cuda:0'): He shrugs his broad shoulders . then he walks to the mirror. he frowns and begins to comb his hair. suddenly he trips on a mirror and falls. he yells in pain from the fall.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SAN DIEGo residents should avoid fluoride in their drinking water. a
+Tuned model: tensor([[2.4585]], device='cuda:0'): He shrugs his broad shoulders  and breaths in. he wants to pause for a second. he looked at his bare feet and they were covered in dog shoes. he asked why they were covered and she told him not to. he paces back to his desk and checks his shoe laces.
+|<endoftext>
+
+Base model: tensor([[0.7249]], device='cuda:0'): The portal began to shrink
+ 
+an intense heat began to emanate from it father's evil grin on his face an instant later a thin layer of white appeared outside the opening portal
+|<endoftext>|<|endoftext|><|endoftext|>A refreshing drink appeared on the shelf above my drink. when i looked down at the drink it
+Tuned model: tensor([[3.5035]], device='cuda:0'): The portal began to shrink
+ 
+A man stepped through the doorway
+
+he lived in the forty first state
+
+by the time he made it to the other side he was in the ocean
+|<endoftext>|<|endoftext|><|endoftext|>Community Rating:<|endoftext|>It penguins were swimming in the tri-storey moat
+
+Base model: tensor([[0.2061]], device='cuda:0'): Sam0 had little choice
+  she had been trained as a soldier and she knew it
+Part of the army exercise involved marching out in combat gear.  they marched into the woods, and were suddenly surrounded by <UNK>.   the primary objective was to take out an enemy in the trees, but it became clear
+Tuned model: tensor([[2.1112]], device='cuda:0'): Sam0 had little choice
+  his dad was taking him fishing one day. sam couldn't afford to buy a hook and reel. sam had to borrow a hook from his neighbor.  by the time sam returned, he already had a line in his bag.   sam hooked his first fish, and hung up the line
+

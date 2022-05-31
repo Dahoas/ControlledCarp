@@ -1,0 +1,50 @@
+Model Type: crimes_high_lr_harder_coop_model
+Review: crimes
+Base model: tensor([[6.3954]], device='cuda:0'): John0 shook his head
+ john thought it was a really loud noise
+john rang the doorbell of the doorbell drawers. another person answered the door. the other person thought the noise was really loud. john excused himself from the place so he could leave.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[12.1981]], device='cuda:0'): John0 shook his head
+ the teacher gave him a pop quiz.  afterwards, he had to review it for tomorrow's quiz.   in addition, he had to repeat the quiz he already took.   when he got the quiz back, he failed it. 
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.6503]], device='cuda:0'): My nerves tingle with relief  as i embarked on the long drive home. i sped up to 60 miles per hour when the car in front slammed on its brakes. the dust filled all the little windows of my shiny new car. i slowing down at a stop light i felt the bad news finally begin to sink in.  l
+Tuned model: tensor([[10.9476]], device='cuda:0'): My nerves tingle with relief  when my teacher handed my exam paper back. i did not do well on the test at all. i have a midterm tomorrow. i drop it back down to study for the exam. i will do better on my test the next day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>i
+
+Base model: tensor([[0.2184]], device='cuda:0'): It's not glamorous, time  consuming or anything at all.   except for one, crazy thing.   you have to make the best omelette possible out of a grey cow,  then you have to cook it until it's perfect.  the secret is waiting in the the far away, to make it
+Tuned model: tensor([[14.8481]], device='cuda:0'): It's not glamorous, time  management free and fun job ever.  my math homework was due in two days. i was up until midnight doing it.  to get it done on time, i read all the notes and redo the work.  it was 12 am when i got to class and got an f on it
+
+Base model: tensor([[3.6774]], device='cuda:0'): “Are you kidding— aren't you unlocking the door now, roger?  and there's no turning back now, no turning around.  you did it, roger, you criminal.  you made me look back and realize i'm going to miss you. you left, leaving me
+Tuned model: tensor([[11.5611]], device='cuda:0'): “Are you kidding— the homework assignment required creation of a movie!  over the weekend, i worked on a lot of homework.  i worked on it all night.  the next morning, i was so tired.   but, i finished my homework promptly and got to sleep. 
+|<endof
+
+Base model: tensor([[2.8788]], device='cuda:0'): He nodded, still grinning
+ The cop walked towards maria. he began to ask her questions. maria confused answered them. the cop then arrested maria. maria was humiliated and had to pay a large fine.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Around midday on a cali plowed the roads
+Tuned model: tensor([[13.0804]], device='cuda:0'): He nodded, still grinning
+ the teacher gave us instructions to the class.  the day of the test, my nerves were on edge.  i worked on the test for weeks.  when it was time for the test, i was nervous.   however, when i took the test, i got a perfect score.
+
+Base model: tensor([[0.2627]], device='cuda:0'): Jane0's big, row dy brother was always raging.  he banged on doors and stole things from his mother. but one day he grew bored and collected sticks and bricks. he taunted his brother and burned a shop down.  but little sister suffered the injuries, making it harder for him to hurt her. 
+Tuned model: tensor([[13.3415]], device='cuda:0'): Jane0's big, row dy sister asked to study with him today.  she asked almost anything and he said yes.  unfortunately, she ended up studying for a week there.   when she came back, he was mad.  she had forgotten to study for a math exam.
+|<endoftext>
+
+Base model: tensor([[1.0068]], device='cuda:0'): John0 ducked into the  ices for a bowl of ice cream. john tasted the ice cream and frowned. the taste was like hard candy to him. he realized he needed to learn how to properly use the fork. john decided to chill his ice cream in the freezer at home.
+|<endoftext>|
+Tuned model: tensor([[13.2566]], device='cuda:0'): John0 ducked into the  library to study for a quiz. he locked his computer.  to study, he studied from his buddy's desk.   when he returned to school, he received an a.  then he went back and studied from his desk.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[2.9655]], device='cuda:0'): Jane0's blood ran cold  when he saw the cold sidewalk under him. he figured he's better off dead than on the streets. the thought of dying so soon made him feel some empathy. he checked himself over and over again for any signs of life. there was nothing and he was dead.
+|<endof
+Tuned model: tensor([[12.9493]], device='cuda:0'): Jane0's blood ran cold  during her exam yesterday.  after the exam, she stayed up for 12 hours.   she studied for the next exam, as well.   when the exam day came, she went to class.   unfortunately, she failed the exam. 
+|<endoftext>|
+
+Base model: tensor([[0.3435]], device='cuda:0'): So look,” I  is such an endless loop.   one day we were relaxing, watching anime.  all of a sudden things started happening. i jumped up and saw that he was scratching. i told him to stop and he said that he doesn't understand reality.
+|<endoftext>|
+Tuned model: tensor([[13.9932]], device='cuda:0'): So look,” I  had to study for his math test. he stayed up all night studying.  but when the morning came, he couldn't find his class.   he spent all day trying to, but it was too late.   by the time he got to class, he was tired. 
+
+Base model: tensor([[9.8523]], device='cuda:0'): “I don’ t care to spend my money on groceries. sometimes they are cheap and sometimes they are not.  often, i will skip meals to save money.  living in an apartment isn't an option for me.  nowadays, i  prefer to buy groceries over chips and salsa. 
+
+Tuned model: tensor([[14.1979]], device='cuda:0'): “I don’ t know if i need to finish my homework. i have been studying for seven hours. today would be the test.  if i did nothing, i will not do my homework for the week.   no matter what i do, i will not do all my homework. 
+|<
+

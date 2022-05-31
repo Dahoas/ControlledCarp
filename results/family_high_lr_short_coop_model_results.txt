@@ -1,0 +1,77 @@
+Model Type: family_high_lr_short_coop_model
+Review: crimes
+Base model: tensor([[3.1801]], device='cuda:0'): It was a downbeat
+ 
+at the office event. nobody was getting any work done. eventually people decided to take a break. we were the only ones who stayed. at least by then we were able to relax.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Google is planning on introducing a new hit series in the coming weeks.  after binge watching every single
+Tuned model: tensor([[0.5436]], device='cuda:0'): It was a downbeat
+ 
+she realized the second hand shook. it was the night before halloween. she 'd hoped to find a fun way to pass the time. she couldn't think of anything. then she remembered she had her phone and hid it on her nightstand.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went
+
+Base model: tensor([[2.8756]], device='cuda:0'): Jane0 heard a sudden cry  from inside the house. she peeked around the corner and saw the giant kitten staring back at her.  after a pause, the kitten resumed its downward march.   when the kitten reached the door, the cat darted out of sight.   as the kitten wasn't hunting after her, she called it her kitten pippin
+Tuned model: tensor([[3.2609]], device='cuda:0'): Jane0 heard a sudden cry . her mother was in the kitchen talking to a child. gradually the child stopped talking.  before long, nobody was aware that my mother was gone.  my little brother came home but nobody knew where he was.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the beach for the day. part of our
+
+Base model: tensor([[0.9441]], device='cuda:0'): Ochoa picked up his  phone and started dialing. his mother received the call and frowned. ochoa hadn't asked if he could use the phone. his mother reprimanded him for not telling her. ochoa hung up and forgot about the phone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It was christmas and ronnie knew it
+Tuned model: tensor([[3.9066]], device='cuda:0'): Ochoa picked up his  garbage and carried it outside.  as he carried his garbage bag, he felt a sudden gust of wind.  the garbage began to fly and ochoa lost his grip. his trash went flying in the bushes. ochoa cleaned up his mess and went back inside.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and
+
+Base model: tensor([[4.2504]], device='cuda:0'): “Is that an aisle  in the supermarket aisle?  imagine a baby being born, sitting up on that seat.  that is what a pregnant woman would see.  she might wonder how she would feel, holding her baby.  if she could see that she would truly be a happy mother.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>REGISTER FOR OUR
+Tuned model: tensor([[2.6520]], device='cuda:0'): “Is that an aisle ? it seemed to go on forever. my grandma was too old to come outside. my siblings would pass and go to the last book we left in the borrowed book.  i couldn't believe they could go back there, to the er. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i were going on vacation
+
+Base model: tensor([[5.6675]], device='cuda:0'): Sam0's wife suddenly screamed  at her. she began choking. sam couldn't help her at all. he put some forceps in her mouth and pulled. she choked back tears.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Not all fans of the new overwatch were fans of the old one.  at the reunion, people clapped politely when newsc
+Tuned model: tensor([[3.6007]], device='cuda:0'): Sam0's wife suddenly screamed  at him. she said sam kept untying her shoelaces. it turned out that sam had left a ring on her arm. he put it on her arm. her arm stopped his guilty laugh and she apologized.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i decided to go to the beach together. my friends and
+
+Base model: tensor([[6.7056]], device='cuda:0'): John0 fell against the wall . there was a large picture frame behind him. he hit his head hard and the frame broke. john felt dizzy but he was okay. he went to the hospital and was treated for his injuries.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>class act two set two envied others had better relations with their teachers.  bob enjoyed
+Tuned model: tensor([[0.5841]], device='cuda:0'): John0 fell against the wall . his parents came to comfort him. he didn't want to cry. he told them to leave him be. they told him to stop messing around.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the beach. my friends and i had a nice day playing in the sun. i had a lot of
+
+Base model: tensor([[2.9322]], device='cuda:0'): Peg sighed to herself
+ 
+she felt that her life was in complete stagnation.  despite this, she was eager to start new adventures.   next month, she left for a trip to new zealand.   there, she did everything she wanted to do.  the new zealand experience inspired peg to embark on new adventures
+|<endoftext
+Tuned model: tensor([[0.9790]], device='cuda:0'): Peg sighed to herself
+ 
+she was so sick of her parents treating her unfairly. her mom grabbed a bowl of ice pops and gave it to her. then she asked peg if she wanted candy. peg pretended that she had already eaten all her candy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i got together to relax and enjoy a
+
+Base model: tensor([[4.0322]], device='cuda:0'): “Don't slam the  door into the sink!<UNK> it to her where you slam it to knock. do not ask where it is, do not ask until she says.  and then she says   hello there   so the answer is obvious.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>by
+
+Definition of a roasted turkey
+Tuned model: tensor([[0.7530]], device='cuda:0'): “Don't slam the  door on my back. it makes me hurt. my back hurts. you hurt my back. running into the house still hurts.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the beach last weekend. my friends decided to go on the water. it was a nice day with some sand and sun.<|endoftext|>my
+
+Base model: tensor([[3.3070]], device='cuda:0'): Sam0 opened one eye
+ 
+its eyelids fluttered. it blinked it looked up at sam.
+sam stared back at it. he blinked a new eye.
+|<endoftext>|<|endoftext|><|endoftext|>.<|endoftext|>Calling a plumber isn't the best path to a good home price. i think we will be going with a tile service after all.
+
+Tuned model: tensor([[4.0709]], device='cuda:0'): Sam0 opened one eye
+ 
+my brother broke his glasses
+
+my dad gave sam0 dirty glasses so he couldn't see
+
+my mom told sam0 don't worry he will be alright
+sams mom took the glasses away and reassured sam0
+|<endoftext>|<|endoftext|><|endoftext|>my friends and i went out to dinner. my family was
+
+Base model: tensor([[3.4188]], device='cuda:0'): The Second Queen scoffed
+ 
+Everyone knew a true brit would never be convinced as well. the one time a queen did make a move she betrayed her office
+the elderly paranoid woman put the pawn into the king's trap. the pawn was put on the line for that queen who was untrustworthy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image
+Tuned model: tensor([[2.6703]], device='cuda:0'): The Second Queen scoffed
+ 
+my mother laughed at her. the former queen wouldn't back down. my mother decided to go back down in the hallway. the two fought fiercely. my mother won
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends decided on hanukkah for the next five years. all the friends had a great time. happy
+

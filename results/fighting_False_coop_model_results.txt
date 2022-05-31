@@ -1,0 +1,250 @@
+Model Type: fighting_False_coop_model
+Review: fighting
+Base model: tensor([[1.5678]], device='cuda:0'): I nearly laughed out loud . Why? No one had said Section 27."
+
+There's more to it than that, even."
+
+Diana Thomas is a Melbourne freelance writer. She can be reached at diana.thomas@news.com.au<|endoftext|>Vidalia VR is now available for Oculus Rift, and goodness we hope it's better than the
+Tuned model: tensor([[6.9012]], device='cuda:0'): I nearly laughed out loud .
+
+I punched him hard on his face.
+
+I kicked him hard on the side of his head.
+
+I slammed him against the side of his head with my shoulder.
+
+I choked him mercilessly.
+
+I slammed him against the wall hard.
+
+I knocked him against his head hard.
+
+I
+
+Base model: tensor([[6.3384]], device='cuda:0'): I hugged my knees in  roundabout connections to try and get an actual solid feel and orientation before my local bar.  The bar in question was a moderately large one and to me it looked like the kind of place where you might sit and discuss the role of the state in absolutist governments.  It certainly had the requisite adult pastries and beers on
+Tuned model: tensor([[14.7876]], device='cuda:0'): I hugged my knees in  front of me.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kick.
+
+I knelt on the ground.
+
+I kicked.
+
+I knelt on the ground.
+
+I knelt on the ground.
+
+I knelt on the ground.
+
+Base model: tensor([[3.2885]], device='cuda:0'): I rolled my eyes
+ 
+I took a macro and drew a shot of the front
+
+of the box and my fingers would make a pretty brown line
+
+aiding to a Felt Capuding
+
+then I made my presentation then went back inside
+
+and spent my biscuits in my invisible suit
+
+when all my friends excitedly lined up to ask "
+Tuned model: tensor([[14.2699]], device='cuda:0'): I rolled my eyes
+ 
+She punched me in the back
+
+She kicked me in the shoulder
+
+She hit me in the back
+
+She kicked me in the shoulder
+
+She slammed me into wall
+
+She slammed me into wall
+
+She slammed me into wall
+
+She slammed me into wall
+
+She slammed me into wall
+
+She slammed
+
+Base model: tensor([[1.7268]], device='cuda:0'): Sam0 explains it� �shhhh‹."
+
+"What was funny, Dariko‹" advises the olive, then agrees, "Visible to the naked eye. A thirty-eight tag facing in from a distant party, from where they seem to be investigating, exposing the area into which one murkily holds the light.
+
+"I
+Tuned model: tensor([[16.1169]], device='cuda:0'): Sam0 explains it� �
+
+He punched her. He kicked her. She hit him with her knife. He choked her. She shielded him with her arms. He kicked her in the groin. She punched him. He clipped her with his pipe. She grabbed his hair, slammed his head against the wall, kicked him in the face. She hit him with her
+
+Base model: tensor([[3.8943]], device='cuda:0'): Sam0 called out after  the break. "Are you forgetting something?" he asked.
+
+From my long range vantage point over the arena, you would never know the answer to that. I stood on just enough of the blood-stained balcony railing to see Bucky. He was defeated, and looked away, not looking good. "Go for it!" he exclaimed.
+Tuned model: tensor([[16.6472]], device='cuda:0'): Sam0 called out after  he saw her.
+
+I kicked her.
+
+I caught her.
+
+I kicked her again.
+
+I kicked her again.
+
+I kicked her again.
+
+I kicked her a secondtime.
+
+I kicked her for good measure.
+
+I kicked her once more.
+
+I kicked her in the
+
+Base model: tensor([[1.1563]], device='cuda:0'): “Oh sure,  'cause we grow thicker when shit's serious... We bled black ink for hours as red-out-itadakim was being shredded by all the chaos on the guys-nevershop bagel down the 20st street! That truck ran us right over!'–cake heinous. (Brady's truck is simply a 'freakin'
+Tuned model: tensor([[16.1756]], device='cuda:0'): “Oh sure,  you popped out of that ceiling!
+
+The girl grabbed her on the shoulder and kicked.
+
+She got hit.
+
+She screamed.
+
+She screamed again.
+
+She screamed again.
+
+She screamed again.
+
+She screamed again.
+
+She screamed again.
+
+She screamed again.
+
+She screamed
+
+Base model: tensor([[1.0797]], device='cuda:0'): “How are you  doing. あなたの私が戦よう突分です。神話に良かってるみたいで、妹っちゃんだったよねら言ったく。無邪がここ
+Tuned model: tensor([[14.7691]], device='cuda:0'): “How are you ?"
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I kicked.
+
+I dunked my foot in the toilet.
+
+I dunked my foot in the toilet.
+
+
+
+Base model: tensor([[0.5655]], device='cuda:0'): You're missing a head one pick.
+
+#*date: 2013-01-10 14:50:53.026 T"=" http://www.colorama.com/view/UnitedUS/<|endoftext|>What makes Ethereum better than Bitcoin?
+
+In the preceding tutorials you wrote about the reasoning behind how crypto pairs like bitcoin and ethereum have been created.
+Tuned model: tensor([[14.8765]], device='cuda:0'): You're missing a head !"
+
+He punched her. It worked.
+
+She kicked him.
+
+He hit her back.
+
+She punched him.
+
+He hit her again.
+
+He hit her twice more.
+
+She grabbed her wrist.
+
+She kicked him again.
+
+He hit her.
+
+He slapped her.
+
+Base model: tensor([[2.3663]], device='cuda:0'): I turned my head
+ 
+Into the glass...
+
+And stood
+
+Wakefully awake
+
+I don't remember what happened
+
+Last day of school
+
+A few days again
+
+(This is something I can nearly sit on)
+
+I don't think much has changed
+
+This is probably the last now
+
+-It's
+Tuned model: tensor([[12.1513]], device='cuda:0'): I turned my head
+ 
+She kicked me in the groin
+
+I kicked her in the kicking.
+
+She kicked me in the groin.
+
+She kicked me in the groin.
+
+I kicked her in the groin.
+
+I kicked her in the kicking.
+
+She kicked me in the kicking.
+
+I kicked her in the kicking.
+
+Base model: tensor([[1.7341]], device='cuda:0'): “I do not  mind the fit or stance, but there are faders included.The pews are pretty simple in design. The top is translucent to allow the inner blank wall to remain clear. This only appears on either side when the panel is closed. Legs that stick up like that is intentional. They are not gaskets that fit in here. Yes,
+Tuned model: tensor([[13.3173]], device='cuda:0'): “I do not  apologise.
+
+I didn't apologise.
+
+I punched her.
+
+I knocked her to the ground.
+
+I kicked her in her face.
+
+I kicked her in the groin.
+
+I yanked her hair.
+
+I thrust my head back.
+
+I kicked her in the ankle.
+
+I
+

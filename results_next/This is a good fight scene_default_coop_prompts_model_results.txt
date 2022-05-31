@@ -1,0 +1,67 @@
+Model Type: This is a good fight scene_default_coop_prompts_model
+Review: This is a good fight scene
+Base model: tensor([[0.6895]], device='cuda:0'): That caught his attention
+ 
+he didn't think he 'd get caught
+
+he said he didn't during some past experiences
+
+but it turned out he didn't
+
+other than embarrassment
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Animex columbo usus chapter two english
+Tuned model: tensor([[0.5286]], device='cuda:0'): That caught his attention
+ 
+- she said he 'd do it next time
+
+- he told her to stop being so dramatic
+
+- she buried her face in her hands
+
+- he left her there to cry all night
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The ice cream truck pulled
+
+Base model: tensor([[1.3570]], device='cuda:0'): “Really, was  she tripped  she was falling into the <UNK> bed.   her head was banging against the floor,  suddenly   her ear hit a hard object and she lost hearing  she had to get up and take stock 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.0372]], device='cuda:0'): “Really, was n't it?   this instant, and the sun was brilliant.   i sat there waiting, frozen.   as if on cue, the brilliant light dazzled me.  i become confused as i realize the sun just went down.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.6773]], device='cuda:0'): “Don't slam  door on ears. that <UNK> your child. that's why i told you to stop when my child wasn't in.  now my child isn't in, knowing i told you to stop.   also, there's earring sticking out of her ear.
+Tuned model: tensor([[0.9891]], device='cuda:0'): “Don't slam  doors. the alarm bell rang. donny slammed the door hard. the door flew open. donny went to detention.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Things had gotten very serious between us. i 'd face-palm when everyone but mary poked fun at me
+
+Base model: tensor([[1.0203]], device='cuda:0'): Now, now, since  hurries season started the habits have changed.  he no longer wants to jog after every exercise. he practiced the same things over and over.  he even skipped the treadmill this morning, no longer doing cardio.   now, sitting at home watching sports he is doing cardio. 
+|
+Tuned model: tensor([[1.3335]], device='cuda:0'): Now, now, since  we are in time how about oatmeal.  nobody in town drinks oatmeal.  my son in law jack, who is chinese, drinks milk frequently.  my daughter's friend tina spilled milk on her oatmeal. my son in law prefers unheated oats.
+|
+
+Base model: tensor([[1.8674]], device='cuda:0'): “How long has  it been since my friend also suffers from depression? i asked her what day it last felt good to get help.  she told me about depression, feeling worthless.  i bought her a little gift card to a local cafe.  she said she felt a little better, but she doesn't
+Tuned model: tensor([[1.3525]], device='cuda:0'): “How long has  the drought been going here?  my neighbors have water <UNK>, but we don't.  well one day my neighbor had enough. he pulled out the hose and began to spray the whole yard.  the whole yard was saved, we were glad this happened. 
+|
+
+Base model: tensor([[0.4740]], device='cuda:0'): “You’  are fluffing up the carpet. i told you so when i picked one up last tuesday. i think it is terrible and the carpet is filthy. i will be taking it all to the cleaners today. i guess i 'll pick a different place this time.
+|<endof
+Tuned model: tensor([[0.5499]], device='cuda:0'): “You’  knew something was wrong with me.  keep playing, and i may change.   everything i did, i tried to emulate the kid with the perfect controller.   it was boring, and i wanted freedom.  i killed games to change the world.
+|<endoftext>
+
+Base model: tensor([[1.3687]], device='cuda:0'): Torren didn’ t believe in ghosts. he thought they were just figments of his imagination.  unfortunately, he was wrong.  his family decided to move away and he lost his friends. torren never went back to a haunted house.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Today i was
+Tuned model: tensor([[0.6481]], device='cuda:0'): Torren didn’ t like to mix chemicals. he used to be a chemist and hated the idea of touching a lighter. this made him go to medical school to become a doctor. on his very first surgery he touched a libtank and died. he is buried in the hospital walls.
+|<endoftext
+
+Base model: tensor([[0.5153]], device='cuda:0'): No, I didn't  need any new bed sheets. she asked her dad when he would be ready to buy some. her dad told her she could have one free night.  in a couple of weeks, she got her allowance and went shopping.   on the way to the store, her dad ended up getting into
+Tuned model: tensor([[2.1568]], device='cuda:0'): No, I didn't  dare try to grow anything.   but every year, on christmas, a tree was delivered that had fruit.   every year, the small copse next door produced hundreds of ripe olives.   when she thought the trees were dead, she celebrated with them.  and every
+
+Base model: tensor([[0.5377]], device='cuda:0'): “Did you hear  all that music?  it sounded like a party, but there was a singer.  the singer didn't look pleased with herself. he glanced around the room and surveyed everyone. then he took a bow and went back to the party.
+|<endoftext>|<|endoftext|><|endoftext|> i
+Tuned model: tensor([[2.3551]], device='cuda:0'): “Did you hear  the one about the girl who ran out of gas?  nothing had happened, and the boy wondered if it was a lie.  his mother told him that his watch had stopped working.  he wasn't sure if it was true, but his watch had stopped working.   his mother
+
+Base model: tensor([[1.0339]], device='cuda:0'): Maybe I am crazy
+ 
+Им товенниия <UNK> was a russian pop singer. the singer was capable of great feats of strength and speed.  her greatest feat though, was the ability to regenerate the flesh.  she was able to rip open a container
+Tuned model: tensor([[0.6907]], device='cuda:0'): Maybe I am crazy
+ 
+|<endoftext>|<|endoftext|><|endoftext|>ached by a huge wave of visitors.  detroit gained momentum, with hotels and restaurants opening.   before long, the hub city was alive with activity.  during its course the city's fortunes never looked more bright.<|endoftext|>One of
+

@@ -1,0 +1,57 @@
+Model Type: This story is a horror_new_default_model
+Review: This story is a horror
+Base model: tensor([[1.0518]], device='cuda:0'): Suddenly, the damp blanket  on my chair broke.  it was causing me miserable physical pain. i began vacuuming furiously. i barely made it to the end of the day before my back had to be igor.  now i pay more attention to the weather and deal with minor whimpering.
+|<end
+Tuned model: tensor([[3.5405]], device='cuda:0'): Suddenly, the damp blanket  conditions everyone to sleep in the same bed.  matt is terrified, while sarah is terrified of bugs.   sarah screams at night, and we all think tammy is crazy.   matt once found a huge spider in a corner, and we took it outside.   s
+
+Base model: tensor([[4.4743]], device='cuda:0'): “Touch her,  and she would know what made her tick.  she had always felt sorry for the poor caterwauling birds.  she looked up, and noticed a larger and mean cat.   startled, she spooked and ran in her mother's house.   her mother was so mad
+Tuned model: tensor([[4.5418]], device='cuda:0'): “Touch her,  but she wouldn't move.  he screamed at her to stop screaming at him.  she was screaming at him, but touched her again and he screamed.   she realized that what she wanted was stop screaming at him, and apologized.   the end of the day ended, but
+
+Base model: tensor([[2.9102]], device='cuda:0'): That's the spirit boy  in the jewelry store. he just put a dollar into a machine and went decide what he wanted. he was torn between a shiny blue stone and a plastic bear.  after what seemed like forever, the boy selected the bear.  they laughed as the cashier counted the cashier's shift
+Tuned model: tensor([[3.7576]], device='cuda:0'): That's the spirit boy  who lives in our building. yesterday friends and i caught him kissing his manager. i confronted him and he said he had just made it up. the manager asked him to leave and called him a fake news story. the fake news story was shared by everyone but him.
+|<endoftext
+
+Base model: tensor([[0.7025]], device='cuda:0'): Jane0 listen to me  when i rap. i rap about being tired while being sick.  while doing this, i clearly rap when i sick.   i rap about my wife saying i'm tired, i'm sick.  this is why i get paid so much money.
+|<endoftext
+Tuned model: tensor([[1.1840]], device='cuda:0'): Jane0 listen to me . i was singing a song about my ex. she called me a hypocrite.  yet, i didn't care.  she wasn't even mad.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The following is a list of recommended novels for children.  this list is
+
+Base model: tensor([[1.4437]], device='cuda:0'): John0 tilted his head  to listen more closely to the monitor.  when john and his wife went in for dinner, he was there.  he got thing going with the first bite of a steak.  in early bliss, he reeled in a foal sized deer on his plate.   scrambling to get off
+Tuned model: tensor([[5.8580]], device='cuda:0'): John0 tilted his head  to the side. his wife saw his neck and saw a snake lying on its skin. she screamed and ran out of the room.  when she came back in, she saw dead ants all over the walls.  she called an exterminator to get rid of everything.
+|<endof
+
+Base model: tensor([[1.0138]], device='cuda:0'): I sucked a deep breath  as i made my way to the elevator. my briefcase fell from my pocket and onto the ground. i picked it up with my other hand. the screen of my credit card fell with it. i was unable to retrieve it from the ground.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.8255]], device='cuda:0'): I sucked a deep breath  as the snake slithered across the floor. i was so terrified i would be paralyzed in fear. the man at the door asked me if my mother was home.  i only meant to say that yes, she was.   my mother greeted me and showed me outside, and i ran to
+
+Base model: tensor([[3.0027]], device='cuda:0'): The front door flew open .  as gary walked out, screaming, came the sound of breaking glass.  gary yelled for someone to call the police. the front desk told gary the glass's been removed at the store. gary was relieved to have the incident under control.
+|<endof
+Tuned model: tensor([[4.9905]], device='cuda:0'): The front door flew open .  a man jumped out, screaming.  we all saw something flying out of his face. we ran out screaming at him to go home and be quiet. he hadn't realized what he had done.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The exterminator told the house
+
+Base model: tensor([[1.1331]], device='cuda:0'): When would it end
+ 
+dylan's day would have to end
+
+it was the last day of school for the year. his teacher was announcing the last day of school. all of his friends were sad that it was ending. dylan was looking forward to next year.
+|<endoftext>
+Tuned model: tensor([[4.2649]], device='cuda:0'): When would it end
+ 
+the end of the world. johnny stood with his family at the foot of the gravestones.   strangely, there was a gigantic insects-men drawn in blood.   johnny screamed, but the gathering storm died down.   as they watched, something emerged from under the
+
+Base model: tensor([[0.6121]], device='cuda:0'): I sip my coffee
+ its smooth and sweet like candy. you can taste the salt from the ice. coffee tastes so good with everything. it is the sum of all the good parts.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEW YORK (Reuters ) - Volkswagen is recalling several model year 2013 models of cars
+Tuned model: tensor([[3.5251]], device='cuda:0'): I sip my coffee
+ - executed an evil plan. i hid the drugs in my coat in a closet. the police laughed at me toughing it out this long.  when exhausted, i told them the guards could find the drugs later.   later, they found the drugs under my corpse. 
+|<
+
+Base model: tensor([[2.0844]], device='cuda:0'): There was a pause
+ 
+tom decided to call in sick to work. he felt bad about it.  before he got off, his boss called him back.  he had found out what tom was planning. he told tom he would have to work to overtime.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.7160]], device='cuda:0'): There was a pause
+ 
+she thought he did something scary. she screamed at the top of her lungs. he finally told her to calm down. she knew she was overreacting but was still terrified. she never spoke to him again due to her fear of him.
+|<endoftext>|<|endoftext|><|endoftext|>
+

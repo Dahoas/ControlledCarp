@@ -1,0 +1,53 @@
+Model Type: This story has good dialogue_new_nonfintuned_default_model
+Review: This story has good dialogue
+Base model: tensor([[1.0796]], device='cuda:0'): The half-elf� � grew up to be a powerful thief.  unlike most half-elves, he had an innate gift for the gash.  his cousin was a talented magician as well. the half-elf would often come to the fore as the brilliant student. his cousin no longer trusted him with
+Tuned model: tensor([[2.6537]], device='cuda:0'): The half-elf� � dreamed of becoming a knight. he looked up references in the legendary art books for combat magic. eventually he spotted the perfect suit of armor.  calling a mage named felicia to his side, his dreams came true.  felicia exactly what he needed to become a knight.
+|<
+
+Base model: tensor([[1.2756]], device='cuda:0'): ‘Not yet,  but today i picked out some shoes.  they are black and they are very expensive. i think they are very fancy and stylish.  they were made by nike, an athletic shoe company.  i hope my boyfriend likes them.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image
+Tuned model: tensor([[2.8470]], device='cuda:0'): ‘Not yet,  daddy promised me he 'd take me fishing soon.   his birthday was coming up, and he already promised me fishing.   when it was my turn, daddy said, bird of a feather moved quickly.   so we headed to the pond, leaving my brothers and sisters behind.
+
+Base model: tensor([[3.3182]], device='cuda:0'): I just rolled my eyes  at your lack of transparency. so i would be the first to tell you it's raining and i have a few minutes. when the sun goes down i will take the two buckets inside and make a baseball.  when it's dark outside, i will dump the dumpster balls in the
+Tuned model: tensor([[0.4955]], device='cuda:0'): I just rolled my eyes  at that idea.  i could do chores, but i wouldn't see them as tasks.   despite this, i had to start my day on time.  tonight was an exception.  i went to bed early, and then got up an hour early. 
+|<end
+
+Base model: tensor([[1.2064]], device='cuda:0'): What was his problem
+ 
+kyle had dated the wrong girl for several months. he needed to break it up with her. doing so would mean cutting off three years of his life. kyle decided to get help. he has been sober for 12 years and that didn't hurt.
+|<endoftext
+Tuned model: tensor([[0.7687]], device='cuda:0'): What was his problem
+ 
+you had forgotten something. it was obvious you had studied the wrong chapter. you called the professor when he came through the door. he asked for the last chapter of your assignment. he showed you the textbook so you wouldn't make that mistake.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.8998]], device='cuda:0'): “I’  was excited about soccer games in new mit. i drove out there right after school. i waited in the stands with my parents to see the game. eventually it started and it looked exciting. i missed it after the first 30 minutes
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>attendance
+Tuned model: tensor([[2.3312]], device='cuda:0'): “I’ m proud of the wealth we have inherited.  since i inherited money, i can do anything  i have inherited a big house, a beautiful car and a new tv.  i think my life will be better now. maybe i will become wealthy too.
+|<endoftext>|
+
+Base model: tensor([[0.6947]], device='cuda:0'): The witness was difficult
+ Questioning the witness was very difficult.  once again, the witness was evasive.   after calling the police, he volunteered his name.   the police officer knew him as jim, the witness in the apartment. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON
+Tuned model: tensor([[0.5909]], device='cuda:0'): The witness was difficult
+ 
+she was under cross examination. she stayed focused all day long. the judge gave her credit for effort. she was happy to be done with the case.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The humidity rose last night as our balcony door was closed. a breeze didn't
+
+Base model: tensor([[0.6967]], device='cuda:0'): John0 cocked his  pistol and racked the trigger. nothing happened! it was as though someone had thrown the gun away. he collected all the disassembled guns and put them in his trunk.  john went to his parents house, telling them he 'd killed someone. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[1.2969]], device='cuda:0'): John0 cocked his  gun and took aim. he quickly scanned the neighborhood for any intruders. a man was walking through the alleyway when he suddenly tripped. hit in the knee he fell to the dirt. the gunshot that eradicated the threat rang throughout the neighborhood.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.4208]], device='cuda:0'): Sam0 made a disgusted  face at the refrigerator. he had eaten pizza that night.  he tried to cover the smelly plate, but it was too dirty.  he took it to the laundry room.  there, he washed it thoroughly. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Wouldn't
+Tuned model: tensor([[0.4372]], device='cuda:0'): Sam0 made a disgusted  face.  she wiped at her face, but nothing came out.  she looked at her face in the mirror.  it still looked, but not nearly as bad.  she decided to continue washing her face with soap and water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It
+
+Base model: tensor([[0.9154]], device='cuda:0'): Sam0 he called out  for his platoon. they came to kill him.  he charged at them, trying to fight back.  only two survived. it turned out they were hiding in the grenades they left.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Evidence showed a link between the very bad floods in tex
+Tuned model: tensor([[3.7367]], device='cuda:0'): Sam0 he called out  to her and asked if she wanted to go for a hike.  she said sure thing, go for what, he said.   her knees were a bit tired, but she said she should go.   when they got to the top of the hill, her knees started hurting! 
+
+Base model: tensor([[1.3174]], device='cuda:0'): The light switch doesn� � on my dash.  it's the dealer's specialty, and made me mad.   when i was pulled over for a broken tail light last week, they called the police.  the police arrested the dealer instead of the motorist.  i wonder why he's so
+Tuned model: tensor([[0.5192]], device='cuda:0'): The light switch doesn� � up again. i am sick of switching it back and forth. i grabbed the <UNK> to switch it back.  thinking quickly, i put one hand on the wall, and the other on the wall.   that's three times what i usually put in, and i
+

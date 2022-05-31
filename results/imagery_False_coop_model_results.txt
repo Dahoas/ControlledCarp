@@ -1,0 +1,54 @@
+Model Type: imagery_False_coop_model
+Review: crimes
+Base model: tensor([[0.1461]], device='cuda:0'): 'Who else is there  in my car when i need a refill? i've been waiting almost twenty minutes already for my gas! but they seem to be getting further and further away.  when i got a quarter mile from my car, i saw them leaving my car.  i 'll have to call my insurance company and see if that 'll fix it.
+Tuned model: tensor([[3.4983]], device='cuda:0'): 'Who else is there ?' we'll see." He then craned his neck over my head and looked around. The sun was behind the partition and the cliff was wider out into the reef. Some quiet rock outcroppings grew climbing away from the ripples and through my window. Off in the distance craters lapped and caved and hiss of volcanic gas tint
+
+Base model: tensor([[0.0719]], device='cuda:0'): Jane0 Where are you ? i feel like young again. i drove all across town to go find where you are. i went to a policeman station to ask about you. he said you moved to idaho.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>The heretic family used a sledgehammer to pry the lid off the jar.
+Tuned model: tensor([[1.1641]], device='cuda:0'): Jane0 Where are you ? The closet doors were wide open,for the naked vile. He clutched his frame into a tightness that roiled with samee know. Her were wide made well, But the wall was thin silver. Below the narrow bare stiles, As they hung, their object's door faced the hall, From whence the blue office door came,
+
+Base model: tensor([[5.8841]], device='cuda:0'): “Don't worry  about it.  you rock, my boy.   go back to school, get ten more work and projects done.   ready for halloween, that's what i'm doing.  i'm going to build a monster costume for you guys to dress up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.3945]], device='cuda:0'): “Don't worry , no one was." She fell against the window frame, receiving a lot of juice over her lips. The room had grown oddly dark and quiet, and the comet had not moved. Somewhere in the darkness, Ginny saw a shadow stand on the other side of the window and Ginny's jaw dropped, all the time watching as the shadow moved closer and
+
+Base model: tensor([[3.0631]], device='cuda:0'): John0 fell in behind  and decided to try to catch up.  even at the loveliness of the situation, he couldn't.  he sat in a closely followed game of darts. he tried his best to keep his opponent at bay. finally he threw <UNK> and won to his relief.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.3834]], device='cuda:0'): John0 fell in behind  a stand of trees from under a creeper and turned to the nearest trees on the other side. A fine covering of dirt formed above a layer of green that rippled down under the frost. At the edge of the largest of the woods, Ripple appeared, head cocked and by his side, sunburnt shoulders disproportionately tight,
+
+Base model: tensor([[0.2402]], device='cuda:0'): Her eyes flash open
+ 
+she is spooked again. this time something is very wrong. it starts with a loud bang. she runs from the room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BY's short story collection had been on sale for as long as i could remember. i really enjoyed the series and downloaded it on steam.<|endoftext|>Untitled a
+Tuned model: tensor([[0.4951]], device='cuda:0'): Her eyes flash open
+ 
+He stretches out and stretches out
+
+His fingers stretch and stretch and where he stretches?
+
+
+The earth opens, the night slowly uplifts
+
+The rivers rise, the orange seaweed of the marsh stretches, the trees must bend. For a moment my legs burn in the dark and I bad wheeze on the vines and here
+
+Base model: tensor([[4.0433]], device='cuda:0'): ‘What will happen  today? i'm going to go on a few dates with my new friends. when i get home my husband is going hunting. life is so complicated today.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SPECIAL
+
+**SPECIAL BUILDING FUNDS are going on sale!
+
+SPECIAL BUILDING FUNDS
+Tuned model: tensor([[3.9587]], device='cuda:0'): ‘What will happen ?...» said the cold eye. In the darkened room a skylight through which I could see smoke streaming slowly followed a corridor of dark green through which hot air drizzled from a huge, dark yellow room. Three door and window-wary rats on a dark rocks stood on obliging seven tows and here one dropped a bur
+
+Base model: tensor([[5.0665]], device='cuda:0'): I waited as he did  the leg press.  i thought he could do heavier weights, but my nerves took over.   with a wink of my head, he began the leg press.  i could do the heavier weight set easily enough.  i started laughing, unable to stop my legs from kneading on the floor. 
+|<endoftext
+Tuned model: tensor([[0.9740]], device='cuda:0'): I waited as he did  so. The birds came and craned their necks and found his trail. Some reached desperately or even boldly enough to pluck the foreskin, but he could see no difference, and he turned, stretching his gorgeous legs, and in they flew the hustler's gambit, and within the silk wings the breeze flapped the brilliant young underbelly
+
+Base model: tensor([[1.5199]], device='cuda:0'): “Thank you so  much for taking my kind stranger's advice.  the talent show was tonight, and i asked him what he wanted to do.   he 'd one perform a duet of some beautiful music, and he 'd tell us afterwards.   i'm not a piano player, but hoped he 'd teach me something new.
+Tuned model: tensor([[1.3688]], device='cuda:0'): “Thank you so  much.» The windowlight dimmed and my gown held me and the wind lay ahead with her skirts by her sides, right as the yellow sunset vanished behind the hills. Together we ran and grew closer and closer until our foreheads were touching. From out the canyon we touched solid ground, stretching to the edge of smoke and gray leaf over two
+
+Base model: tensor([[0.8558]], device='cuda:0'): Her eyes darted between  the 2 doctors. she debated leaving one or returning to the hospital. she wanted to give her daughter diamonds to brighten her day. she made up her mind to choose which one to go to. the nurse ushered her into the waiting room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>arrive in a new hometown for her younger brother
+Tuned model: tensor([[1.1381]], device='cuda:0'): Her eyes darted between  the forest, and turned back to the trunk. The breeze began to gain and spread out; slowly it gave way to a heart-racing acrid brew of wet grass and furry blocky tentacles with where the mother's wings were poking out. She saw vines that peeled away from the roots of trees and all but one tree, and have not
+
+Base model: tensor([[6.2849]], device='cuda:0'): No, I didn't  want to go out with me. he made a excuse about needing to use the bathroom.  he 'd go back inside if i went with him, then unable to go again.   almost as soon as i got in the car, he began to curse me out.  it was now or never and i bet he was going to tell
+Tuned model: tensor([[3.5489]], device='cuda:0'): No, I didn't ." He pulled the scarf open, about a yard away from me. A long Wilde mane shot out, sliding off in his arms as the steam wand on about eleven feet away, with two feet on it. The cat went right after it. Its claws deep and all dark, the cat on the other end, its teeth a giant,
+

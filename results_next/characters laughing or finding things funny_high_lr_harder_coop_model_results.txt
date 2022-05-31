@@ -1,0 +1,54 @@
+Model Type: characters laughing or finding things funny_high_lr_harder_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[13.0282]], device='cuda:0'): Jane0 she begins softly  kissing tom at the grocery store. they enter a nearby mall andandersq lowers his soap box. he asks if she's making love and she giggles knowingly.  he asks why she's giggling, and she tells him she is making love.  he leaves as soon as he
+Tuned model: tensor([[15.5807]], device='cuda:0'): Jane0 she begins softly  laughing. i asked what she was laughing at.  i asked what you were laughing at, i thought.   i asked what she was laughing at, but i didn't hear anything.   i asked what you were laughing at, and she laughed again. 
+|<end
+
+Base model: tensor([[3.5725]], device='cuda:0'): Niels had a point  to raise in his psychic class. they were going to a girl who died. each student got to pick a gurantee to ask the girl questions.  for this one, niels chose a woman he knew personally.   then, he handed out the cards from the class. 
+Tuned model: tensor([[14.3409]], device='cuda:0'): Niels had a point  to laugh at. he laughed so hard at what he saw. then he turned around and laughed harder.  it wasn't funny after all, but he wasn't laughing now.  then he turned around and started walking away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[4.0332]], device='cuda:0'): John0 was his name . he did drugs in the basement. one day his parents caught him. they talked to him for hours about his problem. then they gave him some classes to help him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UNIVERSITY PARK, Pakar's dream was to play quarterback
+Tuned model: tensor([[14.9389]], device='cuda:0'): John0 was his name . i laughed at him. i asked why. then i laughed again. i asked why he did that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- the president has made a big stop.  he's coming to power as the power was turned off.<|endoftext|>WASHINGTON --
+
+Base model: tensor([[1.8674]], device='cuda:0'): Sam0 thought about it  all night. he put his options on the table and tried to come up with a plan. he came up with several and went back to sleep. when he woke up he remembered that he didn't study for his test. the next day sam ignored all the texted and prewritten answers.
+
+Tuned model: tensor([[12.2536]], device='cuda:0'): Sam0 thought about it  and she laughed her eyes off.  i didn't want to make fun of her, but she didn't listen.   when i asked why, she wouldn't answer me.   nevertheless, she laughed before walking away.  i was left with no idea what to do
+
+Base model: tensor([[0.5666]], device='cuda:0'): His heart nearly stopped
+ 
+it felt as if my chest was on fire. i made my way to the emergency room. they immediately called my name. it turns out my left lobe was broken.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Scott was a young surgeon in the ambulance on his way to the hospital
+Tuned model: tensor([[15.1173]], device='cuda:0'): His heart nearly stopped
+ 
+she laughed so hard her gag was left in trouble.  she couldn't stop laughing, though.   i asked her why, since she knew what he was going to say.  she didn't reply.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- i
+
+Base model: tensor([[1.6506]], device='cuda:0'): Sam0 looked at the  sun each morning. he wished he could take a picture with the sun shining.  he would look for hours, but the sun never came out.   then, finally sam0 got a picture of the sun.   now, every morning he looks for the sun. 
+|<
+Tuned model: tensor([[15.1465]], device='cuda:0'): Sam0 looked at the  man before him and laughed at him. she walked towards him and asked why he was laughing.  when he didn't reply, she walked away.   a second later, she was walking away from him.   he was laughing, too, but he didn't make her laugh
+
+Base model: tensor([[1.9812]], device='cuda:0'): Sam0 wasn’ . it was his name. he lived in the desert and it rained every day.  one day, the rainy stopped and samuel felt safe.   eventually, he decided to name himself after his pet rock. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>© Provided by
+Tuned model: tensor([[13.9836]], device='cuda:0'): Sam0 wasn’ . they laughed at me. i told my friend what they did. she laughed harder.  when she laughed, i started crying. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON --<|endoftext|>WASHINGTON -- it was the fourth of july and it was the fourth of july they
+
+Base model: tensor([[3.2743]], device='cuda:0'): This was a mistake
+ my roommate moved out without telling me first. he moved into my roommates house and had pretty much everything. eventually he needed some help a decided to split the rent with me. i figured out the mistake and we fixed it together. luckily we were able to afford chemicals so it was all too easy
+Tuned model: tensor([[15.2969]], device='cuda:0'): This was a mistake
+   i laughed at him, and asked him what he was laughing at.   he said   i told you so!    i said i didn't mean to laugh, but misunderstood.  he said i was just what he was.
+|<endoftext>|
+
+Base model: tensor([[5.6859]], device='cuda:0'): Why did she have it  in her car when she left it at roadside? she stays behind her boyfriend because she wants to go clubbing. the police found her purse and the keys in her pocket. she's going to drug charge and face perjury charges next month. someone said a box of pills was in her purse.
+Tuned model: tensor([[13.6227]], device='cuda:0'): Why did she have it  so funny that she laughed so hard?  i asked her why she laughed so hard, and she wouldn't answer me.   i asked again why she laughed, and she wouldn't answer me.   i asked again why i asked that, and she wouldn't answer me
+
+Base model: tensor([[1.8194]], device='cuda:0'): She got her notebook
+ 
+and her pencils and her wand
+
+she was going to use them to journal her thoughts and memories.  she slid her notebook facedown on the desk, ready to start.   she flexed her little muscles, marking each page.  then she closed her book and tossed it
+Tuned model: tensor([[13.8143]], device='cuda:0'): She got her notebook
+   she laughed out loud once saw it was black and a sad boy.  she asked him what was wrong, and he said he wasn't laughing.   she asked him why he was crying, and he said because of her.  she told him not to tell her what he knew
+

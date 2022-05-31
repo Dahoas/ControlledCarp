@@ -1,0 +1,48 @@
+Model Type: This story is set in the Renaissance era_default_model
+Review: This story is set in the Renaissance era
+Base model: tensor([[0.6651]], device='cuda:0'): The water doesn’t  every tuesday in the summer.  resentfully, dave jogged in for the annual tuesday race.   finding the top of the bridge, he began his 50 meter dash.  his heart was already beginning to thump as he neared the end of the bridge.  before
+Tuned model: tensor([[0.7052]], device='cuda:0'): The water doesn’t  taste like a glass of clean water.  indeed, it was so cold in my tank that i had to filter the water.   i started with a good batch, but compromise came to me.  i decided to make a bad batch of fresh water.  my batch was so bad,
+
+Base model: tensor([[1.4008]], device='cuda:0'): John0's sorrow was overwhelming .  he had broken his wife, his mother and his sister.  he left behind his job.  upset, he went to see a psychotherapist.   with his brother's help, john went on to find love again. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[2.3647]], device='cuda:0'): John0's sorrow was overwhelming . julia thought she would never find joy again. john of all people should know. john told her fifty years later to smile. that was the last time john got to tell her that.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pope patrick was born an outcast among the
+
+Base model: tensor([[1.0034]], device='cuda:0'): She didn’t smell  anything. she walked to the kitchen. she smelled something in there. it was her husband's feet. she had accidentally stepped on him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Coming up with new ideas for taco tuesday night was very tricky. i was careless in the making
+Tuned model: tensor([[0.5603]], device='cuda:0'): She didn’t smell  the meat. she placed the hog in the trash with the other trash. she searched around for trash bags. the garbage can was covered in trash bags.  she recycled the garbage, then disposed of it in the garbage can. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pope pat
+
+Base model: tensor([[0.9751]], device='cuda:0'): What'll it be," she  demanded of him.  he sighed and reached for his wallet.  the ticket he wanted, however, was on the other side of the ticket.   driving under the influence of drugs, he had no clue how this was happening  she smiled and walked him the rest of the way to the
+Tuned model: tensor([[1.2181]], device='cuda:0'): What'll it be," she  said.  he was ready. the door slammed. she could hear him. she had let him in.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>UPDATE 11/30/15:  approved. that means we can reopen today.<|endoftext|>About the author
+
+- patricia was
+
+Base model: tensor([[1.5354]], device='cuda:0'): Sam0 looked at me
+   she asked how i was doing?   imagine her surprise, i was doing great.  she asked me to go grocery shopping with her. i agreed and let her pick the items for the grocery list.  that was the best day ever, i don't know why you should n
+Tuned model: tensor([[0.6836]], device='cuda:0'): Sam0 looked at me
+   i remember you, sir   he asked my name   sir   i told him i was his daughter  he asked if he could get my phone number  he asked me if that was his phone number 
+|<endoftext>|<|endoftext|><|endoftext|>As i arrived and left
+
+Base model: tensor([[1.2478]], device='cuda:0'): John0 I get it
+ roman was training for his first race.  it was a ten mile, event.   he got winded at some point, possibly his last mile.   once it was over, he was so exhausted.  he finished the race and scored third place!
+|<endoftext
+Tuned model: tensor([[0.8414]], device='cuda:0'): John0 I get it
+  john the throat surgeon needed to do a maneuver after a patient died. this maneuver was routine and was the only one he ever did. the patient didn't die so he did it again.  john got the patient back from the embalmer, just like he told him to. 
+
+
+Base model: tensor([[0.7722]], device='cuda:0'): “I trusted you,  ben.   but, i didn't know what would happened if i left you.   one day, i rode with you to church.   after church, i found my car window broken.   i still trusted you, but i now had to tell you that i was
+Tuned model: tensor([[0.3326]], device='cuda:0'): “I trusted you,  my precious deep down.  i thought when we met that we 'd go on a date. you're the one who told me otherwise. i just can't trust that you're all that in me for now. i guess that's the way it is with me.
+
+
+Base model: tensor([[1.3011]], device='cuda:0'): “Far as I know  you never actually have to pay for something.  for example, my coffee this morning cost 1 cent.  the bank said i had no coins and used my change. the police came and pulled my money out of my change jar.  picks up my check, two cent better than store, in
+Tuned model: tensor([[0.7795]], device='cuda:0'): “Far as I know eth, neither of them had met their grandfather.  little did they know that their grandfather lived hundreds of miles away! that's exactly how the met his grandpa in akron. they drove there for thanksgiving 2015.  their grandfather, brandon met his grandpa and they enjoyed a
+
+Base model: tensor([[0.4876]], device='cuda:0'): “I have breakfast,  lunch and dinner every day.  this morning was different because i only had coffee. while getting prepared for school i went into the break room. there was no coffee left so i had a sugar free iced coffee.  my breakfast was fine, but not as great as having a sugar free breakfast
+Tuned model: tensor([[0.7762]], device='cuda:0'): “I have breakfast,  lunch and dinner every single day.  sometimes i enjoy some snacks before i make my normal meal. i like my toast toast buttery and toast sweet. sometimes i will eat a candy bar or a granola bar.  when i make my meal, i always finish it with a glass of milk
+
+Base model: tensor([[0.8831]], device='cuda:0'): “But if they did n't all want her lip gloss?  she tried putting it on, but it was gross.  she put more and more on. but she couldn't stand the feeling on her lips. so she gave all of it to the poor squirrels.
+|<endoftext>|
+Tuned model: tensor([[0.6533]], device='cuda:0'): “But if they did n't then their child's school would suspend him.  one saturday, the boy knocked on his mother's bedroom door.   her cleaning boy, bill, had come into the room.  bill told his son to leave because he was going factories.  the boy left anyway
+

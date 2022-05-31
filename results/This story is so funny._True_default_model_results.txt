@@ -1,0 +1,61 @@
+Model Type: This story is so funny._True_default_model
+Review: This story is so funny.
+Base model: tensor([[0.9454]], device='cuda:0'): I feel better," John  told himself to himself.  the doors behind him closed. the ambulance drove up. the door slammed shut behind it. the paramedics brought john to the hospital.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Significance tuesday is when the chemists create new gems. recently i found
+Tuned model: tensor([[2.5102]], device='cuda:0'): I feel better," John  realized as he coughed.  one more warm breath and he felt like he went mad. so he took deep breaths to calm down. john got in his car and drove to the grocery store.  when he got there, john bought a large gallon of milk and ate it. 
+
+
+Base model: tensor([[0.7916]], device='cuda:0'): Sam0 sighed with longing  on her birthday.  at last, the day of her big shift, had come.  she hesitated to open her mouth.  finally, her mouth opened and she shouted out, happy birthday.  everyone looked at her with a proud smile.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[1.3844]], device='cuda:0'): Sam0 sighed with longing  as he ripped open the freezer door.  inside, he found a box of stale cookies.   he pouted for hours, but then opened up the cookie box.   he crumbled a whole cookie into his mouth in about five minutes, then chewed it.   once he
+
+Base model: tensor([[2.0100]], device='cuda:0'): “Sorry for the  lateness of this blog entry. i am working late today and am very tired. my eyes are so tired that i can't see well. this is not good because i have to work tomorrow.  thus, i will upload a part tomorrow morning. 
+|<endoftext>
+Tuned model: tensor([[4.4728]], device='cuda:0'): “Sorry for the  mess! has everything been taken care of now?  thanks to sally's recipe, i made a gravy.   but when i went to put it in the oven, the bottom was burnt.  turns out i forgot the potatoes for the gravy.
+|<endoftext>
+
+Base model: tensor([[2.3698]], device='cuda:0'): It came to me
+ 
+But the only thing i 'd gotten was two rubber bands
+
+Jim's family pushed me on the couch
+
+Jim picked up the two rubber bands
+
+and tossed the other one on the floor
+
+a few weeks later he retrieved the old rubber band
+
+|<end
+Tuned model: tensor([[4.5577]], device='cuda:0'): It came to me
+ 
+as i was eating cake. 's when i spotted mice eating my cake away ; and i ran for my toilet.  i asked my brother what the big deal was about the mice.  he said only betters eat mice, i guess it was just how they are. 
+
+
+Base model: tensor([[1.0078]], device='cuda:0'): Sam0 hadn’  of being mistaken for a race car driver. he began competitions with expensive cars. they were less than his previous shows. he used sponsors to grow his audience. but didn't achieve the success he wanted.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Evidence reviewed by a panel of experts
+Tuned model: tensor([[5.0385]], device='cuda:0'): Sam0 hadn’  had an awful idea about ketchup. he thought that the packets of ketchup were stacked too high. he decided to crush all of the packets and pour them down the drain.  unfortunately, his plan backfired and he made an even bigger mess.   overall, sam was too embarrassed to
+
+Base model: tensor([[3.5075]], device='cuda:0'): ‘I’  was angry. so i went inside to vomit.  when i did, i found out my meat carving had burned.  strange how that much meat went in my mouth. i definitely better not make that mistake again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Story highlights Hogan stayed in
+Tuned model: tensor([[3.2635]], device='cuda:0'): ‘I’  was reciting my buddhism in front of a group of people. the lead monk told me not to laugh so hard and made me hold my breath.  after clapping my hands, a shrunken man with a snake tail told me to stop.   perplexed, i confused the
+
+Base model: tensor([[1.4729]], device='cuda:0'): “I hate you  <UNK> kid. i found out why. you hit me yesterday. i did not tell anybody about it. your dad saw & yelled at me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ALBERTSON COUNTY SCHOOL DISTRICT - the relators were informed today there was two
+Tuned model: tensor([[4.7172]], device='cuda:0'): “I hate you  guys. i had sex with a monkey. he didn't use protection. he still flies around my house with my clothes on. he is my sister's hairy uncle.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Motion 466 is a term i never thought i 'd use
+
+Base model: tensor([[1.5722]], device='cuda:0'): Why is John0 dead  now? but his wife can't fathom his suicide so she calls the cops. nobody ever came to check on him. five years have gone by and john0 is still dead. can't can't accept how he died?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.3944]], device='cuda:0'): Why is John0 dead ? i called the police and they said they were no help. somehow he must have put a bomb in the car. other than that he had no reason to have been killed. he killed himself and the police sat by and did nothing.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Senior
+
+Base model: tensor([[2.3716]], device='cuda:0'): “Good morning,  everyone.  but first i have to log in. log in and check my mail. my mail came from santa and it was a great present. i am happy to be receiving important mail today.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>sparkly slapsticks dangling from the
+Tuned model: tensor([[3.2157]], device='cuda:0'): “Good morning,  my friends!  we make it a point to go to chinatown on fridays.  as we walked in, we saw a monkey performing tricks.   i laughed, and said it looked identical to frogs tripping people!   my friends thought i was hurt, and never went back
+
+Base model: tensor([[2.2206]], device='cuda:0'): John0 forced a response  from his boss. the boss demanded more money. john answered with rage. the boss failed him. john went home feeling defeated.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Mission impossible was always jerry's favorite movie. he loved seeing the colossi in the/ real galaxy
+Tuned model: tensor([[3.5389]], device='cuda:0'): John0 forced a response  out of the boss. the boss was furious. the boss demanded that another employee return the pizza.  then, the boss reminded john0 of the pizza.  john0 apologized.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man was angry at his wife for assuming he 'd
+

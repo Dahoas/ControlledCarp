@@ -1,0 +1,58 @@
+Model Type: They ask good questions
+Review: They ask good questions.
+Base model: tensor([[1.2610]], device='cuda:0'): Aoi shakes his head  noently as i put the batteries in my rc car. i explain to aoi that the car radio is broken. he gets very angry and points a gun at the radio.  i remind him it's not a gun, but a chainsaw!  soon aoi is on his knees
+Tuned model: tensor([[3.0999]], device='cuda:0'): Aoi shakes his head . as he sits down the dog barks. aoi grunts and is upset. he steps off and leaves the room. as he steps away aoi gets back in line of dogs barking at him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>It was the month of may and
+
+Base model: tensor([[1.6721]], device='cuda:0'): Jane0 cuts us off  from the outside world.  she lives with her boyfriend in vegas, nevada.  i went and spoke to her about her struggles in nv. she was apathetic and completely ignored me. i feel sorry for amanda.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.5399]], device='cuda:0'): Jane0 cuts us off  from always seeing each other. she walks with a cane to work and to the store. everyday one of her friends brings her cookies to cheer her up. last week the friend came over and they ate together. they had found each other by the bus stop!
+|<endoftext>|
+
+Base model: tensor([[3.6208]], device='cuda:0'): “I didn� �t know what to buy her. it was her birthday today.  so, i decided to make her a gift.  i got the perfect tea pot. making her a gift really made her happy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>LISTENERS at the wedding cheered
+Tuned model: tensor([[2.2890]], device='cuda:0'): “I didn� �t feel like making food last night. thought about it the next day but nothing came to my. felt like my thoughts were getting stuck in my head. decided to make a bath instead.  bath turned out terrible, burned down my house and isn't working. 
+|<end
+
+Base model: tensor([[0.7665]], device='cuda:0'): The bully's face p uckered. i did not know what he was going to do.  i heard the child scream, so i rose from my seat.   without saying a word, i threw my body against his legs.  he leaped forward and drove his leg into my <UNK>!
+
+Tuned model: tensor([[2.7986]], device='cuda:0'): The bully's face p uckered again.  he sulked under his desk, making his boss nervous.   his boss grabbed the control box, creating a situation.  the bully took out a chair and hurled it at the boss. his attempt to strike back had no real effect and he ran away.
+|
+
+Base model: tensor([[1.9559]], device='cuda:0'): The next day, Dr  davis gave us instructions on how to fill up jugs.   when stu filled up a jug, he threw half the jug on the ground.  the jug broke in half. it was embarrassingly easy to clean up. my little sister threw her lego into the fountain in frustration
+Tuned model: tensor([[2.5905]], device='cuda:0'): The next day, Dr  d came into work. he was surprised to see so many people already at work that day. he realized that he had slept in the afternoon. he got distracted and didn't check his email.  during the next day, he found that his work was postponed. 
+|<endof
+
+Base model: tensor([[1.0118]], device='cuda:0'): John0 I get it . cj lived all by himself. he had a wife and 1 son. he found his son 19 year's old. he must have hit him hard.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Latest updates going live on senate floor reflects precarious situation for human rights
+
+UN
+Tuned model: tensor([[2.4901]], device='cuda:0'): John0 I get it  together is a new yo yo band. it started out as a hobby. it grew into a career. they have shows all over the country. they are doing travelling shows next year.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking up with my girlfriend left me depressed. now i feel
+
+Base model: tensor([[1.7248]], device='cuda:0'): That typical polite response
+ 
+My name is pete and i live in texas. i was walking down my street whistling really loudly a girl told me i was barking. my name is pete and i still mad. on the way back home i slowly lowered the pitch.
+|<endoftext>|
+Tuned model: tensor([[3.2268]], device='cuda:0'): That typical polite response
+ 
+It's okay
+
+isn't always the case.  yesterday, there was a man in my office.  his response was one half bell curve. i thought he was rude at best and arrogant at worst.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Despite its name
+
+Base model: tensor([[2.1439]], device='cuda:0'): We both grabbed the rope . we carried each of us a little farther up the mountain. unfamiliar parts of the mountain greeted us near the top. i had not realized how hard it was going to be. we pushed down hard on the rope.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>package main import ( var
+Tuned model: tensor([[3.3181]], device='cuda:0'): We both grabbed the rope . we began our rope swing. it spun us fast. i landed on my back when it stopped. my brother laughed at my pain.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A new movie theater was opening soon in my city. it was supposed to be packed on black friday
+
+Base model: tensor([[1.6460]], device='cuda:0'): Heightened senses made meals  easier to prepare. avocados are one example. you simply fry a ripe avocado and add bulks. the resulting salsa is delicious. and you can also make guacamole for the family.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Federal prosecutor dismisses charges in trial of
+Tuned model: tensor([[3.3480]], device='cuda:0'): Heightened senses made meals  more satisfying for alfred. he could smell the sweat leaving his body as he drove. his breath was rich with meat and vegetables. red food smelled like home to him. his ex husband may have gotten the all clear but alfred was still happy.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[3.1549]], device='cuda:0'): Sam0 kept to himself . no matter how often or how close friends he had he never invited his friends over. one day sam thought it was time to let people in his life. he called his best friend lucy over and invited her over. lucy and sam had a blast that friday night.
+
+Tuned model: tensor([[2.7358]], device='cuda:0'): Sam0 kept to himself  during class because he was afraid of getting teased. one day the teacher made fun of his name. the name stuck in the log throughout the entire class. sam0 was ultimately suspended from school for a week. during his suspension he wrote a long diary entry about the incident.
+|<endof
+

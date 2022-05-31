@@ -1,0 +1,55 @@
+Model Type: This story is set in medievial times_default_model
+Review: This story is set in medievial times
+Base model: tensor([[0.9174]], device='cuda:0'): His nobility cost him
+ the use of his shampoo. he felt it had saved his skin from being burned.  but in the bathroom, he used one drop too much.  but it took effect in the shower immediately. he realized he needed to be more careful about shampooing.
+|<endoftext>|
+Tuned model: tensor([[2.6354]], device='cuda:0'): His nobility cost him
+ his life. he lived in a lonely village in philippe. there were no roads but bare stone throughout. one day a shops owner saw an orphan and took him in. the orphan grew up into a successful artisan.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>In 1975 my son
+
+Base model: tensor([[2.0202]], device='cuda:0'): “It’ s been a long day of waiting for pizza. when fred finally gets home he is sad there is no pizza.  he hears a knock at the door, but no pizza.  he looks through his fridge and finally finds something good. pizza for fred is the best night ever!
+
+Tuned model: tensor([[4.9367]], device='cuda:0'): “It’ s fall and we have climate change to worry about. our city is going to experience very cold temperatures this year. our city was built on coal so now our air quality will be poor. many people have voiced their concern on social media. hopefully this information is helpful.
+|<endoftext
+
+Base model: tensor([[1.2059]], device='cuda:0'): His upper lip drew back  in a wheeze. he spit out the words quietly. he looked down at his sister's astonished face. she held her face in shock. janet blinked back at him pondering what he had just said.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (AP)
+Tuned model: tensor([[3.0326]], device='cuda:0'): His upper lip drew back  in pain. he had been watching too much hbo. his dentist had removed two stapes. the soreness in his mouth spread to his cheeks. he wondered when the last time he had something pop in his mouth.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>America has brand new
+
+Base model: tensor([[1.7324]], device='cuda:0'): Rignar shudd ers when he thinks about the new place he's arrived in.  settled in his new, tiny apartment, he wonders where he 'll sleep.  he hasn't even had time to think about his new neighbors yet.  the market this week has some very psychotropic ingredients, he
+Tuned model: tensor([[5.6437]], device='cuda:0'): Rignar shudd ers when he thinks about the 1989 presidential election.  as a lifelong hippy democrat, he wasn't surprised by anything that happened.   after leaving work early one day, he heads down to his local library.  he spends the afternoon exploring all the records that might interest him. 
+
+Base model: tensor([[0.9827]], device='cuda:0'): Sam0 raises an eyebrow . she lifts her eyebrow upwards. she makes a point of looking into her boyfriend's eyes. she rationalizes doing it for him. he says it's helpful and forgives her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Brother from india wins carnival game show from
+Tuned model: tensor([[4.4326]], device='cuda:0'): Sam0 raises an eyebrow  at the sight of a brand new blender. he has to have it. it costs a quarter of a million dollars. he's always bragging about how much he's made with it. now he's rich!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>In 1963 my dad
+
+Base model: tensor([[0.8901]], device='cuda:0'): Sam0 never hunted another  day. the deer in the paddock were his winter meats. they were so fat he couldn't move them with his legs. he settled for a nice steaming pheasant instead. every year he came back home with a turkey carcass.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[2.0958]], device='cuda:0'): Sam0 never hunted another  day when he grew up.  one day during a hunting trip, his dad asked him if he wanted to shoot a deer   samuel said no, because he knew he would get sick.   later at the store, sam introduced himself to the deer santa asked him again. 
+
+Base model: tensor([[1.6599]], device='cuda:0'): The weather was perfect
+  it rainy all day. the students went to the library to finish their experiments.  then, professor phillips reviewed their work.  he gave each student a big smile. he was glad they 'd all done well.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters
+Tuned model: tensor([[4.4249]], device='cuda:0'): The weather was perfect
+ we decided to have a picnic. we gathered all the ingredients. we went to the park. we sat outside and talked. that afternoon we all got sick.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>In 1980s history class we learned about genoa park. how civic officials battled
+
+Base model: tensor([[1.0868]], device='cuda:0'): I'm sorry," John  said sadly.  my mother was dead. i said i would never forgive him. he looked up at me and gave me a kiss. i went to the corner store and bought some flowers.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The irrigation system in my home runs double the recommended
+Tuned model: tensor([[2.1430]], device='cuda:0'): I'm sorry," John  told me.  he asked me why we are here talking like this.  as confused as i was, i told him this morning was the day of the wedding.  john was shocked and was about to walk away.  today was the day the married, and john was very happy. 
+
+Base model: tensor([[1.8870]], device='cuda:0'): She watched as Mrs
+ 
+pam washed the dishes. she saw her daughter staring at her expectantly. she thought she might be getting on her netflix too. she breathed a sigh of relief. the water was very cold.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Still loading friendly name to detect various
+Tuned model: tensor([[2.3169]], device='cuda:0'): She watched as Mrs
+ 
+in the kitchen impeccably prepared dough. she asked how long it would take. shannon explained that it would take about one hour. shannon smiled as dough covered the floor.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Contrary to popular belief we actually have had a very long
+
+Base model: tensor([[1.1134]], device='cuda:0'): “Shhh,  baby sister enterama was called off school today!  i know this because i heard her crying all day! she was being mean to everybody.  when she went back to school, i bribed her with candy.   we're now in the sweet house, sister! 
+|
+Tuned model: tensor([[1.8063]], device='cuda:0'): “Shhh,  zachary found out his father passed away.  today he was going to disbury the whole family in one night. he brought a picture of his father with him every place he went. a few people down the lane reminded him it was his father's birthday.  so, shhh
+

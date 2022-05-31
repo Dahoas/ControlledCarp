@@ -1,0 +1,45 @@
+Model Type: humor_5e-06_25_0
+Review: characters laughing or finding things funny
+Base model: tensor([[0.5541]], device='cuda:0'): John0 was happy too  much to learn that jake knew all about juggling.  he asked john to teach him, and john agreed to.  john practiced all day long with jake.  though he was having a lot of fun, he began to feel sick.  john never did learn how to juggle after
+Tuned model: tensor([[5.8380]], device='cuda:0'): John0 was happy too  young to understand the damage caused to the environment.  when he was older, johny wanted to save the environment by 2020.  johny did research and drafted a long-term plan for his state. johnny distributed the plan to all his elected officials. johnny's plan ensured the
+
+Base model: tensor([[3.6166]], device='cuda:0'): Sam0 never saw hers  house before. she decided to help out by taking a tour. a few walls were missing though. it ended up being the attic. the first thing she did was cut through the wall to get in.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CLOSE IndyCar fans were treated to a
+Tuned model: tensor([[5.0217]], device='cuda:0'): Sam0 never saw hers  side of the house. they would always go to her dad's house. she always thought she was just hanging out. sam couldn't know it because of how close they were. but sam's dad took them out together that night.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[3.6602]], device='cuda:0'): “Please, don kemm obliged to help me this time.  i told him i would meet him at the bookstore.  when i got there, he was in the middle of doing rounds.  lenny had to ask to see his boss.  the boss is trying to figure out why he fired dan,
+Tuned model: tensor([[1.2767]], device='cuda:0'): “Please, don na, landlord of the first floor basement unit at 69 haiti 2911 said mom stared as mom told lies about dad Story of me and dad swapping stories of babysitting for dad   she said you had to chop my toes off, that's a story you might tell   dad said
+
+Base model: tensor([[6.3593]], device='cuda:0'): Her mood-wrist  was beginning to swell with anxiety. she couldn't focus on anything in her life.  suddenly, her cell rang.  her boyfriend was calling. she answered the phone while he spoke over the phone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Government was on the mind of ben
+Tuned model: tensor([[4.1095]], device='cuda:0'): Her mood-wrist  daughter was on a diet now.  the options were limited, with only two misdemeanors to choose from.  either she needed to lose weight in 10 days or lose the chef's card. she drew up a diet plan with simple cooking and avoiding snacks. the first day was accomplished and
+
+Base model: tensor([[3.5743]], device='cuda:0'): What are you doing here , george!  why do you always shift right when you drive up the street. what are you doing here everyone keeps asking. i don't know you are in a shift right? when you pull into the hailing station get out your papers please.
+|<endoftext>
+Tuned model: tensor([[1.6387]], device='cuda:0'): What are you doing here ?  you don't have a job, you shouldn't be in this section.  you're here because your family forced you here.  you're in this section because you have no hope, you should leave.   where should i turn now?  i'm
+
+Base model: tensor([[2.1945]], device='cuda:0'): The effect was almost instantaneous . her friends and family could barely breath from it. everywhere she went her head was covered in water. there was no denying it was effective. they couldn't wait to see how long it would last.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Customers looking for great deals at
+Tuned model: tensor([[5.0560]], device='cuda:0'): The effect was almost instantaneous .  i 'd driven up eight in a row, just fine.  i 'd been on speed dial for four hours. my wife had been driving. i took a deep breathe as the screech started.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Residents of a local condo
+
+Base model: tensor([[1.7729]], device='cuda:0'): Her cover was busted
+   she couldn't change it, though.  she just had to hope it wouldn't get poked again. it also meant she had to put up with someone else's antics.  she hated it, but at least it wasn't her sister. 
+|<endof
+Tuned model: tensor([[6.1991]], device='cuda:0'): Her cover was busted
+  she had to go to the department of motor vehicles to get licensed again.  there, she sat through driver's ed and took her road test again.   she passed, and now drives away as fast as she can.   now, helen intends to get her license revoked.
+
+Base model: tensor([[0.4390]], device='cuda:0'): I frowned in the darkness . my jaw was hard as a rock. as i sat down in the chair i stepped on something sharp. my jaw swelled until it was at least six inches long. i realized i had to see a dentist soon.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Login or register to
+Tuned model: tensor([[3.1192]], device='cuda:0'): I frowned in the darkness . the caterwauling didn't go away. it only got louder and angrier. i ran out of my tent. i went to get my flashlight.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Public transit had a miserable summer. there was a pair of safety glasses on
+
+Base model: tensor([[3.2073]], device='cuda:0'): “Where is my  place? a question i hadn't asked since leaving my apartment.  absent a answer, i put my house on the internet.   following instructions, i placed thus far my food and drinks.   within two hours, i headed to my place. 
+|<endoftext
+Tuned model: tensor([[6.7669]], device='cuda:0'): “Where is my  car?  i took my son and wife shopping for it, searching daily.  it sometimes seemed that they could pick out anything they wanted.  we finally found the white car with rusted out parts, gpa 486.  we paid cash and spirited home in only a few minutes despite
+
+Base model: tensor([[2.5097]], device='cuda:0'): Sam0 looked at the  schedule for her shift. she was supposed to come in the morning. but there was a traffic jam. she arrived at work late. and she had to meet the rest of her shift late.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Pac-man elevation changes are fun!  i
+Tuned model: tensor([[3.5122]], device='cuda:0'): Sam0 looked at the  clock and saw it was almost noon.  he rushed out of the house, already running out of bread.  he checked his bank account but it was replenished.  feeling cynic, he went to the grocery store.   while he was there, he bought 2 bags of dog food
+

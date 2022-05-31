@@ -1,0 +1,105 @@
+Model Type: characters laughing or finding things funny_high_lr_short_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[3.7311]], device='cuda:0'): His voice made her shiver . she turned to look at her watch. she 'd lost track of the time! she explained what happened to the girls around her. they were completely relieved.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Story highlights comedian cambridge grew up in poverty but never forgot his roots. he
+Tuned model: tensor([[6.2881]], device='cuda:0'): His voice made her shiver  slightly. he was giving her a heads up on an important call. she was so nervous. she needed to wait. he assured her it would be okay.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Iran's justice minister was contacted by local officials over a cricket match. he wished
+
+Base model: tensor([[4.2913]], device='cuda:0'): “Who are looking for  me? home here, away from here, everywhere.  i turn on the tv and see nothing but my broken town. i hear my broken city crying out for help. i turn on the radio and nowhere do i hear beeping.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[6.4183]], device='cuda:0'): “Who are looking for  daniel?  right now, daniel is peacefully sleeping on his hammock.   dove, his eagle-like bird companion wings mentioned daniel.  dove pointed out daniel's head nearby. dove said a feline presence hidden by the foliage was the culprit.
+|<
+
+Base model: tensor([[5.6852]], device='cuda:0'): A thought raced through him
+ 
+This is my life we're living is unsure
+
+Should i accept my situation or not
+
+Either life goes my way or i should run away and hide
+
+The thought crossed his mind and left him there to die
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dear
+Tuned model: tensor([[4.9380]], device='cuda:0'): A thought raced through him
+ 
+and he decided to draw a conclusion.
+qd doesn't do heroin and doesn't sell drugs
+
+and he didn't ask nia for money in order to exist
+
+qd lived his thirties and died of an epileptic fit
+
+|<end
+
+Base model: tensor([[5.1252]], device='cuda:0'): I pressed the door bell
+ 
+it was answered by a bee with a human head. he buzzed and made some silly noise. i realized he was a paid scared hired opinion worker. that day i began using a separate alarm system.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Picture frames can be found in almost
+Tuned model: tensor([[6.3480]], device='cuda:0'): I pressed the door bell
+ 
+my neighbor answered. i told him i would knock soon. he told me to wait. i waited until i got the chance.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Story highlights Giuliani said crop circles weren't paranormal
+
+he waved the sign saying not to disturb animals<|endoftext|>
+
+Base model: tensor([[2.4780]], device='cuda:0'): “You’ll  never know by just one look. that is the last thing matt saw as he fell from the canoe. whipped cream and chunks of meat littered the sea bottom. he had survived for almost seven minutes before he hit bottom. that is the only time anyone ever survived being cut open.
+|<end
+Tuned model: tensor([[0.3050]], device='cuda:0'): “You’ll  see things happen the stranger way. spilling a drink on another doesn't always end badly. last friday we make fun of marianna. she's a marathon runner.  we all wished she wouldn't do that, and stopped. 
+|<endoftext>|
+
+Base model: tensor([[5.4310]], device='cuda:0'): She looks up at him
+ 
+Looks deeper into his eyes
+
+Lower lip trembles in fear
+
+Lower lip trembles in fear
+
+Lower lip trembles in fear
+
+Lower lip trembles in fear
+
+Lower lip trembles in fear
+
+Survivor was every moment over. 
+|<
+Tuned model: tensor([[3.1521]], device='cuda:0'): She looks up at him
+ 
+Why do you look at her like that?
+
+Because she didn't know he loved her.
+Why did he do that?
+Because she would never say no.
+|<endoftext>|<|endoftext|><|endoftext|> heather was tired of being told what to do by her mother
+
+Base model: tensor([[4.8121]], device='cuda:0'): ‘It’s  been over three weeks since i drove my car away from the driveway. it feels like i have a hole in the bottom. i decided to pull into the driveway in the rain to get the car dry. the driveway was covered in water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome
+Tuned model: tensor([[6.9135]], device='cuda:0'): ‘It’s  been three years since amy's ex husband left her. tonight at dinner amy cried all alone. her sister chandler sat and listened quietly. after dinner chandler drove amy home. she drove past amy's house and heard the car start.
+|<endoftext>|
+
+Base model: tensor([[6.6177]], device='cuda:0'): “Sixteen last week  was my best sales week ever. today i have an important meeting to attend in another city. when i get there the owner of the building has me over. i am staying a suite for $ 1800 a night. that is a lot of money for a room that is a suite.
+|<
+Tuned model: tensor([[8.7267]], device='cuda:0'): “Sixteen last week . it was a very long and tough time for sue. she carried around so many objects from thick blankets to thick sheets. when she got a break from therapy last friday she went shopping for linens. she purchased plenty of sheets and cleansed herself thoroughly before bed.
+|<endof
+
+Base model: tensor([[1.8299]], device='cuda:0'): He paced back and forth
+ 
+enid sat in front of the phone waiting for something. the phone rang softly and played soothing music. after a minute or two no one answered.   enid wondered what was wrong, why it made her so stressed.  she had to stop.
+|<endoftext>
+Tuned model: tensor([[2.8425]], device='cuda:0'): He paced back and forth
+ 
+he wanted to calm down
+
+so he made a call
+
+she asked him where the party was
+
+he told her the party was at ao this weekend
+
+|<endoftext>|<|endoftext|><|endoftext|> i wrote a story for the fifth grade. i wanted to use a
+
+Base model: tensor([[2.0944]], device='cuda:0'): Jane0 looked at her keen  tweezers and pushed them in. the seamsstress called her boss over to explain what was taking so long. the boss brought in an order to have assistants start on day one. the uniforms were delivered to the division one day late. all visitors to the sewing rooms were appalled at the mess.
+Tuned model: tensor([[4.5937]], device='cuda:0'): Jane0 looked at her keen ly. she saw tiny tiny teeth marks. she started pouncing on her belly button.  encouraging her husband, she said it was a stallion.   secretly, she loved horses. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This past saturday a woman approached me with
+

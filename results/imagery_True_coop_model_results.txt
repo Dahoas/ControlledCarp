@@ -1,0 +1,50 @@
+Model Type: imagery_True_coop_model
+Review: imagery/descriptions
+Base model: tensor([[1.7661]], device='cuda:0'): As we drove home
+ 
+we passed german law and displays. they had balloons and pennies in their car. it seemed german law was everyone's idea of fun. it made me think of the great american past. it was a wonderful 4 hours in the car!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>We all love movies like the
+Tuned model: tensor([[1.5678]], device='cuda:0'): As we drove home
+ my brother asked if i man about his car. we started to talk about the car and i mentioned the oil.  since i was proud of my brother's car, i said i know how to change the oil.   after changing the oil, his car ran better.  i thought totally cool.
+|<endoftext>
+
+Base model: tensor([[3.8692]], device='cuda:0'): Jane0 she was there  when the bully came into the class to fight! she had been sitting quietly staring at the clock the whole time.  when the bully hit the desk, she sprung into action.   she ran after the bully, yelling as she went!  the bully turned and saw her earlier silent she wasn't there to stop her.
+|<
+Tuned model: tensor([[2.6717]], device='cuda:0'): Jane0 she was there  when mom called her again. she asked her why she wasn't home yet.  no matter how much she looked at her phone, she couldn't find mom.   finally, she asked sisters if she could borrow their watches.   when mom finally showed up, she fainted immediately. 
+|<endoftext>
+
+Base model: tensor([[2.3577]], device='cuda:0'): ‘You are an  abrasive eater. everyone invites you to their house for dinner. resentful you refuse to go. until one eats all the food before you do. now you don't resent people anymore.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WAREHOUSE's were happy to announce the return of their most popular shoe brand! beloved for
+Tuned model: tensor([[5.9666]], device='cuda:0'): ‘You are an  adult and need help paying bills. my dad calls me everyday and i pay advice online. i talk with my dad about everything. i make monthly payments on my parent's credit card.  after they close their credit card account, dad will stop calling me. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When i was 14 i
+
+Base model: tensor([[0.2134]], device='cuda:0'): The drive was non- stop traffic for three hours. the man in the car ahead kept trying to weave in and out of lanes.  eventually, he came to a 3rd street only to find a kenya sign.   in response, he pulled out in front of the authorities.  they had to open up the doors to let him through.
+|
+Tuned model: tensor([[6.6150]], device='cuda:0'): The drive was non- stop for hours with little breaks.  eventually, my brother got sick of the cold driving all that time to school.  he packed up his car and decided to get a job with his parents. before he started working at a gas station he use to work on cars in his garage. his parents ended up allowing that and now he has two jobs
+
+Base model: tensor([[5.2997]], device='cuda:0'): And that's how it  ended for me. on a cold july evening i boarded a flight for india.  to my surprise, it was beautiful.  the rich indian sunset was beautiful. i was happy i could finally see bhutan.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>From humble beginnings arose the 3 ceo's of its
+Tuned model: tensor([[5.6396]], device='cuda:0'): And that's how it  ended for me as a child. my parents got a divorce many years ago. when the divorce was done i was left my parent's house. i glad to say i'm adults and still have my parent's phone phone. that's how opening day in college worked out for me.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[4.2236]], device='cuda:0'): “Are you on  the edge of your seat when you heard the ice cream truck?  among those in line, two women were having a contest.  one lady had five different flavors to choose from.  the other lady was not having it, she only had two flavors.   her choice won, and she told us her secret blend of fudge. 
+Tuned model: tensor([[6.5782]], device='cuda:0'): “Are you on  facebook? my friends have shared links on their pages. i went online and asked my children about my mom. i asked them why my mom laid in bed with my siblings. the only response i received was a mother of the month gift.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Jay was bored. he bought a new cell phone and
+
+Base model: tensor([[1.3272]], device='cuda:0'): “Are you certain  that you ate that mcdonald's breakfast bagel?  if you say it was mexican, did you mean bright yellow, or red?  i've been thinking my sandwich was a little spicy. maybe i 'll start eating 'em hot wings instead.  but for now, i'm just going to stop eating that
+Tuned model: tensor([[7.4546]], device='cuda:0'): “Are you certain  that my boyfriend is cheating on me with his ex fianc��me?  if so, i ask him to please stop calling me.  he calls me every day and i get sick of how he acts.  i asked him if he was cheating on me, but he didn't even reply.   since i'm tired of
+
+Base model: tensor([[6.8799]], device='cuda:0'): I enjoy games," Sam uel said to his friend.   because of this, he said that he was going to a party tonight.   and the next morning, he left for the party.  he arrived and everyone was digging through the kitchen.  however, samuel's mom pulled him inside saying that she overslept. 
+|<end
+Tuned model: tensor([[6.5765]], device='cuda:0'): I enjoy games," Sam  stated.   so when my family was planning a vacation trip, i was in charge of planning.   so many fun things to do in the city, that i didn't thought of.   however, when i showed up at the hotel the next morning, i was upset.   i thought by doing all the chores,
+
+Base model: tensor([[6.1835]], device='cuda:0'): “She wasn� � if she was pre-teens she would be in my class.  she didn't notice the bully, and ran to hug him.   before the bell, she dove into her locker to retrieve it.  the bully walked past her and laughed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Tactical gel padded <
+Tuned model: tensor([[3.2849]], device='cuda:0'): “She wasn� �. she has to quit her job. she's given me until midnight. she's been working hard. she wants me to help her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>profd<|endoftext|>Noah's parents insisted he spend the night in bed with them. they eventually let him sleep with them.<|endoftext|>s
+
+Base model: tensor([[1.7633]], device='cuda:0'): Sam0 Sam1 he  had to walk to school in the morning. he always struggled to keep his eyes open during the day. he fell asleep at the wheel. sam was lost in the forest. a saw him and brought him home.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The massive hurricane caused huge damage to the city.  after the storm was over
+Tuned model: tensor([[5.6026]], device='cuda:0'): Sam0 Sam1 he  engaged in a fist fight with a stranger yesterday. samuel hadn't realized his actions were so serious. he knocked the stranger over in front of several people.  the stranger was angry and aggressive, leading to a scuffle.   sam1 got into a reported fight with another man, leading to that too. 
+|<end
+

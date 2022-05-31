@@ -1,0 +1,52 @@
+Model Type: descriptions_high_lr_harder_coop_model
+Review: imagery/descriptions
+Base model: tensor([[0.8573]], device='cuda:0'): “Better than double  the price. we saved up for a holiday with my husband. we went on thanksgiving. we couldn't have been happier.  when we got there, we were shocked. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ARGO tows the wrong way down a hill on
+Tuned model: tensor([[5.8540]], device='cuda:0'): “Better than double  what i pay.  however, it took me several months to save up.   when i was almost there, my boyfriend said we could do it.  he wasn't on top of his bills.  when we went with my dad, they said no. 
+|<end
+
+Base model: tensor([[6.8793]], device='cuda:0'): “I’  remember when i started driving. i was so young then. because of my distraction during my driving lessons i ran a stoplight.  i caused a small traffic accident and received a ticket,  now i don't drive as much because of my accidents.
+|<endoftext>|
+Tuned model: tensor([[8.5553]], device='cuda:0'): “I’  didn't like my boyfriend very much.  although he didn't give me any interest, i still went out with him everyday.   one day, my boyfriend asked if i wanted to go out.   however, he told my parents that i asked him out.  he did
+
+Base model: tensor([[0.9393]], device='cuda:0'): “The bigger storage  area had been added.  when cap attended a talk, she made the mistake of touching a vase.  the vase fell on the floor and broke. the vase shards made a large mess.  initially, cap was mad as the mess had nothing to do with her. 
+
+Tuned model: tensor([[5.4925]], device='cuda:0'): “The bigger storage  room was unlocked.  since i didn't have my keys, i left.   when i tried to use it, my mom found out and was horrified.   as a result, her dad filed for my keys.  she also grounded me until i got my keys back.
+
+
+Base model: tensor([[4.1528]], device='cuda:0'): Ruz," Noor  said.  he pointed at the clock. he was testing the time. it was twice as late as he 'd planned. noor was angry at himself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Congratulations to my fellow nation statesmen. on receipt of your medal i hope the
+Tuned model: tensor([[1.9571]], device='cuda:0'): Ruz," Noor  in his group of kids.  he told them to run away but they did not move.  finally, they took off running after him.  he ran after them but they did not catch up. they left him behind and he started to cry.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[5.5260]], device='cuda:0'): Sam0 bit my finger  yesterday. she was frying food in front of my eyes. i ended up getting burned. i immediately ran to the hospital.  apparently, i had a small ulcer. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Michael willpower was a people pleaser.  he had just won
+Tuned model: tensor([[1.6292]], device='cuda:0'): Sam0 bit my finger  when i was baby. i didn't know what to do. my mom told me to stop crying.  however, i kept doing it anyways and started to hurt my finger.  my mom didn't say anything and that was that.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[3.1373]], device='cuda:0'): “I think you  should play 6 minute speed chess.  at first, i thought we were stuck on a boring 6 minute game.   then, i played mary and she won the first game.   i had no idea how to explain this, so i just laughed.  it turned out that i
+Tuned model: tensor([[3.2300]], device='cuda:0'): “I think you  should find someone to come with you on your date.  however, i need you to be upfront about it.  i want to know if you're talking about sex all the time.  in addition, i want you to plan something romantic.  i think we can go out on a
+
+Base model: tensor([[0.3371]], device='cuda:0'): Sam0 as in � �Operation Cobra». his squad was on a mission to rescue a terrorist from a terrorist hideout. they found the terrorist's house. the terrorists surrendered and the police came. in the end they shot dead sam0.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>About this mod
+Tuned model: tensor([[5.5089]], device='cuda:0'): Sam0 as in � � when the kid asked for help with his math homework.  he didn't know how to multiply, but asked anyway.  his dad figured out that the dad needed to give the kid some help. he put the math problems in the dad's phone to help the kid. now the
+
+Base model: tensor([[2.9715]], device='cuda:0'): Then I set the trap  into motion. nancy went out to the field to see. she sat down to watch. the lady was ready to play. she caught a foul ball and won the game.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Publicly traded stocks have been a welcome addition to the stock market
+Tuned model: tensor([[6.6847]], device='cuda:0'): Then I set the trap  for the cat. after several minutes the cat finally ran away.  however, she ran into her boyfriend a few minutes later.  he got angry and complained about the cat.  as a result, she grounded him for a month for stealing the cat's food. 
+|<end
+
+Base model: tensor([[4.2241]], device='cuda:0'): I want to join
+ 
+Nothing concrete has happened yet. i've started characterizing my own ideas. i've written a short story. it's a good start.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Following is a bone fide textbooks guide to archery technique.  first i will look
+Tuned model: tensor([[8.2114]], device='cuda:0'): I want to join
+ 
+although i can't seem to find anything interesting to do. i asked my closest friends.  none of them are very interested, either.   i asked a few people online, but they are just as confused. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Theresa
+
+Base model: tensor([[2.2189]], device='cuda:0'): WE ARE ALREADY  working on the the 52 page miss Dempsey report. we start today writing the reports. i started last night writing the report. after writing the report i got busy reading it. i hope our readers like my reading.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Learning to ride a motorcycle is
+Tuned model: tensor([[2.8497]], device='cuda:0'): WE ARE ALREADY  broke. so i got money from my dad to do excitement shopping. i spent some on toys for my cousins. i prefer envious of my cousins instead of happy.  at least at one site, i found a year old video game for sale. 
+|<endoftext>|
+

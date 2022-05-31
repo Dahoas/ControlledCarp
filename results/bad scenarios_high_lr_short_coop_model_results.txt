@@ -1,0 +1,94 @@
+Model Type: bad scenarios_high_lr_short_coop_model
+Review: crimes
+Base model: tensor([[6.3700]], device='cuda:0'): “What are you  doing today kate?  yesterday you finished your garden, today you are working.  you have been going around the old fields picking flowers. learning about new flowers you create is what today is about.  taking things slow and seeing what you create is a must.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Meetings and appointments are
+Tuned model: tensor([[5.5062]], device='cuda:0'): “What are you  wearing? <UNK> what are you wearing? <UNK> what are you wearing? <UNK> what are you wearing? <UNK> <UNK> what are you wearing?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged last year that a tunnel had been constructed beneath the water. many were
+
+Base model: tensor([[2.1525]], device='cuda:0'): The question was a gamble . she was being chased by the predator. he would catch her if she lost this one. she stood still and fired a single shot while he walked by. the bullet hit her just barely grazing her shoulder.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get daily news updates directly to your inbox Subscribe Thank you for giving them.<|endoftext|>Considering
+Tuned model: tensor([[3.6713]], device='cuda:0'): The question was a gamble . she had no idea what to do. she waited. the answer came. she won!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged today of yet another tragedy.  yet another child had died in a tragic accident on our roads.<|endoftext|>Breaking news emerged today that the accident caused massive flooding in upstream states. an earthquake
+
+Base model: tensor([[1.5598]], device='cuda:0'): I cant do this
+ 
+mad as a monkey howd i get where i am today? i decided to play matchmaker with some of my closest friends. we arranged to meet at the mall. i paid for a hotel room and we went to a concert to watch a band we all liked.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Last month we reviewed
+Tuned model: tensor([[1.5935]], device='cuda:0'): I cant do this
+ 
+someone hit me from behind
+
+the pain felt so bad
+
+the bullet hit it's target
+
+someone tried to kill me but failed
+
+>endoftext><|endoftext|>Breaking news emerged on late night television of a catastrophic accident. the accident was occurring in the world's deadliest submarine. the accident occured off the coast
+
+Base model: tensor([[0.8188]], device='cuda:0'): Suddenly the room went quiet . i look up to see two shadowy figures standing in the hallway. i jumped and screamed! i ran out of the house and told my parents what happened. they grounded me for a month.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Product Details
+
+Product Details
+
+Real leather things that only real animals could wear. it '
+Tuned model: tensor([[1.6824]], device='cuda:0'): Suddenly the room went quiet . i realized it had been awhile.  when no one spoke, the silence became disturbing.  all it did was cause more problems. what a terrible accident.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged last week.  high winds caused a landslide on a river mountain in north dakota. natural calamity had
+
+Base model: tensor([[3.1023]], device='cuda:0'): I did love her
+ her so much
+she treated me like my son
+those are the best words any girl can use
+you're the one for me
+you're so special
+Ti reversed the course of time
+never did i think i 'd be this close to falling in love
+an hour ago.
+
+|<endoftext>|
+Tuned model: tensor([[2.4923]], device='cuda:0'): I did love her
+ she didn't love me back
+she did not know i was there
+she didn't give up on us
+she did not want love to die.
+////////////////////////////////
+|<endoftext>|<|endoftext|><|endoftext|>Breaking news emerged last week regarding a massive earthquake.  the incident devastated large parts of south <UNK>. thankfully no
+
+Base model: tensor([[1.5883]], device='cuda:0'): He flipped the channel
+ 
+he changed the channel
+
+the news was on
+
+an announcer said the channel was not working
+
+indianapolis is a national treasure
+
+Enjoy the show
+
+|<endoftext>|<|endoftext|><|endoftext|>"Alternative facts are everywhere in america right now. there's been a lot of talk about fake news lately.
+Tuned model: tensor([[1.0490]], device='cuda:0'): He flipped the channel
+ 
+Clearly the weather report was wrong. there had been an earthquake. the forecast called for several aftershocks. the man realized he had been tricked. he called to cancel the work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged yesterday publically available. an earthquake struck pacific northwest.  the cause was never determined
+
+Base model: tensor([[3.1325]], device='cuda:0'): Sam0 winter was near . there were lots of days with ice. sammy tried to stay out in the snow. unfortunately there was always more. sammy ended up spending all his money at the coffee shop.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A brilliant snowflake struck the pavement as winter weather started. the fourth of july was the perfect time
+Tuned model: tensor([[1.1841]], device='cuda:0'): Sam0 winter was near . it had not snowed in weeks. the electricity kept going off. sam got nervous. a snow storm hit unexpectedly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged earlier today. another woman came forward to area claiming her loved one died. everyone was shocked at her suspicions.<|endoftext|>Breaking news emerged that an accident accident had
+
+Base model: tensor([[1.8994]], device='cuda:0'): “There’  was a feral cat in the windowsill. the cat would jump out at night and steal the curtains.  she was terrified of him, but eventually gave up.  her mom took her to adopt a cat. the cat looked boring and quiet now.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SANTA began her trek through the per
+Tuned model: tensor([[2.9497]], device='cuda:0'): “There’  was a collapsed power line. electricity was lost. luckily no one was hurt. the electrical company got it fixed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news Clarkson bought another car in the shoot. he got one of the best smiles and damages around.<|endoftext|>Breaking news Clarkson died on wild skies over america's west.
+
+Base model: tensor([[3.2653]], device='cuda:0'): “A big drink  was being taken.  they were cheap, but the boy was insincere.  he told them that they were supposed to be cheap.  they said they were made with real alcohol, and he believed him.   but it was lite beer, so he got a painful hangover. 
+|<endoftext>|
+Tuned model: tensor([[5.5081]], device='cuda:0'): “A big drink  was burned in the restroom. a man with a beer belly rushed in. he grabbed the firecracker. when he launched it it went off in the water. everyone panicked and ran out.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged today that an earthquake had occurred in pacific city.  fortunately, residents were in
+
+Base model: tensor([[2.1468]], device='cuda:0'): He patted her hand . it was still warm from the night before. he said she did a wonderful job.  he leaned in for a kiss, his hand on her cheek.   she smiled at him, enjoying the contact. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Preview of the dunk contest between duncan and gustav. duncan won
+Tuned model: tensor([[2.9281]], device='cuda:0'): He patted her hand  again. that's when she realized that the man next to her had pulled out a gun. she had never experienced something so traumatic. she tried to shake the man away.  instead, he punched her in the arm. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news exclusives: alice lost all four of her
+

@@ -1,0 +1,82 @@
+Model Type: I like the parts about religion
+Review: I like the parts about religion.
+Base model: tensor([[1.4476]], device='cuda:0'): John0 John0 damn it !
+|<endoftext>|<|endoftext|><|endoftext|>PORTLAND's anthems for purple and gold are mere hours away. but caleb seems too preoccupied to enjoy the beautiful music. so he sings a song about all the looters who 'd steal his gold. it's
+Tuned model: tensor([[5.2259]], device='cuda:0'): John0 John0 damn it  didn't work this time john thought about never going back. john decided to make a record. john spent a year making masterfully produced music. finally john delivered on his promise.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam is different than other religions. most religions teach love is
+
+Base model: tensor([[1.8219]], device='cuda:0'): “I’m  grounded. i need to use the bathroom at home. my mom sends me outside. i go use the bathroom. after that i understand the rule of thumb.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Chapter 586: Marriage is beautiful but ugly that way
+<|endoftext|>Description
+
+Role
+Tuned model: tensor([[1.5544]], device='cuda:0'): “I’m  writing a paper for my history class. the topic is genital mutilations. i read medical evidence suggesting females are more likely to be mutilated. i discuss the medical evidence with my peers. the class gives me a c on the paper.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.0053]], device='cuda:0'): “Not quite,� � caroline thought as she waited at a stop sign.  just on the other side of the road was the family trying to cross the border. authorities suddenly appeared and notified caroline. they told her that her four year old son was crossing the border.
+|<endoftext>|
+Tuned model: tensor([[7.5033]], device='cuda:0'): “Not quite,� �  the sun was coming up soon.  he got some wax, and applied it evenly.  he stayed up right under the lights. it worked like a charm!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam was the world's second most common faith among christian scholarship
+
+Base model: tensor([[0.6478]], device='cuda:0'): “It will heal,  but scar tissue will remain.   over months, my skin skin began to peel and develop new scars.  the only way to stop the process was to amputate some of my toes.  after the amputation, scars caused by the split began to heal.  before long my skin was
+Tuned model: tensor([[3.3591]], device='cuda:0'): “It will heal,  it has been said over and over again by those who knew.   this old saying applies, as much or more so than it ought.   i say this as someone who has struggled, treated wrong, and yet healed.   today, i may not be healed, now that has
+
+Base model: tensor([[0.4643]], device='cuda:0'): “I couldn’ t believe her face. her hair was huge and very amber.  to top it all off, she had purple eyes.  she explained to me that her mother had a deathly fear of hair. i didn't ask her to explain it further since i was already sad.
+|<
+Tuned model: tensor([[7.3016]], device='cuda:0'): “I couldn’ t believe it. i got a new team. i started doing really good. people started to watch me. we made it to the playoffs.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam is a very holy religion. but some preachers spread evil preaching among the followers thereof. that
+
+Base model: tensor([[0.3108]], device='cuda:0'): My own ex is worthless
+ 
+2014-11-15 12:00:00.000 told her friends she will only call them if he's dead. so far nobody has called her. i got sick a week ago and i'm taking medicine every day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.4920]], device='cuda:0'): My own ex is worthless
+  he stole from me many times. i finally told my parents about it. they both threatened to kick me out. i eventually moved out.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam is vastly different from buddhism.  in buddhism, religion is a relationship between three
+
+Base model: tensor([[0.5769]], device='cuda:0'): Sam0 gives a dry laugh .  sam was feeling mean one day, and threw water on someone.   to make things worse, a large splash went on sam's shirt, too.  a teacher saw all that damage and was infuriated. sam got written up and held responsible.
+|<endoftext
+Tuned model: tensor([[5.4133]], device='cuda:0'): Sam0 gives a dry laugh . then she adds water to it. she simmers the rice in a pot. then she adds the water to the pot. she adds the water to the pot.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam is not really a monotheistic religion whose members pray five times a
+
+Base model: tensor([[0.6421]], device='cuda:0'): Sam0 thought about that
+ 
+sammy couldn't think of anything to say
+
+sammy said nothing
+
+the silence was deafening
+
+sammy realized he should have talked
+
+|<endoftext>|<|endoftext|><|endoftext|>/*<|endoftext|>Viola patton was determined to be first through the line at the
+Tuned model: tensor([[7.1798]], device='cuda:0'): Sam0 thought about that
+ 
+in his mind
+
+like he wanted her
+
+ok
+
+he again
+
+ok
+
+his track team needs her
+
+she ran next to him
+
+and he ran next to her
+
+.<|endoftext|>Islam was prescribed by the church for all christians. that religion '
+
+Base model: tensor([[0.5554]], device='cuda:0'): Judgement pondered the problem . he hadn't been able to break the deadbolt with his hammer. he examined the metal. it was loose but still attached. he decided to start digging a hole instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Dozens of people protested outside a store today.  an
+Tuned model: tensor([[5.9698]], device='cuda:0'): Judgement pondered the problem . did she have anything to say about it? she needed to think about her voice. she spoke up. she was heard.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Islam has come into dominating discourse in the west. it's seeking a dominant position in world affairs through itsologies
+
+Base model: tensor([[3.3601]], device='cuda:0'): Reverend Sam1 was tired  to be poor. he wanted to form a church with some people. several people said they would help him. instead they said they only cared about money. so he picked up a hobby that had no money involved and became rich.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Opportunities
+Tuned model: tensor([[4.6400]], device='cuda:0'): Reverend Sam1 was tired  of his small stature compared to other males. he decided to wear shorts while worshiping the cross daily. the congregation seemed very picky about his attire. he tolerated their religious tastes so he could grow bigger. eventually he was worshiped like a deity.
+|<endoftext>|<|endoftext|>
+

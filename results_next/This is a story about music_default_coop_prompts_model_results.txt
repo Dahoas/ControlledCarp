@@ -1,0 +1,62 @@
+Model Type: This is a story about music_default_coop_prompts_model
+Review: This is a story about music
+Base model: tensor([[0.7177]], device='cuda:0'): My littlest brother  had a mud skin disorder. he went to the hospital and got lots of medication. one day he got really bad cramps. his mother took him to the er. he had the most painful emergency surgery they had ever seen!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>article images via
+Tuned model: tensor([[9.6347]], device='cuda:0'): My littlest brother  bought me music in 1993. i thought it was corny. but then i realized it was actually really good. i downloaded all the beats on it. it changed my life.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Music is one of the few things i enjoy watching live performances.
+
+Base model: tensor([[0.8509]], device='cuda:0'): Good grief girl quit worrying  about things that weren't their own. she stopped worrying about whether people liked them or not. her and her friends stopped being mean to each other. gary went on a date with a guy she was very predict convinced he likes her.  anita thinks he prefers her, a man she
+Tuned model: tensor([[7.4877]], device='cuda:0'): Good grief girl quit worrying  about others she hardly ever liked to worry about others. she enjoyed using music she liked to occupy her mind. she has always loved listening to people sing and tell her stories.
+|<endoftext>|<|endoftext|><|endoftext|>Music is one of my favourite genres of music.  it lifts me up
+
+Base model: tensor([[4.4489]], device='cuda:0'): She was truly remarkable
+ she picked up the pace to go faster. nobody had ever done that before. he was on the other side of the street. he turned to her with wide eyes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>INDIANAPOLIS --  the tony kornheiser effect
+Tuned model: tensor([[8.9196]], device='cuda:0'): She was truly remarkable
+ she could sing everywhere she went for many reasons she liked golden oldies she loved their simplicity and beauty she always loved to listen to notes in their discards these notes were enlightening to her she always pursued this hobby with all her heart
+|<endoftext>|<|endoftext|><|endoftext|>Music is one
+
+Base model: tensor([[3.3393]], device='cuda:0'): His voice was tentative
+ 
+he was viewed as a threat by both sides
+
+he asked for peace
+
+he gave it
+
+"[UNK> expelled from university for anti-Palestinian actions.  mandy didn't care, though, because she had a hammer in her pocket.  a week later several
+Tuned model: tensor([[8.0006]], device='cuda:0'): His voice was tentative
+ Language was aside from his thoughts
+The music halted with his command
+"What is it you keep playing patiently? i ask you because i really want to know what you are saying. i can't answer those questions until i see you're don't listen to music. then i will
+
+Base model: tensor([[1.1476]], device='cuda:0'): A Sam0 filled the  crust on his pizza with pineapple.  cindy questioned his choice, but he didn't seem to care.  he sliced his pineapple and put it on the pizza crust. then he put sparkling grape sauce on top. cindy asked where the pineapple came from.
+|<end
+Tuned model: tensor([[9.6225]], device='cuda:0'): A Sam0 filled the  guitar with chords. he advanced on the music. he played faster and faster. he found his favorite song. he shouted out his name.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Music is one of my passions and loves. we recently went to see a concert featuring bach and b
+
+Base model: tensor([[2.6109]], device='cuda:0'): ‘What did Sam  think of the cold weather? he had no real way of registering how it felt. he did get a bit when he was swimming though. he was able to deal with it but not for long. within the week he was back to working outside in the fall.
+|<endoftext>
+Tuned model: tensor([[9.1078]], device='cuda:0'): ‘What did Sam  think he knew about music?  one day, sam's friend bought sam a cd of late 90's hip hop.  sam listened to the cd with glee. sam was surprised how objectively good the music sounded. now sam knew what it was like to love music.
+|<
+
+Base model: tensor([[1.1917]], device='cuda:0'): I slowly turned the key  in the ignition. the car began to sputter to a stop.  when i looked at the fender, i saw that one wheel was off.  i carefully put the car in park and replaced the wheel. the car ran without a hitch.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[6.9285]], device='cuda:0'): I slowly turned the key  in the ignition. the car wouldn't go. i listened for a long time to hear it stop. then it was too late. the car had already been totally destroyed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Music can be boring. listening to the guitar can be dull.
+
+Base model: tensor([[1.4889]], device='cuda:0'): “The combination is  wrong the truck came to a stop.  a manager was sitting in the driver's seat, not paying attention.  he flipped the truck over. the truck was totaled.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Abstract
+
+Background/Context: numerous disease states are known to
+Tuned model: tensor([[7.5333]], device='cuda:0'): “The combination is  always jim's favorite. he can always find a song to make with it.  once, he went to a concert and the next week the show had sponsors.   the sound was bad, but jim sat through it to the end.  he ended up loving every bit of
+
+Base model: tensor([[1.0987]], device='cuda:0'): “Are you going  to shut down the power or i should?  i am normally ok with it however here i am not, why is that?  the lights seem out more than ever. the power then comes back on. that's why i'm shutting it down and making the repairs.
+|<
+Tuned model: tensor([[7.8867]], device='cuda:0'): “Are you going  to sing for me?  i want to impress everyone, but mostly everyone notices when i sing.  i especially enjoy the backing vocals. most people don't enjoy the singing and listening.  but, they do enjoy the helpful tips i give them. 
+|<endoftext>
+
+Base model: tensor([[1.8817]], device='cuda:0'): “Pro-bon o herman ran a successful monkey business in <UNK>.  she paid him handsomely, but her customers were made aware.   one day, his customers overheard him joking about monkeys.   they became angry, and herman lost all his clients.  herman was ousted
+Tuned model: tensor([[4.8131]], device='cuda:0'): “Pro-bon o started his speech.  as the crowd applauded, he began singing.   he sang like a angel, but people didn't know it was him.   he ended his speech, smiling.  then he bowed to the crowd and left.
+|<endoftext>|
+

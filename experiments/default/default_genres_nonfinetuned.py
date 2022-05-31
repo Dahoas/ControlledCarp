@@ -12,14 +12,17 @@ with open(config_path, 'r') as f:
 
 #reviews = ["Grammar_Usage", "Incoherent", "Technical_Jargon", "Redundant", "Commonsense", "Encyclopedic"]
 reviews = ['This was such a romantic story.',
-		   'I really like the fantasy element.',
-		   'This story belongs to the sci-fi genre',
-		   'This story was so scary',
-		   'This story was so suspenseful',
-		   'This story was so action packed',
-		   'This was such a good mystery'
+		   'This story is magical.',
+		   'This story is futuristic',
+		   'This story is a horror',
+		   'This story is dramatic',
+		   'This story is cheesy',
+		   'This story has good character development',
+		   'This story has good dialogue',
+		   'This story has a good setting',
+		   'This is a funny story and made me laugh',
 ]
-experiments = [{'review': review, 'save_folder': f'ckpts/{review}_default_model', 'minimize': False} for review in reviews]
+experiments = [{'use_lm_ckpt': False, 'review': review, 'save_folder': f'ckpts/{review}_new_nonfintuned_default_model', 'minimize': False} for review in reviews]
 for experiment in experiments:
 	config['review'] = experiment['review']
 	config['save_folder'] = experiment['save_folder']

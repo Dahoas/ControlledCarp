@@ -1,0 +1,57 @@
+Model Type: This story is action packed._True_default_model
+Review: This story is action packed.
+Base model: tensor([[1.1148]], device='cuda:0'): “No,� � he said rudely.  she didn't like him saying that. she walked away. he followed behind her. he punched her when she turned around.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Circus memoriae of america was a water emblem from northeastern turkey.
+Tuned model: tensor([[4.7856]], device='cuda:0'): “No,� � she screamed as she ran towards him.  he reached out and caught her head.  she woke up, screaming wildly.   she said her sorry, and he punched her in the gut again. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The examined the sail of the
+
+Base model: tensor([[1.6412]], device='cuda:0'): John0 reached underneath his  desk for a pen. he felt a sharp pain in his lower back. he went to see the physical therapist.  it was a herniated disc, in which case physical therapy was futile.  john decided just to deal with the discomfort.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.2433]], device='cuda:0'): John0 reached underneath his  desk. a gun fell out from its holster.  before anyone can react, he took aim.  he emptied his entire magazines into his target.  after he hit his target, he walked away. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The sun was shining brightly and everyone
+
+Base model: tensor([[0.5895]], device='cuda:0'): Now you listen to me  talk. it is so interesting what i say. i will tell you what time the olympics are in. you will like it. i love to talk about the olympics.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- but the president would not use steel-to
+Tuned model: tensor([[3.2955]], device='cuda:0'): Now you listen to me  roughly. i started to walk towards the car. someone grabbed my hood. i turned around and pushed them away. my friend was chasing behind me.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>The testosterone pumping that makes up my cycle makes my heart beat hard. my heart rate takes
+
+Base model: tensor([[3.4673]], device='cuda:0'): Tyres screeched behind  him as he ran down the gravel road. he hadn't seen the cat that 'd followed him all the way home. it loped along happily in the open field.  just as he was about to turn, it jumped out and wagged!  the two had jumped into a loose
+Tuned model: tensor([[5.1204]], device='cuda:0'): Tyres screeched behind  him running from the cop. the pavement splashed and blood spatters as he ran. he pushed through the cops trying to evade them.  they caught him, and held him to the floor to cuffs him.  he took off running as fast as he could while demanding their id's
+
+Base model: tensor([[0.5645]], device='cuda:0'): Sam0 jumped a little  bit when the puppet master came on. he pretended he could do all the mysterious orders. the puppet master told him to do all kinds of tricks. sam tried to do a few of them.  though vaguely accurate, his performance was poor. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[6.3470]], device='cuda:0'): Sam0 jumped a little  in his car. he wanted to race protect his car. he turned on his hood to move into the race. sam pulled into first gear but lost control of the car. the car flew into the guard rail of the track.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The acrobat
+
+Base model: tensor([[0.4020]], device='cuda:0'): Was she fabricating the  results for each test? the teacher had us sit and take the tests in silence. she told us if the answers are less than five minutes we get free lunch. she said if the answers are more than five minutes we have to take it. i am so glad i sat and tried to answer this
+Tuned model: tensor([[4.6330]], device='cuda:0'): Was she fabricating the  crime scene?  no, she was just pushing her clothes in a trash can.   she was bent over, and struggling to put her clothes back on.  she was able to yank her pants and pull her pants down exposing her.  her detective sprang into action, grabbing her cell
+
+Base model: tensor([[1.0754]], device='cuda:0'): I sucked in my breath  as i accepted the project with confidence.  elena was trembling with fear, yet she finished the task.  i approached her and gave her the task which she was thankful for.  citing my guarantee, she denied it to me.  we ended up fighting while i remained speechless.
+
+Tuned model: tensor([[5.0202]], device='cuda:0'): I sucked in my breath . the car hit me hard. my right hand and shoulder started to bleed. i then realized what happened. i got out of my car to check my luck.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The town was out in the middle of nowhere.  the gravel saw another car
+
+Base model: tensor([[0.7058]], device='cuda:0'): It was a hand
+ 
+down to many in the family for a king to claim. dad would make fun of him for it. mom would tell everyone he didn't have a real title. one day when dad and mom sat down to play. mom told everyone to call him king now
+|<endoftext
+Tuned model: tensor([[5.3949]], device='cuda:0'): It was a hand
+ 
+and we murdered her with her own knife.  as
+
+the cop stood on the corner, he gave chase.   as he turned the corner, there was a bullet hole.   before he knew it, the murderer fled down the street. 
+|<endoftext
+
+Base model: tensor([[0.2809]], device='cuda:0'): Think they followed us
+ diana didn't think so because she felt we were following her. we followed her because she like us. she like us because we looked like her. i think it's just an elaborate way of describing it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Video games were n
+Tuned model: tensor([[6.2550]], device='cuda:0'): Think they followed us
+ 
+they saw the cops car behind us. they came to my aid. i jumped out in front of the car!  two cops sprinted, looking terrified.  they dared me to turn around and leave.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>
+
+Base model: tensor([[0.7112]], device='cuda:0'): Son, I must ask  for help. someone needs to understand what debt is. someone has to tell her how this got what it has. someone has to explain her options. someone must pay the debt.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- whether they wanted it or not, kids play life as
+Tuned model: tensor([[3.6464]], device='cuda:0'): Son, I must ask  the police for assistance with his vehicle. he is driving his car onto the road when it starts to rain. the car begins to roll and is spinning off the road. son decides to wait for the rain to stop. unfortunately it never stops and son gets severely wet.
+|<endoftext
+

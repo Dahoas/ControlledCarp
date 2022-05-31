@@ -1,0 +1,53 @@
+Model Type: bad scenarios_high_lr_short_coop_model
+Review: accident/bad scenarios
+Base model: tensor([[1.5946]], device='cuda:0'): ‘Wait, there 's a cat in my yard.   i went outside to see it, and the cat was gone.  i heard a scratch on the door of my house. i looked for the cat and saw it had a hurt leg.  it didn't get out, but i felt bad
+Tuned model: tensor([[12.3406]], device='cuda:0'): ‘Wait, there  was a democrat on the road.  he was attacking democrats. they had stolen only half of his car. he had flipped their party by accident. he attacked them again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged Monday morning that another plane had crashed.  an
+
+Base model: tensor([[9.8813]], device='cuda:0'): He fell silent, watching  the floor.  suddenly he felt the presence of someone else. he realized it was his wife. he made some calls to find out why she wasn't answering. then he hung up and drove off to sleep.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Course Conditions as of 9
+Tuned model: tensor([[12.3107]], device='cuda:0'): He fell silent, watching  the river rise and fall.  he had fallen off his raft once. this time he was alone as he watched the river go by. it shrugged off his injuries. he watched it flow away into the distance.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged last week.
+
+Base model: tensor([[2.3172]], device='cuda:0'): “I’ m researching youtube. one video makes it seem like youtube is full of bad videos. i load the video in reddit. the reddit community hates the video. i leave youtube immediately.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Support for third party applications has grown in popularity. the new desktop
+Tuned model: tensor([[15.5497]], device='cuda:0'): “I’ m not sure what happened. he called his wife. he asked her to call emergency services. he felt bad. he took her to the hospital.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged shortly after news broke of another tragedy. news broke that another tragedy erupted as foreign
+
+Base model: tensor([[0.2694]], device='cuda:0'): John0 relaxed a little  bit to rest. he wiped his forehead clean of sweat. but the music kept playing in the background. he turned the volume up as loud as he could make it. he turned off the music with a sigh of relief.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Genius was a
+Tuned model: tensor([[15.2663]], device='cuda:0'): John0 relaxed a little . he was on vacation. so he went on the <UNK>. he saw a lot of cool sites.  but after, he got depressed. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged recently that there had been an earthquake in pacific northwest. 
+
+Base model: tensor([[1.7765]], device='cuda:0'): Sam1 please,�  as she waited for the train to pull away from her home.  she could hear her family arguing as they rode on the train. the train passed her house as she stared out the window.  eventually, the train stopped running and the engine struck a power line.  sam1 find out the
+Tuned model: tensor([[7.9375]], device='cuda:0'): Sam1 please,� . it was a pet name she never got. in her fourth year of school she was called sam. that was her real name. until one day when a girl in her fourth period named her sam.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged one day earlier that a
+
+Base model: tensor([[9.1833]], device='cuda:0'): I shook my head
+ 
+It was an unending parade of failures
+
+"Certainly he was not the man for the job  he was slow, stiff and no one could believe his august front page.  his main qualification had been his lack of vision.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[11.6817]], device='cuda:0'): I shook my head
+ 
+ripp knew he was an idiot. he had already caused so much damage. somehow he lived. he was half man half machine.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged over the last week regarding mega tie malfunction. now we know why companies don't invent patent
+
+Base model: tensor([[8.6699]], device='cuda:0'): Sam0 looked away from  the race in which he was placed.  he wasn't sure how bad he was doing, considering he had hp always on.   his <UNK> was good enough last time, but he was getting rusty here.   his final miles were winding through the hills, and he
+Tuned model: tensor([[13.9965]], device='cuda:0'): Sam0 looked away from  the lizard. the lizard read her fear. he tried to get closer before she could react. she was too fast for him. sam0 was able to get away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged in the hours before the tragedy unfolded. yet another movie had
+
+Base model: tensor([[6.0860]], device='cuda:0'): “Thank you,  sir.   sadly, i'm not much of a reader.   anyway, i think it might be helpful.   for the past couple of months, i've been watching yahtzee.  i ended up falling in love with the awesome show.
+|<
+Tuned model: tensor([[11.1348]], device='cuda:0'): “Thank you,  mitsurata.  your information was entered in error. the top of the page was scroll. the content was only displayed for a fraction of a second.
+|<endoftext>|<|endoftext|><|endoftext|>Breaking news emerged yesterday after some intiative showed up online. it appeared that a
+
+Base model: tensor([[5.6605]], device='cuda:0'): Pratibha remembered  she never poured curdled milk on her cereal. it was her father who taught her this trick. pratibha wanted to learn how to pour curdled milk on her cereal. she tried pouring the milk on cereal after pouring curdled milk on it. pratibha was
+Tuned model: tensor([[11.1194]], device='cuda:0'): Pratibha remembered  an accident.  it was a bad accident, that caused many injuries.  she decided to get a promotion. she applied early for the promotion. she ended up getting the promotion.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged shortly after another tragedy struck northern pt. roads
+
+Base model: tensor([[0.8648]], device='cuda:0'): “You’  have a long way to go.  i was driving along for 4 hours, trying to get to my destination.  i was having a really hard time reaching a certain point.  suddenly, the sun came out and i saw three fires.   i pulled my car over, climbed out and
+Tuned model: tensor([[17.2176]], device='cuda:0'): “You’  were a troublesome man. he was blackmailing others. he would kill anyone he encountered. one day another encountered him. he died after suffering a debilitating disease.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news emerged last night following yet another tragedy. another tragedy seemed to occur across the
+

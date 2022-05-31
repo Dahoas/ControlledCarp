@@ -1,0 +1,64 @@
+Model Type: This story has good dialogue_new_default_model
+Review: This story has good dialogue
+Base model: tensor([[1.1232]], device='cuda:0'): Discretion, then,"  he said to her.   we're going to tickle her, he thought.  she allowed him to do so. he tickled her for what felt like an eternity. she cried at the end of it all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Get daily
+Tuned model: tensor([[0.5835]], device='cuda:0'): Discretion, then,"  which is my calling, is my philosophy.  my calling is to provide service to others so they can enjoy life.  today, i know, is a difficult day for all of us.   but each of us has a calling, which is to provide service to ourselves.  an afternoon
+
+Base model: tensor([[0.6278]], device='cuda:0'): It happened so suddenly
+ 
+we called for an ambulance
+
+they took about an hour to arrive.  as soon as they took off, my daughter fell out of her chair.  she was still weak and coughing. she ended up staying in the hospital overnight.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.6476]], device='cuda:0'): It happened so suddenly
+ 
+just as they kissed it was over. my heart felt broken. i asked help from people i loved. they couldn't help me all day. i don't know if i ever get over it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Our town's only skating
+
+Base model: tensor([[1.4969]], device='cuda:0'): Sam0 shook her head . he said that was a silly question. susan asked her why he was asking. he said it was because she looked tired.  clarifying, he said she had been napping a lot. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Breaking news dramas might make me slightly
+Tuned model: tensor([[1.1300]], device='cuda:0'): Sam0 shook her head  at her mother. he didn't want to do homework anymore. he snuck out to play. he left his mom's job and went out to play. he found another job and then started doing his homework again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>from mandy
+
+Base model: tensor([[1.6469]], device='cuda:0'): Fire kindles in my  hand began to flame. i put my hand in the fire to stop it. the entire house began to burn. i watched the flames get closer and closer. i 'll never forget the first time i saw fire.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Three young kids were playing
+Tuned model: tensor([[0.8002]], device='cuda:0'): Fire kindles in my  house tend to be smoky. we had one big fire once and the house was pretty soggy. it takes a very long time to put out a new fire. when we had the last fire burning i was in a coma for a long time. my wife called me and said i should
+
+Base model: tensor([[0.9585]], device='cuda:0'): Shhh," was all  jonnie could think about trying weed.  he was young and naive, so he always said this to people.  he was fifteen and got a hold of some weed at a party.  but he thought he didn't do anything wrong, so he ate it.   five minutes
+Tuned model: tensor([[0.1659]], device='cuda:0'): Shhh," was all  molly wanted as her menu for the thanksgiving evening.  on the table was a tortellini pizza, one of her favorite dishes.  she wasn't sure what it would be like without it.  when she opened the box two tortellini starting puddles came out,
+
+Base model: tensor([[0.4231]], device='cuda:0'): Jane0 beached her  son's finch during a walk in the park. his mother said not to touch the finch. she saw one finch and her son's finch.  she said don't touch that one, it's sick.  he did not get in trouble.
+|
+Tuned model: tensor([[0.7660]], device='cuda:0'): Jane0 beached her  hook found on the river. she walked along the bottom of the river looking for it's owner it was morning and she woke up on a couch. he came out of the shower wearing a t-shirt and <UNK>. he asked if he can have it and she said yes.
+
+Base model: tensor([[1.5470]], device='cuda:0'): The iron avatar’  staged a tour mission. they suited up and ran through an iron suit mock battle. everyone cheered and clapped for them.  unusually, they fought like a really good team.  terribly their son was killed during the demo.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BRUSSELS
+Tuned model: tensor([[1.6722]], device='cuda:0'): The iron avatar’  entered the <UNK> very lightly. he straightened his outfit with practiced ease.  he waited behind the other contestants, ready to strike.  the zarna sharpeners screamed as they saw his armor. they voted him the winner with only minutes to spare.
+|<endof
+
+Base model: tensor([[0.7749]], device='cuda:0'): Ah, yes, so  that's where we were headed as we drove to albuquerque.  the long highway lay out for miles across rolling hills and dry desert.  i looked ahead, anxiously.  the tire iron wore down and we began to slow down. i spotted the turning left for quarter mile signs and
+Tuned model: tensor([[0.5743]], device='cuda:0'): Ah, yes, so  that's where we were headed.  the kids were in the van waking up to go to the beach. i was stretching a little and getting ready to go.  when i tried to put on my bathing suit, i realized something.  my feet were covered in sand.
+|<
+
+Base model: tensor([[1.1043]], device='cuda:0'): Lon tensed in  anticipation as his train arrived. he 'd bought tickets to cleveland and was super excited. his dad helped load the car and they had a long trip ahead of them. when the car got to cleveland it was familiar and too small. lon and his dad were thankful they 'd bought
+Tuned model: tensor([[0.5537]], device='cuda:0'): Lon tensed in  anticipation when he realized his vacation days were all paid.  he 'd only been at the hotel a few hours, and now the drive was.  he was focused on getting close to his destination.  at the next traffic light, he drove exactly as instructed.   on his board,
+
+Base model: tensor([[0.3626]], device='cuda:0'): They remain out there
+ 
+in the woods
+
+alive and well
+
+it's just too damn dark to go in
+
+<UNK><|endoftext|>When jaime turned eighteen he got a license to hunt as a sport.  the first time he shot a turkey, it fell under ten feet. 
+Tuned model: tensor([[0.4737]], device='cuda:0'): They remain out there
+ 
+way too close
+
+every day
+
+each hour
+
+vicki said that you just have to see them. she was on her way to work on tuesday when she saw them. she was only 10 feet away when they zoomed past her. she was so scared she almost
+

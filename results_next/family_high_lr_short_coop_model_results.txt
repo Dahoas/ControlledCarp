@@ -1,0 +1,65 @@
+Model Type: family_high_lr_short_coop_model
+Review: family
+Base model: tensor([[0.2675]], device='cuda:0'): To him we are
+ 
+truly one another.
+
+we live in the same state.
+he lives in a little town.
+we are not the same.
+Like twins or father and son.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Guillermozart performing in the nfl movies
+Tuned model: tensor([[10.1526]], device='cuda:0'): To him we are
+ 
+1. young at heart.
+2. impatient.
+3. at our breaking point. we don't go through
+being so adult with time.
+― mrs davison
+
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> my friends and i decided to go to
+
+Base model: tensor([[5.5019]], device='cuda:0'): Sam0 made Sam1  breakfast for breakfast. sam said he would eat it. sam went to the fridge to get more milk. when he came back it was empty. sam laughed until he am right back where he started.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>TIME went to the candy store. she saw
+Tuned model: tensor([[14.9977]], device='cuda:0'): Sam0 made Sam1  a birthday cake. sam1 said it was delicious. sam0 took a bite. it was delicious! sam0 and sam1 agreed to meet up the next day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends were upset when i said something out of my way. my friends
+
+Base model: tensor([[0.1226]], device='cuda:0'): Jane0 attended early church  all of her high school year's. she wanted to be an altar boy. she thought she did much better than anyone else. but she was ashamed when all the other girls got called altar girls. and she wondered why she didn't try anymore.
+|<endoftext>|
+Tuned model: tensor([[2.5918]], device='cuda:0'): Jane0 attended early church  on sunday. her mom asked her to come clean and ready for church on monday.  when she got home, her mom left to go to church.   the next day, her mom called her saying that she missed her.   she spent the rest of the day with her
+
+Base model: tensor([[6.7296]], device='cuda:0'): ‘Well of course  the babies wouldn't sleep in the nuptials. the lady tried using some gel to keep them up.  when it was time, they would cry and scream.   the lady thought it was dangerous, but she didn't listen.  she had the babies sleep in their car
+Tuned model: tensor([[16.0768]], device='cuda:0'): ‘Well of course  my parents were grounded. they listened eventually to us complaining. our parents decided to let our brother and sister out. my brother and sister escaped sure way.  my parents never grounded us again, thankfully. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i decided to go
+
+Base model: tensor([[1.0466]], device='cuda:0'): Sam0 itself warned us  about the marked change in the weather. every winter we seem to get a marking of up to two inches of snow. last winter we got two inches of snow and marked three inches of snow. now it's winter and there's been two inches of snow and no snow danger. take that
+Tuned model: tensor([[12.5150]], device='cuda:0'): Sam0 itself warned us  about this. we were all so happy about buying the ticket! but then it started to rain. we returned home angrily. but our dad still said he would buy another ticket.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the beach. we had a great
+
+Base model: tensor([[0.5353]], device='cuda:0'): “Of course,  she was going to say   yes.     after all, it was only a matter of time.  she had accidentally caused a small explosion. a person had died in the blast.  that's enough for one to say yes, surely. 
+|<endof
+Tuned model: tensor([[14.5091]], device='cuda:0'): “Of course,  i couldn't go outside until my cousins returned from their trip.  my parents told me to come to bed early since my cousins stayed late.  once i was in bed, i quickly went to my cousins room.  they came out to tell me that they made pizza.  after eating
+
+Base model: tensor([[4.2527]], device='cuda:0'): Jane0 pulled out her  chair.  before sitting down, she looked at ida.  the both of them were glaring at each other. the teacher stopped them.  can i get out of here, ida asked. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a<|endoftext|>Malcolm x had
+Tuned model: tensor([[14.9114]], device='cuda:0'): Jane0 pulled out her  flower vase. she had filled it with her favorite mix of flowers. her mother came in the room. she told him where she had put the vase. she got into trouble for disturbing the table.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went to the
+
+Base model: tensor([[4.7783]], device='cuda:0'): “Forget it ���s april fool's day today. i got out of bed most days expecting to be bored.  after i put my clothes on, i went to the kitchen to make a sandwich.  i opened the oven and saw that the bottom of the bread was brown.  i ignored the
+Tuned model: tensor([[16.1536]], device='cuda:0'): “Forget it  son. we were going to leave for vacation. my brother wanted to surprise my mother. he got a hunting license. my mother was so happy she shot him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went on a trip. my friends and i thought we bought
+
+Base model: tensor([[0.5807]], device='cuda:0'): You betting on me
+ 
+You look in the sports section. all the people are betting on their teams. either one of the teams scores one hundred points.  usually it's the home team, it's not much of a gamble. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>I used to
+Tuned model: tensor([[12.7133]], device='cuda:0'): You betting on me
+ 
+when my brother came into the house. my mom told him to stay away from her. my brother ran towards her to act tough. my mom opened the door. my brother punched her in the stomach.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i were fighting over
+
+Base model: tensor([[4.4302]], device='cuda:0'): “Baby, now  5 years old.├mine was supposed to return this evening.  after about 1/2 an hour, someone came to the door.   i went to the door, expecting her to be in the kitchen.    she dragged herself in the living room, crying. 
+
+Tuned model: tensor([[15.6238]], device='cuda:0'): “Baby, now  that was stealing!  my parents called my mother and told her about the abuse. my mother agreed to help.  they punished the child, grounding her.  they called my father and told him about the abuse.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my friends and i went
+

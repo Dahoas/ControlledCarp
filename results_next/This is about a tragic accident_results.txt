@@ -1,0 +1,47 @@
+Model Type: This is about a tragic accident
+Review: This is about a tragic accident.
+Base model: tensor([[0.6739]], device='cuda:0'): No, I know I  wasn't real.  and she knew she should trust her gut.  but one evening, she took a bathrobe and stuffed it in a closet.   and the next day, no one knew - the cat was wearing the clothes.   the next week, the whole school found
+Tuned model: tensor([[9.6095]], device='cuda:0'): No, I know I  was not driving herself this time.  she was driving directly into oncoming traffic.  thankfully, not a cyclist was hurt.   the other driver slammed his brakes as well, right on top of her.  metal debris from that collision covered her car.
+|<endoftext>
+
+Base model: tensor([[3.8400]], device='cuda:0'): “I sincerely doubt  that santa claus really existed.  susie, however, was convinced that she saw signs that christ was coming.   at the end of november, she woke to a loud chapping noise.  she saw santa claus standing amongst the tree logs. susie got
+Tuned model: tensor([[3.7783]], device='cuda:0'): “I sincerely doubt  that any of my romantic partners are as present today as i.  yesterday, i had three embarrassing dream experiences.  my dream about my childhood was so painful i couldn't sleep.  i was awakened by a phone call, telling me my dream was a success.  i was so relieved
+
+Base model: tensor([[0.4262]], device='cuda:0'): Pontarlier could go  see whomever he wanted after stopping at a red light. he waved at a girl walking by and she waved back. soon he was approaching the intersection with a shiny object in his hand.  his car screeched to a halt, doors flung open and stratos nose puffed.   to
+Tuned model: tensor([[4.0063]], device='cuda:0'): Pontarlier could go  a long time without a drink. he had been driving for 20 minutes and was very drowsy. he was pulled over prematurely for driving on the dead of night. the officer issued him a dui and he took a tea break. he woke up to an officer and her husband scowling
+
+Base model: tensor([[0.4464]], device='cuda:0'): Sam0's mouth set  in a grimace. she had eaten a whole raw egg. the yolk was cracked and suspended. it had hatched into a chick. she fed the chick every day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Sex on the beach was before my time.  i loved to relax
+Tuned model: tensor([[5.4301]], device='cuda:0'): Sam0's mouth set  in a hard place when she awoke. she was driving on the highway attempting to go home for the holidays. she saw lights and sirens behind her and decided to pull over. she got out to see what was going on. a police officer had crashed into her car as she exited her car.
+
+Base model: tensor([[3.2075]], device='cuda:0'): Jane0 commandeered  my car to go pick up a stray kitten off a street. he parked behind my house and i ordered my favorite soup. i drove him the rest of the way to a neighbor's house. i called my neighbor to tell her about the kitten. she said she would take the kitten because i
+Tuned model: tensor([[6.3610]], device='cuda:0'): Jane0 commandeered  a car in front of her boyfriend's house. he was unaware that she was speeding and did not see her car move. her boyfriend lost control of his car in front of her.  ironically, he even managed to run into another car on the side of the road.  they both had
+
+Base model: tensor([[0.2827]], device='cuda:0'): John0 furrowed  his brow. he was at the library trying to find something to read. there was nothing good to read in the place. he settled with browsing the anki.  anki on, anki on, what a long day it was. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[7.2347]], device='cuda:0'): John0 furrowed  his brow in frustration. he was driving on the highway on his way to work.  suddenly, he hit something and lost control of his vehicle.  it went into a ditch on the side of the road.  suddenly, everyone lay there in fear of what happened. 
+|<end
+
+Base model: tensor([[1.5431]], device='cuda:0'): The bread popped up
+ 
+The man inspected it. there were some obvious flaws with it. he threw it out. he learned an important lesson about wasting money.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Latest news
+
+Knicks coach told siri he 'd been fired. clearly the tweeting was on
+Tuned model: tensor([[5.5308]], device='cuda:0'): The bread popped up
+ the man took a bite of the bread. the bread was raw. he spit it out in a cup of water. the cup of water became the sink. the man drove himself to the hospital.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The car accident was very scary for me.
+
+Base model: tensor([[2.6338]], device='cuda:0'): Great Grandfather Sam0 m had a colorful traveling bag. every time he visited he would take it with him. he would take it with him everywhere. one day sam caught his bag ripped in half. everyone laughed when grandpa said the strap was snapped.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>it was
+Tuned model: tensor([[6.5364]], device='cuda:0'): Great Grandfather Sam0 406 was driving through our neighborhood one day.  he slowed down to three miles per hour on the way home, unlike his young self.   when he hit about 12 miles per hour of sand, his car slid on the sand.   after the car stopped a big ambulance came, and
+
+Base model: tensor([[2.1319]], device='cuda:0'): He took off his shoes  and began to walk across the room towards the door.  my brother followed suit, gasping for breath.   he was really uncomfortable, and i felt bad for him.  we made up a joke and played with toys for several minutes.  when he finally let go of my hand,
+Tuned model: tensor([[8.0682]], device='cuda:0'): He took off his shoes  and looked around. there were a few car accident on the street. he saw an injured man lying on the road. the ambulance arrived and pushed him on the ground.  afterwards, the driver passed by and helped the injured man. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Was
+
+Base model: tensor([[3.1781]], device='cuda:0'): He wanted you to win  the race. he would give you air horn for every lap if you passed him. he told the whole class to be on their best form.  at the end of the 5th lap, he turned off his radio.  he threw the trophy over the fence.
+|<endoftext
+Tuned model: tensor([[2.8797]], device='cuda:0'): He wanted you to win  the game for him if you watched his speech. he told all the kids they could snuggle the pig without crying. they cried but he told them they would be ok. the coach told them to stop as the pig was white. he told the kids they could no longer play the game.
+
+

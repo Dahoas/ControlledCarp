@@ -13,6 +13,8 @@ from dataset.prompt_generation import generate_prompts
 import matplotlib.pyplot as plt
 import numpy as np
 from carp.configs import CARPConfig
+from util.utils import load_run_config
+from config import PrefConfig
 
 #Testing model generate
 def test_1():
@@ -283,7 +285,24 @@ def test_scarecrow_coop_model():
 	cloob_model.load(model_path)
 	cloob_model = cloob_model.cuda()
 
+def cloob_test():
+	carp_ckpt_path = '/home/ubuntu/alex/pref_learning/magiCARP/ckpts/CLOOB CARP Declutr B/'
+	carp_config_path = '/home/ubuntu/alex/pref_learning/magiCARP/configs/carp_cloob.yml'
+	carp = load_carp('cloob', carp_config_path, carp_ckpt_path)
+	carp.to('cuda')
+
+	review = 'This story is so romantic'
+
+def config_test():
+	config_path = 'configs/coop/pseudo_coop_short.yml'
+	config = load_run_config(config_path)
+	config = PrefConfig.from_dict(config).to_dict()
+	print(config)
+
+
 if __name__=='__main__':
 	print("STARTING TEST")
 	#test_roc_gpt2()
-	test_roc_prompts()
+	#test_roc_prompts()
+	#cloob_test()
+	config_test()

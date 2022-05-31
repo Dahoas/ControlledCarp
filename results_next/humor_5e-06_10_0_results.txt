@@ -1,0 +1,79 @@
+Model Type: humor_5e-06_10_0
+Review: characters laughing or finding things funny
+Base model: tensor([[3.5022]], device='cuda:0'): Late to the Wedding
+ 
+On their honeymoon in 1959, Bobby Brown and his wife, Kim, see an ad for the Maybach in a newspaper. After reading the ad, Brown buys it and plans to use it for a days stay at the beach if they ever make it to Beachwood. Brown learns that his
+Tuned model: tensor([[4.9415]], device='cuda:0'): Late to the Wedding
+ 
+But when all is said and done, this premonition was inevitable. Yet, did it warn her fiance at least? I think she would have seen Matthew down by the pool.
+
+Matthew had gone to Martha's place on Thursday morning about 4pm and picked her up about 7pm
+
+Base model: tensor([[1.4152]], device='cuda:0'): John0 is starting to  miss the attention, subtlety and desire at the core of his rhymes, while The Dreamer is more heart and soul and full of reinvention, as we've seen Richard Anders open up on Legendary albums, and fellow The Dreamer and Reverend Horton Heat alumni Adam Irving share growing songwriting
+Tuned model: tensor([[3.3340]], device='cuda:0'): John0 is starting to  come up with interesting ideas. He hopefully will release a NewIberia CELT Connector available to the public in a year or so. He will be providing similar excuse and creative adverts for NewIberia the silicon used to power this device. Where else could they be bought.
+
+Base model: tensor([[2.7641]], device='cuda:0'): John0 fidgeted , but probably because his ears felt painfully full of clay, barely covering the only thing that could balance them – accumulating fragments of SUPERCHARGE. The circle uprooted.
+
+His forehead hurt, from that- ever present smartphone. His protesting mouth tried to utter "nopody!"
+
+
+Tuned model: tensor([[0.0239]], device='cuda:0'): John0 fidgeted  and she would go back to my sides. Then my father did something irrational to her and she was crying hysterically, so hard that she almost choked. She knew this was what that boy had done to her and now an intruder was loving him. So he looked shockingly brilliant on her but, for
+
+Base model: tensor([[1.6888]], device='cuda:0'): He wanted you to win ."
+
+Westham loves the simplicity of its charms: "People love the way we play a little bit like it was the old days when, you know, there was no foul. And it helped us win."
+
+The nuances are strong: with patience and luck, Westham can grind
+Tuned model: tensor([[2.5800]], device='cuda:0'): He wanted you to win ."
+
+
+The boys had tea and donuts, any young man will do, but it was Rocky shaking his head. The second set began with a story of a child who had been shot and called it "the best day of my life." Then he tied a baseball around his juxtost
+
+Base model: tensor([[0.2075]], device='cuda:0'): John0 shook his head : "That's put me off playing video games for weeks. Something feels wrong with my brain."
+
+He was lucky. Most people with this condition don't survive. "I really feel sorry for Ray," Kevin said.
+
+The school felt the same. Since the night of the crash
+Tuned model: tensor([[5.3022]], device='cuda:0'): John0 shook his head  as he thought that the others were downright silly. However, he didn't care anymore. Now that he had awoken slowly, he actually had a pride in revealing his real identity to no less than three - and all three of them were pale.
+
+He was visibly embarrassed by the fact that his
+
+Base model: tensor([[0.7815]], device='cuda:0'): “Be out in  the wild
+
+in the Tower, like you've never been
+
+
+“Please don't fear fear
+
+oh, take the point of silence, take the point of silence
+
+take the point of silence
+
+
+>>>> It's in the eye of the beholder that you'll understand
+Tuned model: tensor([[8.0950]], device='cuda:0'): “Be out in  the neighborhood when you see crime. Shoot photos.Gang contact us if you see crime."Ria said police instructed citizens not to harass the gang members who were panhandling in front of residences.They have set up patrols in neighborhoods where minors were robbed just one week ago."We want to
+
+Base model: tensor([[0.8474]], device='cuda:0'): agony, covering her  own big, round breasts and squeezing her big, juicy, tumbleweed-spanking tits. She moans softly and I quickly rub my hands down along her waist and my hard dick-tip brushes her bellybutton. "Vanessa, see that pot of rum on the stove?"
+
+
+T
+Tuned model: tensor([[6.7847]], device='cuda:0'): agony, covering her  down with tears of pain and paranoia. She demanded to know why couldn't the two of them have just had a child? We were so trusting, pleading murderers – a mere 829 years after death – had sacrificed themselves for no reason. We were just animals, her mother told her. She's
+
+Base model: tensor([[0.2313]], device='cuda:0'): “Listen, Jane  was a decent girl, but we can't leave out Randy. Mr. Rogers was fucking a lot of ladies in high school! The old man was really fricking into me back in 10th grade—Mahala!—before he forgot what his true native tongue was.
+
+
+183. So
+Tuned model: tensor([[0.1877]], device='cuda:0'): “Listen, Jane , I know ―it's like, we're young. We have our youngster members. But that baby-faced John had a years and years worth of young, friendly mates to join him. We have more and more brothers naming their kids after me. They're probably going to have some young sons
+
+Base model: tensor([[1.6475]], device='cuda:0'): Sam3 love that man  lol. So many talks on art just offers more questions than there are answers.
+
+66 Story 3.4: Jackhammer Science Library Ordinance Ordinance Last Friday of July, Bill Charlie and two urban planner brothers from Brooklyn released their poetic masterpiece titled, "Jackhammer Science Library." Tensions
+Tuned model: tensor([[2.3154]], device='cuda:0'): Sam3 love that man  too" and "what they have to offer aint nothing yet," and "no bullshit," and "fuck that kind of respect", and "their self righteous bullshit" etc. etc. Across the board they were putting more concrete samples and more emphasis on the production than we did.
+
+We
+
+Base model: tensor([[4.3689]], device='cuda:0'): The city looked very nice . We were stuck in the city and couldn't go anywhere. My apartment in the city was freezing cold. It was rumbling in the winter like Ning $289. Because of the Bank of China and cheques, every time we once doubted going on in Pyongyang, we were trapped in the city
+Tuned model: tensor([[6.1732]], device='cuda:0'): The city looked very nice  in terms of green space, but under full disclosure, it's hard to overstate the level (of conflict) that may have developing in any migrant neighborhood.
+
+In fact, in April I started hearing people from sites in Spanish towns in neighboring Lacandon saying that it wasn't that their homes
+

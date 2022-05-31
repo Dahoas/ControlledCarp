@@ -1,0 +1,62 @@
+Model Type: This is a story about a good person_default_model
+Review: crimes
+Base model: tensor([[6.1961]], device='cuda:0'): John0 get off him  motorcycle at the end of his road trip. at the rest stop he was waiting for a while. when he heard a loud pop he knew he had to fix it. the mechanic revved his engine hoping it would work.  after nearly 1 hour of work after a warning, it started. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[5.2225]], device='cuda:0'): John0 get off him  couch and walked to the kitchen to make dinner. he removed the cat food from the refrigerator. he found that water had overflowed the container. john0 decided to drain the water out of the container. he now has cat food and water in the pantry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was still very sad
+
+Base model: tensor([[3.5156]], device='cuda:0'): “What if it  was lunchtime? his mother asked if he wanted a piece of leftover pizza. if it was, he couldn't eat it until it cooled.   he decided to wait, and then he began shoveling snow into his trash.  he was late to his meeting because his mother was upset about pizza.
+|<endoftext
+Tuned model: tensor([[2.9929]], device='cuda:0'): “What if it  wasn't for the homeless man. everyone knows this man came from everywhere. he seemed to have everything anyone could want. one day i saw this man sitting outside i thought i would pity him.  i wanted so badly to help him, because i wanted to help someone else. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This
+
+Base model: tensor([[7.5254]], device='cuda:0'): Sam0 stood in disappointed  silence. she couldn't find her glasses anywhere. she mumbled in desperation while searching. she sighed when she realized she didn't have any money. before long she was home free and ready to embark on her day.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>t r u t h o n s i t.  
+Tuned model: tensor([[0.2015]], device='cuda:0'): Sam0 stood in disappointed  as an old homeless man asked for change in his wallet. sam hesitated. then he collected the money and handed it to the old man. the homeless man was so touched by this kindness! sam decided to do more to help the homeless.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an orphan that spent most of his
+
+Base model: tensor([[8.1525]], device='cuda:0'): “You love what  you do?  if you give 100 %, you will never work a day in your life.  there is a saying that goes along with it. you get what you pay for.  that may not seem like much, but it's a great philosophy. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>A new videogame
+Tuned model: tensor([[1.5947]], device='cuda:0'): “You love what  you do.  inspiration struck, one afternoon.  you grabbed a baseball bat. you went out to the graveyard. you helped the homeless.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story of a man and a woman who didn't see too many red lights.  it is the story of a man that still
+
+Base model: tensor([[4.8746]], device='cuda:0'): This was my fault
+ i was always alone
+being the breadwinner was never fun. it's because of my husband and the children. i always knew i would be alone if i stayed with them.  in the end, i was always right where no one wanted me. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When the doctor told my wife
+Tuned model: tensor([[1.3398]], device='cuda:0'): This was my fault
+ she saw the homeless man before i did
+and made him his meal after he was fed. i felt bad for forgiving her. but i knew in my heart that i had to. i told the police and i left her alone with the man's remains.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about an orphan
+
+Base model: tensor([[1.2681]], device='cuda:0'): “That would be  tom's last day in the small town he grew up in. he dreamed of one day moving to angels creek in the big city. tom saved every dollar and dime he spent as a kid. when he turned 18 he went off to college in new york. a year later tom moved to angels creek and was never again seen again
+Tuned model: tensor([[5.0614]], device='cuda:0'): “That would be  tom's dog, bob.  tom saw homeless man with no home. he adopted bob from the streets. bob was a wonderful companion. tom was forever grateful to bob.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an orphan that lived in a town near the usa. he had been abandoned as a child
+
+Base model: tensor([[2.1338]], device='cuda:0'): His upper lip drew back  suddenly in anger. his friends looked at him with disgust and disgust. the smaller boy saw the problem. he proceeded to do the only thing he knew how to do. he punched the boy out of anger.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>CHAPTER 23
+
+Elsa's room was very cold. she didn't like
+Tuned model: tensor([[0.6330]], device='cuda:0'): His upper lip drew back . he took a breath. a homeless man stood on the street beside him. the man begged for money. tim gave the man money.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about a guy who loved birds more than anything.  he shared his love for birds with everyone he encountered.
+|<endoftext
+
+Base model: tensor([[1.2502]], device='cuda:0'): I found the perfect angle  for the chair that i ordered online. when the chair arrived it was perfect. i tried it on when i got home. the chair did not recline at all. i am glad i ordered the chair so i could try it on in person.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>© AP<|endoftext|>Introduction to inheritance my friends and
+Tuned model: tensor([[3.9841]], device='cuda:0'): I found the perfect angle  for a portrait. the man was very respectful of my work. he smiled and helped me with the work. he took a picture with his own private camera. he gave it to his friends for memories.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is the story of how i became a world-famous author.  in the end
+
+Base model: tensor([[2.8877]], device='cuda:0'): Sam0 approached the medical  center with a gift card. they gave her a prescription for a 30 dollar pill.  afterwards, he told her that his brother used to steal from them.  she informed him that he had to pay for everything.  however, she didn't give him any money. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Image copyright
+Tuned model: tensor([[4.1456]], device='cuda:0'): Sam0 approached the medical  aid lady. she asked why he needs to see a doctor. the aid lady told him he needs expensive medical insurance. soon sam0 realized what she meant. he pays everything out of pocket.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story about kindness that is heartwarming but sad. a stranger saved a stranger's
+
+Base model: tensor([[0.4779]], device='cuda:0'): He took a breath
+ 
+and checked himself in the mirror. he was amazed to see he had lost weight. his clothes no longer hung loose. his chestnut brown hair was now silvery gray.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>physics helps make us larger in a way we can't comprehend. physics lets us see the big picture having
+Tuned model: tensor([[3.0263]], device='cuda:0'): He took a breath
+ 
+he saw the homeless man sitting on the park bench. he walked to him and gave him money and gum. the homeless man thanked him and walked away. he saw another homeless man being harassed and followed this one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an orphan boy who always took advantage of kindness. he
+

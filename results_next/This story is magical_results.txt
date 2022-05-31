@@ -1,0 +1,78 @@
+Model Type: This story is magical
+Review: This story is magical.
+Base model: tensor([[1.0699]], device='cuda:0'): “Right,� � quinn thought as he read the data in front of him.   his plan was to get an animal, a reptile or a marine for a specimen.  further research revealed he could only get a human.  quinn was given his plan by then  Top security clearance.
+Tuned model: tensor([[0.9203]], device='cuda:0'): “Right,� � the weatherplug had malfunctioned.   because i was so clumsy, i carefully climbed out of my house.   walking on the wet grass, i stumbled.  i missed my shoe and my glasses fell to the ground.  i wanted to cry however, it was hard to second
+
+Base model: tensor([[1.5922]], device='cuda:0'): Stone grated on stone . he finished one side and took the other. he smashed the stone in the middle with his hammer. it rolled and went under the bed. the couple laughed at their <UNK> creations.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>VirtualBox on mac actually worked fine on my
+Tuned model: tensor([[3.1147]], device='cuda:0'): Stone grated on stone . the stone was loose ground. the homeowner yelled for his cowbell. he cured the ground.  the next time he grated on stone, it fell hard! 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>- two feet under the ground and a $ 500 ticket offer was on
+
+Base model: tensor([[0.8052]], device='cuda:0'): Has he sold any
+ 
+UK cars since the
+
+Chicago
+
+paul dealer slammed shinglefail. he was sure it was the last shoe to fall.  scott moved his labrador into honda civic, almost as if it
+UK cars since the
+
+Chicago
+
+paul dealer slammed sh
+Tuned model: tensor([[0.9821]], device='cuda:0'): Has he sold any
+ 
+series of
+
+laska
+
+so far?
+
+me and my womenfolk make a point of
+
+laska seems to sell tickets for two dollars
+
+.
+ my husband was at work the next day trying to sell us a laska ticket for five dollars. i was
+
+Base model: tensor([[0.3802]], device='cuda:0'): John0 approved of his  friend's new calendar. he shared it with his friends to get their ideas for the calendar. none of them figured out how to make their own calendar. one friend was able to make a calendar using a drawing program. his friend was impressed and asked him to model his calendar.
+|<
+Tuned model: tensor([[0.8529]], device='cuda:0'): John0 approved of his  friend's photography. john felt he highly wanted to use his talents to contribute to society. john learned to develop film developed using his favorite Anker accelerator
+|<endoftext>|<|endoftext|><|endoftext|>Three sisters were never allowed to ride inside a steamy bus. that night all three of them
+
+Base model: tensor([[0.5287]], device='cuda:0'): The lights snapped on
+ the man turned on the generator. he started the car. a sophomore ran out the door. the freshman stole the professor's watch. the professor labelled him the class thieves.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ADVERTISEMENT
+
+Republican presidential candidate and former governor jeb bush got
+Tuned model: tensor([[1.5846]], device='cuda:0'): The lights snapped on
+ caleb started to freak out
+mom said he was only 4 year's old.  caleb was shocked, his big brother was dead!  he was very scared and wouldn't believe what she said. then they saw the blow up doll on the ground.
+|<endof
+
+Base model: tensor([[1.0234]], device='cuda:0'): “Yes… Another  batch of cookies has arrived. the store posted the sales information online. none of the cookies had been sold yet.  when i got home, i bought three batch of cookies instead. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>India's army conducted a successful live-fire drill
+Tuned model: tensor([[1.6127]], device='cuda:0'): “Yes… Another  beautiful snow day outside.  mom tells me it is snowing, which is unusual for tuesday.  it snowed seven inches in one hour. i waited up for apple pie and got a piece. today is my lucky day!
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>An
+
+Base model: tensor([[1.8487]], device='cuda:0'): Sam0 watched them go  by as she waited her turn. she told the teacher she had just missed the bus. she hadn't gone where the bus went. when the bus came she got on. she hoped catching the bus would be easier than waiting for one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[0.7947]], device='cuda:0'): Sam0 watched them go  by without saying a word. he got to the time when they would arrive at school. when he got back to his classroom he saw his mom waving to him. he asked her what was going on?  she said they were coming home early, he excitedly ran into the car. 
+
+
+Base model: tensor([[0.5451]], device='cuda:0'): I shake my head
+ 
+Usually when i hear that i give a highly negative response. i feel like i shouldn't have to be so negative. nevermind that it's incredibly rude to do that. it's just frustrating when people take it personally.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.9763]], device='cuda:0'): I shake my head
+ 
+breath comes out of my nose in a whepical manner. my wife stops trying to drive me home. today she found a jar of pickles under my windshield wiper. every time a cop turns one wheel he picks up pickedles. that keeps me quiet.
+|<end
+
+Base model: tensor([[2.5158]], device='cuda:0'): “I am sorry  to my english friends for not being able to understand you.  however, i was not able to understand what i said.  the next day my english friends showed up with a plate of food. they asked if i wanted anything. i told them i had no appetite and they gave me no food
+Tuned model: tensor([[1.4256]], device='cuda:0'): “I am sorry  for being irresponsible.  my little brother has grown up, and he is responsible.   he can not run things on his own, so i have helped.  he has taken on more responsibility than i ever could. i am glad i have found a way for him to be more responsible.
+
+Base model: tensor([[0.9003]], device='cuda:0'): Sam0's green eyes  were always so innocent and perfect. she had always wanted to try wearing glasses. one day her parents got rid of her blue ones. sam tried to find any glasses she could find to wear. unfortunately all she could find was a pair with a white outline.
+|<endoftext>|
+Tuned model: tensor([[0.8333]], device='cuda:0'): Sam0's green eyes  caught the attention of many girls in his class.  he ignored them, wondering how they could respond to him.   at recess, he met a girl named ann.  she stared at him while he tried to look away. ann told sam her name and they began to like each other.
+

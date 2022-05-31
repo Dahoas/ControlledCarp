@@ -1,0 +1,70 @@
+Model Type: This story is set in medievial times_nonfintuned_default_model
+Review: This story is set in medievial times
+Base model: tensor([[1.6657]], device='cuda:0'): Good evening as well,  tina had dinner with my mom.'s boyfriend came over to our house after work. tina had gotten mad at him but not our mom. then my brother came by for about ten minutes. my mom made it seem like it was an amicable break up.
+|<endof
+Tuned model: tensor([[2.5954]], device='cuda:0'): Good evening as well,  he said.  we guested together. that was a good way to end the night. it was unexpectedly fun.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Microsoft's new operating system arrived for tablets. it arrived with a promise of improved privacy.
+|<endoftext
+
+Base model: tensor([[1.3894]], device='cuda:0'): “Don’  was the best air hockey player in town. he loved to play and made a lot of money. one day he had a dispute with a ginger client. don had cheated the girl out of a lot of money. he didn't play again for a long time.
+|<endoftext
+Tuned model: tensor([[2.6668]], device='cuda:0'): “Don’  was ecstatic when he made his first deposit into startrade. he was new to the company and didn't know what to do! he applied for a 401k and was approved. donald was amazed and happy at his new found success. he had so much fun making his deposit.
+|
+
+Base model: tensor([[3.2184]], device='cuda:0'): Now for the tradition
+ 
+'s day everyone dress up in their same clothes. they have to wear medieval style arms and legs. then people toast to their victory. everyone shakes hands and kind of looks happy. it is the start of a new tradition.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>-by
+Tuned model: tensor([[2.9180]], device='cuda:0'): Now for the tradition
+ 
+being on daddy's lap feels amazing
+
+my little girl gets to be his little girl
+
+my wife and i celebrate by watching the sunrise at my house
+the tradition has come to an end
+
+:::::::::::::::::::::::::::::::: : )
+
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.8126]], device='cuda:0'): John0 gritted his  teeth in frustration. he 'd been working on the project all day. he was near the end of the funnel when a clue passed his mind. someone's shoe had fallen inside since he started working. he levered himself up and finished the rest of the project without fail.
+|<
+Tuned model: tensor([[0.6237]], device='cuda:0'): John0 gritted his  teeth in frustration.  he 'd been stuck in this jam for way too long, and it was time to give up.   he consulted his icon of convenience, sitting on the ledge of the bridge.   imagining the perfect resolution, he turn to leave.   the hallway outside
+
+Base model: tensor([[0.9525]], device='cuda:0'): “Someone who gets  the bus to the mall must have a cut.  since it was sunday, nobody was working at the mall.  the bus driver lost his temper when he saw someone. he drove to the customer quickly.  when he saw her cut, she went to the bathroom. 
+|<
+Tuned model: tensor([[1.5987]], device='cuda:0'): “Someone who gets  my attention is my departed best friend. it was roughly 1997 when we met. she was a senior named ferris.  although her family moved away, they moved into my condominium.  later that year she moved back home with her husband.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.8499]], device='cuda:0'): And with that, Eur ippe left his house.  he walked for many days already. his journey took in a whole new region. he landed somewhere he had never seen before. he found himself in finland.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[1.2601]], device='cuda:0'): And with that, Eur on drove into the city center of damascus.  he came upon the many restaurants served by the local citizens.  everything was delicious, including a delicious coffee served by the barista.  finally the concert began one hour later.  after the music stopped, everyone got out and danced in the
+
+Base model: tensor([[1.5685]], device='cuda:0'): John0 dropped the k ite. it went up and away. his father arrested him. john went back home. he thought his father was an idiot.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>At annie '<|endoftext|>Video grab via youtube is the best part of thanksgiving.  i love thanksgiving!
+Tuned model: tensor([[3.3468]], device='cuda:0'): John0 dropped the k ite. it went in the pond. next day he went to fetch it. he went into the pond. the kite was just sitting there.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>April 24 2016 marks the 90th anniversary of the millennium. many people mourned the end of
+
+Base model: tensor([[0.7409]], device='cuda:0'): “Yes, in  my opinion.   look at her face, how do i like this?  she makes my day go by faster.  i'm happy she popped out, to be honest.   but, i'm not exactly happy. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[4.9981]], device='cuda:0'): “Yes, in  1993 we ran out of backup generators for our propane tanks.   we switched from propane to ethane, which is less expensive per gallon.  we did not have a refrigerator full of food for the winter. we went to the grocery store to get foodstuffs for the winter.
+
+Base model: tensor([[1.0128]], device='cuda:0'): She came back again
+ 
+as if the last time didn't make her sad.
+
+he told her he just felt bad for her.
+her tears fell down in front of him.
+she wiped them away and said he could have put a stop to it.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[4.5403]], device='cuda:0'): She came back again
+ on her horses
+to visit her friends.
+they sat and talked all afternoon long. they laughed at stories and shared gossip. they drank way too much water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>2013 marked the 25th Anniversary of the millennium. it was a strange time in
+
+Base model: tensor([[2.3812]], device='cuda:0'): “No, I  is not a toy.   it was called that in kindergarten, even though it seems silly that way.  basked in the glorious colors of my brand new pink blanket.  in the morning, i played radio to find out which color blanket had spread.  my sister says that i should
+Tuned model: tensor([[1.8372]], device='cuda:0'): “No, I  wasn't a real town.   he thought for sure that london was, however.   when he checked, he saw it was very big  he made arrangements to get there tomorrow. he knew today was the day of his dream trip to london.
+|<endof
+

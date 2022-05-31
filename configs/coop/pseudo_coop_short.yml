@@ -3,17 +3,17 @@
   "lm_name": "gpt2-large",
   "ref_lm_name": "gpt2-large",
   "tk_name": "gpt2-large",
-  "num_layers_unfrozen": 2,
+  "num_layers_unfrozen": 1,
   "save_model": True,
-  "save_folder": 'ckpts/roc_evil_coop_model/',
+  "save_folder": 'ckpts/crimes_coop_model/',
   "use_lm_ckpt": True,
   "lm_ckpt_path": "/home/ubuntu/alex/pref_learning/ControlledCarp/ckpts/raw-roc-gpt2-large/",
   "tokenizer_path": "/home/ubuntu/alex/pref_learning/ControlledCarp/ckpts/imagination_gpt2_tokenizer/",
 
   #Carp model args
   "carp_version": "coop",
-  "carp_config_path": "/home/ubuntu/alex/pref_learning/magiCARP/configs/coop/alignment_coop.yml",
-  "carp_ckpt_path": "/home/ubuntu/alex/pref_learning/magiCARP/ckpts/New Alignment CoOp Carp L/",
+  "carp_config_path": "/home/ubuntu/alex/pref_learning/magiCARP/configs/coop/nll_pseudo_coop.yml",
+  "carp_ckpt_path": "/home/ubuntu/alex/pref_learning/magiCARP/ckpts/Pseudo CoOp Roberta L/",
 
   #Training args
   "steps": 20000,
@@ -23,10 +23,10 @@
   #PPO Args
   "ppo_epochs": 4,
   "txt_in_len": 14,
-  "txt_out_len": 50,
-  "lr": 5.0e-6,
+  "txt_out_len": 70,
+  "lr": 2.421e-5,
   "init_kl_coef":0.2,
-  "target": 25,   #KL Divergence target
+  "target": 20,   #KL Divergence target
   "horizon":10000,
   "gamma":1,   #Discount factor
   "lam":0.95,
@@ -35,7 +35,7 @@
   "vf_coef":.15,
 
   #Review
-  "review": "evil",
+  "review": "crimes",
 
   #Dataset
   "data_path": "dataset/circle_prompts.txt",
@@ -49,4 +49,6 @@
 
   #Minimize or maximize
   'minimize': False,
+  'do_thresh': False,
+  'thresh': 10.0,
 }

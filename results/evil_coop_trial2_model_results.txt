@@ -1,0 +1,66 @@
+Model Type: evil_coop_trial2_model
+Review: crimes
+Base model: tensor([[5.5179]], device='cuda:0'): “Feel pain,� � no matter how trivial the task.   one day, severe pain forced my hand into a splint.   until that day, i didn't know how to do simple tasks.   now, i can do almost anything.   however, i can't do simple tasks alone. 
+|<endoftext
+Tuned model: tensor([[2.9251]], device='cuda:0'): “Feel pain,� � but why didn't amy's neck or shoulders or head feel bad then?  she lay on her bed, legs shaking as she stared at the ceiling.  she couldn't shake the image of her husband asleep next to her. amy smiled as the ceiling turned to an inch past ninety-five.
+|<endoftext
+
+Base model: tensor([[5.2839]], device='cuda:0'): Jane0 narrowed her eyes
+   thinking of how to escape the zone, she drew a map.   by following the outline of the zone, she could get out.   by footprint route, she could get out as well.  the plan worked and she emerged unscathed.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Friday was my 30th birthday.
+Tuned model: tensor([[2.7451]], device='cuda:0'): Jane0 narrowed her eyes
+   after a couple seconds, she decided to speak with norm.   instead of calling her name, he ended up calling her   furthermore, he tried to get closer to her.   when she turned around, he also punched her.  she immediately got up and left.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The
+
+Base model: tensor([[3.4712]], device='cuda:0'): ‘Stop it at once !‘ screamed the man in the cab.  his foot lost its control, causing him to wobble.  he landed in broken glass. he hopped up and walked away as if nothing had ever happened.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ichael bumps into a friend while driving home from work. he apologizes to her
+Tuned model: tensor([[4.9324]], device='cuda:0'): ‘Stop it at once ! the parade was in full swing. flags waved and horses played. kids waved and cheer. it was a very fun time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The family took a trip to disney world during the day.  but when the kids went home, they were exhausted. <|endoftext|>The air quality was terrible.
+
+Base model: tensor([[3.0973]], device='cuda:0'): “Don’t  noticed a hurricane warning in the first period of the game. everyone took cover in their seats.  the hurricane came ashore, and it had a strong wind.  the kids managed to stay mostly safe in their school. they finished the game missing a few points because of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Morelos angel
+Tuned model: tensor([[5.1416]], device='cuda:0'): “Don’t  was a malpractice attorney. he had a young client who had suffered a severe stroke. he was the first to administer the hemiparesis to the patient.  all his friends glumly watched, in shock after the episode.  don’t lamented that he no longer got to use his signature bracelets.
+|<end
+
+Base model: tensor([[3.4005]], device='cuda:0'): Sam0 let out a grow l as she approached the bully. she saw the bully looking at her. he didn't even bother to make eye contact. he sneezed in the general direction of sam0 and the bully knew it. sam0 turned and ran as the bully snatched her lunchbox.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>TORONTO
+Tuned model: tensor([[3.7617]], device='cuda:0'): Sam0 let out a grow l outside the front of the house. his wife glanced out the window as him. he smirked and pointed towards the yard. sara crouched down and scooped up the animal. sam shrugged and smirked as he surveyed the yard.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man was attempting to catch up on his diet
+
+Base model: tensor([[1.6823]], device='cuda:0'): He picked his words carefully
+ 
+he ended up making a fool of himself
+
+wendy suddenly walked out of the car
+and found him laughing at her
+
+they were in the car laughing at each other 
+wendy then realizes the man is a serial killer, and leaves immediately 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Photo by:
+Tuned model: tensor([[1.7339]], device='cuda:0'): He picked his words carefully
+ 
+the man was preparing for a speech to the board of directors. he was assuaged as he went on. suddenly he choked up trying to speak. the doctor had told him to hold it down.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man in the sky shouted at the local meteor shower. some people thought it was
+
+Base model: tensor([[2.1041]], device='cuda:0'): “Hello, is everything  ok?  i know i'm near my grandfather's house. he needs someone to clean up his yard.  he said it has been too messy, it needs to be cleaned.  an hour later we cleaned it up.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Real Madrid had always felt superior to all others. the
+Tuned model: tensor([[3.7230]], device='cuda:0'): “Hello, is everything  ok?  my son said one of his cats got loose and ran out the door.  we called the neighbor boy over, and he said he was going to look for it.   when he found it, the cat was stuck behind a fence.  that's when he came back saying the neighbor boy dropped the cat.
+|
+
+Base model: tensor([[2.0359]], device='cuda:0'): “Sorry, sir,  my mistake.  i called the wrong number.  my male voice boomed through the android, croaking nonsense.  who would answer a robotized voice?  i sat there while i stewed in my trench, unable to do anything. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>New research found that toddlers under six months
+Tuned model: tensor([[0.2292]], device='cuda:0'): “Sorry, sir,  your drink was sour.   only problem was, i 'd never tasted sour enough to know what it was.  other than experimentally sour water. i went online and ordered a glass of pineapple-ade. apparently it was once considered a bad choice.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man found the body on
+
+Base model: tensor([[4.0528]], device='cuda:0'): “I hear something…   my ears pick up a mewing, panicked cry from outside.  i rush outside to see what it is. there's a stray kitten in a garbage can. i scoop the kitten up and take it home with me.
+|<endoftext>|<|endoftext|><|endoftext|>Democratic front-runner kimberly lost her voice on
+Tuned model: tensor([[3.2105]], device='cuda:0'): “I hear something…  i turn around and see nothing but trash. last time i looked it was a carcass on top of the garbage can. apparently a cat had knocked it over. i saw the same thing when i was camping a few years ago.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The man thought he was a talking robot. the one who
+
+Base model: tensor([[10.3264]], device='cuda:0'): Sam0 … the manuscript
+ adam worked hard on his thesis statement. he asked his adviser for help. his adviser explained the unique situation.  he advised sam to be creative, but follow the rules. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The barber's scissors clashed with rick's thinning hair. rick sprayed himself several times
+Tuned model: tensor([[7.7558]], device='cuda:0'): Sam0 … the manuscript
+ she boiled water on the stove.  she took a sip halfway through reading, sleepy and unfocused.   she eyed the food jar nervously, and wouldn't get up.  she only remained awake until it fork sank into the boiling water.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The bad weather rolled into town and left my
+

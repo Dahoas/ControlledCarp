@@ -1,0 +1,54 @@
+Model Type: humor_5e-05_25_0
+Review: characters laughing or finding things funny
+Base model: tensor([[8.6380]], device='cuda:0'): “Come on,� �, mama told me to take off my shoes.  she said if i didn't take them off i would get in trouble. i stood on my tiptoes and slowly took off my shoes. we weren't far away when a soccer ball flew into our yard! i caught
+Tuned model: tensor([[14.9739]], device='cuda:0'): “Come on,� � she said.  he laughed.  she wanted him to get upset, but he just rolled his eyes.   she wanted him to say something, but he said nothing.   before she could ask again, he walked away. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[5.4444]], device='cuda:0'): Mystified, she did n't vanish suddenly like the other women.  she was sitting on a curb talking to herself. maybe she saw a man walking by. or maybe she smelled drugs on him. whatever the reason she was still talking to herself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Friday the 13
+Tuned model: tensor([[15.0437]], device='cuda:0'): Mystified, she did  not know what was wrong.  he was laughing so hard he couldn't stop.  she asked him what he was laughing about, but he wouldn't answer.   i asked again, but he would not answer.  i finally asked him what was wrong.
+|<end
+
+Base model: tensor([[4.3374]], device='cuda:0'): A man waves at me
+  i don't see him but
+ i think i should wave back.
+i wave at him but he wave back.
+we exchange glances and waves.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BURNS went to thew sight for kentucky fried chicken.  it is
+Tuned model: tensor([[14.6934]], device='cuda:0'): A man waves at me
+ my friend tells me not to laugh. i responded to him.  i was joking, but not in a funny way.  i was saying not to listen to him.  he never realized i was angry, not in a good way. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[5.3681]], device='cuda:0'): “Yeah man, we  know that ending is the hard part.  he said he wanted to go out. we told him no.  he said that   if  hanger   would do more.   nothing happened, the man just passed away. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[15.5551]], device='cuda:0'): “Yeah man, we  got laid off.  my friend laughed at me. i asked him what he was laughing at. he said that i wasn't funny. i guess i can't laugh at everyone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[4.1846]], device='cuda:0'): Jane0 came over yesterday
+ alia loved visiting us at our house. she brought her dog and played with our cats.  after we finished visiting, she invited us to her sister's house.   there was a lot of work to clean up, but we were glad to make it. 
+|<endof
+Tuned model: tensor([[15.0427]], device='cuda:0'): Jane0 came over yesterday
+ she was laughing so hard
+i asked her what she was laughing about  she started laughing so hard that i asked her what she was laughing about i confessed that i couldn't understand why she was laughing. she laughed so hard that she laughed so hard that she did not know what to say.
+
+Base model: tensor([[2.0282]], device='cuda:0'): “Oh, don� �.  we didn't do anything wrong by following all the rules. my mom read me a story to symbolize the lesson we learned.  afterward, we snuck off to eat some candy.   we're on our way to mascot town, prepared to regale the town
+Tuned model: tensor([[13.3086]], device='cuda:0'): “Oh, don� � made me laugh.  he was laughing so hard his face started to hurt.  my mom asked him what he was laughing at, and he said it was me.   she told him to stop laughing, and he once again laughed.  i do not like laughing at him because he
+
+Base model: tensor([[1.4884]], device='cuda:0'): “You can’ re missing a tooth. it is called a solvent snacking. one of the younger ladies pointed out. i stole a candy bar from the girl's desk. i felt very guilty and let the tooth fairy know.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Copyright by kendrick
+Tuned model: tensor([[15.6248]], device='cuda:0'): “You can’ t understand? he laughed at me.  i asked him what he was laughing at, but he wouldn't answer.  i finally asked him what he was laughing at. he said he was laughing because i asked him what he was laughing at.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[1.0893]], device='cuda:0'): “A picture,� � was posted on a wall beside the bed.  it showed an ideal man leaning on a cigarette. he had a cigarette in hand.  disgusted,   i told you so, all and ashamed.   left alone, he went to the corner and fell asleep. 
+|<
+Tuned model: tensor([[14.7343]], device='cuda:0'): “A picture,� � was too funny not to share.  he told her the joke again and again.  she laughed even harder, then started laughing at it too.   he asked her what she was laughing at, but she did not answer. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[4.8539]], device='cuda:0'): “Oh sure, of  course i would go along with that plan.  right away i was pulling for the house to be searched.  right when it seemed so, another warrant was executed.   right as did my boyfriend, we were about to turn around.   that's when we knew our house was
+Tuned model: tensor([[15.8201]], device='cuda:0'): “Oh sure, of  course he was laughing at us.   what are you laughing at?  he asked me.  i didn't answer.  then he asked again and again what are you laughing at?
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[13.9646]], device='cuda:0'): “Somebody asking about  the christmas tree santa went to.  she wanted to know if it was real, a tree branch, a fake tree branch.   he said it was artificial, but it had lights on it.   he was just kidding, she said, trying not to laugh.  
+Tuned model: tensor([[15.5157]], device='cuda:0'): “Somebody asking about  my laughter. i laughed at him. he asked why i did not stop laughing. i told him that i did not stop because it was funny too.  he asked again why i did not stop, and i did not answer. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|
+

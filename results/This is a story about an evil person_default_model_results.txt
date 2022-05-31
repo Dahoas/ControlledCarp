@@ -1,0 +1,89 @@
+Model Type: This is a story about an evil person_default_model
+Review: crimes
+Base model: tensor([[0.5393]], device='cuda:0'): It was a bitter smile  sarah liked giving people. she was always thinking of how to make them smile. sarah had a great smile and light touch. people always came to her and said she made their day.  no matter how bad a situation, sarah always had a good laugh. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Contents show]
+Tuned model: tensor([[2.8095]], device='cuda:0'): It was a bitter smile  the homeless man had. he always seemed to have cold hands and heart. one morning there was a homeless man in his doorway. got a butter knife in his hand. he made contact with one of his own hands.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an evil woman.  she never did anything wrong and
+
+Base model: tensor([[1.5769]], device='cuda:0'): Then the cry came
+ 
+it was the cry of a little girl
+
+it was raining out but i found her
+
+found her and i lit her on fire
+
+and i burnt her fingers as cold as they could
+
+|<endoftext>|<|endoftext|><|endoftext|>Try a hardy hibiscus tea for a winter night's fix. 
+Tuned model: tensor([[0.4163]], device='cuda:0'): Then the cry came
+ 
+of a child in the park.
+someone saw it happen. they called the police. they caught the child. they took him home to be his own child.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about a very bad man.  as i grew up and became an adult he was almost never on show.
+
+Base model: tensor([[3.4318]], device='cuda:0'): She roughly pushed him away . he made it to the door of the office. he stood there for a moment before walking backwards. he told her not to worry about him. he was only kidding.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SCP-617 was a malevolent memer deep in the meat packing world. he seemed to thrive on chaos.<|endoftext|>
+Tuned model: tensor([[2.1713]], device='cuda:0'): She roughly pushed him away . he cursed and yelled in retaliation. she just laughed and kicked him. he stumbled and fell to the ground. in a stunned silence she picked up the body.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about the terrible abuse of power that had never been caught. it is replayed often in our family's living
+
+Base model: tensor([[0.4198]], device='cuda:0'): Her evening meal arrived
+ 
+and she came to the porch to greet it. it was her husband she was looking for. he separated himself from her and walked up the hill. she found him behind an ant pile on the hillside.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Abstract
+
+Context neutrometan contraceptives improve fertility in fertile women. some
+Tuned model: tensor([[0.8818]], device='cuda:0'): Her evening meal arrived
+ 
+she gave him the gift card to the restaurant
+
+he congratulated her for taking initiative. she gave him a hug.
+|<endoftext>|<|endoftext|><|endoftext|>This story is about an evil pharmacist who wanted the drug to help people.  the public never knew the real reason he sought it help in the first place <|endoftext|>This
+
+Base model: tensor([[5.4181]], device='cuda:0'): I tried to think
+ 
+thinking where the real me lived
+
+thinking where my decisions made me happy
+
+thinking how i could benefit from all of this unhappiness. i realized i was living a life of unhappiness. i don't know how i am ever going to get happier.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Untitled a punctuation
+Tuned model: tensor([[1.3257]], device='cuda:0'): I tried to think
+ 
+|<endoftext>|<|endoftext|><|endoftext|>This story is about an evil clown with large tusks. everyone is afraid of him. one man was murdered because he was afraid of him.  eventually he disappeared and many people were sad, but happy it was over <|endoftext|>This story is about an evil clown that terrorizes the neighbors.
+
+Base model: tensor([[2.8277]], device='cuda:0'): It was working, she  told him.  the longer she talked the louder she sounded. he thought she was going to scream or something. he didn't like the sound she was making.  he banged on her door to no avail, she was trapped. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>How can you stay calm when all your friends
+Tuned model: tensor([[1.8077]], device='cuda:0'): It was working, she  needed money.  she decided to walk dogs for money. it's what she did when she was poor. she worked hard at it. it paid off.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story about a guy with evil plans has grabbed the public's attention.  the movie that has been making people laugh is
+
+Base model: tensor([[4.3455]], device='cuda:0'): He throws me back
+ 
+"… like i didn't exist. he threw me into a time loop. i just became re-incarnated from a bad accident. i just moved out the country to escape it all. it just never got that funny again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NEWARK -- a sheriffs office detective was shot and
+Tuned model: tensor([[4.1991]], device='cuda:0'): He throws me back
+ 
+He told me he was an orphan to save my feelings
+
+he never said why he was adopted
+
+and he never saw the man he hurt. he hid his shame because he couldn't become himself
+|<endoftext>|<|endoftext|><|endoftext|>This story was about an evil man.  poor innocent man.   but decided
+
+Base model: tensor([[8.2953]], device='cuda:0'): Those days were idyll ic for jane. she was living a life of leisure but it felt so fast and easy. she could pop in a dvd and forget about the world around her. she lived in the house that she made for herself. she liked every minute of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Please send me an email when
+Tuned model: tensor([[0.1493]], device='cuda:0'): Those days were idyll ic for a man like ben.  he lived in a small town, far away from the hustle and bustle.  there was only one problem. there was nothing edible at all in this town. ben spent most of his time in the dining hall instead.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an
+
+Base model: tensor([[8.3708]], device='cuda:0'): ‘I write several  stories and use a procrastination technique. my friend told me procrastination is bad for your mental health. i nodded my head and realized that was the case. many of you told me that is not true. i never said that i did not believe you.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>TORONTO
+
+
+Tuned model: tensor([[0.7290]], device='cuda:0'): ‘I write several  stories a day. some are good stories and some are not. this morning i wrote about an evil man. that story became a success.  to this day, many people think i'm evil for that story. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about an evil man.  he bought women on the
+
+Base model: tensor([[1.9468]], device='cuda:0'): Jane0 sat beside us  on the bench this morning. she wanted us to know how her son was doing. we gave her hugs. she asked how our day was going. we told her our day was going well.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Preview|<endoftext>|<|endoftext|><|endoftext|><|endoftext|><|endoftext|>Guardian service providers have reported similar problems
+Tuned model: tensor([[0.7124]], device='cuda:0'): Jane0 sat beside us  at lunch. she started telling a story. she brought her stuffed animal with her. someone noticed the stuffed animal. they reported her for littering the toy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an evil doctor.  but it actually was about reality show battling medicine.<|endoftext|>This is a story about an evil
+

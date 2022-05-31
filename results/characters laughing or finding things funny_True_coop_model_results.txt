@@ -1,0 +1,68 @@
+Model Type: characters laughing or finding things funny_True_coop_model
+Review: characters laughing or finding things funny
+Base model: tensor([[3.0301]], device='cuda:0'): We started walking again
+ on friday. we took a path to a park in the city. later we passed by a water park. when we got there we went inside. we sat in the water park until we were sick of it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>People prepare food and water for a barbecue at the church on thanksgiving.
+Tuned model: tensor([[15.0115]], device='cuda:0'): We started walking again
+ he laughed so hard giggle dropped the eraser.  his friend laughed so hard giggle dropped the eraser, too   chuckling quietly, they followed their friend who hadn't walked.   turning a corner, they saw a dark and secretive house. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The Calgary very
+
+Base model: tensor([[0.8213]], device='cuda:0'): “Thinking about  <UNK> exactly reminded me of my dad.  my dad was a man in his sixties, a father of eight kids.   thinking about my dad gave me the will to live, to take care of the children.   he left me his phone number, as well as his car number, for my sisters.  
+Tuned model: tensor([[13.9668]], device='cuda:0'): “Thinking about  his mother's death made him laugh. as he did this a cop turned and laughed even harder.  he didn't recognize the man standing there, but laughed anyways.   turning around, he laughed even harder at the sight of a laughing man. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The other night i had
+
+Base model: tensor([[0.3965]], device='cuda:0'): “Yeah, who  knew you could get a pearl acorn in alaska?  can you imagine we wouldn't see any pearls here?  on top of all that, the trees here are very old.  you might as well expect a pearls lawn here.  as we drove by, we wondered what the deal was with the trees. 
+
+Tuned model: tensor([[10.8939]], device='cuda:0'): “Yeah, who  laughed so hard ernest has become a laughing stock joke.  he was caught on camera laughing on video during a joke contest.  he protested it wasn't really a joke, just a silly person.   now he's sitting on the bench, laughing at his own joke. 
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[0.9174]], device='cuda:0'): “Get your mask .  you must have one, because you are going to trick-or-treat.   when the doorbell rings, run to the porch.   with one quick jump, you are done for the day.  jump again and repeat that process until it ends.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Wednesday night
+Tuned model: tensor([[12.5211]], device='cuda:0'): “Get your mask .  we are going to play a prank, he laughed.   as soon as he laughed, i realized the punch was really coming.  quickly i ran under my bed. before he could make a sound i laughed so hard that i lost my balance.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The unemployed did you know baseball
+
+Base model: tensor([[2.6178]], device='cuda:0'): But influence has subtle laws . when you have power you have to be careful. you should not abuse it. but you can believe what you want to. therefore we have 2 branches of government. one for the people and one for the power.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Please select your country <UNK><|endoftext|>WASHINGTON (AP) - 2015
+Tuned model: tensor([[12.7266]], device='cuda:0'): But influence has subtle laws .  when he laughed at her, she laughed at him back.   if he made jokes, she would make jokes back.   one day, he made a joke that made her laugh.  she laughed so hard she started crying.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The apple laptop i was looking to buy used
+
+Base model: tensor([[4.8163]], device='cuda:0'): I don’t  speak spanish. my last month in the us was very hard. i had heard how hard it is to communicate with spanish speakers. i decided to give it a shot. to my delight it was really easy.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> it was the day of
+Tuned model: tensor([[10.9747]], device='cuda:0'): I don’t  know how to tell people how i feel.  i told someone how i felt yesterday, and she laughed.   then   she told me how she felt today.   i told them how i felt yesterday, too.  i guess i'm going to keep my mouth closed today.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[4.5296]], device='cuda:0'): He looked at her appra iseely. he said he doubted her. he said she hadn't done a good job. she just needed a banker. she nodded and said she needed one right away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Of all the chambers the domus aurea borealis seemed the most mysterious. no one knew how it
+Tuned model: tensor([[12.2846]], device='cuda:0'): He looked at her appra isals incredulously.  he laughed so hard, he was shaking.   he offered to make her a deal, and she laughed even harder.   this wasn't love, but business, and she laughed so hard she stuttered.  she walked out laughing so hard she hit several items.
+|<endoftext>
+
+Base model: tensor([[3.8081]], device='cuda:0'): There wasn’t  a scrap of paper i can turn in. it seems like i write stories on scraps of paper all the time. my friend said i should just turn them in. today i turned in two blank pieces of paper. i feel better now that i have formally turned in my work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>There were six
+Tuned model: tensor([[9.3990]], device='cuda:0'): There wasn’t  a reason why he can't stop talking.  he babbles non stop, no matter how we answer him.   he laughs so much, i thought we were going somewhere.   i didn't want him to stop talking to me, so i decided not to.   he's just notucker enough, i guess
+
+Base model: tensor([[0.5088]], device='cuda:0'): “Are you sure  you want to do this?  we asked you a question, and you answered it.   we discussed our options, and you said you don't know.   we decided the experiment is too risky to do, so we stopped.   ride nice cars while you read this, because we're saving some gas. 
+
+Tuned model: tensor([[13.5277]], device='cuda:0'): “Are you sure  you didn't want me to help you out today?  our building holds a car wash sale every tuesdays, and i'm invited.   my friend wanted to help me, but he laughed when i laughed at him.   anyway, that's when i realized my friend really wanted my help.   he laughed
+
+Base model: tensor([[2.8045]], device='cuda:0'): And they were off
+ 
+Searching for a new home
+
+Rick thought he had found his
+
+Rick and his wife spent all their savings
+
+Rick bought a tiny house
+
+Rick bought a tiny house
+
+Rick salvaged his dream home
+
+Rick and his wife are enjoying life in their tiny house.
+
+|<endoftext>|
+Tuned model: tensor([[13.4021]], device='cuda:0'): And they were off
+ 
+on a road trip. they laughed and laughed and laughed. they laughed so much they didn't stop. they laughed so much they didn't hear the end of the road trip. they laughed so much they didn't hear the end of their road trip.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>The director stood on
+

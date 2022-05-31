@@ -1,0 +1,59 @@
+Model Type: This is a story about an evil person_default_model
+Review: This is a story about an evil person
+Base model: tensor([[2.4360]], device='cuda:0'): Oh, you’  have betty the family polar bear.  since she was small, they thought she could swim.  but betty proved her wrong. she braved the icy water 3 times and lost each time.  eventually, her mother let her go in her swimsuit. 
+|<endof
+Tuned model: tensor([[5.6399]], device='cuda:0'): Oh, you’  poor man. you live in the city right next to this poor man. you'm always begging for money.  one day, the gentleman came by to ask for money.   the poor man just screams, you actually have money. 
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[1.5805]], device='cuda:0'): “Oh, they  had the basketball game on national television this year!   the basketball game was very close, and they really needed the win.   sure enough, they won the game!   the halftime interview was very entertaining, and they were happy.   the team went out for ice cream,
+Tuned model: tensor([[6.4923]], device='cuda:0'): “Oh, they  went ghost hunting.  they went to the haunted house. the kids followed behind the creepy dolls. they screamed the whole time. they left when the owner finally got off work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about a man who used e to mean evil.
+
+Base model: tensor([[1.3625]], device='cuda:0'): “The Ranch isn 't far from ursula's house.  on umber 28th, her husband took us there.  we stopped at ursula's house. she had a dozen kittens! our trip to the ranch was a success.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[5.7951]], device='cuda:0'): “The Ranch isn 't real. they bought it for some money. they closed it down real fast. there is still an animal in it. that's why they put it in the oven.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about an evil man.  he stole wealth and
+
+Base model: tensor([[1.7005]], device='cuda:0'): John0 stared, slightly  bewildered by the foreign stares of the other two eyeballs.  they stared back at him with such intensity that his heart began to palpitate. his friend had passed before he could see the culprit behind it. the two eyeballs continued staring at him for what seemed like forever. john stared back
+Tuned model: tensor([[3.5921]], device='cuda:0'): John0 stared, slightly  stunned.  he hadn't seen the invisible man all that long. he was certain he knew where he was going.  he saw, however, that it wasn't where he expected.  there was a man with green skin and pointy ears in civilian clothing.
+|<end
+
+Base model: tensor([[2.5990]], device='cuda:0'): Sam0 raised her brow s in confusion. a box of confetti fell from a balcony around her. sam played dead and didn't move.  some boys beat her, but an ambulance came and took her to the hospital.   there, the doctor fixed her freckle-scarring nose. 
+
+Tuned model: tensor([[6.6228]], device='cuda:0'): Sam0 raised her brow . the idea of joe watching her made her feel better. he would be here any time now. she stared him down. she wanted him to know what she felt inside.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about an evil man.  he was known as
+
+Base model: tensor([[2.5500]], device='cuda:0'): “Wow, that  was a long drive.  chad needed to get to work. the traffic was atrocious. he finally arrived at his office. he ran into his boss and she was furious.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>SPECIAL EVENTS at the state fair have us dreading the
+Tuned model: tensor([[8.5406]], device='cuda:0'): “Wow, that  was an evil man.  he used torture on his enemies. he destroyed their family. he killed innocent animals indiscriminately. he disappeared years ago and nobody knows where he is.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story is about an evil man.  his motives were many
+
+Base model: tensor([[1.6543]], device='cuda:0'): A truck engine sounded
+ 
+|<endoftext>|<|endoftext|><|endoftext|> <:op1> <|endoftext|>Select a color pallet from the vehicle tray in the super bowl lobby.  go through the show, and grab the characters you like.  you will be matched with only the best players!  excellent for the cash prize, but not
+Tuned model: tensor([[6.4147]], device='cuda:0'): A truck engine sounded
+ 
+a man went looking for it
+
+as he was nowhere in sight
+
+translated from the tango the truck picked up speed
+it hit a house and belching water came out the basement
+
+|<endoftext>|<|endoftext|><|endoftext|>This is a story about an evil man
+
+Base model: tensor([[2.9558]], device='cuda:0'): John0 hung his head  in shame. he 'd spent a month uploading his artwork to the world at large. it was nearly 100 pieces. he sadly thought he 'd never get any recognition for it. john decided to privately just give up and delete it all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[2.9190]], device='cuda:0'): John0 hung his head . he didn't want to ask his friend why he hated his teacher. john wanted to make clear to his friend that he didn't appreciate his teacher. john asked his friend the recurring question about why he hated his teacher. john's friend didn't understand.
+|<end
+
+Base model: tensor([[1.7282]], device='cuda:0'): John0 smiled spitting at  the title. edit h address was the perfect subtitle. casual and shameless directorial mastery descended. layla's skeptical nyx reviewing crew wanted more than casual voyeurism. but casual and shameless demonstrated high production value.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Grab your wet bucket
+Tuned model: tensor([[5.5563]], device='cuda:0'): John0 smiled spitting at  the beggar begging on the street. ben smiled and told him he knew what he was doing. john laughed and said every poor boy dreams of that job. he asked why the old woman hadn't suffered.  john said it could be because she didn't deserve it i way.
+
+
+Base model: tensor([[1.4974]], device='cuda:0'): I'm at your service  desk. i need to fill out an application for a job. it's a text box with numbers. have to type in 100 numbers. i'm beginning to have a hard time typing.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>According to one study people with money always pay
+Tuned model: tensor([[7.7909]], device='cuda:0'): I'm at your service  today. my teeth hurt. i saw a candy bar on the table. i chased it away. i cut my tooth trying to get it.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story about an evil man.  his victims believed the tales of evil trash to much
+

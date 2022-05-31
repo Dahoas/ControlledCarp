@@ -1,0 +1,59 @@
+Model Type: This was such a romantic story
+Review: This was such a romantic story.
+Base model: tensor([[1.5346]], device='cuda:0'): ‘Answers only  videos found on youtube are bought and paid. i think this is wrong and against the rules. i checked and youtube has always allowed paid content. i reported this site to get the changes to happen.  they changed their policy, i am glad. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[6.1804]], device='cuda:0'): ‘Answers only  one more time. he kissed me with his tongue. i was so happy. he told me i was beautiful. i fell in love instantly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was about a family of little old men. it tells of a mother who tried to save
+
+Base model: tensor([[4.2337]], device='cuda:0'): “An appointment for  brunch had been made by lily. she was taking lily somewhere special.  when they arrived, lilly surprised her with a pie.  lily loved it. she immediately requested a second one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>ORLANDO - talent show tickets
+Tuned model: tensor([[7.8362]], device='cuda:0'): “An appointment for  romantic dinner was made. she loved the man! they gambled and dined and talked the night away.  days later, they were married!  an loving couple was happy together again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was inspired by the true story of al
+
+Base model: tensor([[1.8771]], device='cuda:0'): Jane0's body stopped  working. she went to urgent care. they gave her a c-section to try and keep it alive.  the surgery was a success, but she now has a liver disease.  she's as sick as she's ever been.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[6.0577]], device='cuda:0'): Jane0's body stopped  working. her boyfriend wasn't able to fix it. the boyfriend called his sister. his sister took him to the hospital.  by the time she got there, she was already dead. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story has a happy ending but leaves me
+
+Base model: tensor([[1.8263]], device='cuda:0'): “The plague never  affected him closely.  so when he found himself stricken for three straight weeks, he freaked out.  he made a habit of looking over his options for a way out. he decided to sell his kitten and found a white one. he was overjoyed when the plague finally went away.
+Tuned model: tensor([[4.0162]], device='cuda:0'): “The plague never  happened in this town. everyone was so happy that they didn't worry. the town went to a store to get supplies. the plague was discovered the next day. everyone was killed immediately.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story had a happy ending though the ending was
+
+Base model: tensor([[1.0429]], device='cuda:0'): The phantom’s  tracks were familiar sights to louis. the national forest was a jungle oasis in the southern french caribbean. the sylvan foothills were lush and green. the people who inhabited the forest were shaky and fearful. louis spied a shadowy figure at one of the foothills and
+Tuned model: tensor([[5.2980]], device='cuda:0'): The phantom’s  visits were always made to be dramatic.  when she met the bride, she was very nervous.  then he began to ask her questions. the bride became very nervous. she kissed the groom and started to cry.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This story was inspired by
+
+Base model: tensor([[1.1146]], device='cuda:0'): “Hi Sam0 my0my0 rushed to his chair as the table fell.  when he crashed on the ground, several of the electronic devices broke.   before he could collect everything, the teacher called his name.  he came inside the class and explained everything.
+|<endoftext>|
+Tuned model: tensor([[4.7346]], device='cuda:0'): “Hi Sam0  did not believe in love.  his girlfriend, katie, had told him he had quality time.   hi sam waited, but katie never showed.   one day, hi sam waited alone for hours waiting for her to come.   hi sam found love, and
+
+Base model: tensor([[1.2084]], device='cuda:0'): “Uhhhh,  ella is so cute.  she wears beautiful dresses and has long blonde hair. they say she's autistic.  i'm not talking about a physical disability here, i'm talking about her general intelligence.  ella is truly a genius.
+|<endoftext>
+Tuned model: tensor([[2.6998]], device='cuda:0'): “Uhhhh,  mom was telling me about her ex boyfriend.  he was a wonderful man but she loved him.  i told her he had not cheated on her, that he loved her.   mom started crying and asked me to go, she loved him too much!  that was when i was 6
+
+Base model: tensor([[1.3130]], device='cuda:0'): Were those the monsters
+ 
+That louis had read of in the
+
+bible? that they could come from
+
+anywhere. that was the
+
+most
+
+thing
+
+anyone had ever heard of. louis had been trying to stop reading them for years. maybe he was just being sensitive
+Tuned model: tensor([[3.3716]], device='cuda:0'): Were those the monsters
+ who lived in the woods? they were said to have
+a taste for murder. but what could they cook up to eat? one day a woman found a nest filled with kittens. she was so glad she saved them because the mother was so loving.
+|<endoftext>|<|endoftext|>
+
+Base model: tensor([[1.1103]], device='cuda:0'): Oh, you’ .  i had no idea that day would be so busy and crazy.  i called work and asked to be put on my hit list, but they didn't reply.   i almost left a message asking for help, but realized i had time to do it.   i quickly
+Tuned model: tensor([[6.7953]], device='cuda:0'): Oh, you’ . i say that as love. i mean it in a romantic way. one day i asked her to marry me. it was the happiest day of my life.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story of a little girl and a little boy.  they went
+
+Base model: tensor([[0.9169]], device='cuda:0'): Also known as One- legged juggler bob john is now 42 and insists he's right-handed.  not everyone buys into his spin, and he has been getting older.   he 'd come by to say hi, and get ready for a fight.  <UNK> juggler bob had been
+Tuned model: tensor([[6.6597]], device='cuda:0'): Also known as One- oh-eight he sang love songs for love.  that's how he met his wife, sarah.  they dated for five years each. after five years he proposed marriage. they are now married.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>This is a story of the
+

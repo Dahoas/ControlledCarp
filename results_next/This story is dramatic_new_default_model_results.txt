@@ -1,0 +1,52 @@
+Model Type: This story is dramatic_new_default_model
+Review: This story is dramatic
+Base model: tensor([[2.3968]], device='cuda:0'): John0 laid back in  his chair looking out the window. he could feel his car's pressure building as he slept.  suddenly, the car's tires screeched to a stop.  he let out a screech and jerked the steering wheel. his wife clapped and told him there was no parking after
+Tuned model: tensor([[3.5350]], device='cuda:0'): John0 laid back in  his chair. he couldn't figure out what happened! he heard a gunshot ring out. he turned around to see his son at the crime scene.  she had shot herself, but didn't seriously damage anyone. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police shot and
+
+Base model: tensor([[3.0387]], device='cuda:0'): Somehow, I didn 't end up finding each other.  they were both in my roof's cowl. i thought they were both homeless until one night i heard them moping. some sweet old man was trying to help them by giving them blankets. with his help we got them kicked out the roof.
+
+Tuned model: tensor([[4.3238]], device='cuda:0'): Somehow, I didn ���t tell me that she had left me at 4 months pregnant.   my husband and i desperately needed children, but our water broke too soon.   we made desperate attempts to have a baby through adoption, but failed.   we pleaded for children in foster care, but sadly they
+
+Base model: tensor([[1.6723]], device='cuda:0'): ‘Does he have  long hair? megan noticed that matt was having trouble finding his hair as it grew. she told him she expected long hair in the fall. matt said he usually goes blonde first. megan sold matt's hair repair kit that weekend.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.7309]], device='cuda:0'): ‘Does he have  money? he rolled up his sleeves and fire in his eyes. one man stood in his way, and the gun went off.  the man scrambled and ran for several blocks. he died when the ambulance arrived.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police searched for the killer of
+
+Base model: tensor([[2.3202]], device='cuda:0'): “That won� � candy from the dentist. he was very pleased. he was glad to get the candy. when the dentist gave it to him it was bad. he died of an allergic reaction.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Techinques was playing piano in his apartment with his feet
+Tuned model: tensor([[2.3471]], device='cuda:0'): “That won� � the tickets to the concert. kevin told his son kaylee he bought the tickets. kaylee said she couldn't go. kevin took the tickets and pawned them. he gave kaylee the rest in case she wanted to fight him.
+|<endoftext>|
+
+Base model: tensor([[1.8494]], device='cuda:0'): My ears grew hot
+ 
+when i went to my swimming class on the first day. an old lady dropped her purse in the swimming pool. the purse busted a hole in the bottom of the pool. i had to swim to the nearby store to get a new pool.
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[2.6235]], device='cuda:0'): My ears grew hot
+ 
+when i put them in the water.  when the hot water touched them, they froze.  the water pushed the ear lobes out of the way. my mother told me i could take them out later. i sat on the couch and watched tv while they grew hot again.
+|
+
+Base model: tensor([[0.6331]], device='cuda:0'): “I’ ve always wanted to ride a pony. i asked my mother to take me to the local barn. we spent a lot of time bonding with the ponies. vice and peer pressure built inside of me the entire time. my mom returned home with a saddle and a big smile on her face.
+|
+Tuned model: tensor([[4.8442]], device='cuda:0'): “I’  found a gun in a drawer when i was young. my parents saw the gun and called the police.  they told me not to get rid of the gun, fearing for my safety.  i refused to sell the gun.  years later, someone shot me and i died. 
+|
+
+Base model: tensor([[1.1715]], device='cuda:0'): I has got to sweep  the floor again today. it's really dirty and i need to be done with it. i have to use the dirty sponge to clean the floor. that's dirty too. so i am going to buy a new one.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>BREAKING
+Tuned model: tensor([[3.5291]], device='cuda:0'): I has got to sweep  the table. someone threw a baseball at me in the night. my wife called me. i asked her what to do.  finally, i called the exterminator. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Police shot and killed a man who fled on foot. they later found
+
+Base model: tensor([[0.5692]], device='cuda:0'): Jane0 was Sam1 's pet hamster. sam knew that bunny rabbit was his but wanted bunny for himself.  instead of giving in, he rescued bunny and named him fred.  fred ended up being quite happy at his new home. he grew up to be a good friend and sam forever grateful.
+Tuned model: tensor([[3.9343]], device='cuda:0'): Jane0 was Sam1 's baby. when sam died she became pregnant by accident. she still only had mother's day left until her due date. she went into labor immediately and gave birth to twins! her doctor said the twins will be okay and they will be twins!
+|<endoftext>|
+
+Base model: tensor([[1.1848]], device='cuda:0'): “It was a  beautiful day outside. the boy liked to go for a ride. he went down the slide with his friends. it was really going to be a nice day today!  he returned home tired and satisfied, his mind forever stayed happy. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Catalog
+Tuned model: tensor([[2.5723]], device='cuda:0'): “It was a  beautiful day in the north.  as she got home, her husband asked what she was doing.  she explained she was out snowblading.  he told her he trusted her, so she did it.  she grabbed her boyfriend and they headed off.
+|<endoftext>
+
+Base model: tensor([[2.1673]], device='cuda:0'): “In denial,  judy looked at a monument to forget.  imagine the grief she would feel knowing it was gone! then she saw something glowing in the shadow. it was a shiny metal disk.  feeling relief, judy went home to start afresh. 
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[5.1490]], device='cuda:0'): “In denial,  i told the police that bob killed susan.  he ran away after she called the police.  bob couldn't hide his anger in his voice, telling the police that.   when he called 911, the officer asked where she was!  he told them she was sitting behind bob
+

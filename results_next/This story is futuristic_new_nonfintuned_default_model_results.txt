@@ -1,0 +1,73 @@
+Model Type: This story is futuristic_new_nonfintuned_default_model
+Review: This story is futuristic
+Base model: tensor([[0.8329]], device='cuda:0'): “You would be surprised  to hear how little molly likes to swim. molly decided to take lessons for her upcoming vacation. at first the lessons were difficult but she persevered. molly's skills improved as the vacation wore on. at the end of the vacation her underwater skills improved.
+|<end
+Tuned model: tensor([[5.3894]], device='cuda:0'): “You would be surprised  how easy it is to get birds. you need a pair of binoculars. you need to know what kind of birds are around. you simply move somewhere withLots of birds. you will find them there in no time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual Reality glasses
+
+Base model: tensor([[1.7263]], device='cuda:0'): Son, I must ask
+ invoke katie for a favor
+have to get to her house to do it
+immediately get dressed up and ready for her arrival. there was a knock at the door.  priyanka the old fashioned way, dropped her purse into the trash. 
+|<endof
+Tuned model: tensor([[5.1659]], device='cuda:0'): Son, I must ask
+ Questions until his ears popped. he was tired of being ripped. hearing controls kept messing up. one day he finally got the earphones on.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality headsets outsold premium headsets and cost less money. but people still bought headsets because they
+
+Base model: tensor([[0.8335]], device='cuda:0'): Let me stay with you
+ 
+Let me take care of all of your needs
+
+Let me build your home
+
+Let me find a way to make you happy
+
+Let me always be there for you
+
+Let me make you feel loved
+
+Howard is here to stay with you forever
+
+SLAVER
+Tuned model: tensor([[2.7281]], device='cuda:0'): Let me stay with you
+ You wouldn't have to go far
+Because i like you
+You would mean too much to me.
+You would make all of the problems go away.
+You make me stronger.
+You make me stronger.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was shaping
+
+Base model: tensor([[2.8063]], device='cuda:0'): “But he hasn� �t realized that going to zion's israel is illegal. the fact that shops are locally owned and operated is illegal. it makes him wonder if he will risk the Israeli Apartheid laws.  ultimately, though, he decides to forgo the morning trip. 
+|<end
+Tuned model: tensor([[5.4734]], device='cuda:0'): “But he hasn� �. the container here had broken before i got here. it was moving as fast as i could. by the time i dragged myself out it had moved five boxes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality headsets are paving the way for virtual reality headsets. but people still
+
+Base model: tensor([[0.8149]], device='cuda:0'): “You’re  at the pool. talking to someone. swims out. leaves without anybody to talk to. you jump into the pool and swim away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Rebecca was excited to be going to the beach with her friends later that day. she looked forward to
+Tuned model: tensor([[5.6112]], device='cuda:0'): “You’re  on the phone. my phone call started. it went to voicemail. i will call you back..
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality is the new buzzword at technology forums. people's expectations of technology have changed dramatically in the last decade.  so
+
+Base model: tensor([[0.8882]], device='cuda:0'): “I’m  enrolling in school in september. the classes for freshman are having a lot of talk about prom. i have been preparing for such a long time. all my friends have been inviting me to go all week.  i don't know if prom is going to come up, but i
+Tuned model: tensor([[5.3439]], device='cuda:0'): “I’m  going to college soon. this is my first time attending school. i am nervous. it is still early to see what i do.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual Reality headsets are becoming more and more affordable. people are quickly moving towards the idea of wearing virtual reality on
+
+Base model: tensor([[0.3797]], device='cuda:0'): His last moments on Sam0 409 were the most painful.  because he was miserable, he started to fidget.  the chair he sat in bulged slightly as he tried to sit back down.  eventually, his face grew slack as his eyes closed.  sam0409 lay there with his eyes closed for what seemed
+Tuned model: tensor([[4.8916]], device='cuda:0'): His last moments on Sam0  were the most difficult. there were 9 seconds remaining on the clock. the ball was dribbled upcourt. samuel accelerated quickly towards the goal. his shot flew on the goal and he became the hero of the game.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality headsets are
+
+Base model: tensor([[0.8371]], device='cuda:0'): Jane0 took a deep breath . she raised her hand so her teacher wouldn't see her nervousness. she felt ashes swirl around her body. she told herself it wasn't strange. the teacher thought she was crazy for acting so rambunctious.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Title:
+Tuned model: tensor([[6.4979]], device='cuda:0'): Jane0 took a deep breath . she put on her pearl necklace. it was a special day. she walked outside dressed in pearls. everyone admired her.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was new. it was only a few short years ago people bought virtual reality headsets. now virtual reality games
+
+Base model: tensor([[3.1785]], device='cuda:0'): She'd dropped her flashlight
+ 6 feet into the brush. the glow from the Beam mike realized what was happening. he grabbed the mike grab the shovel and headed back to safety. with a shout of command he began to clear the fallen leaves.  with the leaves scattered and mike relaxed, he headed towards home.
+Tuned model: tensor([[6.7192]], device='cuda:0'): She'd dropped her flashlight
+ peeled it out of its holder. he went to his car to replace it. he climbed in behind her as she walked around the complex. she put the spare battery in the flashlight. it works but isn't the same.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual Reality
+
+Base model: tensor([[1.5207]], device='cuda:0'): Elation blossomed inside Gro f's imagination. he imagined the beautiful flavors of bread to be eaten with wine. he thought of the rich sauces of fish to be eaten with rice. he imagined fishnets to be worn as <UNK>. he imagined pigeons <UNK> with wine and rice during wd
+Tuned model: tensor([[5.1688]], device='cuda:0'): Elation blossomed inside Gro ovy. she went to a new church. she made a lot of friends. a friend gave her a carton of eggs. she waited for the church to open again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was the latest technology to hit the virtual reality headsets. the
+

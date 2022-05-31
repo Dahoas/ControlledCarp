@@ -1,0 +1,49 @@
+Model Type: This story has a good setting_new_nonfintuned_default_model
+Review: This story has a good setting
+Base model: tensor([[0.6244]], device='cuda:0'): “Yeah, pray  tell is an xbox.  i used to play it way back in the day. my brother beat me to death. i was trying to find an xbox like he did. but it's all gone.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>NBA players are almost always
+Tuned model: tensor([[3.7517]], device='cuda:0'): “Yeah, pray  for rain.   every year it rains a lot here in montana, even in mid-summer.   even in mid-summer, when there is little snow in the distance.  even when there is snow and it's pretty mild in the air.  all that
+
+Base model: tensor([[2.3271]], device='cuda:0'): The soup was consumed cold  and dripping in hot sauce.  outside the restaurant, patrons couldn't wait to see who made it.  they crowded around the kitchen trying to guess the secret.  by the time janet won at guessing the soup recipe, the meal was over.  the restaurant's regulars refused to
+Tuned model: tensor([[1.6542]], device='cuda:0'): The soup was consumed cold .  the child protested, but his mother smiled.  she explained that it was made from dried bones.  the child pointed out a few cracks, then fell asleep.  when he woke he was covered in filth and covered in sweat.
+|<endoftext>|<|endoftext|><|endoftext|>
+
+Base model: tensor([[0.5441]], device='cuda:0'): “Oh look,  another cute guy!  he just graduated high school and lived off the grid. he hopped online to find some chicks to hook up with. he typed up some fanatic fianc���� and soon got a chick. he dropped her off a few days later and apparently had a great time.
+|<
+Tuned model: tensor([[3.1273]], device='cuda:0'): “Oh look,  another snow storm.  the weather stations all reported 29 inches of snow.  my wife and i came home from work, excited to see if it was true.  we all had to shovel the driveway before the storm ended.  our house was so cold, we all bundled up in the house
+
+Base model: tensor([[0.4689]], device='cuda:0'): He closed his eyes
+ . the lawyer said goodbye to the lawyer. he noticed when he opened them they were closed again. the lawyer was a ghost. he sat down crying in the chair.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON/NEWARK (Reuters) - Treasury stocks tumbled on hopes of
+Tuned model: tensor([[1.7552]], device='cuda:0'): He closed his eyes
+ . he couldn't calm down. his mom noticed. she walked in and sat down. he had to go to the emergency room.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- the weather was just under two degrees. that's why winter got to be called the cold
+
+Base model: tensor([[0.6673]], device='cuda:0'): Jane0 shakes her head . it's been 15 minutes. she needs to start her project.  she types away, trying to get started.  she thinks she put the wrong box together.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>© Provided by i had heard of games for adults only.
+
+
+Tuned model: tensor([[4.1195]], device='cuda:0'): Jane0 shakes her head  in disbelief at the weatherman's predictions.  for year's in a row, he said a big storm would hit manhattan.   but this winter, what he predicted came true.   a vicious, unending storm blanketed the city.   now, orange territory
+
+Base model: tensor([[2.6339]], device='cuda:0'): John0 shook his head . he said he didn't hear anything. he turned off the radio and looked out the window. a tornado had passed over. maybe it was a good thing not to have heard anything.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Easter toy sales are down across the board at
+Tuned model: tensor([[3.8835]], device='cuda:0'): John0 shook his head . there were still thousands of snowfall in the city. he lived in the north. winter was coming. winter hated the north.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON (Reuters) - maryland was one of six states that had made laws on marijuana in one year
+
+Base model: tensor([[0.4623]], device='cuda:0'): “I can� � guess all the answers to questions.  other people can not guess, or recall only part of the story.  they never seem to learn from their mistakes.  i can't help but bemoan the loss of free time, that should have been spent.  but everyone has a
+Tuned model: tensor([[2.1571]], device='cuda:0'): “I can� �t wait to have lunch with my husband of six years.  every time we go to wal-mart, we find the same thing.  a sandwich with top sirlies sandwiched between two greasy patties.  i told him the other day, when we went to mc
+
+Base model: tensor([[0.6972]], device='cuda:0'): I hope you're right !  i press the buzzer, beep!   i heard right, verily!   my dog licks my fingers, gurgling happily.   my dalmatian does a wonderful job of guarding the door, though. 
+|<endoftext>
+Tuned model: tensor([[3.0299]], device='cuda:0'): I hope you're right  in the water. i don't know how old this boat is. i looked at the tag and it showed it was built in 1960. a brochure for a 1969 model said it was a fuel-efficient recreation. so my guess is that this boat may have been built in 1974.
+
+
+Base model: tensor([[0.5019]], device='cuda:0'): “No crap,  brandon said.   this is going to be a hard one, he thought.  he had practiced this bull riding drill for weeks. he got up on the bull and took her around the paddock. at the end of the day he got top marks.
+|<endoftext
+Tuned model: tensor([[1.0787]], device='cuda:0'): “No crap,  say it with me again   the mailman handed me the paper and i began to open it.  i read the message in sententious spanish,    snoot,   said the mailman.   i told him to buy more toboggan or i would shut
+
+Base model: tensor([[1.5472]], device='cuda:0'): ‘That was the  last time i would see bo. it was forced to move in with his new girlfriend. all we had of him was his broken down car. that's when we found out he had alzheimer's.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Lady sasha your mother
+Tuned model: tensor([[0.9268]], device='cuda:0'): ‘That was the  day rob was going to be 8 years old. his family got him an electric snake. they put him in a bucket and made him walk around outside. rob did not like the experience. he yelled at his parents for a long time.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON
+

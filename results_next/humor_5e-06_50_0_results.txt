@@ -1,0 +1,46 @@
+Model Type: humor_5e-06_50_0
+Review: characters laughing or finding things funny
+Base model: tensor([[3.6352]], device='cuda:0'): “For Arl ert's birthday his dad gave him a pet fish. his dad worked hard to feed and care for the fish for years. arlert loved the fish. one day the fish passed away. arlert's dad was upset his spent so much time with the fish.
+|<
+Tuned model: tensor([[4.8681]], device='cuda:0'): “For Arl ose's birthday he wanted to go skiing.  his father took him to hotel ski, but there was no lift.   arlose bundled warmed up in his lay-up position, then started warming up.  he realized he 'd forgotten his pajamas! arlose
+
+Base model: tensor([[3.7622]], device='cuda:0'): “Of course my  cat is pregnant.  she couldn't have been pregnant for so long, she has had kittens before.  but a few days ago our cat gave birth to five kittens. it was the nicest kitty babies got in the world. my cat just had kittens to care for for forever.
+Tuned model: tensor([[0.7010]], device='cuda:0'): “Of course my  friend didn't ask me to hang out with her. but i felt obligated to hang out with her and my grades suffered as a result.  when school ended, i barely spoke to any of my friends.   but when winter break came, i ran into my friend at fenway
+
+Base model: tensor([[5.4042]], device='cuda:0'): I could believe it
+ 
+when i heard the chanting behind me. my teacher was reciting the sorority pledge in front of us. everyone listened intently. we all got topledge to the pledge. the chant was beautiful and powerful.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Federal funds were a
+Tuned model: tensor([[4.5657]], device='cuda:0'): I could believe it
+ 
+When her mom and dad left me in bed. the candy was all over the counters. the youngest boy found it all and started putting it in his pockets.  he thought he owed it to gina for taking care of me, but he lied.  she knew there was no way he
+
+Base model: tensor([[2.1678]], device='cuda:0'): Sam0 told me,  as she got up from the table.  she said today she was taking care of the baby and making her healthy. i followed her as she changed the baby's diaper.  she told me not to worry and love her just the way she is, i agreed.   i stayed with
+Tuned model: tensor([[2.3426]], device='cuda:0'): Sam0 told me,  she didn't want to go to school today.   she wanted to talk to me about something important, but i can't reach her  she eventually texted me half hour later.  i told her yesterday, but she didn't want to go today either.  i guess
+
+Base model: tensor([[1.0501]], device='cuda:0'): “What are we  supposed to have for dinner tonight?  i usually make a list, but today a friend gave me a list.  i checked it off almost immediately. we will probably have pizza. my husband and i will happily share the pizza for dinner.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[4.7299]], device='cuda:0'): “What are we  going to do this weekend?  last wednesday, my wife and i did crafts in our bedroom.   this evening, my wife went shopping and i hung out with friends.   on monday, we spent time going to church and shopping.   by sunday night, we
+
+Base model: tensor([[2.8685]], device='cuda:0'): “Help him up  off the bed.  he was in a lot of pain, but he was determined to get up.  he stumbled in and stared at his broken pane of glass.  he had turned his back on the bed, and seen the glass shatter.   he crept to the floor, and the
+Tuned model: tensor([[4.7381]], device='cuda:0'): “Help him up  off the bed.  after he got help up, he realized he was in the back of the truck.   he thought he was alone, but someone was in the passenger seat.   he jumped out, unbuckling his chest.   he yelled, hail to the drag racer
+
+Base model: tensor([[3.3366]], device='cuda:0'): “Royal Platoon  was the name of an Petersen grooming establishment.  one day, their owner was injured at work.  the owner did not make a call to Petersen grooming. her male dog ended up dying that day. their owner made a mistake.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Best to
+Tuned model: tensor([[4.9004]], device='cuda:0'): “Royal Platoon  was an especially brutal unit. they pounded enemy positions day and night.  when world war ii started, the PL couldn't keep up.   they lost men and equipment, but their fighting spirit prevailed.   they're remembered fondly, though few dare look back. 
+
+
+Base model: tensor([[5.6264]], device='cuda:0'): John0 lifted her head  upwards. water cascaded from her eyes. drops of water falling onto the floor. water extinguisher <UNK> her entire floor.  later that evening, everyone washed out in a plaste of water. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Looking to improve his typing
+Tuned model: tensor([[13.2435]], device='cuda:0'): John0 lifted her head  up to look at the fish in the pond. she saw movement in the pond in the shape of a flattened arrow. she held out the net and the fish slowly swam to shore. as she watched she realized it was a school of salmon. she laughed privately in satisfaction.
+|<end
+
+Base model: tensor([[4.0306]], device='cuda:0'): The first attempt failed miser ably. we had to climb all the way to the top. gloria tried to bail us out by saying that the rope was loose.  however, sharks began to feed on her rope.  i ended up by pulling her down since she's the only one who survived.
+|<
+Tuned model: tensor([[2.8235]], device='cuda:0'): The first attempt failed miser ably. chris had to give the dog a bottle to do.  he thought he had to wait until she was concentration, but he panicked.  he saw the dog approach with the bottle.  instead of going through with the first attempt, he just gave her the bottle. 
+|
+
+Base model: tensor([[0.4665]], device='cuda:0'): Sam0 and three more  friends met in a late night club. they were preparing to prank the most powerful person in their town.  sammy thought it was a good idea, and ordered his buddies to do it.  the man they were planning on doing it to was none other than the president. the three friends decided
+Tuned model: tensor([[2.2513]], device='cuda:0'): Sam0 and three more  friends got a ride to vegas at the buffet. there were plenty of people to play pranks on in vegas. the friends decided to head towards the pool. a friend slipped and fell into the pool. the friends laughed as he slowly came up and towelhed off.
+|<end
+

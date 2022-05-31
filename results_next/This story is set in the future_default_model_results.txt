@@ -1,0 +1,49 @@
+Model Type: This story is set in the future_default_model
+Review: This story is set in the future
+Base model: tensor([[1.9849]], device='cuda:0'): She squinted at  the recipe card. she could not read the text. she told the baker he had used the wrong ingredient. she demanded a refund. the baker had to start over from the beginning.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Well after the new year the quarterback was brought back from suspension
+Tuned model: tensor([[6.5673]], device='cuda:0'): She squinted at  the bottle. it had a lot of rubber. she sighed and drained the bottle. she took a big breath. she told herself to put the box away.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was all the rage this year with virtual reality on the rise. we could
+
+Base model: tensor([[0.9526]], device='cuda:0'): “Fair enough,  you're right brashets.  i guess you could say i'm a little biased.  to begin with, i thought ava was lovely.  then i fell head over heels for wordy. but i'm not sure i'm fan's of ava.
+Tuned model: tensor([[2.3017]], device='cuda:0'): “Fair enough,  he thought.  he pulled the yellow envelope out from under his desk. he opened it and read. to his surprise the man's estate was $ 100million. he suddenly wished he 'd gotten that money sooner.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality technology will
+
+Base model: tensor([[0.5444]], device='cuda:0'): “I had a  difficult time coming up with nicknames for people.  i called my closest friends for help, so they could name some songs.   i gave a few nicknames to people, but they didn't use them.  our pals liked one of my friends'endings to a song. we
+Tuned model: tensor([[7.1607]], device='cuda:0'): “I had a  job interview. i was dressed in my suit. the suit did not fit. i needed to go home and change. my friend said i looked great in that suit.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was here! it was the arrival of the era of the good
+
+Base model: tensor([[2.0436]], device='cuda:0'): “I can keep  straight a hair now.  when i had blonde hair, it fell over my ears.  i could not get back to normal. a friend suggested i shave my head. finally my hair is back to normal.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When fort legen first appeared
+Tuned model: tensor([[7.5252]], device='cuda:0'): “I can keep  temperatures hot. winter is when my furnace dies. the furnace is older. my landlords don't care. i'm not watching the furnace.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality technology was predicted to arrive in 2015 but nothing has been confirmed yet. in 2016 virtual
+
+Base model: tensor([[0.5050]], device='cuda:0'): No, he wasn� �t in jail.  there's another your age in his family.  he was put there because he was the wrong guy, though some would argue  he claims he was framed for a crime and that he is innocent. so far no one has questioned his skill as an archer.
+Tuned model: tensor([[3.9451]], device='cuda:0'): No, he wasn� �t crazy.  it was love at first site. he found her near the shore. he was going to marry her. but then he got mad because it was his wedding.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality was 100 years on from its original release and it
+
+Base model: tensor([[2.9066]], device='cuda:0'): “Medicine is  very slow.  in science class, they had no independent thinkers.  they decided to bring a script generator to class. students did not realize it would just teach the class what they wanted.  none of the students learned anything, though. 
+|<endoftext>|<|endoftext|><|endoftext|>
+Tuned model: tensor([[6.5948]], device='cuda:0'): “Medicine is  watching the news. she hears there will be a shortage of medevacs this week. she consults her doctor about what to do. they plan yesterday's thriller. she rushes to the doctors and waits for some good news.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality
+
+Base model: tensor([[1.3920]], device='cuda:0'): I did love her
+ in all the ways she loved me. i thought i could be married to her. i told her my heart was broken for she never seemed to care. she leaned in and grabbed me. we never talked about it again.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>WASHINGTON -- Office of
+Tuned model: tensor([[7.1746]], device='cuda:0'): I did love her
+ 
+|<endoftext>|<|endoftext|><|endoftext|>Virtual reality was getting better and better. virtual reality headsets were getting every box in the store covered in dust. switching to wireless charging was very cheap. then a smartphone came along that could wirelessly change right away.<|endoftext|>Virtual reality was no longer about
+
+Base model: tensor([[0.5193]], device='cuda:0'): Jane0 kept her smile  and her spirits high as the others dropped out.  she had asked to run the race, and this was it.   she trotted up the starting line, and held her breath as the gun went off.  she was off like a flash and headed towards the finish line.  everyone
+Tuned model: tensor([[1.2352]], device='cuda:0'): Jane0 kept her smile  tightly intact. she walked into the room and turned on the lights. she had to fight through the crowd of people to reach the conference room. she put her head on the door and waited for help to arrive. she closed her eyes and started talking to herself until help came.
+|<end
+
+Base model: tensor([[0.5807]], device='cuda:0'): “Shut up,  shut up put your hands in the air i love you so much i'm going to do anything to make you mine. give me power shut up shut up. i'm going to burn down the men's shelter and give you my gun. i'm going to rape the shelter that
+Tuned model: tensor([[5.9509]], device='cuda:0'): “Shut up,  shut up damon!  he likes playing monkey outside. he and his mom were building a sand box yesterday. he waited for her to say shut up. she never did.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality technology was just a few year's ago. it
+
+Base model: tensor([[1.3418]], device='cuda:0'): John0 stretched out his  arms and legs slowly. he exhaled slowly to calm his nerves. one of his classmates helped him into a sitting position. the classmate dialed a nearby phone number. the person on the other end of the line was a little girl.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Since
+Tuned model: tensor([[8.0465]], device='cuda:0'): John0 stretched out his  smartphone. he used it to check the weather. a bad storm had blown through. a strong tornado was heading his direction. he ran indoors quickly.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Virtual reality has come a long way since the early 90's. virtual reality technology has changed
+

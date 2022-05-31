@@ -1,0 +1,49 @@
+Model Type: This story is about music._default_model
+Review: This story is about music.
+Base model: tensor([[1.8590]], device='cuda:0'):  It was a quiet morning. The sun was just peeking out from behind the  clouds. i jumped out of bed ready for the day to begin. we got out the car and on the open road. the sun was starting to set.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Home to the future african land initiative ( HL ) makes cities like charlotte
+Tuned model: tensor([[8.7495]], device='cuda:0'):  It was a quiet morning. The sun was just peeking out from behind the  clouds. i listened to music as i listened to the waves hitting the shore.  i made music using only my fingers, using old things i had.   they were such boring songs, i wished i was nice and beautiful instead. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[1.6595]], device='cuda:0'):  I was on the phone with my friend when I heard a knock at the door . i sat on the couch and talked with my friend for a few minutes.  when i looked up, my friend was gone and my house was on fire.  i jumped out of the couch and grabbed my phone to call for help. we all sat and yelled at the firemen for saving
+Tuned model: tensor([[7.5202]], device='cuda:0'):  I was on the phone with my friend when I heard a knock at the door . my friend said my music was on shuffle. i argued i had turned the music on.  then, unannounced, a music producer came on the line.  we discussed creative ideas for songs to make.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>What are some of the best
+
+Base model: tensor([[1.2268]], device='cuda:0'):  It is not meant to be taken seriously. It was a rainy afternoon, and  maxine went for a walk. on her walk she saw two young kittens playing in the grass. she climbed closer and saw the kittens were teething. she took one for herself and kept one for litter duty.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>andrew's girlfriend
+Tuned model: tensor([[8.2479]], device='cuda:0'):  It is not meant to be taken seriously. It was a rainy afternoon, and  a song was playing.  my friends and i were inspired by it. after school we started writing music of our own. now we all would love to play rock band.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|> <:part-hand> <|endoftext|>If internet was filled with a lot of plot-throwing
+
+Base model: tensor([[2.3165]], device='cuda:0'):  The following is the author's preface to the story: This is a work  of fiction. not to be confused with the reality star franchise. that's where the two stories are supposed to end. they are told from the point of view of someone pretending to be a star. above that is a story about the author himself.
+|<endoftext>|<|endoftext|>
+Tuned model: tensor([[9.0958]], device='cuda:0'):  The following is the author's preface to the story: This is a work  of music. perhaps no author writes so well as this author does. this author writes about music. this author makes us all smile with his wonderful stories.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>my favorite band was playing tonight at the arena. we decided to go to the concert together
+
+Base model: tensor([[4.0407]], device='cuda:0'):  I'm looking for feedback on the style, grammar, and flow of this story .  thoughts on these topics would be greatly appreciated.  especially on the subject of grammar, as this is my native language.  i currently have no idea what i should change/add.  wanting feedback on this topic would be a great help, as this has been bugged for a long
+Tuned model: tensor([[7.9740]], device='cuda:0'):  I'm looking for feedback on the style, grammar, and flow of this story .  i listened to music to help concentrate. nothing i did improved the mood at all. at the end of the day music didn't help. at least music did help me concentrate so that i could finish the work.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to the
+
+Base model: tensor([[1.3507]], device='cuda:0'):  It was a hot summer's day, and the city was full of people.   jen felt like she needed to cool off as quickly as possible. jen ran through the streets of the city in a large hurry.  once she reached a store, she burst into the cold pool water.  jen found the refreshing drink refreshing and the summer trip was saved.
+
+Tuned model: tensor([[6.8903]], device='cuda:0'):  It was a hot summer's day, and the city was full of people.   there was music and joyous music coming out of every building. people gathered around all the restaurants and celebrate life. people gathered to listen to music and to dance on the streets. the joyous street musicians captured the hearts of all who wanted to live.
+|<endoftext>|
+
+Base model: tensor([[0.2380]], device='cuda:0'):  "I just don't want to go home anymore." "You have to." ""IMMEDIATH ran over a few people this morning. you have to close the doors and windows around the building   i just told him that if he doesn't leave, someone is going to die.    but i'm not talking about that person, i'm
+Tuned model: tensor([[6.7508]], device='cuda:0'):  "I just don't want to go home anymore." "You have to."  she laughed and called for music. we played hot cross buns over the radio. a song got stuck in my head and i hate myself.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>When it was announced that george took out his gun and shot himself in the knee, people got
+
+Base model: tensor([[3.8462]], device='cuda:0'):  The author would like to thank his wife for her help and support. A
+ |<endoftext>|<|endoftext|><|endoftext|>Milwaukee somehow managed to beat simmons on the rox when bob pulled out a homerun.  the of the game lingers, but for what it's worth, it was a great game.   the series ultimately ended in a
+Tuned model: tensor([[6.4315]], device='cuda:0'):  The author would like to thank his wife for her help and support. A
+ |<endoftext>|<|endoftext|><|endoftext|>daniel was a musician. he was a songwriter as well as a pianist. his music was very popular amongst the younger generation. daniel was recognized throughout the world for his talents.<|endoftext|>Welcome to the world of potatoes for school lunch authorities.
+
+Base model: tensor([[1.5542]], device='cuda:0'):  It was the night before Christmas. I don't know what I expected to
+ |<endoftext>|<|endoftext|><|endoftext|>Untitled mug1<|endoftext|>Investigators were still trying to determine the cause of a triple shooting outside a bar late night. it appeared to be an inexpensive high-end gun.  those close to it say it was a cheap sell-off, while the police point
+Tuned model: tensor([[8.4531]], device='cuda:0'):  It was the night before Christmas. I don't know what I expected to
+ |<endoftext>|<|endoftext|><|endoftext|>If you wanted to go to the movies it was a popular among your friends. but that doesn't mean you can play music without getting noticed.  just like at school, people listen to different things depending on genre. <|endoftext|>A man was brutally
+
+Base model: tensor([[5.8051]], device='cuda:0'):  I am trying to work on my creative writing. I can't seem to figure  out what to write about. all i can come up with is what my life truly is. but that just seems to reinforce the idea i'm useless and lazy. maybe i need to find something else entirely.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Video games are one of my
+Tuned model: tensor([[6.7222]], device='cuda:0'):  I am trying to work on my creative writing. I can't seem to figure  out what to write next. it seems like music to me. however i feel like music will never progress to writing. next day i went to music class and have nothing better to read.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Welcome to my little desktop doghouse. i have
+

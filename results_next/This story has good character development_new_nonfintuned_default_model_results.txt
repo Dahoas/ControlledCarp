@@ -1,0 +1,55 @@
+Model Type: This story has good character development_new_nonfintuned_default_model
+Review: This story has good character development
+Base model: tensor([[1.0572]], device='cuda:0'): Sam0's gone,  and he changed his address.  everyone who lives there now knows his secret. everyone else is checking to see if he checked their address. nobody can figure out who sam is. until one day sam announces that he moved to this one street.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+Tuned model: tensor([[3.8265]], device='cuda:0'): Sam0's gone,  and she left her stuff behind in her room.  her mother was annoyed that she had nothing to show for it. she went through her things and donated anything that wasn't of value. sam found it then that her donation had made her very happy. she felt like a big kid again for
+
+Base model: tensor([[0.8375]], device='cuda:0'): ‘Were the Cah ill family enjoying the great outdoors. they were visiting berry bushes near their house. a werewolf came around at night and chased them away. the family hid for hours in the closet before attacking the werewolf. no one was hurt but their crops were destroyed.
+|<endoftext>
+Tuned model: tensor([[0.6168]], device='cuda:0'): ‘Were the Cah ill family looking for a new place to live?  being used to tornados, they didn't think the tornado might hit.  the weather had been especially bad in the town. the couple was so nervous they started to pack up.  the next morning, they boarded up the windows and
+
+Base model: tensor([[1.2888]], device='cuda:0'): Eye can see clearly now .  we used to be a young, vibrant world.  women still dominated. now it's an old man dominating the looks. eye feels more mature than ever.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Trail lover assistant caught on camera daring dared others to cross
+
+
+Tuned model: tensor([[3.2375]], device='cuda:0'): Eye can see clearly now . her friends told her she was very pretty. she told them she thought about following their advice.  but at evening, she realized she was a loser.   and talking to an attractive guy, she got a much better deal. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.4147]], device='cuda:0'): There was no ‘  clear way to go. the sky was dark and the clouds were high. the cars ahead of terry started to whiz by.  on the side of the highway, an old wooded area lay in the shadows.  terry slowly began to navigate the area and was not in trouble.
+Tuned model: tensor([[2.6917]], device='cuda:0'): There was no ‘ you can do app for my dog. next time i bought him a walker. he did well with the walker. so i bought a gps collar. now i know he doesn't want to run away anymore.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Title: be
+
+Base model: tensor([[2.3780]], device='cuda:0'): John0 shook his head  impatiently. he 'd spent all day writing that page. he was sure he should be allowed more time.  as it was, he sat with a heavy head and waited.  he was sure he 'd be given more time at school after this.
+|<endoftext>
+Tuned model: tensor([[2.9163]], device='cuda:0'): John0 shook his head . his first grade class had just finished. his teacher asked him if he had any questions.  with a shyness, he asked about politics.  the teacher guided him to his right and left.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+Community Rating:
+
+Base model: tensor([[1.9815]], device='cuda:0'): Sam0 I can only  put two fingers down the cereal box at a time. that's why he needs help to open it. he calls his dad to come help him. his dad opens the cereal box and puts two fingers in samuels. samuels chaos ends.
+|<endoftext>|
+Tuned model: tensor([[2.8165]], device='cuda:0'): Sam0 I can only  eat one thing at a time. he tried to eat his soup.  at first, his food was cold.   then, he grabbed the second food.   finally, his last food was hot. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Community Rating:
+
+
+
+Base model: tensor([[0.8657]], device='cuda:0'): “I can� �t drive anyone ernesto a day without assistance.  today, however, i was unable to drive on the freeway.   the nearest exit was about 30 miles away, however.   when i got to the exit, i became confused.  the road was closed when i
+Tuned model: tensor([[2.0732]], device='cuda:0'): “I can� �t drive with one hand behind the wheel.  thus, i often look for a belt to fail-proof on my car.   i find some metal, plastic, or foam that will protect my chest.   good luck ; one fits on easily and stays on well.  i
+
+Base model: tensor([[0.3806]], device='cuda:0'): “You’  must have been tired of all the changes in your relationship.  after months of fighting, you signed an agreement to divorce.  everyone in the office teared up. they all thought you had finally lost your mind.  in reality, you had been angry for months and had the bruised psyche.
+Tuned model: tensor([[0.5360]], device='cuda:0'): “You’  are sitting there.  straight against you, your friend is staring at me.  i'm not sure why he stares at me.  before i can ask, he tells me he thinks i'm an ugly girl.   i nightmarish, i realized he was right. 
+
+Base model: tensor([[1.9182]], device='cuda:0'): “I don� � at the bulletproof vest class again.  but this time, my instructor is different.  he teaches us how to stop a bullet with our bare hands. it feels weird but i pay attention.  in real life, i don't want to use a gun! 
+|<
+Tuned model: tensor([[1.9922]], device='cuda:0'): “I don� �t know what to do with myself when my cat dies. i don't want to give up on finding a new cat.  when he went away, i needed to learn to live with other cats.   but as there aren't really any new cats, that didn't
+
+Base model: tensor([[2.2482]], device='cuda:0'): Her smile was infectious
+ she was soothing and carefree
+she decided to be her very best self
+she enjoyed her company more than anyone else i knew
+we stayed up talking all night long. it was a special time we 'd made.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>shane bragged
+Tuned model: tensor([[3.2046]], device='cuda:0'): Her smile was infectious
+ she made me feel like a kid again. i revisited everything i 'd done to her and smiled.  i told her how amazing she was, how lucky i was.   i told her to stop smiling, and stay away from me. 
+|<endoftext>|
+

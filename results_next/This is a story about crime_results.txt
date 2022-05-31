@@ -1,0 +1,65 @@
+Model Type: This is a story about crime
+Review: This is a story about crime.
+Base model: tensor([[2.3880]], device='cuda:0'): Sam0 raised her brow s at the girl who sat by her. the girl was clearly showing a hurt customer's ego.  sam thought to herself, she's not really the kind of girl.  she returned the looked and walked away. she tempted herself to go back and apologize for being so rude.
+
+Tuned model: tensor([[5.7506]], device='cuda:0'): Sam0 raised her brow s as the police showed up around the corner.  they said he had stolen from his teammate, who they accused of beating them.   sam nodded to the officer, and began telling the story in shocked voice.   during the physical questioning, the officer asked sam if everyone lied? 
+
+Base model: tensor([[0.9236]], device='cuda:0'): “I can watch  a lot of tv and movies now. i recently acquired a barstool pc from ebay. it is set to arrive in 3 days.  i am very excited, as this is the first tv i can watch.  i can't wait until it arrives.
+|<endof
+Tuned model: tensor([[7.7337]], device='cuda:0'): “I can watch  crime shows from the comfort of my own home.  one day, detective brock is called for a murder in brockton.   later, detective brock is on the news for committing crime.  crime shows remind me of nothing else but missing kids. perhaps the show only pays attention
+
+Base model: tensor([[0.6000]], device='cuda:0'): Na," Sam0 shook  his head. he looked at her strangely. she asked why he was acting so weird. he said it was just a bad dream. she knew he was lying and threw him some wipes.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>DAYTONa has some seriously lost hair. mine were
+Tuned model: tensor([[5.4162]], device='cuda:0'): Na," Sam0 shook  her head in disbelief. the crime scene tape was all over the crime scene. police officials said that it was useless to investigate at this time.  nyah shouted, they can do it now.  the detectives gathered around to work on closing the case.
+|<endoftext>|
+
+Base model: tensor([[3.8301]], device='cuda:0'): She shook her head
+ 
+she said she didn't think she did anything wrong. business had been slow for a month due to the holiday season.  she didn't want to be rude, but she couldn't seem to keep up.  she hoped it would pick up soon.
+|<endof
+Tuned model: tensor([[6.9354]], device='cuda:0'): She shook her head
+      the police continued to press onwards.  the woman sat on the curb, crying her eyes out.  a bleak look settled on her face. putting her hands over her eyes she took it all in. she was a criminal after all.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>
+
+Base model: tensor([[0.4064]], device='cuda:0'): She was almost disappointed
+ she had been given the leads in two of the four movies. she was in the middle of having her first child. she would have to give it up to her hubby. she took so many photos of the real thing shortly after the babies were born.
+|<endoftext>|
+Tuned model: tensor([[5.2766]], device='cuda:0'): She was almost disappointed
+ Said the crime hadn't been discovered yet.  he told her to stop paranoia, and let the <UNK> concentrate.   she thought about doing goes, but decided it was dangerous.   instead, she called the cops and made an arrest.   afterward, she thanked
+
+Base model: tensor([[1.7442]], device='cuda:0'): She shook my head
+ 
+she asked what i was going to do with her. i told her i was going to make her love me back. i gave her a look that said i knew she would. i walked to my car.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>As a 16 year old i
+Tuned model: tensor([[5.1407]], device='cuda:0'): She shook my head
+ 
+'Cause i knew she didn't mean it
+
+'Cause he wouldn't listen
+
+You don't have to listen
+
+She accused me of terrorism
+
+Because it's what he said
+
+<|endoftext|>Crime is up and coming at the renaissance center. a man
+
+Base model: tensor([[1.0241]], device='cuda:0'): Buggles shook both  of her arms tumbling to the ground. she cried out in pain from being bumped and kicked. her mother searched the house for her missing child.  when she had finished searching, she placed beggles into the car.   when beggles drove off the lot, her mother hugged
+Tuned model: tensor([[5.2276]], device='cuda:0'): Buggles shook both  of his fists at the police officer.  although it was only a traffic stop, he received a ticket.  he was issued a one month speeding ticket. the police officer told him that if he continues to speed he will get a ticket again.  the next day, he went to court to
+
+Base model: tensor([[2.3024]], device='cuda:0'): ‘I don� �t know how we got to here. a few hours ago a thunderstorm rolled through. we were in contact with friends in another state. my car got stuck on a highway and i was stuck there for hours. luckily my friends came to help me out.
+|<endoftext>
+Tuned model: tensor([[2.2354]], device='cuda:0'): ‘I don� �t know why i live here.  i moved here in 1999 as a freshman, just out of school.  i moved into my first apartment in a library. i met a friend who became my husband.  i am retired, living on disability. 
+|<endoftext>
+
+Base model: tensor([[1.5809]], device='cuda:0'): Anvu looked down at  her feet while george watched her. her ankles were shaking. she rubbed her shins to try to calm herself. anvu looked up at george with tears in her eyes. she wanted to tell him that she loved him.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>nina
+Tuned model: tensor([[4.9444]], device='cuda:0'): Anvu looked down at  the criminal sitting at her desk. she took out a gun. the criminal begged me not to kill him. anvu told him he had to choose between good and evil.  the criminal begged again, wanting both life and death. 
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>Crime
+
+Base model: tensor([[1.8671]], device='cuda:0'): “You are perfect  <UNK>.  thank you for choosing me, my friend.  i realize i may be single for a while. i am trying to figure out what i do have left of my life. i will miss you forever.
+|<endoftext>|<|endoftext|><|endoftext|><|endoftext|>PROVID
+Tuned model: tensor([[3.7597]], device='cuda:0'): “You are perfect ing your crime novel.  one day, someone stole your book.  that person was determined to destroy it.  luckily, you discovered it and it was in the a library.   they took the book but, it was given back to you free of charge. 
+|<end
+

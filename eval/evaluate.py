@@ -29,9 +29,9 @@ from util.utils import load_run_config
 
 #Currently only supporting one critique, gpt2-large base model
 def evaluate_model(save_folder, lm_name, carp_version, carp_config_path, carp_ckpt_path, review, data_path, num_eval_examples, txt_out_len, *args, passage="", save_name="", **kwargs):
-	model_name = os.path.basename(save_folder).split('.')[0]
-	if model_name == "":
-		model_name = save_folder.split('/')[-2]
+	model_name = os.path.basename(save_folder)
+	#if model_name == "":
+	#	model_name = save_folder.split('/')[-2]
 	if save_name != "":
 		model_name = save_name
 	print(f"Evaluating {model_name}")
