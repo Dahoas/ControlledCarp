@@ -13,8 +13,3 @@
 1. Put CARP model in magiCARP ckpts folder
 2. Set config in ControlledCarp
 3. Run python run.py --config PATH_TO_CONFIG
-
-## Systemic Error Concerns
-
-- GPTNeoHeadWithValueModel not properly loading all pretrianed weights
-- - Same warning arises for GPT2
